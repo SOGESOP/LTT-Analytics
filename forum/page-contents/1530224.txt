@@ -1,0 +1,123 @@
+
+ Toyota's production in some of their plants in Japan came to a hault because of a lack of disk space...
+  Quotes
+  Quote
+Toyota's 14 Japanese factories all shut down for about two days last week due to a production order system malfunction caused by a lack of disk space, the company announced today.
+According to Toyota, its Japanese factories and their 28 assembly lines were halted due to "some multiple servers that process part orders" becoming unavailable and causing Toyota's production order system to malfunction on August 28.
+
+"
+Expand  
+  For a large company one would think this would be handled yet it took them 2 days to figure it out. No reporting? Or are these systems very old and require manual maintenance? 
+  https://arstechnica.com/information-technology/2023/09/insufficient-disk-space-caused-2-day-shutdown-of-toyotas-japanese-factories/
+ People really overestimate large companies. Remember sony storing credentials, credit-card info and more in plaintext files? Or how Lockheed martin got invaded and their blueprints stolen due to RSA being compromised by an adobe flash bug? A bug explored by an excel script that got opened by the HR personel?
+ I don’t have insight into their system. But I do have insight into a system that is probably similar complexity, age, and annoying-ness.
+  $dayjob has a custom-built application that was originally developed in the early 1980’s. It exclusively runs on Unix mainframes, currently HP-UX mainframes with Intel Itanium processors since the early 2000’s. We were one of the companies that bought into the hype of Itanium, but it was already a Unix Mainframe application so the porting from whatever it ran before to Itanium wasn’t hard, and HP themselves helped with the porting because we were an early customer. Two decades later and we are trying to port it to Linux/x64 but day to day production still relies on 8 HP-UX systems that take up 1/2 of a rack each. An entire datacenter is built around supporting them.
+  Anyway, relevant to this story, for us the issue isn’t “disk space”. The HP-UX OS is capable of mounting iSCSI shares of any arbitrary size (I believe its been patched with ext4 support). The issue is that the system uses files with specially laid out metadata structures as databases. Technically all databases are files at the end of the day - have to structure the data on disk somehow. The difference is that this is some special type of database written in the early 2000’s that is tuned for fast processing by the Itanium CPUs and to be read directly between disk and RAM, and the data structure has to be written out in advance. Its like formatting a drive before you can use it, or if you’re old enough to know these things its like writing the sectors onto a HDD or FDD directly. Every time the system is down for maintenance, in addition to their other tasks, the Unix Admins run scripts to expand the database files as fast as the system can handle it - literally just writing out empty areas at the end of the existing database files for it to fill in with data later. If the system ever caught up with the prepared database area, it would crash and require emergency expansion. I suspect it is something like this when they say they ran out of disk space - and it sounds like their application didn’t just halt immediately but instead tried to keep running and they lost a bunch of data either that was trying to be added, or already stored on disk. The two days was probably the time it took to restore the most recent backup, and replay/rebuild as much data as they could.
+  The decisions around making the system this way made sense at the time - there’s no use in complaining about decisions made two decades ago. But its hard to swap a diesel engine for the steam locomotive while the train is in motion.
+  Edit: Went and read the actual article. This sounds like a more mundane issue than I thought - it literally ran out of disk space when they tried to update it, but when it did so it deleted some data. And they resolved it by recovering to a new server with more space. That’s just bad administration.
+ When you delete data from a database it is written in to a transaction log which consumes disk space, you then usually clear the space out by running a database backup with truncate transaction log flag set. If you run out of disk space while deleting data and an open transaction is running bad things happen, really bad sometimes.
+  Data loss for Toyota might be unacceptable due to the ongoing problems that would cause so they likely waited for extra capacity to be added to the storage array, something that took 2 days is entirely reasonable time frame. After that you can expand the storage space and attempt to recover the database and all it's transactions that wouldn't be present in the latest backup.
+  Not an uncommon situation, I am however surprise the database didn't have an synchronous DR copy they could failover to that had up to the last successful transaction.
+  There are other scenarios and database server architectures they could be using which changes how the failure could have happened but either way not an uncommon issue to happen and easy to get in to if not careful. Fundamentally the same just minor detail differences.
+  Sounds like either inadequate storage utilization reporting and alerts or something made a large mistake and deleted or modified far too much data resulting in an extremely large transaction log.
+   On 9/7/2023 at 5:12 AM, leadeater said:
+Data loss for Toyota might be unacceptable due to the ongoing problems that would cause so they likely waited for extra capacity to be added to the storage array, something that took 2 days is entirely reasonable time frame. After that you can expand the storage space and attempt to recover the database and all it's transactions that wouldn't be present in the latest backup.
+Reasonable for anyone that works in IT. Unreasonable for the bean counters that are forced to adhere to the just in time manufacturing process.
+   On 9/7/2023 at 5:24 AM, vetali said:
+adhere to the just in time manufacturing process.
+That's actually what makes it so crucial not to lose any of the transactions. Even if only a few hours that could be a hell of a lot of parts Toyota would no longer know where they are and all the information is now inaccurate to reality. Super bad news.
+  Of course I could say should be easily mitigated by having a synchronous database copy as well as a asynchronous DR copy but that depends if it was just the database volume only that ran out of space or the entire underlying storage aggregate/array, and also what else that may have been sharing that. We don't share our SSD trays and aggregates with workload types so our VMs run on dedicated SSDs and  SQL/DBs run on their own, no everyone does then. While we have A LOT of SSDs and there is no performance concerns sharing and spreading the workloads across them all we choose not to to limit failure domains and outage impacts. This isn't a cost factor either since it wouldn't really change it much or at all, just design architecture decisions.
+ Thank goodness I bought mine back in 2005.
+   On 9/7/2023 at 6:49 AM, atxcyclist said:
+Thank goodness I bought mine back in 2005.
+Just be careful, in 50 years you might need to replace it, it is a Toyota after all. Luckily also being a Toyota 90% of the parts will still be exactly the same 
+   On 9/7/2023 at 3:26 AM, Forbidden Wafer said:
+People really overestimate large companies. Remember sony storing credentials, credit-card info and more in plaintext files? Or how Lockheed martin got invaded and their blueprints stolen due to RSA being compromised by an adobe flash bug? A bug explored by an excel script that got opened by the HR personel?
+Large company = more things that can go wrong
+
+Also it's not like Toyota is the quintessential tech company. They're likely getting second pick on employees. 
+
+Also a lot of their systems were likely put together 5-20 years ago. Employee turnover happens. 
+   On 9/7/2023 at 5:34 AM, leadeater said:
+That's actually what makes it so crucial not to lose any of the transactions. Even if only a few hours that could be a hell of a lot of parts Toyota would no longer know where they are and all the information is now inaccurate to reality. Super bad news.
+  Of course I could say should be easily mitigated by having a synchronous database copy as well as a asynchronous DR copy but that depends if it was just the database volume only that ran out of space or the entire underlying storage aggregate/array, and also what else that may have been sharing that. We don't share our SSD trays and aggregates with workload types so our VMs run on dedicated SSDs and  SQL/DBs run on their own, no everyone does then. While we have A LOT of SSDs and there is no performance concerns sharing and spreading the workloads across them all we choose not to to limit failure domains and outage impacts. This isn't a cost factor either since it wouldn't really change it much or at all, just design architecture decisions.
+Expand  
+In the press release they say that the backup system was also affected at the same time, so I think they ran out of space on the underlying array and both VMs used the same storage. Which is obviously a single point of failure for their live DR, but we don’t know why their decisions were made.
+   23 hours ago, brwainer said:
+In the press release they say that the backup system was also affected at the same time, so I think they ran out of space on the underlying array and both VMs used the same storage. Which is obviously a single point of failure for their live DR, but we don’t know why their decisions were made.
+Well could be physical database servers using FC or iSCSI to the same storage array and failover cluster with shared disks. That is very common for much larger database clusters with huge amount of data and/or performance requirement. Hence unable to failover to other servers in cluster, all share the same device vols so...
+  I doubt they share the VM and database storage, who knows. Many ways to get in to this type of mess, fewer to get back out haha.
+ I work in a car factory and I can name multiple more stupid reasons we had to halt production. 
+Company just does not give a shit about anything until the production stops then the panic begins. 
+   23 hours ago, WereCat said:
+I work in a car factory and I can name multiple more stupid reasons we had to halt production. 
+Company just does not give a shit about anything until the production stops then the panic begins. 
+Worker: "It's only got 3 wheels"
+Company: "Go, go, go! Good enough, get it out the door"
+News Article: "Wheel comes of car, causes huge accident"
+Company: "We are not to blame, we have investigated and found human quality control issues within the assembly factory"
+Company Secretly: "Burn the evidence, burn it all!!!"
+  Also what annoys me most is how many vehicles are assembled and never sold, intentionally and by design. That seriously should be classified as industrial waste and illegal.
+   On 9/7/2023 at 8:13 AM, cmndr said:
+Large company = more things that can go wrong
+
+Also it's not like Toyota is the quintessential tech company. They're likely getting second pick on employees. 
+
+Also a lot of their systems were likely put together 5-20 years ago. Employee turnover happens. 
+Nah, Japanese company culture. If you think Western companies are bad about keeping 20-40 year old dumb terminals around to communicate with some mainframe installed from the 70's, Japanese companies often do things by hand that has long since been automated in Western companies.
+  If I were to hazard a guess, it's likely that whoever was responsible for maintaining the server was either on vacation or left the company years ago and things just worked business-as-usual until this happened.
+  Running the drive out of space, especially on Linux machines, usually results in the system halting because it starts eating the page file with queued writes, and if you reboot the system, you lose those transactions. You literately need to do something to free up the space so you can safely shut it down and then add more drives (or hotswap drives if that's an option.)
+   22 hours ago, leadeater said:
+Worker: "It's only got 3 wheels"
+Company: "Go, go, go! Good enough, get it out the door"
+News Article: "Wheel comes of car, causes huge accident"
+Company: "We are not to blame, we have investigated and found human quality control issues within the assembly factory"
+Company Secretly: "Burn the evidence, burn it all!!!"
+  For anyone thinking this was a joke... No. This is reality... Unfortunately. 
+  It does not matter if you make a broken car, only thing that matters is that the manufacturing line does not stop. 
+  Oh there is something scratching every door that could be easily fixed if you stop the line for 10-15min?
+Nope, we will have someone repair each door instead (500 cars per shift / 1500 cars per dat btw). 
+   22 hours ago, leadeater said:
+Also what annoys me most is how many vehicles are assembled and never sold, intentionally and by design. That seriously should be classified as industrial waste and illegal.
+I take it you saw one of these videos?
+  There's a few more like this, basically either:
+- X country is producing Y cars, and most of them are just rotting in a field somewhere
+- X company is producing cars that are registered and insured, but have never been driven
+ 
+   22 hours ago, Kisai said:
+I take it you saw one of these videos?
+No. It's been a things for decades and quite well known. Vehicle stocks are used for market price control and also to store spare parts. For some reason some brands think it is better and easier to manage spare parts by assembling vehicles and parking them in enormous parking lots and then later tearing parts off. Like I get it things actually change over time and tracking that, keeping inventory etc is actually really difficult but there is a better way and this practice shouldn't be an allowed option.
+   22 hours ago, WereCat said:
+Oh there is something scratching every door that could be easily fixed if you stop the line for 10-15min?
+Nope, we will have someone repair each door instead (500 cars per shift / 1500 cars per dat btw). 
+It's painful to know this is a thing, also that it can go so far as to get delivered to the sales yard then immediately get processed for recall defect and repaired. I guess it creates jobs 
+   22 hours ago, Kisai said:
+Nah, Japanese company culture. If you think Western companies are bad about keeping 20-40 year old dumb terminals around to communicate with some mainframe installed from the 70's, Japanese companies often do things by hand that has long since been automated in Western companies.
+  If I were to hazard a guess, it's likely that whoever was responsible for maintaining the server was either on vacation or left the company years ago and things just worked business-as-usual until this happened.
+Expand  
+Well aware. 
+I have a family member that works at a Japanese company. 
+
+There's a lot of fax machines. 
+
+It wasn't until COVID that A LOT of processes got moved over to digital instead of pen+paper forms. 
+   On 9/7/2023 at 5:12 AM, leadeater said:
+There are other scenarios and database server architectures they could be using which changes how the failure could have happened but either way not an uncommon issue to happen and easy to get in to if not careful. Fundamentally the same just minor detail differences.
+  Sounds like either inadequate storage utilization reporting and alerts or something made a large mistake and deleted or modified far too much data resulting in an extremely large transaction log.
+Expand  
+Not that it's too related, but I've actually run into situations of running out of space twice;
+  Once, a report server's software glitched (someone ran a report with a wrong value...apparently no one had ever made that mistake in the 10+ years of running that particular report).  It stopped clearing the logs, and created about half a million files in one folder; and created about ~100 GB of data in the span of about an hour, and about 200 GB before running out of space.  The entire VM itself was initially only about 10 GB, with a delta of about 1 GB/day.  When Veeam went to back it up, but given the size it nearly filled up my backup drive for that server...then came the off-site backup.  I woke up the next morning to my phone buzzing with notifications; but the key was I couldn't just clear the data; I had to also keep it to see what went wrong.  Luckily it wasn't anything too important, so I just shut it down and spun up a backup (while keeping the other so I could bring it back to the office for the DB admin to figure out what went wrong).
+  The other time, the DB admin had played around with my backup and server settings; since he wanted the DB itself to do the truncation (instead of just the option in Veeam to do it, can't remember why he had some reasoning).  He messed up and it stopped truncating and sending warnings; but luckily I still had a PS that was running weekly just to give me stats on all the servers when I noticed it was nearly full.
+  Sometimes all it takes is one person who has authority to really mess up an entire system.
+   On 9/7/2023 at 3:26 AM, Forbidden Wafer said:
+People really overestimate large companies. Remember sony storing credentials, credit-card info and more in plaintext files? Or how Lockheed martin got invaded and their blueprints stolen due to RSA being compromised by an adobe flash bug? A bug explored by an excel script that got opened by the HR personel?
+The only thing that amazes me is that there aren't MORE problems with technology. We all live in a fool's paradise.
+  The early internet pioneers warned that it would all collapse back in the 90s. That ended up not happening but they were absolutely correct that the whole thing is just put together with chewing gum and shoestrings.
+   On 9/7/2023 at 3:26 AM, Forbidden Wafer said:
+People really overestimate large companies. Remember sony storing credentials, credit-card info and more in plaintext files? Or how Lockheed martin got invaded and their blueprints stolen due to RSA being compromised by an adobe flash bug? A bug explored by an excel script that got opened by the HR personel?
+TBF Sony was completely oblivious to any kind of security back then
+  - when PSN launched their password for their main north american server was "playstation123"*
+  - there was almost a year where literally everyone with a hacked ps3 could "buy" any game on the playstation store for *free*  (this was *after* the infamous "hack" btw)
+  So yeah,  i guess they learned their lessons and are now just a terrible as everyone else,  yay? 
+      Reveal hidden contents
+ 

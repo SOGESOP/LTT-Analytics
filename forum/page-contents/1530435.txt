@@ -1,0 +1,12 @@
+
+ I got a SSD and everything is well oiled up. I was wondering if these are good numbers since to me it feels like my restarts and boots are kind of slower than I expected based on my hardware.
+ If you have 32gb of ram (or more)... its' fine.
+I mean.. 11 seconds. You're trying to win a "boot race"?
+ Mine is 15 seconds.
+ Fast boot nowadays are in the 12-15sec range, with a M2 NVMe and a recent CPU
+Most variance seems on BIOS post time with things like RAM training
+   1 hour ago, Victor Jones said:
+I got a SSD and everything is well oiled up. I was wondering if these are good numbers since to me it feels like my restarts and boots are kind of slower than I expected based on my hardware.
+As you install items that reside in the background or are in the boot cycle, this can be affected.
+  A fresh Windows install is 10-12 seconds, and a fully set up machine is 15-30 or so in my experience.
+  Don't forget that Windows will load apps even before you log into it.

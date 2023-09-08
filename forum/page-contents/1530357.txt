@@ -1,0 +1,10 @@
+
+ Hi, I have recently built a new PC, these are the specs: asrock B650M pro rs, amd ryzen 5 7600x, geforce rtx 4070, teamgroup 2x16gb ddr5, psu gamdias kratos P1A-750G 750W, m.2 ssd, thermalright frozen notte 240 AIO, gamdias talos e3 case(, windows 11).
+  As per title - after one week of gaming just fine - tonight I was going to turn on the PC. I have gamed today for more than a couple of hours already. I press the power button and the motherboard RGB light turns on for a split second, then turns off. Dead... Won't power on again, tried re-plugging power cord, manually start the mobo by shortcircuit with screwdriver, nothing works.
+  Here's a photo of part of the PC, which might help spotting the problem? Don't know what to do next...
+   1 hour ago, calcolatore said:
+Hi, I have recently built a new PC, these are the specs: asrock B650M pro rs, amd ryzen 5 7600x, geforce rtx 4070, teamgroup 2x16gb ddr5, psu gamdias kratos P1A-750G 750W, m.2 ssd, thermalright frozen notte 240 AIO, gamdias talos e3 case(, windows 11).
+  As per title - after one week of gaming just fine - tonight I was going to turn on the PC. I have gamed today for more than a couple of hours already. I press the power button and the motherboard RGB light turns on for a split second, then turns off. Dead... Won't power on again, tried re-plugging power cord, manually start the mobo by shortcircuit with screwdriver, nothing works.
+
+Expand  
+Make sure the 24 pin cable and all other cables are plugged in properly. Also flip your AIO around, the tubes should always be pointing downwards towards the cpu block. Make sure the tubes of your AIO are above the block where it goes into.

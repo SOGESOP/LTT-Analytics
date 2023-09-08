@@ -1,0 +1,108 @@
+
+ 7900xt
+7900xtx 
+rtx 4080
+  Basicaly I want a card to last 4 years 1440p 90fps 
+At the end of the 4 years I’m ok with droping settings to high and dlss quality (fsr I’m not to keen on but I guess if needed)  
+  then there’s the vram to consider aswell, is it Lickly to need more than 16gb by then ? 
+  the the 4080 with the extra money ? 
+   On 9/7/2023 at 12:19 PM, Ebony Falcon said:
+7900xt
+7900xtx 
+rtx 4080
+  Basicaly I want a card to last 4 years 1440p 90fps 
+If all games within next 4y will run like Starfield those cards are already obsolete. 
+  So having a requirements like that is kinda pointless imo because we dont have a working crystal ball. 
+  But for real now... 
+Yes, these cards are nice and should be fine for 1440p for foreseeable future. 
+ Cheapest way would be a used 3090 for 700$ ish on ebay or 500-600$ ish on fb marketplace
+  Out of these 3 id go 7900xtx cause vram and should be cheaper than a 4080 while performing similarly
+   On 9/7/2023 at 12:19 PM, Ebony Falcon said:
+Basicaly I want a card to last 4 years 1440p 90fps
+No one can predict the future and the cards are one year old already. So no way to tell how long you can get away with high settings (and what types of games)
+  Just look at Starfield, how many frames do high end cards get there.
+  The choice is basically down to: Do you want ray tracing or not. If RTX/DLSS is not a priority, go with AMD, otherwise you're pretty much set on Nvidia.
+  For VRAM, I'd speculate it'll be a while before 16 GB becomes the norm and then becomes the limiting factor. Consoles are generally a good indicator for this. We moved from 8 to 16 when consoles did.
+ As @WereCat stated, at this rate everything ages too quickly. 4090 is the only "safe" choice, and it'll struggle soon.
+  In theory you could save a bit of money now and buy a 4070/7800XT cause in 3-4 years time the RTX7070 and RX10800 of that generation will beat your 4090's, having spent the same total amount of money in those 4 years. Buy now for $600, then again for $600 or now for $1600...
+  In that perspective 4090 is actually a worse deal...
+   On 9/7/2023 at 12:33 PM, venomtail said:
+As @WereCat stated, at this rate everything ages too quickly. 4090 is the only "safe" choice, and it'll struggle soon.
+  In theory you could save a bit of money now and buy a 4070/7800XT cause in 3-4 years time the RTX7070 and RX10800 of that generation will beat your 4090's, having spent the same total amount of money in those 4 years. Buy now for $600, then again for $600 or now for $1600...
+Expand  
+2080i has been so good to me, it was great at launch, dlss made it even better and there was the dx12 driver a year or so ago that added 20 percent performance. So Maby that’s why it lasted me so long and that’s just not feasible to expect the same out of something else 
+  star field aside as that game not only runs like shit the graphics are also shit so that will remain a outlier for me 
+  games like hogwarts, ratchet and clank last of us ect have been examples of my card starting to struggle, ei 80 fps high settings and dlss 
+   On 9/7/2023 at 12:19 PM, Ebony Falcon said:
+7900xt
+7900xtx 
+rtx 4080
+  Basicaly I want a card to last 4 years 1440p 90fps 
+At the end of the 4 years I’m ok with droping settings to high and dlss quality (fsr I’m not to keen on but I guess if needed)  
+ 
+Expand  
+My experience with a 7900XTX is that it's super good at 1400p (even ultrawide) and will stay like this for at least 2 years
+I got it 6 months ago and at that time the 7900XT was very badly priced and not good value, it may be more so now
+Didn't want to spend another 200EUR more on a 4080 for better RT (only game I play where it makes any real difference is CP2077...), if I were to spend more I would have gotten a 4090...
+   
+   On 9/7/2023 at 12:30 PM, WereCat said:
+If all games within next 4y will run like Starfield those cards are already obsolete. 
+  So having a requirements like that is kinda pointless imo because we dont have a working crystal ball. 
+  But for real now... 
+Yes, these cards are nice and should be fine for 1440p for foreseeable future. 
+Expand  
+Startfield is a outlier, unoptimised pule of hot trash tho, runs like crap and looks like crap at the same time 
+if that’s the future of gaming il take up out door activities 
+  iv kinda swayed my self to the 4080
+dlss quality is indistinguishable to me where as I actively avoid fsr and wouldn’t use is at all
+  i wanna mess with raytracing, I like dlaa and dlsr, it’s hard to swap to a card not doing those things for the sake of £100.
+  hopefully 16gb will be fine for 1440p 
+  they seem neck and neck in raster 
+   19 hours ago, Ebony Falcon said:
+Startfield is a outlier, 
+Forspoken, Redfall? 
+   On 9/7/2023 at 1:01 PM, PDifolco said:
+My experience with a 7900XTX is that it's super good at 1400p (even ultrawide) and will stay like this for at least 2 years
+I got it 6 months ago and at that time the 7900XT was very badly priced and not good value, it may be more so now
+Didn't want to spend another 200EUR more on a 4080 for better RT (only game I play where it makes any real difference is CP2077...), if I were to spend more I would have gotten a 4090...
+  Expand  
+Same here with the 7900, overkill at 1440.
+   On 9/7/2023 at 12:31 PM, Somerandomtechyboi said:
+Cheapest way would be a used 3090 for 700$ ish on ebay or 500-600$ ish on fb marketplace
+  Out of these 3 id go 7900xtx cause vram and should be cheaper than a 4080 while performing similarly
+6800XT can be found for $500 or less used.
+   17 hours ago, ToboRobot said:
+6800XT can be found for $500 or less used.
+But why would I buy that for a small perf increase from my 2080ti
+   17 hours ago, Ebony Falcon said:
+But why would I buy that for a small perf increase from my 2080ti
+Small? depends what you want.
+        7900 XT is the answer here.
+    Just under 2x the perf.
+ 7900 XT starfield.
+        My card can do 3.1ghz stable.
+   17 hours ago, My poodle is not French said:
+7900 XT starfield.
+  My card can do 3.1ghz stable.
+How do you manage that ?
+My is near supernova temp (100C hotspot) at 2.7/2.8GHz on a 1.1V undervolt, anything lower being unstable....
+   16 hours ago, PDifolco said:
+How do you manage that ?
+My is near supernova temp (100C hotspot) at 2.7/2.8GHz on a 1.1V undervolt, anything lower being unstable....
+  Luck of the draw on certain things I guess, many XT and XTX can get to 3ghz, but it's the hotspot.
+  Actually what paste have you used on your XTX?
+   16 hours ago, My poodle is not French said:
+Expand  
+Didn't repaste it yer, as it's still pretty recent
+But could do it indeed, got a load of MX4 tubes
+   16 hours ago, PDifolco said:
+Didn't repaste it yer, as it's still pretty recent
+But could do it indeed, got a load of MX4 tubes
+I would recommend something closer to liquid metal that is not LM, Prolimatech PK-3 or TG Kyronaught.
+Use a credit  card or the included paste spreader and apply an even layer across the entire GPU die, make sure it is decently thick.
+ 4090. Watch out for RTX'd shirt fibres
+   17 hours ago, My poodle is not French said:
+Small? depends what you want.
+        7900 XT is the answer here.
+  Expand  
+It’s Actualy on sale right now for 700 plus starfield 

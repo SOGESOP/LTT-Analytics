@@ -1,0 +1,306 @@
+INFO:root:Driver setup started
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:There is no [linux64] chromedriver "116.0.5845.140" for browser google-chrome "116.0.5845.140" in cache
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:WebDriver version 116.0.5845.96 selected
+INFO:WDM:Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/linux64/chromedriver-linux64.zip
+INFO:WDM:About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/linux64/chromedriver-linux64.zip
+INFO:WDM:Driver downloading response is 200
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver has been saved in cache [/home/theodore/.wdm/drivers/chromedriver/linux64/116.0.5845.140]
+INFO:root:Topic page collection initiated
+INFO:root:Unfiltered page added with href: https://linustechtips.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/login/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/lostpassword/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/register/
+INFO:root:Unfiltered page added with href: https://linustechtips.com
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/58/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/466/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/blogs/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/gallery/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/events/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/files/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/online/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/staff/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/store/category/3-subscriptions/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/466/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/?view=condensed&csrfKey=555ed7702a54c1a04ab62ecd9bc8879e
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/?view=expanded&csrfKey=555ed7702a54c1a04ab62ecd9bc8879e
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1070356-emothxughts/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530099-recommend-me-fallout-new-vegas-mods/?do=findComment&comment=16129291
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1070356-emothxughts/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/481256-ya_mi/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/11-pc-gaming/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530099-recommend-me-fallout-new-vegas-mods/?do=findComment&comment=16129291
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530099-recommend-me-fallout-new-vegas-mods/?do=findComment&comment=16129291
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/fallout%20nv/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/mods/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1005784-demonbalor252/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530444-i-have-android-tv-and-after-update-i-cannot-use-my-usb-drive-for-watching-content-from-it/?do=findComment&comment=16129290
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1005784-demonbalor252/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/46-troubleshooting/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530444-i-have-android-tv-and-after-update-i-cannot-use-my-usb-drive-for-watching-content-from-it/?do=findComment&comment=16129290
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1107926-atari2600/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530439-4070-or-7800xt-for-new-pc/?do=findComment&comment=16129289
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1107926-atari2600/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1107926-atari2600/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/16-graphics-cards/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530439-4070-or-7800xt-for-new-pc/?do=findComment&comment=16129289
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530439-4070-or-7800xt-for-new-pc/?do=findComment&comment=16129289
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1107926-atari2600/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530439-4070-or-7800xt-for-new-pc/?do=findComment&comment=16129288
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1107926-atari2600/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1107926-atari2600/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/16-graphics-cards/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530439-4070-or-7800xt-for-new-pc/?do=findComment&comment=16129288
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530439-4070-or-7800xt-for-new-pc/?do=findComment&comment=16129288
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/227720-bananasplit_00/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530408-will-this-music-tower-be-good/?do=findComment&comment=16129287
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/227720-bananasplit_00/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/801732-gamergry123/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/40-audio/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530408-will-this-music-tower-be-good/?do=findComment&comment=16129287
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530408-will-this-music-tower-be-good/?do=findComment&comment=16129287
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/912837-pdifolco/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338010/?do=findComment&comment=968761
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338010/?do=findComment&comment=968761
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338010/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1111631-dimplerlucio/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1111631-dimplerlucio/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1111630-brennan-repairs/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1111630-brennan-repairs/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/532420-andreiargeanu/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530427-seasonic-850w-sfx-psu/?do=findComment&comment=16129286
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/532420-andreiargeanu/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/218866-tdoc/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/21-power-supplies/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530427-seasonic-850w-sfx-psu/?do=findComment&comment=16129286
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530427-seasonic-850w-sfx-psu/?do=findComment&comment=16129286
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/519965-spotty/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530439-4070-or-7800xt-for-new-pc/?do=findComment&comment=16129285
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/519965-spotty/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1107926-atari2600/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/16-graphics-cards/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530439-4070-or-7800xt-for-new-pc/?do=findComment&comment=16129285
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530439-4070-or-7800xt-for-new-pc/?do=findComment&comment=16129285
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/31362-mr-moose/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/337911/?do=findComment&comment=968760
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/337911/?do=findComment&comment=968760
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/337911/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/18668-werecat/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338010/?do=findComment&comment=968759
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338010/?do=findComment&comment=968759
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338010/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/564670-dedayog/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530439-4070-or-7800xt-for-new-pc/?do=findComment&comment=16129284
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/564670-dedayog/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1107926-atari2600/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/16-graphics-cards/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530439-4070-or-7800xt-for-new-pc/?do=findComment&comment=16129284
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530439-4070-or-7800xt-for-new-pc/?do=findComment&comment=16129284
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/564670-dedayog/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530435-whats-a-good-startuprestart-time-last-bios-time-11-secs/?do=findComment&comment=16129283
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/564670-dedayog/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1023328-victor-jones/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/85-windows/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530435-whats-a-good-startuprestart-time-last-bios-time-11-secs/?do=findComment&comment=16129283
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530435-whats-a-good-startuprestart-time-last-bios-time-11-secs/?do=findComment&comment=16129283
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/832168-randomlygeneratedusername/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530279-please-help-me-with-this-ssd-issue/?do=findComment&comment=16129282
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/832168-randomlygeneratedusername/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/832168-randomlygeneratedusername/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/46-troubleshooting/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530279-please-help-me-with-this-ssd-issue/?do=findComment&comment=16129282
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530279-please-help-me-with-this-ssd-issue/?do=findComment&comment=16129282
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/troubleshooting%20ssd/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/ssds/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/troubleshooting%20ssd/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/ssds/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/help/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/10736-jaslion/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530438-will-my-psu-be-able-to-power-this/?do=findComment&comment=16129281
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/10736-jaslion/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/565996-giganthrax/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/21-power-supplies/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530438-will-my-psu-be-able-to-power-this/?do=findComment&comment=16129281
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530438-will-my-psu-be-able-to-power-this/?do=findComment&comment=16129281
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/801732-gamergry123/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530408-will-this-music-tower-be-good/?do=findComment&comment=16129280
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/801732-gamergry123/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/801732-gamergry123/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/40-audio/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530408-will-this-music-tower-be-good/?do=findComment&comment=16129280
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530408-will-this-music-tower-be-good/?do=findComment&comment=16129280
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/10736-jaslion/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530441-future-proof-office-pc/?do=findComment&comment=16129279
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/10736-jaslion/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1054384-wayne1013/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/18-new-builds-and-planning/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530441-future-proof-office-pc/?do=findComment&comment=16129279
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530441-future-proof-office-pc/?do=findComment&comment=16129279
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530441-future-proof-office-pc/?do=showReactionsComment&comment=16129279&reaction=2
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/658417-ralf/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1528287-does-a-pci-e-card-to-4-pin-molex-exist/?do=findComment&comment=16129278
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/658417-ralf/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/482534-wolf-strider-shooter/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/21-power-supplies/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1528287-does-a-pci-e-card-to-4-pin-molex-exist/?do=findComment&comment=16129278
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1528287-does-a-pci-e-card-to-4-pin-molex-exist/?do=findComment&comment=16129278
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/801732-gamergry123/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530408-will-this-music-tower-be-good/?do=findComment&comment=16129277
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/801732-gamergry123/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/801732-gamergry123/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/40-audio/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530408-will-this-music-tower-be-good/?do=findComment&comment=16129277
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530408-will-this-music-tower-be-good/?do=findComment&comment=16129277
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/540189-ebony-falcon/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530278-best-card-for-1440p/?do=findComment&comment=16129276
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/540189-ebony-falcon/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/540189-ebony-falcon/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/16-graphics-cards/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530278-best-card-for-1440p/?do=findComment&comment=16129276
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530278-best-card-for-1440p/?do=findComment&comment=16129276
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/801732-gamergry123/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530408-will-this-music-tower-be-good/?do=findComment&comment=16129275
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/801732-gamergry123/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/801732-gamergry123/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/40-audio/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530408-will-this-music-tower-be-good/?do=findComment&comment=16129275
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530408-will-this-music-tower-be-good/?do=findComment&comment=16129275
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/546759-chonkerfox/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338011/?do=findComment&comment=968758
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338011/?do=findComment&comment=968758
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338011/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338011/?do=showReactionsComment&comment=968758&reaction=3
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/546759-chonkerfox/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/39179-ltt-forum-banning-game/?do=findComment&comment=16129274
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/546759-chonkerfox/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/30767-alexgoeshigh/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/50-off-topic/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/39179-ltt-forum-banning-game/?do=findComment&comment=16129274
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/39179-ltt-forum-banning-game/?do=findComment&comment=16129274
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/39179-ltt-forum-banning-game/?do=showReactionsComment&comment=16129274&reaction=3
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/ramdom/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/fun/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/ramdom/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/fun/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/ban/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/dumb/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/game/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/awesome/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/546759-chonkerfox/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/18688-show-off-your-latest-purchases/?do=findComment&comment=16129273
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/546759-chonkerfox/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1218-ahmad_sh96/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/50-off-topic/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/18688-show-off-your-latest-purchases/?do=findComment&comment=16129273
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/18688-show-off-your-latest-purchases/?do=findComment&comment=16129273
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/18688-show-off-your-latest-purchases/?do=showReactionsComment&comment=16129273&reaction=1
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/buy/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/purchase/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/buy/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/purchase/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/showoff/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/share/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/new/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/package/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/688296-freeagent/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530395-crazy-drop-in-cpu-temp/?do=findComment&comment=16129272
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/688296-freeagent/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1105074-arevera1/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/28-cooling/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530395-crazy-drop-in-cpu-temp/?do=findComment&comment=16129272
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530395-crazy-drop-in-cpu-temp/?do=findComment&comment=16129272
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/667949-asheenlevrai/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530443-how-to-ram-modules-32gb/?do=findComment&comment=16129271
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/667949-asheenlevrai/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/5-cpus-motherboards-and-memory/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530443-how-to-ram-modules-32gb/?do=findComment&comment=16129271
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/all.xml/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/466/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/privacy/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/terms/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/contact/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/cookies/
+INFO:root:Unfiltered page added with href: https://www.invisioncommunity.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/register/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/login/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/466/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/search/
+INFO:root:Unfiltered page added with href: https://linustechtips.com
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/58/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/466/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/blogs/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/gallery/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/events/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/files/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/online/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/staff/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/store/category/3-subscriptions/
+INFO:root:href and topic ID being filtered
+INFO:root:Initial Dataframe formed
+INFO:root:Connecting to page: https://linustechtips.com/topic/39179-ltt-forum-banning-game/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1528287-does-a-pci-e-card-to-4-pin-molex-exist/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1530439-4070-or-7800xt-for-new-pc/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1530438-will-my-psu-be-able-to-power-this/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1530441-future-proof-office-pc/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1530444-i-have-android-tv-and-after-update-i-cannot-use-my-usb-drive-for-watching-content-from-it/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1530279-please-help-me-with-this-ssd-issue/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1530435-whats-a-good-startuprestart-time-last-bios-time-11-secs/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1530427-seasonic-850w-sfx-psu/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1530099-recommend-me-fallout-new-vegas-mods/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1530408-will-this-music-tower-be-good/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1530395-crazy-drop-in-cpu-temp/
+INFO:root:Connecting to page: https://linustechtips.com/topic/18688-show-off-your-latest-purchases/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1530443-how-to-ram-modules-32gb/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1530278-best-card-for-1440p/
+INFO:root:Title names being added to the Dataframe
+INFO:root:Comment content found for: 39179
+INFO:root:Comment content found for: 1528287
+INFO:root:Comment content found for: 1530439
+INFO:root:Comment content found for: 1530438
+INFO:root:Comment content found for: 1530441
+INFO:root:Comment content found for: 1530444
+INFO:root:Comment content found for: 1530279
+INFO:root:Comment content found for: 1530435
+INFO:root:Comment content found for: 1530427
+INFO:root:Comment content found for: 1530099
+INFO:root:Comment content found for: 1530408
+INFO:root:Comment content found for: 1530395
+INFO:root:Comment content found for: 18688
+INFO:root:Comment content found for: 1530443
+INFO:root:Comment content found for: 1381504
+INFO:root:Comment content found for: 1530278
+INFO:root:                                                 href Topic ID  ... Total Comments Total Likes
+0   https://linustechtips.com/topic/39179-ltt-foru...    39179  ...            nan         nan
+1   https://linustechtips.com/topic/1528287-does-a...  1528287  ...            nan         nan
+2   https://linustechtips.com/topic/1530439-4070-o...  1530439  ...            nan         nan
+3   https://linustechtips.com/topic/1530438-will-m...  1530438  ...            nan         nan
+4   https://linustechtips.com/topic/1530441-future...  1530441  ...            nan         nan
+5   https://linustechtips.com/topic/1530444-i-have...  1530444  ...            nan         nan
+6   https://linustechtips.com/topic/1530279-please...  1530279  ...            nan         nan
+7   https://linustechtips.com/topic/1530435-whats-...  1530435  ...            nan         nan
+8   https://linustechtips.com/topic/1530427-season...  1530427  ...            nan         nan
+9   https://linustechtips.com/topic/1530099-recomm...  1530099  ...            nan         nan
+10  https://linustechtips.com/topic/1530408-will-t...  1530408  ...            nan         nan
+11  https://linustechtips.com/topic/1530395-crazy-...  1530395  ...            nan         nan
+12  https://linustechtips.com/topic/18688-show-off...    18688  ...            nan         nan
+13  https://linustechtips.com/topic/1530443-how-to...  1530443  ...            nan         nan
+14  https://linustechtips.com/topic/1381504-commun...  1381504  ...            nan         nan
+15  https://linustechtips.com/topic/1530278-best-c...  1530278  ...            nan         nan
+
+[16 rows x 5 columns]
+ERROR:root:['Program_end']

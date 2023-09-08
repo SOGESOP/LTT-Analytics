@@ -1,0 +1,17 @@
+
+ Budget (including currency): 10,000 BRL (Brazilian Real)
+Country: Brazil
+Games, programs or workloads that it will be used for: 3D rendering (V-Ray and SketchUp), no games [other 3D software may be used on the future]Other details (existing parts lists, whether any peripherals are needed, what you're upgrading from, when you're going to buy, what resolution and refresh rate you want to play at, etc):
+
+The current target amount of monitors is 1
+
+Theme: Simple, discrete and not really loud
+I'm looking only for the main PC as of now, no peripherals
+
+Relevant links:
+https://meupc.net/build
+ Are you using the GPU for rendering?
+   2 hours ago, brob said:
+Are you using the GPU for rendering?
+The plan is to use it, currently it is rendering on CPU as the GPU is somehow slower
+ I don't understand the site linked. Sometimes it lists BRL prices and sometimes R$ prices.

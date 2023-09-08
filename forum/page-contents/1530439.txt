@@ -1,0 +1,37 @@
+
+ Hi, I am looking to build a new PC with a 13400f and I am currently stuck on whether to buy a 7800 xt or a 4070. The Asus 4070 is $1049 dollars here in Australia while the Asus 7800xt is $969. I play MSFS, Hitman 3, Battlefront 2, Battlefield 4, Persona 5 and Warthunder. I am also looking to play Starfield and No Mans Sky. I really prefer Nvidia cards over AMD but if the performance is significantly more than I will probably go for the 7800xt, I am also pretty concerned when it comes to noise too.
+I have made a parts list using the 4070 https://au.pcpartpicker.com/list/xcpjyg-
+ Remove the Deepcool and take the Peerless Assassin 120. Same cooling, way lower price.
+  Get the 7800XT, it's like a 6800XT with new features and better power consumption. Rasterized, stronger than the 4070, in RT only a tiny bit weaker.
+But, AMD fine wine...
+  Why a 250GB NVME? I bet a 480-500-512GB or even a 1TB isn't much pricier. I guess you mean it for the OS, but smaller SSD drives have weaker performance and shorter life span.
+  Edit: nvm about the cooler, I see in AU the Assassin is pricier. :S
+   52 minutes ago, Atari2600 said:
+Hi, I am looking to build a new PC with a 13400f and I am currently stuck on whether to buy a 7800 xt or a 4070. The Asus 4070 is $1049 dollars here in Australia while the Asus 7800xt is $969. I play MSFS, Hitman 3, Battlefront 2, Battlefield 4, Persona 5 and Warthunder. I am also looking to play Starfield and No Mans Sky. I really prefer Nvidia cards over AMD but if the performance is significantly more than I will probably go for the 7800xt, I am also pretty concerned when it comes to noise too.
+I have made a parts list using the 4070 -
+Expand  
+  May want to link all your other threads about this so people know what's been discussed already.
+ 
+   52 minutes ago, Atari2600 said:
+The Asus 4070 is $1049 dollars here in Australia while the Asus 7800xt is $969.
+Don't buy the Asus TUF card, you're paying an extra $100 just for the brand name. There's other 4070s for around $950 and other 7800XTs for around $900.
+  The 7800XT performs about 20% better in Starfield than the 4070. It might be worthwhile checking with the stores to see if they are offering the Starfield game bundle with the cards. I'm not sure if it's exclusive to US retailers but if you can get it that will save you $120 on buying Starfield.
+In other games the performance gap is closer, around 5-10% depending on the game. The 4070 will beat the 7800XT in Microsoft Flight Sim, except at 4k Ultra where the 7800XT edges ahead slightly. In Hitman 3 the 7800XT beats the 4070 by about 20%, except when Ray Tracing is enabled where the 4070 beats the 7800XT by 15-20%. The other games you listed are old enough that the cards will smash them either way so it doesn't really matter.
+  The 7800XT is cheaper, possibly comes with a free copy of Starfield, and will perform noticeably better in some games and roughly equal in others, but it sucks at ray tracing. The 4070 is more expensive and only really better if you plan on playing games with Ray Tracing enabled or want the Nvidia special features like Broadcast, NVENC, Reflex, DLSS, etc.
+    52 minutes ago, Atari2600 said:
+I am also pretty concerned when it comes to noise too.
+Noise is going to be dependant on the individual card models. Until there's more reviews out for individual cards it's going to be difficult to say which card performs best for noise. Noise can usually be adjusted for pretty well by setting a custom fan curve on the card.
+  I'd also suggest ditching the 250GB SSD. You already have the 2TB drive, these days there's not really much benefit in having the OS on a separate drive like there used to be back when SSDs were expensive and you would have an SSD for just the OS and everything else on a HDD.
+   35 minutes ago, 191x7 said:
+Remove the Deepcool and take the Peerless Assassin 120. Same cooling, way lower price.
+  Get the 7800XT, it's like a 6800XT with new features and better power consumption. Rasterized, stronger than the 4070, in RT only a tiny bit weaker.
+But, AMD fine wine...
+  Why a 250GB NVME? I bet a 480-500-512GB or even a 1TB isn't much pricier. I guess you mean it for the OS, but smaller SSD drives have weaker performance and shorter life span.
+Expand  
+Peerless Assasin isn't available here.
+   9 minutes ago, Spotty said:
+Don't buy the Asus TUF card, you're paying an extra $100 just for the brand name. There's other 4070s for around $950 and other 7800XTs for around $900.
+  The 7800XT performs about 20% better in Starfield than the 4070. It might be worthwhile checking with the stores to see if they are offering the Starfield game bundle with the cards. I'm not sure if it's exclusive to US retailers but if you can get it that will save you $120 on buying Starfield.
+In other games the performance gap is closer, around 5-10% depending on the game. The 4070 will beat the 7800XT in Microsoft Flight Sim, except at 4k Ultra where the 7800XT edges ahead slightly. In Hitman 3 the 7800XT beats the 4070 by about 20%, except when Ray Tracing is enabled where the 4070 beats the 7800XT by 15-20%. The other games you listed are old enough that the cards will smash them either way so it doesn't really matter.
+Expand  
+The free copy is here too.
