@@ -1,16 +1,17 @@
 import requests
 import os
 from bs4 import BeautifulSoup
+from datetime import date
+from datetime import timedelta
 
 
-def main():
-    url2='https://linustechtips.com/discover/'
-    url='https://linustechtips.com/topic/1529954-help-w'
-    response=requests.get(url)
-    print
+sample='yesterday at 19:15'
 
-    
-
+def main(sample):
+    if 'yesterday' in sample:
+        today=date.today()
+        yesterday=(today-timedelta(days=1)).strftime("%B %d, %Y")
+        print(today.strftime('%d'))
 
 if __name__=='__main__':
-    main()
+    main(sample)

@@ -1,2 +1,0 @@
-
- I have Mi box 4k and after the update from Android 9 to Android 12 I cannot watch my movies from my pen drive. The pen drive is detected in my Android TV. But in vlc when I ever I tried to open my drive it did not nothing just showed loading on the screen. So i tried using a different media player software MX player, the app didn't start at all every time I tried to start the app it crashed. 

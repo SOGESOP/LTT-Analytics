@@ -1,0 +1,29 @@
+
+ Do I need a crossover or can I connect subwoofer directly to my amplifier. Subwoofer is passive not active. Below I have attached some pics of subwoofer 
+ Your amps built crossover is set too high, plus it likely does not have the jam to drive it properly.. so you would need a sub amp. If you want to try to drive it with what you have, then you will need a crossover too.
+  Some older amps are awesome, but would likely need to be rebuilt.
+ Amplifier data and connectors missing.
+   2 hours ago, freeagent said:
+Your amps built crossover is set too high, plus it likely does not have the jam to drive it properly.. so you would need a sub amp. If you want to try to drive it with what you have, then you will need a crossover too.
+  Some older amps are awesome, but would likely need to be rebuilt.
+So I need a crossover for this. But if i connect it to my amplifier do sound get distort. My setup is one tweeter which has inbuilt capasitor so i will connect the tweeter and this subwoofer in parallel and comment to my amplifier.  Moreover they mentioned something like this speaker acts like a woofer too, What do they mean.
+   2 hours ago, mMontana said:
+Amplifier data and connectors missing.
+Nobsoud ns-20g 
+ Long story short
+only with a passive crossover
+only if you use this amplifier only for your subwoofer
+   2 hours ago, Kamranbites said:
+oreover they mentioned something like this speaker acts like a woofer too, What do they mean.
+It means that if you have a low powered amp, then you can use it as a mid range driver. But if you have the 70w RMS then you can use it just for bass.
+   1 hour ago, freeagent said:
+It means that if you have a low powered amp, then you can use it as a mid range driver. But if you have the 70w RMS then you can use it just for bass.
+So if my amplifier is 100w can I use this as a woofer or should I use a crossover?
+ If its 100w @ 6ohm, then I would just use it as a regular speaker. 100w @ 4ohm I would use it as a sub.
+   1 hour ago, freeagent said:
+If its 100w @ 6ohm, then I would just use it as a regular speaker. 100w @ 4ohm I would use it as a sub.
+My amplifier is 100w per channel 4-8 ohms 
+ I would try it out. A lot depends on your enclosure too.. room, all that stuff..
+   49 minutes ago, freeagent said:
+I would try it out. A lot depends on your enclosure too.. room, all that stuff..
+So is it ok if I use it as a woofer or a subwoofer as per my convenience or if I make it a woofer it might distort on High volume? 

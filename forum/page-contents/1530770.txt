@@ -1,0 +1,29 @@
+
+ I am a casual dabbler with computers and so I decided to upgrade my old pc MB, CPU, GPU, RAM, new M2 2tb. Kept 2 old HDD and 1 250gb M2. Fresh instal of Windows 10 64bit on the old 250gb M2 (formatted before). Got the system built and installed windows, flashed new bios (9c), started to download normal apps, new drivers (tough AMD/NVIDIA apps), games etc., while updating windows. The system crashed a couple time after updates when I was downloading games and windows updates (UNEXPECTED_KERNEL_MODE_TRAP, if I remember correctly). Had similar problem with old PC when overclocing (even though had not done any overclocking on this pc) and decided to check the cooler and contact was fine. Next day started to game Escape from tarkov, first launch and a crash (UNEXPECTED_KERNEL_MODE_TRAP), ran some repairs from cmd. Tested Tarkov and other games, and no crashing.
+PC ran fine for a couple hours and I did play Starfield when the last Blue screen crash came (cannot remember error code). After restarting, the system started infinite loop: boot, "preparing automatic repairs", quick flash of a bluescreen, restart. I can acces BIOS (display trough GPU), CPU is running fine (about 4731MHz, 31 celcius, 1,071volts, VRM MOS 32celcius, Memory freq. about 4800 MT/s, system temp 27 celsius, PHC 35 celcius, so it detects the drives, RAM, CPU and GPU). Bios seems to run fine. The problem is when I try to boot the windows M2 SSD, it goes back to the loop. If I try to boot windows creation tool, windows logo appears for a time and quick flash of a blue screen and restart. Any ideas? I do have one friend comming over to check components on other rig and maybe resolve the issue. 
+  Things I have tried (not necessarily in this order):
+-Hard reset
+-Turned CSM support on and off, tried to boot with both settings
+-Removed all other
+-Cleared CMOS
+-Flashed 3 different bios (8, 7, 5)
+-Removed all other drives exept windows drive
+-removed all drives and tried running creation tool
+-Removed every drive and tried booting installations media USB (creation tool) -> Blue screen flash and restart
+-Tried my old 120gb Kinston windows 10 SSD ->Blue screen flashed and restart
+-Tried the RAM in different slots one by one
+-Reinstalled media creations tool on usb
+-And of course turning it off and on.
+  System:
+OS - Windows 10 64bit Fresh install (creation tool made from my laptop)
+CPU: AMD Ryzen 5 7600x, AM5
+GPU: Gigabyte 4070ti Windforce Oc
+MB: Gigabyte B650 Gaming X AX (Flashed bios, 9C, later tried 8, 7 and 5)
+RAM: Corsair 32GB (2x16GB) Vengeance, DDR5 6000MHz
+PSU: Corsair 850W RM850
+2x 1tb HDD (old drives, one formatted)
+250gb Samsung 970 EVO M2 (windows installed, formated before install)
+2tb Kingston FURY Renegade
+AIO DeepCool LT720, 360mm
+No overclocking on anything
+   

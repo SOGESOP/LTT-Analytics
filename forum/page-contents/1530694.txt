@@ -1,0 +1,39 @@
+
+ Need help got a new GPU (rx5700) and it goes black once it goes windows 10 os. When powering on my computer I see the display and when I go to bios I also see the screen. Is it a driver problem l? My mobo is rampage ii gene and last GPU r7 370 strix.
+ The R7 cards have been out of driver support for a while, so any driver you were running for the old card would be quite outdated. 
+  Do you get display in Windows if you put the old R7 card back in?
+  If so, maybe try running DDU, then installing the new card in, and installing the latest drivers for it if you're able to get display from it.
+ Do you mean the r7 drivers outdated to work with Windows 10? Because it start really stop working in June. it also has green lines on the monitor and lagging. And already did ddu three times. clean shutdown still does not show anything. That wondering if it the motherboard 
+   13 hours ago, Middcore said:
+The R7 cards have been out of driver support for a while, so any driver you were running for the old card would be quite outdated. 
+  Do you get display in Windows if you put the old R7 card back in?
+  If so, maybe try running DDU, then installing the new card in, and installing the latest drivers for it if you're able to get display from it.
+ 
+   12 hours ago, SSGear8 said:
+Do you mean the r7 drivers outdated to work with Windows 10?
+  What I mean is that the drivers you had installed for the R7 are not the same as the drivers you will need for the RX 5700 XT because AMD stopped updating the drivers for the R7 quite some time ago.
+   
+   1 hour ago, Middcore said:
+  What I mean is that the drivers you had installed for the R7 are not the same as the drivers you will need for the RX 5700 XT because AMD stopped updating the drivers for the R7 quite some time ago.
+    Yes I know that it different drivers from Rx 5700xt and use ddu to clean and shutdown after. That why am saying if is a motherboard problem ( because it doesn't support legacy and needs uefi or is something else)
+   1 hour ago, SSGear8 said:
+Yes I know that it different drivers from Rx 5700xt and use ddu to clean and shutdown after. That why am saying if is a motherboard problem ( because it doesn't support legacy and needs uefi or is something else)
+Ah yeah I'm pretty sure AMD cards once the RX 400 family are UEFI only and will only support legacy boot via CSM.
+  Can I respectfully suggest it might be time for a platform upgrade? I don't think a CPU for that board exists that won't hold a 5700 XT back.
+   55 minutes ago, Middcore said:
+Ah yeah I'm pretty sure AMD cards once the RX 400 family are UEFI only and will only support legacy boot via CSM.
+  Can I respectfully suggest it might be time for a platform upgrade? I don't think a CPU for that board exists that won't hold a 5700 XT back.
+What is Csm?and is there any lga 1366 motherboard that support uefi or motherboard that under $100 that work for Rx5700xt
+   28 minutes ago, SSGear8 said:
+What is Csm?and is there any lga 1366 motherboard that support uefi or motherboard that under $100 that work for Rx5700xt
+  CSM is compatibility support module.
+  There is no point in putting money into more LGA 1366 stuff, I'm saying you really need to get on to a semi-modern platform.
+   14 minutes ago, Middcore said:
+  CSM is compatibility support module.
+  There is no point in putting money into more LGA 1366 stuff, I'm saying you really need to get on to a semi-modern platform.
+Do you know any good motherboard with semi modern ( uefi and legacy) under $100 for 5700xt?
+   12 minutes ago, SSGear8 said:
+Do you know any good motherboard  under $100 for 5700xt?
+You would need to replace your CPU and RAM also.
+  $100 isn't really a realistic budget for board, CPU, and memory.
+  I would look at Facebook marketplace, OfferUp, etc. listings near you for somebody unloading a 2nd generation Ryzen or maybe 8th-9th generation Intel combo and rebuild around that. The performance will clobber anything on LGA 1366 and you won't have to worry about compatibility issues.

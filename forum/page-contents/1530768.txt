@@ -1,0 +1,14 @@
+
+ Hi all, 
+  I wanna upgrade to be able to play Starfield and Phantom Liberty @1080p. I have a R5 3600 and a 750W PSU. Any suggestions?
+   25 minutes ago, geraltthegwynbleidd said:
+Hi all, 
+  I wanna upgrade to be able to play Starfield and Phantom Liberty @1080p. I have a R5 3600 and a 750W PSU. Any suggestions?
+A 6700 xt
+ According to Hardware Unboxed's Starfield testing, in CPU intensive areas, the R5 3600 is only good for 55fps average at 1080p medium settings. The GPUs required to achieve this performance at all times at 1080p medium (no upscaling), again according to their testing, are the 4060 Ti, 3070 Ti, and RX 6700 XT.
+  So for Starfield, those would be the place to start looking. Of those, I would recommend the RX 6700XT, as it's cheaper and actually performs better in Starfield. If you can stretch the budget, the RX 6800, RX 6800XT, or RX 7800XT are also good options.
+   12 minutes ago, YoungBlade said:
+According to Hardware Unboxed's Starfield testing, in CPU intensive areas, the R5 3600 is only good for 55fps average at 1080p medium settings. The GPUs required to achieve this performance at all times at 1080p medium (no upscaling), again according to their testing, are the 4060 Ti, 3070 Ti, and RX 6700 XT.
+  So for Starfield, those would be the place to start looking. Of those, I would recommend the RX 6700XT, as it's cheaper and actually performs better in Starfield. If you can stretch the budget, the RX 6800, RX 6800XT, or RX 7800XT are also good options.
+Expand  
+If 7800 XT is not a waste to use with R5 3600, I can pull the trigger. Do you think next version DLSS is a valid excuse to go green team?

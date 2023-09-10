@@ -2,16 +2,17 @@ import logging
 import pandas
 import os
 
+
+
 class MiscTools:
     # formats the logger, please hide your shock
     def format_logging(file_name:str):
         # adds the path to the logging/ viewing folder
-        innital_logger_path=str(os.getcwd())
-        loggger_folder_path=f"{innital_logger_path[:-12]}/log-view"
-        logger_path=f"{innital_logger_path[:-12]}/log-view/{file_name}"
-        # removes the loggin file form previous runthrough
+        parent_folder=os.path.normpath(os.getcwd()+ os.sep +os.pardir)
+        loggger_folder_path=f"{parent_folder}/log-view/"
+        logger_path=f"{parent_folder}/log-view/{file_name}"        
+        # removes the logging file form previous runthrough
         existing_files=os.listdir(loggger_folder_path)
-        path='{cwd}/{name}'.format(cwd=os.getcwd(), name=file_name)
         if f'{file_name}' in existing_files:
             os.remove(logger_path)
         # configures logger
@@ -35,7 +36,7 @@ class MiscTools:
     
     # splices a string to find the substring you want, with the substring start index and ending
     #~ symbol being passed     
-    def string_splicer_symbol(href,string_start_index, search_start_index, end_symbol, include_limit):
+    def string_splicer_symbolic(href,string_start_index, search_start_index, end_symbol, include_limit):
         end_index=0
         for char in href[search_start_index:]:
             end_index+=1
@@ -48,4 +49,13 @@ class MiscTools:
                     target_string=href[string_start_index:total_index]
                 return target_string
         
+        
+    def remove_csv(csv_name:str):
+         # adds the path to the csv file
+        parent_folder=os.path.normpath(os.getcwd()+ os.sep +os.pardir)
+        csv_folder_path=f"{parent_folder}/dataframe/"
+        csv_path=f"{parent_folder}/dataframe/{csv_name}"
+        existing_files=os.listdir(csv_folder_path)
+        if csv_name in existing_files:
+            os.remove(csv_path)
         

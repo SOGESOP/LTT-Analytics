@@ -55,7 +55,7 @@ class GetData:
             # starts searching for forwardslashes after the topic name in the url, as any info after
             #~ the forwardslash at the end of the topic name is extranious
             if 'https://linustechtips.com/topic/' in href:
-                formatted_href=MiscTools.string_splicer_symbol(href, 0, 32, '/', True)
+                formatted_href=MiscTools.string_splicer_symbolic(href, 0, 32, '/', True)
                 external_references_main_page.append(formatted_href)
                         
         # returns a list of all the topic urls found from the 'main_url' page
@@ -78,29 +78,30 @@ class GetData:
             # goes through the title elements and extracts the text, and adds it to a list
             for entry in elements:
                 # finds the topic number in the current_irl
-                topic_number=MiscTools.string_splicer_symbol(current_url, 32, 32, '-', False)
-                title_dict_with_id[topic_number]=entry.text
+                topic_number=MiscTools.string_splicer_symbolic(current_url, 32, 32, '-', False)
+                title_dict_with_id[int(topic_number)]=entry.text
                 
         return title_dict_with_id
 
     # this will get all the comment information from the page that is passed, and create a dict where
     #~ the first entry is the href:topic number and the other entreis are the index: comment content   
-    def get_comment_content(href:str):
+    def get_comment_content_and_date(href:str):
         driver.get(href)
         elements=driver.find_elements(By.CSS_SELECTOR, 'div.cPost_contentWrap > div.ipsType_normal.ipsType_richText.ipsPadding_bottom.ipsContained')
-        comment_content=[]
-        
+        comment_content=[]    
         # adds to dictionary the comment text and an index of where it was found on the page
         for comment in elements:
             comment_content.append(comment.text)
+        # returns the dict
+        date=driver.find_element(By.CSS_SELECTOR, '#ipsLayout_mainArea > div.ipsPageHeader.ipsResponsive_pull.ipsBox.sm\:ipsPadding\:half.ipsMargin_bottom > div.ipsPageHeader__meta.ipsFlex.ipsFlex-jc\:between.ipsFlex-ai\:center.ipsFlex-fw\:wrap.ipsGap\:3.ipsGap_row\:0.ipsSpacer_top.ipsSpacer_half > div.ipsFlex-flex\:11.cTopicHeader_userInfo > div > div > div > span > span > time')
+        date_posted=date.text  
+        for idx, x in enumerate(tp['href']):
+            if x==href:
+                tp.loc[idx,'Date Posted']=date_posted
         return comment_content
-        
         
 # functions that will create the dataframe from the topic pages
 class TopicDataframe:
-    # this saves the dataframe to csv to make it easier to look at
-
-
     # this will filter the topic href as well as the topic number ID
     def filtering_topic_href(info:list):
         logging.info("href and topic ID being filtered")
@@ -110,7 +111,7 @@ class TopicDataframe:
         included_topics=[]
         for href in info:
             # finds the topic number in the href and adds its asociated href to a dict
-            topic_number=MiscTools.string_splicer_symbol(href, 32, 32, '-', False)
+            topic_number=MiscTools.string_splicer_symbolic(href, 32, 32, '-', False)
             if topic_number not in included_topics:
                 included_topics.append(topic_number)
                 title_href_dict_with_id[topic_number]=href
@@ -125,7 +126,6 @@ class TopicDataframe:
 
         return title_href_dict_with_id
 
-
     def inital_form_tp(title_href_dict_with_id:dict):
         logging.info("Initial Dataframe formed")
 
@@ -135,8 +135,9 @@ class TopicDataframe:
         tp=tp.set_axis(['href'],axis=1)
         tp.insert(1, 'Topic ID', title_href_dict_with_id.keys())
         tp.insert(2, 'Topic Title', 'nan')
-        tp.insert(3, 'Total Comments', 'nan')
-        tp.insert(4, 'Total Likes', 'nan')
+        tp.insert(3, 'Date Posted', 'nan')
+        tp.insert(4, 'Total Comments', 'nan')
+        tp.insert(5, 'Total Likes', 'nan')
         # adds a csv of the dataframe
         MiscTools.save_to_csv(tp,'main')
         return list(title_href_dict_with_id.values())
@@ -157,27 +158,26 @@ class TopicDataframe:
         MiscTools.save_to_csv(tp, 'main')
         
     def add_comment_contents():
-        
         index=0
         # gets the comment content 
         for href, title_id in zip(tp['href'], tp['Topic ID']):
-            comment_content_list=GetData.get_comment_content(href)
+            comment_content_list=GetData.get_comment_content_and_date(href)
             logging.info(f"Comment content found for: {title_id}")
             comment_content_string=""
             for i in comment_content_list:
                 comment_content_string+=f'\n {i}'
             # saves a file with the comment content to the topic id it was gained from
-            inital_path=os.getcwd()
-            path="{init_path}/page-contents/{filename}.txt".format(init_path=inital_path[:-12], filename=title_id)
+            parent_folder=os.path.normpath(os.getcwd()+ os.sep +os.pardir)
+            path="{init_path}/page-contents/{filename}.txt".format(init_path=parent_folder, filename=title_id)
             with open(path, 'w') as f:
                 f.write(comment_content_string)    
-        logging.info(tp)
-        
-        
-        
+        # saves the dataframe to include the addition of the dates
+        MiscTools.save_to_csv(tp, 'main')
+            
         
 def main():
     MiscTools.format_logging('collect.log')
+    MiscTools.remove_csv('main.csv')
     GetData.setup_driver()
     href_list=GetData.collect_href()
     filtered_href_dict=TopicDataframe.filtering_topic_href(href_list)
