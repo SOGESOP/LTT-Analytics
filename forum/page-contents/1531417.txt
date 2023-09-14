@@ -1,0 +1,7 @@
+Post Content
+ I dont have a 5G sim card. My first one is 4G while the second is 3G.  On my new Android 13 phone from Motorola, i see a large mobile network usage. Is it from the 5G modem checking?  Will it help if i force 4G LTE on both sims?
+
+ COMMENT_BREAK More likely some software or bloatware drawing excess data. You could choose to block data from apps when they are not actively in use
+
+ COMMENT_BREAK
+

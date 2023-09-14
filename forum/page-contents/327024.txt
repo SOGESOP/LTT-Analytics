@@ -1,0 +1,121 @@
+Post Content
+   QuoteMore than 18 months ago, I vowed to push all six drives to their bitter ends. I didn't do so in the name of god or country or even self-defense, either. I did it just to watch them die.  I slowly squeezed out every last drop of life with a relentless stream of writes far more demanding than anything the SSDs would face in a typical PC. To make matters worse, I exploited their suffering by chronicling the entire process online.  Today, that story draws to a close with the final chapter in the SSD Endurance Experiment. The last two survivors met their doom on the road to 2.5PB, joining four fallen comrades who expired earlier. It's time to honor the dead and reflect on what we've learned from all the carnage.  This experiment sought to find out by writing a near-constant stream of data to Corsair's Neutron GTX 240GB, Intel's 335 Series 240GB, Kingston's HyperX 3K 240GB, Samsung's 840 Series 250GB, and Samsung's 840 Pro 256GB.  All of the drives surpassed their official endurance specifications by writing hundreds of terabytes without issue. Delivering on the manufacturer-guaranteed write tolerance wouldn't normally be cause for celebration, but the scale makes this achievement important. Most PC users, myself included, write no more than a few terabytes per year. Even 100TB is far more endurance than the typical consumer needs.  After receiving a black mark on its permanent record, the 840 Series sailed smoothly up to 800TB. But it suffered another spate of uncorrectable errors on the way to 900TB, and it died without warning before reaching a petabyte.   Intel's 335 Series failed much earlier, though to be fair, it pulled the trigger itself. The drive's media wear indicator ran out shortly after 700TB, signaling that the NAND's write tolerance had been exceeded. Intel doesn't have confidence in the drive at that point, so the 335 Series is designed to shift into read-only mode and then to brick itself when the power is cycled.  The reaper came for the Kingston HyperX 3K next. As with the 335 Series, the SMART data's declining life indicator foretold the drive's death and triggered messages warning that the end was nigh. The flash held up nicely through 600TB, but it suffered a boatload of failures and reallocated sectors leading up to 728TB, after which it refused to write.  The next failure occurred after the 840 Series bit the dust. Corsair's Neutron GTX was practically flawless through 1.1PB—that's petabytes—but it posted thousands of reallocated sectors and produced numerous warning messages over the following 100TB.    The SSD Endurance Experiment represents the longest test TR has ever conducted. It's been a lot of work, but the results have also been gratifying. Over the past 18 months, we've watched modern SSDs easily write far more data than most consumers will ever need. Errors didn't strike the Samsung 840 Series until after 300TB of writes, and it took over 700TB to induce the first failures. The fact that the 840 Pro exceeded 2.4PB is nothing short of amazing, even if that achievement is also kind of academic.  The important takeaway is that all of the drives wrote hundreds of terabytes without any problems. Their collective endurance is a meaningful result.        Source: http://techreport.com/review/27909/the-ssd-endurance-experiment-theyre-all-dead  This is a pretty exceptional test, seeing that most of these drives wrote hundreds of terabytes before failing, some even reaching a petabyte. Really shows how reliable SSD's actually are in today's age, as long as you go with a decent company. Only gripe is I wish they had a Crucial drive in the test, as I believe they are pretty big in the SSD game. 
+
+ COMMENT_BREAK I agree. A crucial ssd would be a nice addition to the comparison.
+
+ COMMENT_BREAK YES FINALLY i wanted to see how long they lasted...  now they need to start doing 3d nand drives like the 850 and the upcoming intel SSDs
+
+ COMMENT_BREAK And everyone says newtron ssd's are bad#CORSAIR
+
+ COMMENT_BREAK so intel basically set their limits for 100% safe data then make sure you cannot surpass that.. if thats the case cant really see an issue with that
+
+ COMMENT_BREAK WOOO HOOO! 840 pro got up to 2.4Pb!
+
+ COMMENT_BREAK I knew I should of just saved up for an 840 EVO :'(
+
+ COMMENT_BREAK Should put the nail in the coffin on the SSD endurance fears you still hear about here and there.  But it would be nice if SSD makers could get their drives to wear out a little more elegantly. Intel's solution was as expected, and honestly I would rather get a consistent, controlled shutdown at 700TB than a sudden, total failure at 2PB+. Not that it really matters to most of us anyway.
+
+ COMMENT_BREAK Nice test, but how much do I use per day is my questionDoes anybody know about an application that could monitor the data written to a specific dry from when I push the button on my pc to when I'm about to shut it down for the night ?
+
+ COMMENT_BREAK I wonder how the endurance of NVME / NVMEHCI drives will be once they're out for consumers.  Maybe we'll hit a few exabytes
+
+ COMMENT_BREAK It would be nice to have this done with Samsungs 3D NAND, and ADATA.
+
+ COMMENT_BREAK   On 3/12/2015 at 10:36 PM, Tim Drake said:I knew I should of just saved up for an 840 EVO :'(the evo wasnt tested. even if it was i dont think it would of got past 1.5PB  Reallistically your MLC nand MX100 should be fine for a Petabyte.
+
+ COMMENT_BREAK   On 3/12/2015 at 10:50 PM, bcredeur97 said:the evo wasnt tested. even if it was i dont think it would of got past 1.5PB  Reallistically your MLC nand MX100 should be fine for a Petabyte.Whoops
+
+ COMMENT_BREAK After 2+ years my Kingston 3k only has 5.4TB in 14161 as an OS, that has taken some abuse. Think I'm less worried now.
+
+ COMMENT_BREAK I doubt they're going to do it; but, it would be cool to redo this with the current generation of those SSDs now (ex Samsung 850's vs 840's). It would be interesting to see if the endurance changes.
+
+ COMMENT_BREAK wow corsair.
+
+ COMMENT_BREAK   On 3/12/2015 at 11:20 PM, PopReference said:After 2+ years my Kingston 3k only has 5.4TB in 14161 as an OS, that has taken some abuse. Think I'm less worried now.I've written 14.5TB in 1.5 years, but from the looks of these it's fine     1: (SSD Raw Read Error Rate)               Normalized Rate:  95  Sectors Read: 6259485 Read Errors: 0 5: (SSD Retired Block Count)               Spare blocks remaining 100%  Retired Block 0 9: (SSD Power-On Hours)                    Value 95  Total 5222 hrs 20 mins12: (SSD Power Cycle Count)                 Power Cycle Life Remaining  99%  Number of power cycles 1038171: (SSD Program Fail Count)                Program Error Count 0172: (SSD Erase Fail Count)                  Erase Error Count 0174: (SSD Unexpected power loss count)       Unexpected power loss Count 113177: (Wear Range Delta)                      Wear Range Delta 3%181: (Program Fail Count)                    Program Error Count 0182: (Erase Fail Count)                      Erase Error Count 0187: (SSD Reported Uncorrectable Errors)     Normalized Value 100  lifetime URAISE Errors 0189: (Unrecognized Attribute)                Value:  29 Raw Data: 1d 00 4b 00 0c 00 00194: (SSD Temperature Monitoring)            Normalized temp 29   Current 29  High 75 Low 12195: (SSD ECC On-the-fly Count)              Normalized Value 120   Sectors Read 6259485  UECC Count 0196: (SSD Reallocation Event Count)          Normalized Value 100   Reallocation Event Count 0201: (SSD Uncorrectable Soft Read Error Rate)Normalized Value 120  Sectors Read 6259485  Uncorrectable Soft Error Count 0204: (SSD Soft ECC Correction Rate (RAISE)   Normalized Value 120  Sectors Read 6259485  Soft ECC Correction Count 0230: (SSD Life Curve Status)                 Normalized Value 100231: (SSD Life Left)                         Life Remaining 100%233: (SSD Internal Reserved)                 17000234: (SSD Internal Reserved)                 14355241: (SSD Lifetime writes from host)         lifetime writes   14355242: (SSD Lifetime reads from host)          lifetime reads   13116  No signs of premature failure. 
+
+ COMMENT_BREAK Absolutely brilliant, thanks that post OP. I feel that samsung pro SSD's are the best around. They do cost more upfront, but I believe they can be passed down from build to build. Although this was not a very scientific experiment. It was very informative. I wish more channels would run experiments like this. Thx again OP
+
+ COMMENT_BREAK   On 3/12/2015 at 10:36 PM, Tim Drake said:I knew I should of just saved up for an 840 EVO :'(840 EVOs are nothing but trouble, rave reviews out the gate, but a year down the road they've slowed down to less than mechanical speeds
+
+ COMMENT_BREAK   On 3/12/2015 at 11:55 PM, werto165 said:  I've written 14.5TB in 1.5 years, but from the looks of these it's fine  My 840 Evo has 38.16 TB of writes according to samsung magician and i have no idea why
+
+ COMMENT_BREAK   On 3/13/2015 at 12:02 AM, Sharkyx1 said:My 840 Evo has 38.16 TB of writes according to samsung magician and i have no idea whyI guess it depends on how full you keep your drive, as far as I know SSD's try to "split" the load over multiple chips rather than just occupying one section of NAND. 
+
+ COMMENT_BREAK   On 3/13/2015 at 12:07 AM, werto165 said:I guess it depends on how full you keep your drive, as far as I know SSD's try to "split" the load over multiple chips rather than just occupying one section of NAND. 90 Gigs free now, but its been more full before, i cleaned up quite a bit and moved downloads and images to my HDD
+
+ COMMENT_BREAK   On 3/13/2015 at 12:02 AM, Sharkyx1 said:My 840 Evo has 38.16 TB of writes according to samsung magician and i have no idea whySwap/hibernate files?
+
+ COMMENT_BREAK   On 3/12/2015 at 10:36 PM, Tim Drake said:I knew I should of just saved up for an 840 EVO :'(they tested the 840 pro the 840 evo is using TLC nand so it should fail fairly early your crucial ssd with its MLC nand should last longer
+
+ COMMENT_BREAK   On 3/12/2015 at 11:31 PM, Octagoncow said:I doubt they're going to do it; but, it would be cool to redo this with the current generation of those SSDs now (ex Samsung 850's vs 840's). It would be interesting to see if the endurance changes.  3D NAND would make it take ages to complete. I mean this experiment already took over a year, with an 850 Pro it could take the rest of the decade.
+
+ COMMENT_BREAK So basically with normal use an SSD will outlast a HDD.
+
+ COMMENT_BREAK   On 3/13/2015 at 12:00 AM, Sharkyx1 said:840 EVOs are nothing but trouble, rave reviews out the gate, but a year down the road they've slowed down to less than mechanical speeds  Samsung's first fix takes care of 95% of that. I'm sure they'll get the last of it figured out. Also, you can just re-save old data and it'll be back up to speed.
+
+ COMMENT_BREAK   On 3/12/2015 at 10:41 PM, Thony said:Nice test, but how much do I use per day is my questionDoes anybody know about an application that could monitor the data written to a specific dry from when I push the button on my pc to when I'm about to shut it down for the night ?It really doesn't matter. A pettabyte is 1000tb, and 1,000,000gb. You can reinstall your os everyday for the next 39 years and be fine. And that is considering that everytime you reinstall you install all the apps you use such as browsers and clients and some games that total together to 70gb writes per day. That is only considering 1 petabyte write that most of the drives exceeded by far
+
+ COMMENT_BREAK   On 3/13/2015 at 1:39 AM, Captain Chaos said:So basically with normal use an SSD will outlast a HDD.Yeah.I've seen some enterprise HDDs rated for like more than half of PT per year workload, not sure when they'd die tho.While SSDs can last long what this thread shows good, they "burn" faster (ofc have # of cycles they can write) cause they are faster so you can burn them way quicker than HDD if you'd want to. But still while endurance of SSDs gained significant boost over time it's not there yet where you could get one and set it to endurance test and that it could last like that for 10y. But yeah, I'm pretty sure couple of years they'll be over top grade HDDs in terms of endurance for like data centers.One thing I always asked my self... how come SSDs can't be like RAM, meaning have unlimited # of reads/writes. When will we see those
+
+ COMMENT_BREAK   On 3/13/2015 at 2:18 AM, Doobeedoo said:One thing I always asked my self... how come SSDs can't be like RAM, meaning have unlimited # of reads/writes. When will we see thoseCause RAM is volatile?No flash.
+
+ COMMENT_BREAK   On 3/12/2015 at 10:25 PM, MLGNOSCOPEHEADSHOTGETREKT said:And everyone says newtron ssd's are bad#CORSAIRnot Newton, Corsair in general.
+
+ COMMENT_BREAK   On 3/12/2015 at 10:41 PM, Thony said:Nice test, but how much do I use per day is my questionDoes anybody know about an application that could monitor the data written to a specific dry from when I push the button on my pc to when I'm about to shut it down for the night ?would like to know an answer to this myself .. tho .. i'll be checking with google soon if there's still no answer
+
+ COMMENT_BREAK Seems like I'll be replacing my 850 Pro due to speeds rather than hardware failure. 
+
+ COMMENT_BREAK this eases my nervousness with my two kingston v300 120gb ssds , one with 3.5tb written on it , and the other tho older with only 2.8tb written to it 
+
+ COMMENT_BREAK   On 3/13/2015 at 3:37 AM, TooManyErrors said:Seems like I'll be replacing my 850 Pro due to speeds rather than hardware failure.   what speeds are you getting ? 
+
+ COMMENT_BREAK   On 3/13/2015 at 3:21 AM, KenJimmY said:would like to know an answer to this myself .. tho .. i'll be checking with google soon if there's still no answer  Plenty of options. I like the simplicity of SSD Life, though I'm sure eg. Crystaldiskinfo has more features.
+
+ COMMENT_BREAK   On 3/13/2015 at 3:37 AM, TooManyErrors said:Seems like I'll be replacing my 850 Pro due to speeds rather than hardware failure.It may fail due to other reasons since all hardware including HDDs fails eventually... But it probably won't fail due to you writing data to it; which is what so many people are irrationally afraid of when it comes to SSDs.
+
+ COMMENT_BREAK   On 3/13/2015 at 12:00 AM, Sharkyx1 said:840 EVOs are nothing but trouble, rave reviews out the gate, but a year down the road they've slowed down to less than mechanical speeds  For some people, sure. I believe it was 25% of drives.  I've written 55TB to mine, and it reads at 525MB/s and writes at 328MB/s.  That said, I plan to retire it from my main rig and stick it in my game server soon.
+
+ COMMENT_BREAK   On 3/13/2015 at 3:59 AM, sylarspock said:what speeds are you getting ?  Last time I checked I think it was around 550 - 575 MBPS. I'm more just referring to when SSDs get even faster.
+
+ COMMENT_BREAK Nice post. This means the 850 Evo I got, might migrate in my next build in a couple of years.
+
+ COMMENT_BREAK   On 3/13/2015 at 11:37 AM, TooManyErrors said:Last time I checked I think it was around 550 - 575 MBPS. I'm more just referring to when SSDs get even faster.  oh, my bad.Well, I see m.2/mSata or PCIe slot SSDs as the future forwardMost SSDs have more or less achieved a saturation point on the SATA interface  I have more or less decided that my Win 10 OS drive be a PCIe slot based SSD.850 Pro for now while I run Win 8.1
+
+ COMMENT_BREAK   On 3/13/2015 at 10:51 AM, That Norwegian Guy said:For some people, sure. I believe it was 25% of drives.  I've written 55TB to mine, and it reads at 525MB/s and writes at 328MB/s.  That said, I plan to retire it from my main rig and stick it in my game server soon.  Sounds like you haven't understood the issue, since you mention writes. How are you measuring the drive's speed?
+
+ COMMENT_BREAK   On 3/13/2015 at 11:52 AM, Sakkura said:Sounds like you haven't understood the issue, since you mention writes. How are you measuring the drive's speed?  Samsung Magician of course. And when I mention reads I may as well mention writes, as it measures both at once.
+
+ COMMENT_BREAK   On 3/13/2015 at 2:38 PM, That Norwegian Guy said:Samsung Magician of course. And when I mention reads I may as well mention writes, as it measures both at once.  Samsung Magician doesn't test in a way that will show the problem, even when it is affecting the drive.
+
+ COMMENT_BREAK   On 3/13/2015 at 2:45 AM, Humbug said:Cause RAM is volatile?No flash.Ye, I kno', just, wondering when will we get storage like that. That powering it off keeps data, and power failures doesn't affect it.
+
+ COMMENT_BREAK   On 3/13/2015 at 3:04 PM, Sakkura said:Samsung Magician doesn't test in a way that will show the problem, even when it is affecting the drive.  Yes it does, when the drive slows down it won't magically show more speed than it can actually deliver.  Sure, the flaw may still be there, but if it doesn't result in a decrease in performance yet, it's irrelevant whether there is or not.
+
+ COMMENT_BREAK had a conversation with a friend of my dad 2 month ago and he basically said that write/read is limited therefore ssd can't really be used on actual desktop I answered that yes they are limited but the amount of write/read is huge and cannot be reach unless you make it by purpose. Now I have the number and HOLY SHIT 2.4PB IS HUGE 
+
+ COMMENT_BREAK How many of each model were tested?
+
+ COMMENT_BREAK   On 3/13/2015 at 4:05 PM, That Norwegian Guy said:Yes it does, when the drive slows down it won't magically show more speed than it can actually deliver.  Sure, the flaw may still be there, but if it doesn't result in a decrease in performance yet, it's irrelevant whether there is or not.  Most storage benchmarks, including Samsung Magician AFAIK, measure performance by writing and reading its own set of data to the drive. Which is generally the right way to do things, you can control whether the data is compressible or not, and so on.  But the 840 Evo issue only affects data that has been sitting on the SSD for at least a couple of months. Read speeds slow down for that data, but will recover if the data is rewritten elsewhere or if it's deleted and replaced by new data.  That's why it took a while for the issue to be discovered - first it took a few months for slowdowns to happen, then it took another several months for anyone to run non-standard benchmarks and notice something weird was going on that most benchmarks weren't seeing.
+
+ COMMENT_BREAK   On 3/13/2015 at 5:12 PM, Sakkura said:But the 840 Evo issue only affects data that has been sitting on the SSD for at least a couple of months.  I reinstall (after format) Windows every 3 months.
+
+ COMMENT_BREAK Glad I bought a 840 pro as my main OS drive. Ive had it over 1 year so far only 3.22TB written so far LOL. Guess ive got a long way to go before it fails muahahah
+
+ COMMENT_BREAK I think most people just buy a SSD for the OS, so it would be hard to reach this amount of reads/writes.
+
+ COMMENT_BREAK And here I am using my SSD as OS-only and keeping there pretty much no games whatsoever...I guess I'll start using it more from now on, I don't think I've broken even 1TB on it yet.I guess since the price per Gb went down almost a tenfold in 5 years, it's pretty safe to assume it'll be alright to clock ~100TB per year. That's pretty much like filling my whole 256GB drive every single day.
+
+ COMMENT_BREAK Rather than saying SSDs are inherently reliable, this just says that this particular mode of failure (flash cell wear-out) is nearly impossible to encounter. If your SSD fails, it will certainly be for a different reason.
+
+ COMMENT_BREAK Hey Linus can you please repeat this experiment with modern NVMe drives? 
+
+ COMMENT_BREAK   14 hours ago, HKPolice said:Hey Linus can you please repeat this experiment with modern NVMe drives? You should probably mark him or some LTT employee. Or just request on the correct thread e.g..
+
+ COMMENT_BREAK I don't understand the bricking part. Like, why put it in read-only and when it power cycles, make it unreadably dead? Who thought of this dumbassery? Isn't rebooting system the first thing anyone does when problem happens? WHY?! Just make it read only so you can boot system with other drive and salvage data from it no matter how many times you power cycle it. WTF?
+
+ COMMENT_BREAK see, this is why forums are great, super old thread/ info,  kinda hilarious to see and demonstrates nicely where stupid internet memes like "ssds are bad" come from ... ~      14 hours ago, HKPolice said:Hey Linus can you please repeat this experiment with modern NVMe drives? probably didn't change all that much tbh, even the "dramless" ones are pretty good nowadays.  
+
+ COMMENT_BREAK Someone actually dug up this thread lolLet's give op a like. They're gonna be confused. 
+
+ COMMENT_BREAK
+

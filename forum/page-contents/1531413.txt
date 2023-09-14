@@ -1,0 +1,9 @@
+Post Content
+ I'm currently upgradyng to a msi b550 a pro and when I put the cpu in the socket one side goes in all the way but the other is raised so I can see the pins with the cpu in and pulling the lever down a Little the cpu is fully in but I hear a sound when I'm pulling on the lever like when you touch plastic is this normal?
+
+ COMMENT_BREAK Are you certain you're putting the CPU in the right way?  Look at the triangle on the corner of the CPU. https://www.eteknix.com/how-to-install-an-am4-amd-processor/
+
+ COMMENT_BREAK   39 minutes ago, W1ind3x said:I'm currently upgradyng to a msi b550 a pro and when I put the cpu in the socket one side goes in all the way but the other is raised so I can see the pins with the cpu in and pulling the lever down a Little the cpu is fully in but I hear a sound when I'm pulling on the lever like when you touch plastic is this normal?Since you do not seem to know how to replace a CPU, I have to ask why you're upgrading your motherboard?  Are you needing to?  Are you even upgrading to a compatible one for your CPU?  What motherboard did you have before?  What CPU are you using?
+
+ COMMENT_BREAK
+

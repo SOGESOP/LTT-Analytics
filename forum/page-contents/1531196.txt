@@ -1,0 +1,27 @@
+Post Content
+ I just changed my old motherboard CPU and ram for new ones.  I don't have a huge budget.  I'm running:- Ryzen 5 3600- Asus Prime a320m-k- Nvidia Gtx 1050ti- single stick of 16gb ddr4 ram at 3200mh  I was told that it will cause a performance decrease. But I didn't expect it to be that huge!  The game I'm struggling with is Path of exile.  God of War Valhalla is running at 40-41 FPS.  More CPU bound games give me no trubble but it's a more powerful CPU then my old one so I guess I can't notice the performance impact there.  Any insight and expectation. Next month I'm buying a second stick of 16 gigz ram.  I'm accepting any advice both for my current setup and for future proofing it.
+
+ COMMENT_BREAK   On 9/13/2023 at 10:14 AM, Nikola Kaev said:I just changed my old motherboard CPU and ram for new ones.  I don't have a huge budget.  I'm running:- Ryzen 5 3600- Asus Prime a320m-k- Nvidia Gtx 1050tiExpand  What's the old setup and new setup? Is the 3600 the new CPU?What were your performance results then and now?    QuoteI was told that it will cause a performance decrease. But I didn't expect it to be that huge!Between what setups?
+
+ COMMENT_BREAK A 1050ti is an absolute dog…upgrade that first if you care about gaming.
+
+ COMMENT_BREAK What were the old CPU and board?  Single channel RAM does gimp performance. DDR4 is so dirt cheap now you could probably sell your 16GB stick and get 2x8GB without really paying much net.  The 1050 ti was an extry level GPU from ~2016, so you can only expect so much from it.
+
+ COMMENT_BREAK   On 9/13/2023 at 10:18 AM, Naijin said:What's the old setup and new setup? Is the 3600 the new CPU?What were your performance results then and now?  Between what setups?The cpu was unable to run shit... It was 2 core 4 treads.
+
+ COMMENT_BREAK   On 9/13/2023 at 10:14 AM, Nikola Kaev said:I was told that it will cause a performance decrease. But I didn't expect it to be that huge!  Who told you that it would be a decrease, and why? And what were the old specs vs the now new ones? Plus I am still confused what the actual question is here, is it lower than expected fps in PoE? If so, what were your expectations and what are your actual results?  More information please, be as specific as you can, otherwise we can't help you really.
+
+ COMMENT_BREAK   2 hours ago, Nikola Kaev said:The cpu was unable to run shit... It was 2 core 4 treads.Still don't know what the old specs are. Could you provide them?2. What performance were you seeing previously? What did you expect with the upgrade?3. Did you ever see if you were GPU bound? Was the 1050 ti already running at (almost) 100% with your previous setup?
+
+ COMMENT_BREAK   1 hour ago, GarlicDeliverySystem said:Who told you that it would be a decrease, and why?   I can only conjecture he's referring to someone saying the single channel RAM would hold back performance, which is true to a point.  OP needs to actually make some effort to answer questions and provide clear info if they want help. 
+
+ COMMENT_BREAK   On 9/13/2023 at 12:13 PM, Whatisthis said:A 1050ti is an absolute dog…upgrade that first if you care about gaming.Thank you for the huge help. As a person who makes about 500$ a monthI'd rather eat. So if there is a way to squeeze the max out of what I have. I will be happy. Other wise Ur American way by throwing more money at the problem and hoping it will disappear is meaningless to me. 
+
+ COMMENT_BREAK   38 minutes ago, Middcore said:  I can only conjecture he's referring to someone saying the single channel RAM would hold back performance, which is true to a point.  OP needs to actually make some effort to answer questions and provide clear info if they want help. What is clear info?In the most simple of the simplest ways in asking does having a single ramstick impact my videocard performance?
+
+ COMMENT_BREAK   1 hour ago, Naijin said:Still don't know what the old specs are. Could you provide them?2. What performance were you seeing previously? What did you expect with the upgrade?3. Did you ever see if you were GPU bound? Was the 1050 ti already running at (almost) 100% with your previous setup?Dude 2 cores 4 threads. Foking i5 4470T  8 gigz of ddr3  I could hardly run even Minecraft! Without lag.
+
+ COMMENT_BREAK   13 minutes ago, Nikola Kaev said:Thank you for the huge help. As a person who makes about 500$ a monthI'd rather eat. So if there is a way to squeeze the max out of what I have. I will be happy. Other wise Ur American way by throwing more money at the problem and hoping it will disappear is meaningless to me.  Being surly to people trying to help you isn't going to improve your chances of getting useful advice. We have no idea what your financial circumstances are, and the poster you replied to is correct that the 1050 ti is a very poor GPU by today's standards.     12 minutes ago, Nikola Kaev said:What is clear info?  Answering any of the questions people have asked you about your previous system configuration, the performance you're getting then vs now, etc.     12 minutes ago, Nikola Kaev said:In the most simple of the simplest ways in asking does having a single ramstick impact my videocard performance?  This is the first time you've actually asked this question.  As already stated, single channel RAM does have a negative impact on the overall performance of the system. 
+
+ COMMENT_BREAK
+

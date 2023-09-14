@@ -1,0 +1,9 @@
+Post Content
+ Specs:  CPU: AMD Ryzen 5 3600GPU: Palit GeForce RTX 2060 SUPER Dual NE6206S018P2-1160A 8GB GDDR6 256-bit PCI-E 3.0 Desktop Graphics CardMobo: Gigabyte B550 AORUS ELITE AMD B550 Ryzen Socket AM4 ATX Desktop MotherboardPSU: Super Flower SF-650F14HG(BK) Leadex III Gold 650W 80 Plus Gold Fully Modular Black Desktop Power SupplyRAM: G.Skill F4-3200C16D-16GVKB Ripjaws V Series 16GB (2x8GB) DDR4-3200MHz CL16 1.35V Black Desktop MemoryOS: Windows 10 Pro  I got this all new about three years ago.  Problem:  For the last two or three graphics driver updates (via GeForce Experience), the screen goes black (as usual) but then I can hear something changes with the fans and then after waiting a while I get a BSOD (see attached image). I have no idea what causes it. It is only when I update my drivers that it does this.   The only other weird behaviour that I see with my PC is sometimes after I close Path of Exile my computer often lags a lot and is super slow. That may resolve itself eventually but usually I shut the computer down then.  Any idea what could be the issue? Should I be worrying about my hardware? Should I reinstall windows?   
+
+ COMMENT_BREAK I'd recommend trying to reinstall your drivers fresh.  Here's what I'd recommend trying. Go in to Safe Mode and run the DDU tool to completely uninstall all traces of the drivers https://www.wagnardsoft.com/content/DDU-Guide-Tutorial then while still in safe mode attempt to install GeForce Experience and the drivers again.
+
+ COMMENT_BREAK I'd also recommend ditching GeForce Experience and using NVCleanStall to install only required stuff (first four things).
+
+ COMMENT_BREAK
+

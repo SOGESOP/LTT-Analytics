@@ -1,0 +1,13 @@
+Post Content
+ Hi all!  So I've tinkered with a SFF acer veriton and until a few days ago it was working perfectly. Today I tried to fire it up and it doesn't boot. The CPU fan spins for a second, the power LED lights up at the front, the drive LED too and then it shuts down automatically. I've never seen symptoms like that. Does it mean that the PSU is dead?  Thank you for any input or hints towards troubleshooting
+
+ COMMENT_BREAK What do you mean you tinkered with it? Tinkering with a PSU is a sin in these forums.
+
+ COMMENT_BREAK   33 minutes ago, johnt said:What do you mean you tinkered with it? Tinkering with a PSU is a sin in these forums.I've reapplied thermal paste, cleaned some dust, updated the bios, reinstalled windows and added a SATA Y splitter power cable so I could connect an extra drive (as suggested in another thread of this forum). I didn't open the PSU or anything, and it was behaving perfectly fine last time I used it.
+
+ COMMENT_BREAK   28 minutes ago, Lairlair said:I've reapplied thermal paste, cleaned some dust, updated the bios, reinstalled windows and added a SATA Y splitter power cable so I could connect an extra drive (as suggested in another thread of this forum). I didn't open the PSU or anything, and it was behaving perfectly fine last time I used it.Sorry I think I misread your original post. I don’t think a Y-splitter works for SATA. The protocol only recognizes one drive per wire so I am not sure how that is functioning.  This is really difficult to diagnose. Since your device is technically starting and a fan is spinning, I don’t think we can point directly to the PSU just yet. Have you tried removing your memory sticks and installing one stick at a time to see if that fixes it?  Are there any debug LEDs on your motherboard somewhere that can help?
+
+ COMMENT_BREAK Check all plugs, reseat gpu and RAM. You did something wrong which can probably be done right.What did you do after installing Windows ?Edited 6 minutes ago by leclod
+
+ COMMENT_BREAK
+

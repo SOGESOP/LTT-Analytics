@@ -1,0 +1,13 @@
+Post Content
+ Hi everyone,  I just built my home theater last year and while it's largely been awesome, there is one thing I haven't been able to sort out.  I have less (way less, but enough to know that the audio is off when watching actors talk) than a .5 second audio delay but here's the thing, it only applies to some to some content even when using the same input source (primarily an Apple TV 4k gen 2). I *think* it primarily happens when watching Dolby Vision content--most notably when watching Disney+, Apple TV+ (DV) or rented movies from the iTunes store (DV). Most other content (Max, Hulu, Youtube) on that same input source is in perfect audio sync.  My 5.1 setup consists of:Sony x90cj 75" TVYamaha RX-V4A ReceiverApple TV 4k gen 2SVS SB-1000 Pro SubKEF Q350 L/RKEF Q250c CenterKEF Q150 rears-The Apple TV is connected to the Receiver with a Crutchfield 48gbps HDMI 2.1 cable (.5m)-The Receiver is connected to the TV via the eARC port on my TV with a 5m AudioQuest Pearl 48 Cable.  Any thoughts on what I can do about the lag? Adjusting the audio delay on the receiver for each movie or show isn't a feasible solution. 
+
+ COMMENT_BREAK On amp have you set lipsync to auto (advisable) or a manual setting?https://manual.yamaha.com/av/18/rxa780/en-US/318230283.html  Also for HDR10+ stuff it needs a firmware upgrade first.
+
+ COMMENT_BREAK   22 hours ago, HanZie82 said:On amp have you set lipsync to auto (advisable) or a manual setting?https://manual.yamaha.com/av/18/rxa780/en-US/318230283.html  Also for HDR10+ stuff it needs a firmware upgrade first.  It's manually set, I haven't been able to set it to auto (grayed out), I'll take another look at it today to see if I can get that working. I also believe I'm up to date on firmware for the amp, but I'll double check that as well. Cheers!
+
+ COMMENT_BREAK I still can't get the "auto" option to open up on the amp. That said, I did turn off all video processing on the TV and update the firmware on the TV itself. The problem seems to have improved exponentially. Thanks for taking the time to respond @HanZie82
+
+ COMMENT_BREAK   14 hours ago, ender23 said:I still can't get the "auto" option to open up on the amp. That said, I did turn off all video processing on the TV and update the firmware on the TV itself. The problem seems to have improved exponentially. Thanks for taking the time to respond @HanZie82Oh nice to hear you have some improvement.But i think the lip-sync thing is something you have to enable on the TV side as well.Im not to sure tho, so maybe need to look into it.I hope you can get it working like it should tho, but this is all i know. Goodluck!
+
+ COMMENT_BREAK
+

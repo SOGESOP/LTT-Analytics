@@ -1,0 +1,11 @@
+Post Content
+ Ram in considerationGskill ripjaws V 3600mhz 16gb x2, 32gb kitF4-3600C18D-32GVK  And I have 2 pc as below  Ryzen 5600 , asus B350FCorsair veng led 2x8 3000mhz cl15   Not sure how things will ggo here...Can I simulate the mixing result putting the intel ram from 2nd pc and try overclock ? Currently 3200mhz seems reachable..    Intel 12400F giga B660m pro axGskill ripjaws V 3600mhz 8gb x2 cl18  For intel sys will be 24gb total, speed should match, so expecting no issues?     
+
+ COMMENT_BREAK B350 era motherboard ... may not be able to run memory higher than 3200 Mhz reliably.  The 12400F ... debatable if it really benefits from high frequency DDR4 ... intel tends to not show as big improvements with higher ram frequency as amd ryzen does....  Drop the g-skill and look for some 3200 Mhz ram for the intel which can run at 3000 mhz along with the ram from the amd system . Get 2 x 8 if the motherboard supports 4 sticks.  For the AMD build see if the board is stable at 3600 mhz or 3200 mhz, with the intel ram and if so maybe get another 16 GB... double check that 16 GB sticks are supported if you plan to buy 2 x 16
+
+ COMMENT_BREAK   41 minutes ago, mariushm said:along with the ram from the amd system . Get 2 x 8 if the motherboard supports 4 sticks.That means theres potential issue running 8,16,8,16 ?Cant find any info in manual
+
+ COMMENT_BREAK You can run different size sticks, shouldn't be a problem ... well depends if the existing sticks are single rank or not, shouldn't mix single rank and dual rank sticks (and 16 gb sticks will most likely be dual rank) but  I don't see why you want 16 GB sticks... do you really need more than 32 GB in total? 
+
+ COMMENT_BREAK
+

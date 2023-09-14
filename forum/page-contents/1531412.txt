@@ -1,0 +1,9 @@
+Post Content
+ Hello,  This is my second post about this. I refunded the other GPU and bought a new one from MSI.  I have a RTX 4060 Ti (16gb) and fresh installed Windows 10, but when I check GPU-Z or NVIDIA control panel it just shows "x2 Gen3" or "x2 1.1". Tried everything I don't know what else I can do to fix it. My previous GPU 3060 is working correctly at x16 Gen3.  Nvidia CP:  GPU-Z:
+
+ COMMENT_BREAK Which motherboard and did you set any appropriate BIOS settings?  I'll be following as I've never gotten my 4090 to run at 16x either.  EDIT: Just to clarify your 4060Ti should run at PCI-E 4.0 x8 and that is shown correctly in GPU-Z. However the actual speed is showing as PCI-E 1.1 x2.  In my case my 4090 is PCI-E 4.0 x16 but it only runs at PCI-E 4.0 x8.
+
+ COMMENT_BREAK what else do you have plugged into the motherboard?
+
+ COMMENT_BREAK
+

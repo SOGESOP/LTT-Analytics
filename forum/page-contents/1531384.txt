@@ -1,0 +1,37 @@
+Post Content
+ Im looking for a heatsink for my PC, i currently have a be quiet slim and am looking to upgrade it as Im looking to upgrade my CPU in future.  So far my choices are;Noctua NH-D15Thermalright Phantom Spirit (Non-SE or SE whatever i can get my hands on easiest and cheapest)  or to kick it up a notch;Coolermaster MA824  Basically, is there anything better than these listed, im looking for performance first and foremost, price doesnt really concern me but if performance is even or extremely similar then id rather go cheaper (obvs ). Im not looking for an AIO or any form of watercooling, any suggestions?
+
+ COMMENT_BREAK Deepcool AK620 is as effective as NH-D15 but costs almost half as much. Thermalright dual-towers are great for value too.AIO-s degrade in time, some perhaps less than others, but still if you don't need it now then no point having it for future updates.
+
+ COMMENT_BREAK   3 hours ago, TatamiMatt said:Im looking for a heatsink for my PC, i currently have a be quiet slim and am looking to upgrade it as Im looking to upgrade my CPU in future.  So far my choices are;Noctua NH-D15Thermalright Phantom Spirit (Non-SE or SE whatever i can get my hands on easiest and cheapest)  Expand  Take Tom's with a grain of salt, but worth taking into consideration...  https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html  https://www.tomshardware.com/reviews/thermalright-peerless-assassin-120-se
+
+ COMMENT_BREAK Well, after checking - in US Thermalright Peerless Assassin 120 SE costs only $35 - so the best value and no compromises in performance.
+
+ COMMENT_BREAK   3 hours ago, TatamiMatt said:Thermalright Phantom Spirit (Non-SE or SE whatever i can get my hands on easiest and cheapest)Just get this or the peerless assassin or whatever variant thats cheapest
+
+ COMMENT_BREAK   3 hours ago, Dedayog said:Take Tom's with a grain of salt, but worth taking into consideration...  https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html  https://www.tomshardware.com/reviews/thermalright-peerless-assassin-120-seOr maybe a bowl of salt. Despite having been released 15 days ago, it's already out of date. Lol!  PS120 is a great choice, and probably one of the best for the price. 
+
+ COMMENT_BREAK ive done a good lot of looking into things on the thermalright side of things, phantom spirit is the updated version of the peerless assassin and hits better numbers than both it and even the NH-D15. But im just wondering if theres anythingmore extreme at cooling, PA has 6 heat pipes, PS has 7 but that coolermaster, while not as good value for money has 8. I am and very much have been leaning towards the PS but was curious if i can pump those numbers down even lower.
+
+ COMMENT_BREAK   3 hours ago, TatamiMatt said:ive done a good lot of looking into things on the thermalright side of things, phantom spirit is the updated version of the peerless assassin and hits better numbers than both it and even the NH-D15. But im just wondering if theres anythingmore extreme at cooling, PA has 6 heat pipes, PS has 7 but that coolermaster, while not as good value for money has 8. I am and very much have been leaning towards the PS but was curious if i can pump those numbers down even lower.Can you tell us what you're trying to cool?  And what case?  They work in concert.  
+
+ COMMENT_BREAK   3 hours ago, Dedayog said:Can you tell us what you're trying to cool?  And what case?  They work in concert.  Looking to cool a 13700KF in a 5000D Airflow, i know the PS should be more than viable for this, but i personally enjoy seeing how low i can get temps with minor little improvements that all add up
+
+ COMMENT_BREAK   2 hours ago, TatamiMatt said:Looking to cool a 13700KF in a 5000D Airflow, i know the PS should be more than viable for this, but i personally enjoy seeing how low i can get temps with minor little improvements that all add upIf you simply want the best 'forever' air cooler, go NH-D15. If you want the best bang for the buck for that CPU, go Thermalright's PA. NH-D15's value is a long term argument, since Noctua regularly maintain mounting hardware and make improvements to existing products. Its very likely that your next CPU upgrade can be cheaper by getting updated mounting hardware, assuming you're reusing the cooler.  It depends on what you define as 'low temps', because without extreme cooling, you might struggle to see sub 100C on a 13700KF at full TDP. Low temps are cool, but not worth the sacrifice for little gain in my opinion.
+
+ COMMENT_BREAK   3 hours ago, TatamiMatt said:ive done a good lot of looking into things on the thermalright side of things, phantom spirit is the updated version of the peerless assassin and hits better numbers than both it and even the NH-D15. But im just wondering if theres anythingmore extreme at cooling, PA has 6 heat pipes, PS has 7 but that coolermaster, while not as good value for money has 8. I am and very much have been leaning towards the PS but was curious if i can pump those numbers down even lower.Of course. be quiet! Dark Rock Pro 4, DeepCool AK/AG620, TR Frost Commander 140, and a few others I don't recall.   Depending on the reviewer, all of those best the D15.
+
+ COMMENT_BREAK   45 minutes ago, RevGAM said:Of course. be quiet! Dark Rock Pro 4, DeepCool AK/AG620, TR Frost Commander 140, and a few others I don't recall. All good shouts, but from research, thermalright seem to be absolutely killing it beating out all the above with their phantom spirit, at least from what i can see and if only a little in some cases, even their own frost commander is beaten by that little smaller fanned powerhouse at the hottest under an overclocked load, though just barely, however tbf the FC is better in every other aspect
+
+ COMMENT_BREAK   37 minutes ago, TatamiMatt said:All good shouts, but from research, thermalright seem to be absolutely killing it beating out all the above with their phantom spirit, at least from what i can see and if only a little in some cases, even their own frost commander is beaten by that little smaller fanned powerhouseThat depends on how much you care about noise but they are similar otherwise. 
+
+ COMMENT_BREAK   36 minutes ago, RevGAM said:That depends on how much you care about noise but they are similar otherwise. I generally always wear headphones so noise isnt an issue in the slightest for me
+
+ COMMENT_BREAK   33 minutes ago, TatamiMatt said:I generally always wear headphones so noise isnt an issue in the slightest for meIt's all up to you now...
+
+ COMMENT_BREAK If money is unlimited, replace the stock fans of the one you choose with stronger ones. 
+
+ COMMENT_BREAK Im thinking the Frost Commander or PS, and possibly adding a 3rd fan as opposed to changing the fans in front (only if needed), probably a 120mm airflow due to the design of the fins, but quite high RPM to pull air hard through the fins and not cause an blockage of airflow from the other fans
+
+ COMMENT_BREAK
+

@@ -4,6 +4,11 @@ import os
 
 
 
+class FileManagement:
+
+
+    pass
+
 class MiscTools:
     # formats the logger, please hide your shock
     def format_logging(file_name:str):
@@ -31,8 +36,12 @@ class MiscTools:
     # saves csv of dataframe, again please hide your shock
     def save_to_csv(dataframe_name:object, file_name:str):
         parent_folder=os.path.normpath(os.getcwd()+ os.sep +os.pardir)
-        path="{parent_folder}/dataframe".format(parent_folder=parent_folder)
-        dataframe_name.to_csv('{cwd}/{name}.csv'.format(cwd=path, name=file_name))
+        folder_path="{parent_folder}/dataframe".format(parent_folder=parent_folder)
+        path='{cwd}/{name}.csv'.format(cwd=folder_path, name=file_name)
+        existing_files=os.listdir(folder_path)
+        if file_name in existing_files:
+            os.remove(path)
+        dataframe_name.to_csv(path, index=False)
     
     # splices a string to find the substring you want, with the substring start index and ending
     #~ symbol being passed     

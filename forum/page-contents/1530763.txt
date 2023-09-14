@@ -1,4 +1,0 @@
-
- my build is in my signature, if I'm correct. I enable d.o.c.p/xmp in bios. I tried lower ram MHz still happens. thoughts what can be the issue? the build is about 3 yrs old i didnt use it for about 18 months. everything is up to date bios drivers etc. having this issue for the past couple of months. 
- Have you tried disabling "fast boot" options in the BIOS? I also had that issue until I disabled those settings for RAM in my BIOS (R9 5900X with MSI B550 Gaming Edge WiFi).
-  It does mean that my system takes longer to boot, but it now always boots without fail.

@@ -1,0 +1,7 @@
+Post Content
+ I recently replaced the battery and it worked fine for the first day. I accidentally left it running before going to work last night and it died completely. Now it will not hold a charge. It turns on when plugged in but immediately turns off when unplugged. I updated all drivers and quality of life updates for Windows 10, I held down the battery reset button on the back of the laptop and unplugged the battery then held down the power button and reconnected the battery. The charging indicator doesn't turn on either. 
+
+ COMMENT_BREAK If a lithium (chargeable) battery is drained to much its effectively broken. (to low voltage to even charge but not dead completely)There should be hardware in place to prevent such actions, but 3rd party vendors don't always adhere to said safety's.Only option is to directly charge the cells yourself bypassing the charging circuit of the notebook.But this can be VERY DANGEROUS, so only do that if you know what you're doing.  But this is only if the battery is to low voltage, there can be other issues as well.
+
+ COMMENT_BREAK
+

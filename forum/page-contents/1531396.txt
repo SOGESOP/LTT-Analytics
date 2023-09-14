@@ -1,0 +1,23 @@
+Post Content
+ Hello everyone ,  I have a Sound Blaster AE-5 but as is often the case with internal sound cards, I have extraneous noise. In addition, an update of the card caused my Windows to crash so I would like to switch to an external solution.  I love the sound quality of my AE-5, I mainly use it for games and listening to music on Youtube.  I am attaching the settings made to get the sound I like.  Thanks in advance.
+
+ COMMENT_BREAK What is your budget? What speakers/headphones do you use? And for games/music on YT integrated DAC is enough for 99.9% of the time. You want an external DAC only for mixing or audiophile-grade experience (which also requires good audio source like 24-bit FLAC or even DSD).
+
+ COMMENT_BREAK I have a DT 770 Pro 250 Ohm, the reason for purchasing my sound card was that the sound from the motherboard was too weak.
+
+ COMMENT_BREAK   1 hour ago, --Chris-- said:I have a DT 770 Pro 250 Ohm, the reason for purchasing my sound card was that the sound from the motherboard was too weak.I recommend the Schiit Fulla. No drivers needed. You need to find a different solution to the equalizer though.  I’m sorry nobody talked you out of a Creative Labs product to begin with.
+
+ COMMENT_BREAK   2 hours ago, --Chris-- said:Hello everyone ,  I have a Sound Blaster AE-5 but as is often the case with internal sound cards, I have extraneous noise. In addition, an update of the card caused my Windows to crash so I would like to switch to an external solution.  I love the sound quality of my AE-5, I mainly use it for games and listening to music on Youtube.Expand  Unfortunate. You should definitely get something external like as @johnt said, the Schiit Fulla. There are DAC/amps from Topping, FiiO, Ifi, or if you still want a Sound Blaster device, the G6.
+
+ COMMENT_BREAK   1 hour ago, Spakes said:And for games/music on YT integrated DAC is enough for 99.9% of the timeDepends on the headphones/setup. I would always encourage anyone to upgrade their audio even though the volume might be fine on motherboard audio. My 990 pros sounded awful on my ALC1220 built-in audio.
+
+ COMMENT_BREAK The advantage of products like the SoundBlaster is all in one. You plug in you have a driver/EQ/Surround everything.  The problem is that when it crashes it's ruined. Creative has a big reputation for having bad drivers.
+
+ COMMENT_BREAK   1 hour ago, johnt said:I’m sorry nobody talked you out of a Creative Labs product to begin with.I mean hey. My soundcard is doing just fine 3 years into its life. Even with the GPU under load I can hear no interference at all, no driver issues or anything alike. Just a great and pleasant experience so far. They make good products although they can have a bit of a "gaming" look to them and have some driver issues which are fixed some time ago.
+
+ COMMENT_BREAK   36 minutes ago, --Chris-- said:The problem is that when it crashes it's ruined. Creative has a big reputation for having bad drivers.They've had a terrible reputation for that but it's much better now
+
+ COMMENT_BREAK   33 minutes ago, Tigerleon said:They've had a terrible reputation for that but it's much better nowI am not sure how it’s better. The op is having issues with drivers right now lol  The last time I had a CL product was in the early 2000’s when onboard sound was in its infancy stage. I also used CL exclusively when you had to purchase sound cards just to hear anything out of your PC. The hardware appeared sound from an external perspective, but something always went wrong with it. Even the Audigy series required drivers under the XP era. I got to a point where I had to choose between a modem or my sound card. I couldn’t have both at the same time. So I would download music with Napster and then install the sound card to hear it lol  I couldn’t be anymore done with this company. I am SHOCKED to see their recent revival. How are they still in business?   On another note, my opinion for external audio devices is to ensure they do not require drivers to function. I had an older Micca OriGen that required drivers and ultimately they just dropped support for it. Luckily Windows had a generic USB 2.0 Audio driver I could use, but then my work took away admin rights and so I use it as a paperweight now. Same thing with my Emotiva DAC. They just stopped hosting a link to the drivers one day. $500 DAC that is now a boat anchor.
+
+ COMMENT_BREAK
+

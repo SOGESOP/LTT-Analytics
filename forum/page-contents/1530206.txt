@@ -1,0 +1,265 @@
+Post Content
+ I have a corsair 220T Airflow but one of the included SP120 RGB Pro fans is starting to rattle.  I also have a Matterhorn...something or other.. 120 single tower cooler.  I used to have a corsair H100i RGB Platinum with 2 Corsair ML120 RGB Pro fans on it.  I pulled the fans off the AIO to use on the Matterhorn when I switched back to air cooling.  that when i discovered you can't use two different types of RGB fans on the corsair hub that's in the 220T.  Enough of that anyways on to the poser.  Do you think I can get a 3 pack of either of these fans?  I've looked everywhere.  Amazon.  eBay.  Local computer shops.  There are none of either anywhere to be found.  Does anyone know where i could get them?  I don't mind which ones i get.  whether it's a 3 pack of the SP or a 3 Pack of the ML.  I just don't want to have to shell out for 5r fookin fans. 
+
+ COMMENT_BREAK Amazon sells SP120 RGB Elites in 3 packs with an iCue lighting node: https://www.amazon.com/corsair-sp120-performance-triple-lighting/dp/B08XJZ82Y8
+
+ COMMENT_BREAK that's good but those are elites.  I'd have to have a second lightning node in my PC to get that all to work. and i don't have the USB headers
+
+ COMMENT_BREAK   On 9/7/2023 at 1:54 AM, ChonkerFox said:that's good but those are elites.  I'd have to have a second lightning node in my PC to get that all to work. and i don't have the USB headersSee i have the lighting node it came with my 220T but for some reason you can't run two different types of corsair fans on it.  So I either need 3 of the SP120 RGB Pros,  one to replace my rattly one in the front and two to go on the air cooler.  Or three of the ML120s to go in the front of the 220T and keep the MLs that are already on the cooler.  If I get those elites I'll be in the same boat of not being able to light all my fans off the one lighting node
+
+ COMMENT_BREAK Why did all these companies get so greedy when it came to RGB?  It's so stupid that I can't mix and match RGB without an armful of adapter cables or multiple of the same stupid device in my PC hogging resources 
+
+ COMMENT_BREAK   On 9/7/2023 at 2:12 AM, ChonkerFox said:Why did all these companies get so greedy when it came to RGB?  It's so stupid that I can't mix and match RGB without an armful of adapter cables or multiple of the same stupid device in my PC hogging resources welocme to rgb HELL.  a 3 pack comes with a core controller...
+
+ COMMENT_BREAK   On 9/7/2023 at 2:09 AM, ChonkerFox said:See i have the lighting node it came with my 220T but for some reason you can't run two different types of corsair fans on it.  So I either need 3 of the SP120 RGB Pros,  one to replace my rattly one in the front and two to go on the air cooler.  Or three of the ML120s to go in the front of the 220T and keep the MLs that are already on the cooler.  If I get those elites I'll be in the same boat of not being able to light all my fans off the one lighting nodeIf you are referring to the ML120 non-RGB, I bought 2-packs of them in Amazon shortly before xmas. Where are you?  I recommend the MLs over the SP because they are far superior.   On 9/7/2023 at 2:12 AM, ChonkerFox said:Why did all these companies get so greedy when it came to RGB?  It's so stupid that I can't mix and match RGB without an armful of adapter cables or multiple of the same stupid device in my PC hogging resources I'm very surprised you can't mix Corsair fans. I have the 5000X, so now I'm curious to try other RGB fans than my SP120s on the lighting node.   I assume your problem is only the lighting, right? The fans should spin up no matter which model they are. I recommend you contact Corsair and ask why the incompatibility...
+
+ COMMENT_BREAK   On 9/7/2023 at 10:27 AM, RevGAM said:I assume your problem is only the lighting, right? The fans should spin up no matter which model they are. I recommend you contact Corsair and ask why the incompatibility..yeah the fans all spin.  It's just the RGB.  Fans with different amounts of RGB lights cannot be mixed on a Corsair Lighting Core Node    On 9/7/2023 at 10:27 AM, RevGAM said:If you are referring to the ML120 non-RGBThe two MLs that i have are the ML120 RGB Pros from an old H100i RGB Platinum that died a glorious death on top of a 10900k    On 9/7/2023 at 4:12 AM, thrasher_565 said:a 3 pack comes with a core controller...And this is the problem i have.  Sure i could get another three pack of ML with a second lighting core and use three fans on that 6 port controller and two fans on the 6 port controller i got BUT I haven't got the second USB 2.0 header spare on my motherboard.  I've already got a USB 3.0 7 port card in my system for some extra USBs.   It just baffles me to no end that i can't light two different types of fans on the one lighting core node.  I don't even need to either.  I just need to be able to buy three of either of the two types of fans in my system. but i can't.  there are no SP120 RGB Pro fans available. and there are no ML120 RGB Pro fans available either.  (and YES the 'pro' qualifier in the names of these fans is important because Corsair states as to why the lighting core can't light two different types of fans is because of the number of RGB lights in each one.  So if i get the SP Elites like @Crunchy Dragon suggested.  I'm back to using either two lighting cores or having one set of fans unlit.  I'm not shelling out for RGB if i cannot have it lit.  I'd just be better off grabbing some Arctic 120s for a quarter of the price
+
+ COMMENT_BREAK   On 9/7/2023 at 10:43 AM, ChonkerFox said:yeah the fans all spin.  It's just the RGB.  Fans with different amounts of RGB lights cannot be mixed on a Corsair Lighting Core Node  The two MLs that i have are the ML120 RGB Pros from an old H100i RGB Platinum that died a glorious death on top of a 10900k  And this is the problem i have.  Sure i could get another three pack of ML with a second lighting core and use three fans on that 6 port controller and two fans on the 6 port controller i got I haven't got the second USB 2.0 header spare on my motherboard.  I've already got a USB 3.0 7 port card in my system for some extra USBs.   It just baffles me to no end that i can't light two different types of fans on the one lighting core node.  I don't even need to either.  I just need to be able to buy three of either of the two types of fans in my system. but i can't.  there are no SP120 RGB Pro fans available. and there are no ML120 RGB Pro fans available either.  (and  the 'pro' qualifier in the names of these fans is important because Corsair states as to why the lighting core can't light two different types of fans is because of the number of RGB lights in each one.  So if i get the SP Elites like  suggested.  I'm back to using either two lighting cores or having one set of fans unlit.  I'm not shelling out for RGB if i cannot have it lit.  I'd just be better off grabbing some Arctic 120s for a quarter of the priceExpand  Either dump the SPs and get MLs, or dump Corsair.   
+
+ COMMENT_BREAK   On 9/7/2023 at 1:36 PM, RevGAM said:dump Corsair. I like that idea a lot.  least then if i use generic RGB in this case i can sync it all through mystic light and it'll all sync with my motherboard and my graphics card.  I've got a generic RGB hub.  Just need some decent fans with the generic cable  because that's something else about the lighting node is it doesn't have motherboard sync.  so you can ONLY use it through USB and the iCue malware  I wouldn't even mind as much as i do.  but my MSi Z490 Carbon WiFi even has a Corsair header on it.  but i can't for the life of me work out how to use the damned thing    On 9/7/2023 at 1:36 PM, RevGAM said:Either dump the SPs and get MLs,See i don't mind doing this but i can't find any that match the two ML120 RGB Pros I already have.  I think you only ever got these fans with AIO coolers.  I've never seen them sold separately.  and I'm afraid of getting ML120 RGB Elites cause the LED count might not match and I'll be in the same boat.  Again even if i go with SP120s  All i can find is second hand stuff OR SP120 RGB Elites.  No Pros
+
+ COMMENT_BREAK   On 9/7/2023 at 2:12 AM, ChonkerFox said:Why did all these companies get so greedy when it came to RGB?  It's so stupid that I can't mix and match RGB without an armful of adapter cables or multiple of the same stupid device in my PC hogging resources getting greedy over connections is a fun one. once upon a time there was an company joining others companies to make a new standard for connecting devices, only for greed to "take them" and then not implementing that new standard them selfs. as much as we wanna punish them for not sticking to the standard.... ppl still buy corsair and ppl still buy  iphones(sadly...) 
+
+ COMMENT_BREAK   On 9/7/2023 at 2:08 PM, NorKris said:getting greedy over connections is a fun one. once upon a time there was an company joining others companies to make a new standard for connecting devices, only for greed to "take them" and then not implementing that new standard them selfs. as much as we wanna punish them for not sticking to the standard.... ppl still buy corsair and ppl still buy  iphones(sadly...) Yeah, well I didn't buy this 220T new.  It just came in a deal I made and it's a decent size and chassis.  I might just do what @RevGAM has said and dump the Corsair RGB shit out of it entirely.  Lets be honest no matter what RGB you choose you're going to end up with some form of malware on your computer.  But if it's just MSi Mystic light and it does ALL of the RGB in the one program then that'll be a lot better
+
+ COMMENT_BREAK one usb 2,0 can do 2 usb
+
+ COMMENT_BREAK   On 9/7/2023 at 1:54 PM, ChonkerFox said:I like that idea a lot.  least then if i use generic RGB in this case i can sync it all through mystic light and it'll all sync with my motherboard and my graphics card.  I've got a generic RGB hub.  Just need some decent fans with the generic cable  because that's something else about the lighting node is it doesn't have motherboard sync.  so you can ONLY use it through USB and the iCue malware  I wouldn't even mind as much as i do.  but my MSi Z490 Carbon WiFi even has a Corsair header on it.  but i can't for the life of me work out how to use the damned thingExpand  Understandable. If you want, contact Corsair and see if they can sell you the fans you want. Maybe you'll find something else that will work with the MLs.  You don't need any special, branded software. There's Fan Control and OpenRGB.  Sorry, I don't know about the Corsair thing on your mobo. Can you link to that mobo, please?
+
+ COMMENT_BREAK   On 9/7/2023 at 2:57 PM, thrasher_565 said:one usb 2,0 can do 2 usbyeah but the lighting core comes with an internal connector not the standard external one
+
+ COMMENT_BREAK   On 9/7/2023 at 4:10 PM, RevGAM said:Understandable. If you want, contact Corsair and see if they can sell you the fans you want.  I don't think i'll bother.  I'm just gonna get 5 cheap RGB fans with standard connectors on them and run them through the hub i already have.  and rip the corsair rubbish out of this case for good.    On 9/7/2023 at 4:10 PM, RevGAM said:You don't need any special, branded software. There's Fan Control and OpenRGB.  Great, more resource hogs    On 9/7/2023 at 4:10 PM, RevGAM said:Sorry, I don't know about the Corsair thing on your mobo. Can you link to that mobo, please?  https://www.msi.com/Motherboard/MPG-Z490-GAMING-CARBON-WIFI/Specification  To be honest mate for finding a quick solution to replacing 1 dodgy fan and getting the lights to work on another two.  This thread has got stupidly long. This isn't a diss on this forum, It just shows you the state the PC space is in right now.  The ONLY fucking solution is to ditch FOUR perfectly working fans???  Thats so fucking wasteful!!!
+
+ COMMENT_BREAK   On 9/7/2023 at 4:28 PM, ChonkerFox said:    The ONLY fucking solution is to ditch FOUR perfectly working fans???  Thats so fucking wasteful!!!cuz of "rattle" or the rgb problem?
+
+ COMMENT_BREAK   On 9/7/2023 at 4:32 PM, NorKris said:cuz of "rattle" or the rgb problem?i want to fix both.
+
+ COMMENT_BREAK   On 9/7/2023 at 4:32 PM, NorKris said:cuz of "rattle" or the rgb problem?I've got 5 fans from the SAME MANUFACTURER that can't be lit from a single device from the SAME MANUFACTURER??  It's barmy
+
+ COMMENT_BREAK   On 9/7/2023 at 4:34 PM, ChonkerFox said:i want to fix both.rattle in fans in my  experience only goes away if they are mounted horizontal.  All corsair fans are ARGB and can be easy made to work with  standard ARGB
+
+ COMMENT_BREAK   On 9/7/2023 at 4:36 PM, ChonkerFox said:I've got 5 fans from the SAME MANUFACTURER that can't be lit from a single device from the SAME MANUFACTURER??not technically true
+
+ COMMENT_BREAK   On 9/7/2023 at 4:38 PM, NorKris said:not technical true  What do you mean by this?  I've got all 5 plugged in to my lightning core node that came with my 220T.  CORSAIR have told me I CANNOT use both types on one lighting core node.  The SL120 and the ML120  have different amounts of LEDs in. This is the reasoning they gave me.    On 9/7/2023 at 4:37 PM, NorKris said:rattle in fans in my  experience only goes away if they are mounted horizontal.  How am I supposed to mount my front intake fans horizontally? 
+
+ COMMENT_BREAK   On 9/7/2023 at 4:43 PM, ChonkerFox said:  How am I supposed to mount my front intake fans horizontally?  oke  lets start with this.  how many fans rattle?
+
+ COMMENT_BREAK   On 9/7/2023 at 4:37 PM, NorKris said:All corsair fans are ARGB and can be easy made to work with  standard ARGBThis is true, yes.  IK could convert the proprietary Corsair ARGB connector to a standard ARGB one.  I've costed it up and it's about £60 in converter cables (at around £12 each) plus the cost of a non-proprietary ARGB hub and a single fan to replace the one with the rattle (if i go corsair..around £20)  So that's already looking like the guts of 100 quid
+
+ COMMENT_BREAK   On 9/7/2023 at 4:45 PM, NorKris said:oke  lets start with this.  how many fans rattle?Just the one
+
+ COMMENT_BREAK   On 9/7/2023 at 4:48 PM, ChonkerFox said:Just the one  Rattle fixedRGB fixed
+
+ COMMENT_BREAK   On 9/7/2023 at 4:57 PM, NorKris said:Expand  No it's not.  You CANNOT run two different types of RGB fans on the lighting core node.  YOU CANNOT DO IT for the last time. I have been told this by corsair
+
+ COMMENT_BREAK I hate to butt in but @NorKris. He has found a solution. While your input was nice, he doesn't need anymore information about what to do. I recommend next time possibly looking into the situation, because if you would've read @ChonkerFoxpost you would be able to see and understand that what you asking isn't possible. He has found a solution. This thread doesn't need to continue.
+
+ COMMENT_BREAK   On 9/7/2023 at 5:02 PM, ChonkerFox said:No it's not.  You CANNOT run two different types of RGB fans on the lighting core node.  YOU CANNOT DO IT for the last time. I have been told this by corsairApple said: ur holding it wrong..  
+
+ COMMENT_BREAK Corsair says otherwise
+
+ COMMENT_BREAK   On 9/7/2023 at 5:10 PM, ChonkerFox said:Corsair says otherwise  ask corsair if their stuff works with  standard RGB headers    corsair also told linus that stacking rads does not work  xd
+
+ COMMENT_BREAK tested it now with icue, a node and the RGB hub (in the pic) 
+
+ COMMENT_BREAK   On 9/7/2023 at 5:06 PM, Skyesgaming said:I hate to butt in but @NorKris. He has found a solution. While your input was nice, he doesn't need anymore information about what to do. I recommend next time possibly looking into the situation, because if you would've read @ChonkerFoxpost you would be able to see and understand that what you asking isn't possible. He has found a solution. This thread doesn't need to continue.while i understand were ur comming from, there is the good chance that som1 else is going to read this with the same problem and maybe want the 100% correct answer. or just a better answer.  this is why when a guy comes to this forum and says  " i got high temps on my 240 aio"i wanna find out why, i dont wanna hear  "240 aios are bad, get an air cooler" 
+
+ COMMENT_BREAK   On 9/7/2023 at 4:28 PM, ChonkerFox said:  On 9/7/2023 at 4:10 PM, RevGAM said:You don't need any special, branded software. There's Fan Control and OpenRGB.  Great, more resource hogsExpand  Actually, no they are not. 
+
+ COMMENT_BREAK   On 9/7/2023 at 5:32 PM, NorKris said:tested it now with icue, a node and the RGB hub (in the pic)  Expand  I do NOT have RGB strip as an option in my lighting node CORE that came with my 220T.  Please, PLEASE just drop it.  You've not read the initial post and am assuming I am using a lighting node. I AM NOT.  I'm using the CORE edition of that node that comes with the 220T  Now please excuse me while i wipe iCue off my system AGAIN
+
+ COMMENT_BREAK   On 9/7/2023 at 4:21 PM, ChonkerFox said:yeah but the lighting core comes with an internal connector not the standard external one
+
+ COMMENT_BREAK   On 9/8/2023 at 2:11 AM, thrasher_565 said:Expand  It's the top one out of those two. 
+
+ COMMENT_BREAK   On 9/8/2023 at 2:13 AM, ChonkerFox said:It's the top one out of those two. so you have them split all ready?
+
+ COMMENT_BREAK   On 9/7/2023 at 5:08 PM, NorKris said:Apple said: ur holding it wrong..   Expand  they have a core not a pro. they would need a xt or a pro to have the rgb setting.  the lnc dose not.
+
+ COMMENT_BREAK   On 9/8/2023 at 2:27 AM, thrasher_565 said:they have a core not a pro. they would need a xt or a pro to have the rgb setting.  the lnc dose not.same settings, and there is no  "pro" 
+
+ COMMENT_BREAK   On 9/8/2023 at 2:14 AM, thrasher_565 said:so you have them split all ready?No it's just a whole header it takes up.  i'd have to dig it out but i'm sure it's wired to take up 'both' USB headers in the block    On 9/8/2023 at 6:26 AM, NorKris said:same settings, and there is no  "pro" no but what i have is the 'core' edition of it.  It doesn't even come with the plastic cover.  It's just a bare PCB bolted to the chassis.  This is what i've been trying to get across.  It's a 'cut down' version of what you have  And i guess what @Crunchy Dragon was saying earlier is get the elites and I'll end up with the full fat version of the lighting core to replace my diet one with
+
+ COMMENT_BREAK   On 9/8/2023 at 10:58 AM, ChonkerFox said:  no but what i have is the 'core' edition of it.  It doesn't even come with the plastic cover.  It's just a bare PCB bolted to the chassis.  This is what i've been trying to get across.  It's a 'cut down' version of what you haveIs it software cut down? and you have not shown a pic from the software yet 
+
+ COMMENT_BREAK   On 9/8/2023 at 11:30 AM, NorKris said:Is it software cut down? and you have not shown a pic from the software yet Can you just stop. You are not helping this situation any. If you would LISTEN or do some actual RESEARCH you would understand that what you are asking him to do isn't possible. If you would just read the previous posts, you can see that he posted pictures from inside of the software that he doesn't have options available. You are not helping. Jump off your little "corsair is the best" wagon, and open your eyes to some logic. The reason his fans do not work the same way as other ones do is because his fans are the dummied down version. Like how the 6a is the dummied down version of the 6. While not everything is different. It is still missing some things. Open your eyes, actually read, and do some research. 
+
+ COMMENT_BREAK   On 9/8/2023 at 11:30 AM, NorKris said:Is it software cut down? and you have not shown a pic from the software yet I showed it here.  This is iCue
+
+ COMMENT_BREAK   On 9/8/2023 at 10:58 AM, ChonkerFox said:No it's just a whole header it takes up.  i'd have to dig it out but i'm sure it's wired to take up 'both' USB headers in the block  no but what i have is the 'core' edition of it.  It doesn't even come with the plastic cover.  It's just a bare PCB bolted to the chassis.  This is what i've been trying to get across.  It's a 'cut down' version of what you have  And i guess what  was saying earlier is get the elites and I'll end up with the full fat version of the lighting core to replace my diet one withExpand  this is what you have
+
+ COMMENT_BREAK   On 9/8/2023 at 2:53 PM, thrasher_565 said:this is what you haveExpand  Based on what they described, the bottom-left one - the same one that is in my 5000X.
+
+ COMMENT_BREAK   On 9/8/2023 at 2:53 PM, thrasher_565 said:this is what you haveExpand  Yeah it's the bottom left one.  The bare PCB version.  And I posted already the options I have for it in iCue.  And @RevGAM will be able to confirm that the usb plug on it takes up a whole front panel header
+
+ COMMENT_BREAK   On 9/8/2023 at 12:27 PM, ChonkerFox said:I showed it here.  This is iCueExpand  8led and split the last  maybe 
+
+ COMMENT_BREAK 8led setup:     the cooler master fans would be the ML fans     get this: Amazon.com: Angitu 10CM for Corsair RGB Fan Hub 3Pin 4Pin Splitter Adapter Cable for Corsair Lighting Node Pro Commander Pro Core to Standard ARGB 3-Pin 5V (3P female-2pcs 3P Male) : Electronics or buy 2 of these local and make it ur self  
+
+ COMMENT_BREAK   On 9/8/2023 at 5:09 PM, NorKris said:8led setup:   Expand  It doesn't work.  I've tried it
+
+ COMMENT_BREAK   On 9/8/2023 at 10:16 PM, ChonkerFox said:It doesn't work.  I've tried itdo u have picture of it?  would be nice to know how and where the "casesoftware" is different"  
+
+ COMMENT_BREAK   On 9/8/2023 at 10:35 PM, NorKris said:do u have picture of it?  would be nice to know how and where the "casesoftware" is different"  i've showed a picture of it twice.  the rest of icue looks like icue.  you even quoted my picture of it
+
+ COMMENT_BREAK Dang, wouldn't it be helpful if in this thread and others if people would just open their eyes, learn how to read and comprehend, and actually try to be helpful, instead of fighting the poster constantly about what their question is in order to try to prove them "wrong" in some way..Wouldn't it be helpful if people would get off their "this product is the best" high horse, and actually listen, do some research, and move on with their life when things don't work out properly. Man that would be the life eh @ChonkerFox.
+
+ COMMENT_BREAK   On 9/8/2023 at 5:01 PM, ChonkerFox said:Yeah it's the bottom left one.  The bare PCB version.  And I posted already the options I have for it in iCue.  And @RevGAM will be able to confirm that the usb plug on it takes up a whole front panel headerYup.
+
+ COMMENT_BREAK   On 9/8/2023 at 5:09 PM, NorKris said:get this: Amazon.com: Angitu 10CM for Corsair RGB Fan Hub 3Pin 4Pin Splitter Adapter Cable for Corsair Lighting Node Pro Commander Pro Core to Standard ARGB 3-Pin 5V (3P female-2pcs 3P Male) : ElectronicsThat specifically says "Pro" for the node, which the OP has already indicated they DON'T have. I'm going to fly to Norway just to smack you, dude! The cases the OP and I have don't come with the pro version.
+
+ COMMENT_BREAK   On 9/8/2023 at 10:35 PM, NorKris said:do u have picture of it?  would be nice to know how and where the "casesoftware" is different"  iCUE varies depending on what's plugged in. It doesn't "see" my RM850x PSU, nor does it offer some of the other features that are advertised. Why? Because it's not sensing things, so it turns off or hides "unneeded" features...Even if they're needed. I confirmed that with Corsair.    On 9/8/2023 at 11:49 PM, Skyesgaming said:Dang, wouldn't it be helpful if in this thread and others if people would just open their eyes, learn how to read and comprehend, and actually try to be helpful, instead of fighting the poster constantly about what their question is in order to try to prove them "wrong" in some way..Wouldn't it be helpful if people would get off their "this product is the best" high horse, and actually listen, do some research, and move on with their life when things don't work out properly. Expand  It may just be the language barrier, since NorKris is from Norway. Or maybe inebriation? 
+
+ COMMENT_BREAK   On 9/9/2023 at 12:04 AM, RevGAM said:It may just be the language barrier, since NorKris is from Norway. Or maybe inebriation?Didn't know he was from Norway so my bad. But uh. Still no comment on the other sentence
+
+ COMMENT_BREAK   On 9/8/2023 at 4:25 PM, RevGAM said:Based on what they described, the bottom-left one - the same one that is in my 5000X.all it is is a lnc with out the shell... that is it.
+
+ COMMENT_BREAK   On 9/8/2023 at 11:49 PM, Skyesgaming said:Dang, wouldn't it be helpful if in this thread and others if people would just open their eyes, learn how to read and comprehend, and actually try to be helpful, instead of fighting the poster constantly about what their question is in order to try to prove them "wrong" in some way..Wouldn't it be helpful if people would get off their "this product is the best" high horse, and actually listen, do some research, and move on with their life when things don't work out properly. Expand  no the op said it cant be done and we say yest it can. not saying there wrong at all it vary confusing.i agree that corsair stuff is crap 100% and if they are done i dont blame em.  you can indeed hook to controllers to a 9 pin. yes they controller has a 9 pin but it take like 30 seconds to un pin and re pin for another controller or just buy a 9 pin to 4/5pin  splitor...  buying a 3 pack COMES with a lnc.  with 2 controller you can hook up 2 different fans...  but anyway im not helping anymore as you dont was us too.    corsair them selfs are done with there system that why they made the link system to be 100% proprietary  everything els is being dicontiued.    Edited Saturday at 02:43 AM by thrasher_565
+
+ COMMENT_BREAK   On 9/9/2023 at 2:35 AM, thrasher_565 said:the opI uh, I should add that the OP is my boyfriend and I have watched him go through this, multiple times to try to get this to work for him. So I have insider information.   One person says he can do it with one device - which he has tried, multiple times.One person says he needs two devices, that need to be modified,  to plug into one header.And one person is on our side, saying that he cannot do it because of the device that it is.   He is just going to go with his original plan with just, getting 5 generic RGB fans. It sucks that 4 other fans needs to go to waste, but its just daft otherwise to try to figure out this... corsair crap. 
+
+ COMMENT_BREAK   On 9/9/2023 at 2:28 AM, thrasher_565 said:all it is is a lnc with out the shell... that is it.Also, it is not. He does not have the RGB strip option in Icue, as shown in his screenshots that he has submitted two times now.   Thank you for everyone trying to help, especially @RevGAM. He is just going to move on from the corsair, throw away the 4 fans (super wasteful, thats on corsair though), and get the generic fans that he was on about in his first couple of posts on this thread. 
+
+ COMMENT_BREAK   On 9/9/2023 at 3:07 AM, Skyesgaming said:I uh, I should add that the OP is my boyfriend and I have watched him go through this, multiple times to try to get this to work for him. So I have insider information.   One person says he can do it with one device - which he has tried, multiple times.One person says he needs two devices, that need to be modified,  to plug into one header.Expand  ya but that is the internet, everyone get to talk. weather it right or wrong.i dont have 7.2k replays for nothing and most were ALL about argb... so much that at times i hate it. and most times i dont help because im too done with it.but im so far deep in i got rgb everything... so i have to make it work. i many have like $5000 worth of it...  but that is how i started on this forms as i also didnt no what argb/rgb was. and then lead me down this rabithole.yes i have most of the controllers, i have a rgb box under my bed, i have a rgb folder in my pic folder...  not saying im right like i said still vary confusing. like the hub thing no one nos how that thing works...  but i do respect your answer and i agree with it.  i had a shit day at work. and im out of icetea so just water it is...  (be leave it or not my main build had NO RGB in it. ) then i got to fans and was saw something on youtube...  aslo gave up water cooling at some point then i got the bug agen.. now im 8x 560mm rads deep...
+
+ COMMENT_BREAK   On 9/9/2023 at 3:10 AM, Skyesgaming said:Also, it is not. He does not have the RGB strip option in Icue, as shown in his screenshots that he has submitted two times now.   Thank you for everyone trying to help, especially @RevGAM. He is just going to move on from the corsair, throw away the 4 fans (super wasteful, thats on corsair though), and get the generic fans that he was on about in his first couple of posts on this thread. Expand  i no that its lighting node core  he needs a lighting node pro, commander pro or commander core xt to have the rgb thing in the manu
+
+ COMMENT_BREAK   On 9/8/2023 at 11:32 PM, ChonkerFox said:i've showed a picture of it twice.  the rest of icue looks like icue.  you even quoted my picture of itconnections, wires and how the rgb is in the fans
+
+ COMMENT_BREAK   On 9/9/2023 at 3:22 AM, thrasher_565 said:i no that its lighting node core  he needs a lighting node pro, commander pro or commander core xt to have the rgb thing in the manudo you belive that the same modes from  Node to the case controller is diffrent? 
+
+ COMMENT_BREAK   On 9/9/2023 at 8:06 AM, NorKris said:do you belive that the same modes from  Node to the case controller is diffrent? what you mean? they dont have 3 pin on it witch is need for the rgb setting...
+
+ COMMENT_BREAK   On 9/9/2023 at 8:09 AM, thrasher_565 said:what you mean? they dont have 3 pin on it witch is need for the rgb setting...the mode is called  8-LED series fans.. fans have 4 pin 
+
+ COMMENT_BREAK   On 9/9/2023 at 8:11 AM, NorKris said:the mode is called  8-LED series fans.. fans have 4 pin  fans have 4pin rgb strips are 3 pin. the controller on the case only has 4pin and no 3 pin. so no rgb strip witch means no adjustable amount of leds... witch means no mixing fans...    Edited Saturday at 08:16 AM by thrasher_565
+
+ COMMENT_BREAK   On 9/9/2023 at 8:15 AM, thrasher_565 said:fans have 4pin rgb strips are 3 pin. the controller on the case only has 4pin and no 3 pin. so no rgb strip witch means no adjustable amount of leds... witch means no mixing fans...      in this topic we are talking about fans,  so 3 pin is not a talkingpoint, why did u bring it up?  and i bet u can see the picture of mixing fans on the 8-LED mode...?  
+
+ COMMENT_BREAK   On 9/9/2023 at 8:20 AM, NorKris said:in this topic we are talking about fans,  so 3 pin is not a talkingpoint, why did u bring it up?  and i bet u can see the picture of mixing fans on the 8-LED mode...?   you did not mic fans on on core controller but a pro so there a difference i guess you have to buy a core then.
+
+ COMMENT_BREAK   On 9/9/2023 at 8:23 AM, thrasher_565 said:you did not mic fans on on core controller but a pro so there a difference i guess you have to buy a core then.but my question to u is:do u rly think there is a difference on the same mode between those controllers?   cuz i dont
+
+ COMMENT_BREAK   On 9/9/2023 at 8:25 AM, NorKris said:but my question to u is:do u rly think there is a difference on the same mode between those controllers?   cuz i dontyes i do...
+
+ COMMENT_BREAK   On 9/9/2023 at 8:26 AM, thrasher_565 said:yes i do...and what about the node core-pcb edition (coming in cases and the node core with normal housing? 
+
+ COMMENT_BREAK   On 9/9/2023 at 3:07 AM, Skyesgaming said:I uh, I should add that the OP is my boyfriend and I have watched him go through this, multiple times to try to get this to work for him. So I have insider information.   One person says he can do it with one device - which he has tried, multiple times.One person says he needs two devices, that need to be modified,  to plug into one header.Expand  Just to point out, oh famous movie actor who speaks with a British accent (unlike Kevin Costner), but the reason those fans are going to waste isn't because they cannot be used but that your boyfriend wants useless lights. Ignore the LEDs, or just use some LED fans with and others off, and voila! all the fans are still in use. hehehehe    On 9/9/2023 at 3:10 AM, Skyesgaming said:He is just going to move on from the corsair, throw away the 4 fansIf he's going to just toss them, send them to me so I can test them.   That way they won't go to waste!  On 9/9/2023 at 8:43 AM, NorKris said:and what about the node core-pcb edition (coming in cases and the node core with normal housing? Kris, I'm pinching you right now. If I had any other fan with the same connector other than my SP120 RGB Elites, I would test it myself.@NorKris@thrasher_565Do either of you know of a non-Corsair RGB fan that has the SAME RGB connector? If you do, let me know and I'll see if I have it in my inventory.
+
+ COMMENT_BREAK   On 9/9/2023 at 11:50 AM, RevGAM said:g you right now. If I had any other fan with the same connector other than my SP120 RGB Elites, I would test it myself.@NorKris@thrasher_565Do either of you know of a non-Corsair RGB fan that has the SAME RGB connector? If you do, let me know and I'll see if I have it in my inventory.no, only corsair fans have the 4pin needed for the 3 first fans in this setup. MLQLLLSP rgb  and so on 
+
+ COMMENT_BREAK   On 9/9/2023 at 11:50 AM, RevGAM said:Ignore the LEDsBut pretty lights   
+
+ COMMENT_BREAK   On 9/9/2023 at 11:50 AM, RevGAM said:unlike Kevin CostnerI'm British so I'm a good judge on these thing.  Kevin Costner did a better British accent in Prince of Thieves than Russel Crow did in Robin Hood 
+
+ COMMENT_BREAK   On 9/9/2023 at 1:16 PM, Skyesgaming said:But pretty lights  Expand  Cute puppy but I feel sorry for it.Pretty useless lights. LOL!
+
+ COMMENT_BREAK   On 9/9/2023 at 1:21 PM, ChonkerFox said:I'm British so I'm a good judge on these thing.  Kevin Costner did a better British accent in Prince of Thieves than Russel Crow did in Robin Hood I see you're completely ignoring Kevin Costner's pathetic Robin Hood. Good! What about Errol Flynn? I think he was RH back in the 50s?
+
+ COMMENT_BREAK   On 9/9/2023 at 3:46 PM, RevGAM said:I see you're completely ignoring Kevin Costner's pathetic Robin Hood. Good! What about Errol Flynn? I think he was RH back in the 50s?The best Robin Hood, the only one with a British actor, is Robin Hood Men In Tights. 
+
+ COMMENT_BREAK i rly dont know why ppl doubt me  @thrasher_565 @RevGAMwe would save so much time if ppl did more testing and ..less .. just talking
+
+ COMMENT_BREAK   On 9/12/2023 at 4:06 PM, NorKris said:i rly dont know why ppl doubt meExpand  I told you I don't have any other fans to try in the node.
+
+ COMMENT_BREAK   On 9/12/2023 at 4:13 PM, RevGAM said:I told you I don't have any other fans to try in the node.iknow  it was not against u,  just info for u  
+
+ COMMENT_BREAK   On 9/12/2023 at 4:15 PM, NorKris said:iknow  it was not against u,  just info for u  I'm already aware. 
+
+ COMMENT_BREAK   On 9/12/2023 at 4:15 PM, NorKris said:iknow  it was not against u,  just info for u  Is there a version number on your node?
+
+ COMMENT_BREAK   On 9/12/2023 at 4:24 PM, RevGAM said:Is there a version number on your node?not rly, on the back of the PCB it says 94v-0
+
+ COMMENT_BREAK   On 9/12/2023 at 4:06 PM, NorKris said:i rly dont know why ppl doubt meI have reinstalled iCue for completions sake.   Here are my settings  This is my case
+
+ COMMENT_BREAK   On 9/12/2023 at 4:49 PM, ChonkerFox said:I have reinstalled iCue for completions sake.   Here are my settingsExpand  but u dont have the splitter yet 
+
+ COMMENT_BREAK update: best mode is the QL mode, i have 7 fans, 6 channels, 3 diff types of fans.. 100% working 
+
+ COMMENT_BREAK   On 9/12/2023 at 4:53 PM, NorKris said:but u dont have the splitter yet Why would I need the splitter?  I have 5 fans and 6 ports available.    On 9/12/2023 at 5:25 PM, NorKris said:update: best mode is the QL mode, i have 7 fans, 6 channels, 3 diff types of fans.. 100% working Still nothing on there.    Same as before Front fans LEDs are lit, cooler fan LEDs are off
+
+ COMMENT_BREAK   On 9/12/2023 at 5:34 PM, ChonkerFox said:Why would I need the splitter?  I have 5 fans and 6 ports available.  Still nothing on there.  Expand  thats how u can bypass some corsair restrictions.. but testing it now.. it works without... can we get a pic from ur controller? (the wireing and such)  also try the cpu fan in  port 1
+
+ COMMENT_BREAK   On 9/12/2023 at 5:53 PM, NorKris said:thats how u can bypass some corsair restrictions.. but testing it now.. it works without... can we get a pic from ur controller? (the wireing and such)  also try the cpu fan in  port 1yeah i'll be digging it all out tomorrow or thursday for a hoover up under my desk
+
+ COMMENT_BREAK   On 9/12/2023 at 4:30 PM, NorKris said:not rly, on the back of the PCB it says 94v-0Can you post a close-up of both sides, please?
+
+ COMMENT_BREAK   On 9/12/2023 at 10:18 PM, RevGAM said:Can you post a close-up of both sides, please?why lol
+
+ COMMENT_BREAK   On 9/12/2023 at 10:21 PM, NorKris said:why lolI want to see if it's the same as what I have. Mine looks like the one Thrasher posted on page 3. I can't see yours clearly, but it looks like there MAY be a difference.
+
+ COMMENT_BREAK   On 9/12/2023 at 10:23 PM, RevGAM said:I want to see if it's the same as what I have. Mine looks like the one Thrasher posted on page 3. I can't see yours clearly, but it looks like there MAY be a difference.yep same as that pic   we now know that  node pro has more modes, but the modes  node core and node pro(and cmd pro) shares are the same 
+
+ COMMENT_BREAK   On 9/12/2023 at 10:25 PM, NorKris said:yep same as that pic   we now know that  node pro has more modes, but the modes  node core and node pro(and cmd pro) shares are the same There seems to be one small difference between mine and the one in the picture. To the left and above the word "Corsair" on the PCB, mine has a small chip or something. That image shows a different shape.
+
+ COMMENT_BREAK Strange...The node shown on the website for my 5000x is NOT the one I got. The port on the left side is absent in mine, and the chip on mine next to "Corsair" is absent on this one.Mine:So, I still need to see a photo of yours...Please.@ChonkerFoxCan you please tell me if either photo looks like yours? Pay close attention to the port on the left and the rectangular component on the right.Edited Tuesday at 11:07 PM by RevGAMRequest to CF, too
+
+ COMMENT_BREAK   On 9/12/2023 at 10:59 PM, RevGAM said:Strange...The node shown on the website for my 5000x is NOT the one I got. The port on the left side is absent in mine, and the chip on mine next to "Corsair" is absent on this one.Expand  yeah, like i said I'll dig it all out tomorrow or thursday when i hoover under my desk 
+
+ COMMENT_BREAK I reached out to Corsair about the question of the lighting node core being able to power different types of fans, as well as why the node shown for my case is different from what I have. The customer service person (and Corsair CSC rarely knows much that is even mildly technical) said that if the RPM and amps were similar, it would work to mix different fans. I asked that they open a ticket to tech support.I got a response from Tyler A in tech support on both matters.  QuoteThe picture in the 5000X gallery is a render of the product and may not changes made in production. You are not losing any functionality if your Lighting Node Core does not feature this 7th header and that is why it was excluded from the units. The Lighting Node Core does, unfortunately, require all the fans installed to be the same model as well. You would not be able to mix and match fans of different types/LED numbers.If you take a look at the actual product page for the Lighting Node Core you can see this port is excluded:Expand  So, @NorKris, I'm afraid that you're going to need to explain how you managed to make it work when Corsair told @ChonkerFoxand me that it's not possible.Also, I'd still like to see a photo of your nodes, folks.
+
+ COMMENT_BREAK   20 hours ago, RevGAM said:I reached out to Corsair about the question of the lighting node core being able to power different types of fans, as well as why the node shown for my case is different from what I have. The customer service person (and Corsair CSC rarely knows much that is even mildly technical) said that if the RPM and amps were similar, it would work to mix different fans. I asked that they open a ticket to tech support.I got a response from Tyler A in tech support on both matters.Expand  Corsair did tell linus in the hacktosh vid that stacking rads like that does not work.. and they where wrongAsus support told me once that touch on a asus laptop didnt work cuz i had the wrong version of windows 10    Corsair is wrong  Chonkerfox says that one fan is not lighting up right?
+
+ COMMENT_BREAK   20 hours ago, RevGAM said:I reached out to Corsair about the question of the lighting node core being able to power different types of fans, as well as why the node shown for my case is different from what I have. The customer service person (and Corsair CSC rarely knows much that is even mildly technical) said that if the RPM and amps were similar, it would work to mix different fans. I asked that they open a ticket to tech support.I got a response from Tyler A in tech support on both matters.Expand  I did start under my desk today i'll finish it off tomorrow and get that pic
+
+ COMMENT_BREAK   19 hours ago, NorKris said:Corsair did tell linus in the hacktosh vid that stacking rads like that does not work.. and they where wrongAsus support told me once that touch on a asus laptop didnt work cuz i had the wrong version of windows 10    Corsair is wrong  Expand  Two aren't.  I have three SP120 RGB Pros and two ML120 RGB Pros plugged in.  Only the SP120 RGB Pros are lit up.  I know the ML120 RGB Pros LEDs work because when they were on the rad for the H100i RGB Platinum and plugged in to the RGB controller on that they worked
+
+ COMMENT_BREAK   19 hours ago, ChonkerFox said:Two aren't.  I have three SP120 RGB Pros and two ML120 RGB Pros plugged in.  Only the SP120 RGB Pros are lit up.  I know the ML120 RGB Pros LEDs work because when they were on the rad for the H100i RGB Platinum and plugged in to the RGB controller on that they workedSo am I correct that an SP120 is plugged into the primary port that reports to the node?  19 hours ago, NorKris said:Corsair did tell linus in the hacktosh vid that stacking rads like that does not work.. and they where wrongAsus support told me once that touch on a asus laptop didnt work cuz i had the wrong version of windows 10  Corsair is wrongI understand that. I said that you'll need to explain how you made it work. And, again, photo please. Given the "world-class support" that Corsair promises but doesn't deliver, I'm not surprised that they're wrong - I've talked to them enough to laugh at the generally poor support, with one or two exceptions - especially customer support.                  Edited 19 hours ago by RevGAMRemoved images - wrong fan versions.
+
+ COMMENT_BREAK   19 hours ago, RevGAM said:So am I correct that an SP120 is plugged into the primary port that reports to the node?I understand that. I said that you'll need to explain how you made it work. And, again, photo please. Given the "world-class support" that Corsair promises but doesn't deliver, I'm not surprised that they're wrong - I've talked to them enough to laugh at the generally poor support, with one or two exceptions - especially customer support.  Expand  i used the 8LEd fan option (later the QL)  the only fan i have 3 of is the HD120, that has 12 Leds, so that alone should put the 8led option out of ...  uknowbut it does notport 1: HDport 2: HDPort 3: HDport 4: SP RGB eliteport 5: SP RGB elite  or 'port 1: HDport 2: HDPort 3: HDport 4: splitter Open stanard fan 1, open standard fan 2
+
+ COMMENT_BREAK   19 hours ago, NorKris said:i used the 8LEd fan option (later the QL)  the only fan i have 3 of is the HD120, that has 12 Leds, so that alone should put the 8led option out of ...  uknowbut it does notport 1: HDport 2: HDPort 3: HDport 4: SP RGB eliteport 5: SP RGB eliteExpand  So is the obvious splicing you did what the OP would replace with a splitter, or is that an unrelated mod?
+
+ COMMENT_BREAK   19 hours ago, RevGAM said:splicingwhat u mean by this? 
+
+ COMMENT_BREAK   19 hours ago, NorKris said:what u mean by this? skjøting
+
+ COMMENT_BREAK   18 hours ago, RevGAM said:skjøtinghahai had all my corsair fans on a test: " can i use these fans with the 'open ARGB stanard' ". so i cut off all the  corsair ARGB connectors and put on standard ones . (and if u wanna know, yes u can use all corsair fans on the open standard)so for this test i had to put on the normal 4pin connectors  
+
+ COMMENT_BREAK   19 hours ago, RevGAM said:So am I correct that an SP120 is plugged into the primary port that reports to the node?I am assuming this is what it is doing. yes.  ports 1, 2 and 3 are the SPs and i think the MLs are in 5 and 6  I think i see what you're getting at with this.  I'll try the MLs in port 1 and 2 with the SPs in 4, 5 and 6.  see if it makes a difference
+
+ COMMENT_BREAK   On 9/12/2023 at 4:06 PM, NorKris said:i rly dont know why ppl doubt meExpand  ill just stop responding to rgb topics then. its been a long 9 years... maybe time to give it up.. ill still have to finger out my stuff thow. 
+
+ COMMENT_BREAK   14 hours ago, thrasher_565 said:ill just stop responding to rgb topics then. its been a long 9 years... maybe time to give it up.. ill still have to finger out my stuff thow.  thats one way to look at it... or it is my suggestion:  test first 
+
+ COMMENT_BREAK   19 hours ago, NorKris said:Corsair did tell linus in the hacktosh vid that stacking rads like that does not work.. and they where wrongAsus support told me once that touch on a asus laptop didnt work cuz i had the wrong version of windows 10    Corsair is wrong  Expand  Still waiting for a photo of your node core...
+
+ COMMENT_BREAK   6 hours ago, RevGAM said:Still waiting for a photo of your node core...    9 hours ago, NorKris said:thats one way to look at it... or it is my suggestion:  test first Here's the image of my lighting core node  Before..  (This config gave three lit SP120 fans and two unlit ML120 fans.  Note the fans with the yellow tags are the MLs    After doing what i think rev was saying do..    That has resulted in this config now...two lit MLs and one lit SP.  (which goes against what corsair told both Rev and I)    I'm starting to wonder something here..
+
+ COMMENT_BREAK HD series selected:  SP selected:    LL selected:    ML selected:  QL selected:  8-LED selected:    5 hours ago, ChonkerFox said:Expand    Look how this is set up though..I've missed port 4 and attached the other two SPs to port 5 and 6.  Could it be that it's just because the ports run in sequence and not parallel???  Cause that BOTH times i've used it i missed port 4.  Is it really that dumb?  Am I really that dumb???
+
+ COMMENT_BREAK   5 hours ago, ChonkerFox said:HD series selected:Expand  That could be it. 
+
+ COMMENT_BREAK   3 hours ago, RevGAM said:That could be it. It is..  I've forgotten to snap a pic of the controller but I moved an SP120 from port 6 to port 4 and this happened  moved an    All 5 fans are lit under the QL mode.  All the effects work.  Hardware static mode (the mode i use so i don't have to have iCue installed.)  All works.    @NorKris  I'm sorry i didn't believe you.  It's working now i just had to put all the fans in series instead of random ports
+
+ COMMENT_BREAK Fantastic!  Stupid Corsair!  All hail the Norwegian!  
+
+ COMMENT_BREAK   3 hours ago, RevGAM said:Fantastic!  Stupid Corsair!  All hail the Norwegian!  Thanks man.  least you know now what you need to do if you ever want to add a few fans to your 5000D 5000X
+
+ COMMENT_BREAK   3 hours ago, ChonkerFox said:All works. Glad you figured it out babe. I love you, even though you can be stupid sometimes xxNow you can have pretty lights again
+
+ COMMENT_BREAK   3 hours ago, ChonkerFox said:Thanks man.  least you know now what you need to do if you ever want to add a few fans to your 5000DI'm not in love with lighting as it doesn't improve performance. The only use I have for it is to let me know when my PC is too hot. Most of the time, my 5000X looks green. 
+
+ COMMENT_BREAK   3 hours ago, Skyesgaming said:I love you, even though you can be stupid sometimes xxyou still look cute when you're angry  
+
+ COMMENT_BREAK i thought they fixed the thing were it has to be filled port one to 6 and not missing. could be just on the xt?
+
+ COMMENT_BREAK   3 hours ago, ChonkerFox said:    @NorKris  I'm sorry i didn't believe you.  It's working now i just had to put all the fans in series instead of random portsi mean i rly rly wanna help ppl that have problems XD   port 4 what a B**ch  
+
+ COMMENT_BREAK   1 hour ago, thrasher_565 said:i thought they fixed the thing were it has to be filled port one to 6 and not missing. could be just on the xt?it doesn't have to be completely full.  they just have to be pluggied in in sequence. so i have 5 fans.  i need ports 1 - 5 filled and leave 6 empty
+
+ COMMENT_BREAK   1 hour ago, thrasher_565 said:i thought they fixed the thing were it has to be filled port one to 6 and not missing. could be just on the xt?evidently there's no firmware update for the device either
+
+ COMMENT_BREAK   1 hour ago, ChonkerFox said:evidently there's no firmware update for the device eitherIs it even possible to send a firmware update via the PWM or ARGB header?... kinda doubt it.  @thrasher_565
+
+ COMMENT_BREAK I got this info from Tyler.   QuoteTyler A. (Corsair)  Sep 14, 2023, 07:10 PDT  Hey Glenn,  Thank you for the update on this ticket.  Expand   
+
+ COMMENT_BREAK You should give @NorKristhe solution...
+
+ COMMENT_BREAK   45 minutes ago, RevGAM said:The best way to explain the Lighting Node Core is as a simple, RGB Controller that works in series based on the number of LEDs, or types of fans, the user tells the unit it is attached to in iCUE.   Due to how the Lighting Node Core functions in iCUE, mixing fans is not supported; however, you can trick the Lighting Node Core into sending the signal for the proper amount of LEDs. For example, like the user "ChonkerFox" has setup, 3 SP Elites(8 LEDs) and 2 ML Pros(4 LEDs) can all light up if the Lighting Node Core is set to a minimum of four "8-LED Series fans". I, personally, would not recommend assigning more LEDs than needed, as it can have unintended effects on the fans. Expand  This is an intresting take. first its an ARGB controller..   i have been running 3-4 "standard" ARGB devices off corsair controllers (node pro and cmd pro) without any problems ... (or .. the 24pin ARGB device is not working with a node pro but works fine with cmd pro..)   the uninteded effects can only be that  in a rainbow effect one color starts on another LED on fan 4 vs fan 5 
+
+ COMMENT_BREAK   58 minutes ago, RevGAM said:Is it even possible to send a firmware update via the PWM or ARGB header?... kinda doubt it.  @thrasher_565I ment for the controller it's self
+
+ COMMENT_BREAK
+

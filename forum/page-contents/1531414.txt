@@ -1,0 +1,19 @@
+
+ I recently installed Sparky Linux on my hard drive and now my PC can’t boot into Windows anymore. 
+  About my setup: 
+I have:
+  SSD 1 (2 Partitions, 1x Sparkylinux, 1x Windows efi boot thing)
+  HDD 1 (Too many partitions, [1x Linux mint 22, 1x Ubuntu Studio, 1x ext4 or something just data partition], 1x Windows 11 install)
+  SSD 2 (1 Partition, 1x Windows 10 install)
+  What changed:
+Before, I got that intel mobo screen with bios, bios update and boot device selection, and then there was a blue prompt asking if I’d like to boot into Windows 10 or 11. 
+  After installing Sparky Linux, it’d have the grub with sparky Linux, UEFI settings and something else, but no windows. [I once had Linux mint instead of sparky Linux on that drive but never used it and it showed up in the Ubuntu studio grub just fine] 
+  Now, I did a lot of troubleshooting involving unplugging SSD 1 and now when booting it shows nothing for a while, then it does a 1sec beep, a pause, another one sec beep, then about a two and a half sec pause and then another one sec beep followed by another one sec beep after a short pause. Then it takes me directly to the sparkylinux installer screen. The beeps go like: BPBPPBPBP (B = beep, P = pause, PP = double or triple pause, I’m not that sure myself)
+  If you have any suggestions like to install mint over it again, just format the sparky partition, etc., they’re all welcome. Thanks a lot.
+  [Please keep in mind that already tried to unplug SSD 1 with no boot device being found, it also won’t boot the windows installer which I tried on two different usb sticks and 5 different ports. I also tried removing the cmos battery for a short time; it didn’t help.]
+ COMMENT_BREAK
+ You need top setup a boot-manager on the drive the bios is booting from, and in that boot-manager you need to point to all your OSes so you can select to start from the list.
+
+I dont specifaclly know howoto set this up, but it should point you towards the right direction?
+    (Windows' built in bootmanager wont support linux well, linux bootmanagers can support windows, but there are several options afaik)
+ COMMENT_BREAK
