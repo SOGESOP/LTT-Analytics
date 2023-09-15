@@ -1,0 +1,102 @@
+
+ So I have ASUS PRIME B450M-K with 3 1200 Ryzen and I'm upgrading to 5 5600 Ryzen
+  I am not 100% sure of my current bios version, it might be 2006, if I need to I can quickly restart to bios and take a picture.
+ COMMENT_BREAK
+ Am I good if it says this?:
+ 
+ COMMENT_BREAK
+   1 hour ago, podkall said:
+Am I good if it says this?:
+  Expand  
+Yes just update to the latest bios if your going to a 5600
+ COMMENT_BREAK
+   1 hour ago, filpo said:
+Yes just update to the latest bios if your going to a 5600
+also, is installing a tower cooler as simple as installing the stock cooler?
+ COMMENT_BREAK
+ What you have to do is find the BIOS list, and if it was required to update to a specific version it'll say so in one of the BIOS revisions listed. From my initial reading of it, there is no BIOS revision that says "update to version XXXX before proceeding" so you should just be able to jump to the latest, though double check just in case I missed it. 
+ COMMENT_BREAK
+   1 hour ago, podkall said:
+is installing a tower cooler as simple as installing the stock cooler?
+what? That doesn't make any sense. How do you install both a stock and tower cooler?
+ COMMENT_BREAK
+   1 hour ago, filpo said:
+what? That doesn't make any sense. How do you install both a stock and tower cooler?
+that's not what I was asking lol
+    1 hour ago, RONOTHAN## said:
+What you have to do is find the BIOS list, and if it was required to update to a specific version it'll say so in one of the BIOS revisions listed. From my initial reading of it, there is no BIOS revision that says "update to version XXXX before proceeding" so you should just be able to jump to the latest, though double check just in case I missed it. 
+what does this mean?
+ COMMENT_BREAK
+   1 hour ago, podkall said:
+that's not what I was asking lol
+what were you asking?
+ COMMENT_BREAK
+   1 hour ago, podkall said:
+what does this mean?
+Expand  
+It's what changed in the BIOS. With the way AMD BIOSes work, there's a closed source binary blob that handles a lot of what's related to CPU support, memory support, PBO, etc. called the AGESA. This latest BIOS updates that blob to ver. 1.2.0.A. 
+ COMMENT_BREAK
+   1 hour ago, filpo said:
+what were you asking?
+if installing tower cooler,
+  is as easy, as installing stock cooler?
+ COMMENT_BREAK
+   1 hour ago, RONOTHAN## said:
+It's what changed in the BIOS. With the way AMD BIOSes work, there's a closed source binary blob that handles a lot of what's related to CPU support, memory support, PBO, etc. called the AGESA. This latest BIOS updates that blob to ver. 1.2.0.A. 
+so it's like "patch notes" basically?
+ COMMENT_BREAK
+   1 hour ago, podkall said:
+what does this mean?
+Expand  
+It means the BIOS update will also update AGESA to version 1.2.0.A. It is not an instruction to the user, even though it reads like one.
+    1 hour ago, podkall said:
+so it's like "patch notes" basically?
+Yes, exactly
+ COMMENT_BREAK
+   1 hour ago, podkall said:
+so it's like "patch notes" basically?
+Yeah, that description tab is just the patch notes. 
+ COMMENT_BREAK
+   1 hour ago, podkall said:
+if installing tower cooler,
+  is as easy, as installing stock cooler?
+Can be, some mount the same way, some mount into a backplate or other supports.
+  None are hard, so just get it done.
+   
+ COMMENT_BREAK
+   1 hour ago, Dedayog said:
+Can be, some mount the same way, some mount into a backplate or other supports.
+  None are hard, so just get it done.
+    aight, I'll bother you ETA 5-10 minutes if I won't figure it out myself
+  but first, time to make use of my 600ml air duster
+ COMMENT_BREAK
+   1 hour ago, filpo said:
+what were you asking?
+He was asking whether the installation procedure for a tower cooler has the same difficulty level as installing the stock cooler. Not that he wanted to install both at the same time
+  I'd say it depends on the cooler, but generally no more difficult.
+ COMMENT_BREAK
+   59 minutes ago, podkall said:
+aight, I'll bother you ETA 5-10 minutes if I won't figure it out myself
+  but first, time to make use of my 600ml air duster
+Sure, but it's really easy.  If you can build a PC, you can install a CPU Cooler in your sleep.
+ COMMENT_BREAK
+ @Dedayog how can I remove thermal paste if I don't have Isopropylalcohol?
+ COMMENT_BREAK
+   33 minutes ago, podkall said:
+@Dedayog how can I remove thermal paste if I don't have Isopropylalcohol?
+Clean cloth.  Dampen it a little with water, wipe til the paste softens enough to wipe off.
+  Same way you clean dried sauce off your kitchen counter.
+  The CPU is NOT fragile.  You just don't want to wipe anywhere NOT the heatspreader.
+ COMMENT_BREAK
+   23 minutes ago, Dedayog said:
+Clean cloth.  Dampen it a little with water, wipe til the paste softens enough to wipe off.
+  Same way you clean dried sauce off your kitchen counter.
+  The CPU is NOT fragile.  You just don't want to wipe anywhere NOT the heatspreader.
+we also have some hand disinfection at home, however I'm not sure of it's contents, could have small % of peroxide
+ COMMENT_BREAK
+   21 minutes ago, podkall said:
+we also have some hand disinfection at home, however I'm not sure of it's contents, could have small % of peroxide
+No, there are additives in that.  Water is just fine.
+  Don't go getting creative.  
+  Literally it's a paste that can be wiped off with a paper towel, done it a few times.
+ COMMENT_BREAK

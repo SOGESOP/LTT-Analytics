@@ -1,0 +1,9 @@
+
+ Hi. I recently purchased a 7900 XTX OC card. Initially, the card was going more than 100 degrees Celsius hotspot and the whole case was heating up. I changed the case to a bigger one and added more fans to the case. This solved the case heating issue. But the card was still going more than 100, I ended up flipping the bios switch to silent and tweaked the fan curve on AMD Adrenaline software (temps so far not going more than 85 and I am ok with fan noise. so the question I have is does the fan curve in the picture attached look alright or should I change it? Thnx.
+ COMMENT_BREAK
+   20 minutes ago, Sammyk1122 said:
+Hi. I recently purchased a 7900 XTX OC card. Initially, the card was going more than 100 degrees Celsius hotspot and the whole case was heating up. I changed the case to a bigger one and added more fans to the case. This solved the case heating issue. But the card was still going more than 100, I ended up flipping the bios switch to silent and tweaked the fan curve on AMD Adrenaline software (temps so far not going more than 85 and I am ok with fan noise. so the question I have is does the fan curve in the picture attached look alright or should I change it? Thnx.
+Expand  
+There is no 'right or wrong' fan curve.  It has so many variations like case, case airflow, ambient temp etc.  If the temps are 85c and you are fine with the noise then I think this is a good fan curve. 
+Fan curve looks decent, I would imagine the card has some sort of Zero Fan mode at idle loads?
+ COMMENT_BREAK

@@ -1,0 +1,31 @@
+
+ Hi, I've been looking for an upgrade from my 2060 super, and I've been back and forth between the 6700xt and 6800, but think I've settled on the 6800. My question is will my 10400 bottleneck it? I'm upgrading within the next couple months and wonder if I'd need to get a better CPU to let my fully utilize it. In games like BeamNG or Minecraft, my little i5 is showing its age more, but in most games it's fine for now. But that doesn't mean it'll be okay with a beefy 6800, so will it be an issue? I play at 144Hz (I like to have around 90fps avg to keep the 1% lows a bit higher), 1440p, and at whatever settings I can chuck at it with that smooth framerate. Thanks!!
+ COMMENT_BREAK
+ I'd probably drop in a 10600K when you can, they can be Ebay'd for around $100 with some patience.  Couple at $119 right now.
+  Otherwise, the 6800 is still a nice card.  Depends on the price and what else in that range there is.
+ COMMENT_BREAK
+   22 hours ago, Dedayog said:
+I'd probably drop in a 10600K when you can, they can be Ebay'd for around $100 with some patience.  Couple at $119 right now.
+  Otherwise, the 6800 is still a nice card.  Depends on the price and what else in that range there is.
+Personally I wouldn't spend 100 bucks on a incremental upgrade like that. I mean the difference in performance wouldn't be larger especially because I would assume they do not own a z series motherboard and can't overclock. Better off saving up for a platform change. As for ops questions I would imagine that in certain games it will bottleneck but it would still be worth it imo for 1440p gaming and much better than the 2060. 
+ COMMENT_BREAK
+ Keep the i5 it's fine
+  A upgrade to the 10600k is very minor and not worth that value
+ COMMENT_BREAK
+   22 hours ago, Brooksie359 said:
+Personally I wouldn't spend 100 bucks on a incremental upgrade like that. I mean the difference in performance wouldn't be larger especially because I would assume they do not own a z series motherboard and can't overclock. Better off saving up for a platform change. As for ops questions I would imagine that in certain games it will bottleneck but it would still be worth it imo for 1440p gaming and much better than the 2060. 
+    22 hours ago, jaslion said:
+Keep the i5 it's fine
+  A upgrade to the 10600k is very minor and not worth that value
+Was thinking more of boosting the 1% and .1% lows.
+  Fine, save the money for later   
+ COMMENT_BREAK
+   22 hours ago, Dedayog said:
+  Was thinking more of boosting the 1% and .1% lows.
+  Fine, save the money for later   
+It could but not by a substantial amount. I mean if they could overclock the crap out of it I could see your point. At stock its better but not by enough IMO. I would expect your average gamer to notice the difference without looking at the numbers. 
+ COMMENT_BREAK
+   22 hours ago, iGPR3 said:
+Hi, I've been looking for an upgrade from my 2060 super, and I've been back and forth between the 6700xt and 6800, but think I've settled on the 6800. My question is will my 10400 bottleneck it? I'm upgrading within the next couple months and wonder if I'd need to get a better CPU to let my fully utilize it. In games like BeamNG or Minecraft, my little i5 is showing its age more, but in most games it's fine for now. But that doesn't mean it'll be okay with a beefy 6800, so will it be an issue? I play at 144Hz (I like to have around 90fps avg to keep the 1% lows a bit higher), 1440p, and at whatever settings I can chuck at it with that smooth framerate. Thanks!!
+yes it will bottleneck it but amd has better driver overhead than nvidia and thus it wont be thaat bad. 
+ COMMENT_BREAK

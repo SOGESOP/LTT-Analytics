@@ -1,0 +1,18 @@
+
+ When marking a forum as read from within the forum itself, via the button at the top, a confirmation message pops up.
+  Forums can also be marked as read from the main view by clicking on the speech bubbles icon.
+  But clicking those doesn't trigger a message, it automatically marks the forum as read without further confirmation.
+  Not a huge issue, but I and my butterfingers had instances where I accidentally clicked on that icon of a forum I wanted to browse, which then obviously meant I couldn't tell if a thread had new replies or not at a glance. If possible, a confirmation message when clicking the speech bubbles icon would be nice.
+ COMMENT_BREAK
+ I honestly didn't even know this was a feature. Maybe it could be better to have the mark forums as read button by the header of the section (the hub, computer hardware, software, etc) and then there was a pop up for clearing each section from that section you clicked on. That way you can clear multiple at a time without clearing all of the forums and adding an extra step so you can't accidentally clear one you want.
+ COMMENT_BREAK
+ I remember complaining this, or rather the pop up not appearing at all when forums were upgraded to this version. IIRC the conclusion was that there were too few who mark whole subforums as read.
+ COMMENT_BREAK
+   1 hour ago, LogicalDrm said:
+I remember complaining this, or rather the pop up not appearing at all when forums were upgraded to this version. IIRC the conclusion was that there were too few who mark whole subforums as read.
+I am not familiar with website programming... Would it be possible to require a double click? If possible, should be extremely easy to implement but would make it hard to clear a subforum on accident.
+ COMMENT_BREAK
+   33 minutes ago, TylerD321 said:
+I am not familiar with website programming... Would it be possible to require a double click? If possible, should be extremely easy to implement but would make it hard to clear a subforum on accident.
+I'm not dev, so I don't know. But the problem is with mobile users, and why there is real need to have that popup in the first place.
+ COMMENT_BREAK

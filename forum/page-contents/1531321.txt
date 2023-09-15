@@ -1,0 +1,28 @@
+
+ My 2060 just died on me and am looking at new ones. I'm looking at a 3060TI, https://www.ebay.com/itm/256210728400?hash=item3ba75975d0:g:OX4AAOSwXe1k-kjZ&amdata=enc%3AAQAIAAAA4O1dof4mb1A1RvGl0He0LyEETyoEbcBum%2BEA2x7XVveKlUueB2i4PhIWkrhBPQWV3LBlKClAm%2FhbxZag59pyp76ik3obuytBFfcrq7s5Nl87eJORguqByKF%2BmLJz6QBqv7D8pD3Ozyf1Xn%2FizwcburOLi0oUZUrXW3jT7vwYLBKWe51bCEt0nwydz0Xo55%2F35KNv1imhnp8dEnnwiHKFPtwSbgz2tT0K5m8DkBlloo1G%2Fb8pOmcU3zjr9KH1kT2twbpv6oAbupevAHUFcOdBp7ne7qwUD9%2Fjz9RIED4V0Ro%2B|tkp%3ABk9SR_ij9vPQYg, and was also thinking of getting a 6700XT. I would rather stick with NVIDIA but was wondering if this was the right choice. I'm running an i7 6700 and 16gb ram. My price range is $250-300ish
+ COMMENT_BREAK
+   15 hours ago, NoJoWo said:
+My 2060 just died on me and am looking at new ones. I'm looking at a 3060TI, https://www.ebay.com/itm/256210728400?hash=item3ba75975d0:g:OX4AAOSwXe1k-kjZ&amdata=enc%3AAQAIAAAA4O1dof4mb1A1RvGl0He0LyEETyoEbcBum%2BEA2x7XVveKlUueB2i4PhIWkrhBPQWV3LBlKClAm%2FhbxZag59pyp76ik3obuytBFfcrq7s5Nl87eJORguqByKF%2BmLJz6QBqv7D8pD3Ozyf1Xn%2FizwcburOLi0oUZUrXW3jT7vwYLBKWe51bCEt0nwydz0Xo55%2F35KNv1imhnp8dEnnwiHKFPtwSbgz2tT0K5m8DkBlloo1G%2Fb8pOmcU3zjr9KH1kT2twbpv6oAbupevAHUFcOdBp7ne7qwUD9%2Fjz9RIED4V0Ro%2B|tkp%3ABk9SR_ij9vPQYg, and was also thinking of getting a 6700XT. I would rather stick with NVIDIA but was wondering if this was the right choice. I'm running an i7 6700 and 16gb ram. My price range is $250-300ish
+Expand  
+a 6700 XT is basically the same price as a 3060 ti while having more VRAM and performing faster. But I would get a 6500 XT and use the extra money for a cpu upgade, maybe to a 5600. What is the budget?
+ COMMENT_BREAK
+   15 hours ago, NoJoWo said:
+i7 6700 and 16gb ram.
+3060 Ti or 6700 XT will be bottlenecked by this CPU, I'm sure 2060 was a bit bottlenecked too, but not significant enough.
+High potential of stuttering due to the significant bottleneck.
+ COMMENT_BREAK
+   15 hours ago, PcBeExpensive said:
+a 6700 XT is basically the same price as a 3060 ti while having more VRAM and performing faster. But I would get a 6500 XT and use the extra money for a cpu upgade, maybe to a 5600. What is the budget?
+  Don't you mean a 6600? The 6600 performs very similar to the 2060 and lots of deals about, but a 6500 would be a pretty big downgrade.
+ COMMENT_BREAK
+   5 hours ago, Tetras said:
+  Don't you mean a 6600? The 6600 performs very similar to the 2060 and lots of deals about, but a 6500 would be a pretty big downgrade.
+Might as well get a bit more performance out of it and its useful life will be higher with 12GB, newer titles are already struggling with 8GB.
+ COMMENT_BREAK
+   15 hours ago, NoJoWo said:
+My 2060 just died on me and am looking at new ones. I'm looking at a 3060TI, https://www.ebay.com/itm/256210728400?hash=item3ba75975d0:g:OX4AAOSwXe1k-kjZ&amdata=enc%3AAQAIAAAA4O1dof4mb1A1RvGl0He0LyEETyoEbcBum%2BEA2x7XVveKlUueB2i4PhIWkrhBPQWV3LBlKClAm%2FhbxZag59pyp76ik3obuytBFfcrq7s5Nl87eJORguqByKF%2BmLJz6QBqv7D8pD3Ozyf1Xn%2FizwcburOLi0oUZUrXW3jT7vwYLBKWe51bCEt0nwydz0Xo55%2F35KNv1imhnp8dEnnwiHKFPtwSbgz2tT0K5m8DkBlloo1G%2Fb8pOmcU3zjr9KH1kT2twbpv6oAbupevAHUFcOdBp7ne7qwUD9%2Fjz9RIED4V0Ro%2B|tkp%3ABk9SR_ij9vPQYg, and was also thinking of getting a 6700XT. I would rather stick with NVIDIA but was wondering if this was the right choice. I'm running an i7 6700 and 16gb ram. My price range is $250-300ish
+Expand  
+if you can find a 6700xt definitely get that. more vram. more performance. fsr isnt so bad and you will have access to fsr3 in the near future same as antilag+ which is like reflex. and for your current cpu amd just works better with it due to their driver overhead which get better perf out of older cpus compared to nvidia. 
+
+And then later upgrade your cpu when you can.
+ COMMENT_BREAK

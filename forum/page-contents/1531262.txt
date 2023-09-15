@@ -1,0 +1,32 @@
+
+ New build with Gigabyte Aorus Elite AX Z790, RTX 4070 FE and i5-13600K CPU.
+
+The PC boots, the fans spins, GPU spins, but I get no display via a DP through the GPU or the Mobo. Using a Dell S2721DGF from the last build that worked just fine on a 2060.
+
+I've tried clearing CMOS, checking cable connections, etc.
+
+Am I missing something?
+
+Rest of build:
+Trident Z DDR5 6000
+Samsung 990 Pro
+Fractal Celsius+ S24 AIO
+Super Flower Leadex VII XG 1000W
+ COMMENT_BREAK
+ Did you remove the GPU when testing the motherboard port? Most boards will disable integrated video if a GPU is detected. 
+ COMMENT_BREAK
+   21 hours ago, Bjoolz said:
+Did you remove the GPU when testing the motherboard port? Most boards will disable integrated video if a GPU is detected. 
+Will try this!
+  Also, I'm so lost on how to properly connect the 4070? Currently using the stock adapter plugged into two 6+2 VGA's. Is that correct?
+The PSU also came with its own 12VHPWR into VGA. Is scrapping the stock adapter and using the PSU's cable safe/recommended?
+ COMMENT_BREAK
+   20 hours ago, axper said:
+Will try this!
+  Also, I'm so lost on how to properly connect the 4070? Currently using the stock adapter plugged into two 6+2 VGA's. Is that correct?
+The PSU also came with its own 12VHPWR into VGA. Is scrapping the stock adapter and using the PSU's cable safe/recommended?
+i would use the PSU supplied  12VHPWR connector,  the adapter is for people that don't upgrade their PSU's when they buy a new GPU as PSU standards recently changed. 
+ 
+ COMMENT_BREAK
+ Turns out the old monitor I was using somehow broke internally during transport. Plugged in a new monitor and it worked perfectly. Thanks, all.
+ COMMENT_BREAK

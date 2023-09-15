@@ -1,0 +1,84 @@
+
+ I currently have a rx6500xt and as I recently found out due to lack of research you get like 14 frames which is terrible. I'm on a tight budget since I'm still in high school and don't have a great job. Just please oh please just let me know if there is one that can run 4k at, at least 60 fps under $400. I know this is asking a lot but I have hope.
+ COMMENT_BREAK
+ Not happening.
+ COMMENT_BREAK
+   On 9/9/2023 at 1:49 AM, Justin Blue said:
+if there is one that can run 4k at, at least 60 fps under $400.
+What game? Are we talking League of Legends or Starfield? The answer could be easily to not possible under ~$1000
+ COMMENT_BREAK
+ I'm playing league, rust, and valorant.
+ 
+ COMMENT_BREAK
+   On 9/9/2023 at 1:49 AM, Justin Blue said:
+I currently have a rx6500xt and as I recently found out due to lack of research you get like 14 frames which is terrible. I'm on a tight budget since I'm still in high school and don't have a great job. Just please oh please just let me know if there is one that can run 4k at, at least 60 fps under $400. I know this is asking a lot but I have hope.
+Whats so important about 4k for you?  1440p is a great middle ground between 1080p and 4k and is easier to run.  FPS is also down to CPU. What is your full system?
+4k -60 under 400 bucks? Nope.
+ COMMENT_BREAK
+   On 9/9/2023 at 1:57 AM, Justin Blue said:
+I'm playing league, rust, and valorant.
+  A used 3080/6800 XT could probably get you there if you lower settings a little, but that would be right at the $400 mark. Rust is the main issue here, League and Valorant are both very easy to run. 
+  You're probably better off dropping down to a non-native 1440p with one of those aforementioned cards if you want to play those games. 
+ COMMENT_BREAK
+   On 9/9/2023 at 1:57 AM, Justin Blue said:
+I'm playing league, rust, and valorant.
+    I don't really get the 4k fixation, tbh. None of these games are graphical showcases, League and Valorant far from it. 
+ COMMENT_BREAK
+ I just got a 4k monitor for 100 bucks but I didn't look if my graphics dark would work with it. Also my current monitor is 1080x960 which is really small so I jsut wanted a bigger one. Thats all. I did some more research and i found the 4060 ti do u think this would work well or not?
+   
+ COMMENT_BREAK
+   On 9/9/2023 at 2:00 AM, Hinjima said:
+Whats so important about 4k for you?  1440p is a great middle ground between 1080p and 4k and is easier to run.  FPS is also down to CPU. What is your full system?
+4k -60 under 400 bucks? Nope.
+My full system is
+Mother board Gigabyte b450 Aorus elite v2
+CPU Amd Ryzen 7 2700
+Cpu fan Amd wraith Stealth cooler 
+Gpu AMD Radeon RX 6500XT
+m.2 Samsung 970 evo 1tb
+western  digital blue 1 TB Hard drive
+ram 2x 8gp Corsair RGB and 2x Gskill rip jaws. Im unsure waht speeds these two are I got most of the parts used besides powersuppy graphics card and moterboard
+Power supply Termaltake rbg Toughpower Grand 850w GOld
+Case NZXT Phantom 530 full ATx tower
+Monitor 1080p Hp 20kd and 4k monitor is Model code: LU28H750UQNXZA
+ COMMENT_BREAK
+   On 9/9/2023 at 2:45 AM, Middcore said:
+  I don't really get the 4k fixation, tbh. None of these games are graphical showcases, League and Rust far from it. 
+i just already got the 4k monitor and its such a hassle to sell besides why not get a better graphics card right?
+ 
+ COMMENT_BREAK
+   On 9/10/2023 at 5:41 PM, Justin Blue said:
+i just already got the 4k monitor and its such a hassle to sell besides why not get a better graphics card right?
+  There's no GPU in your budget that will do very well at 4k.
+  Certainly not a 4060ti which is a 1080p card.
+  This is how it looks right now with regards to gpus targeted resolutions.
+  It's not a hard bracket per say it's just what the gpu makers themselves are advertising for there cards.
+  1080p
+Arc A750.
+Arx A770.
+RTX4060.
+RX7600
+RTX4060ti.
+  1440p
+RX7700XT.
+RTX4070.
+RX7800XT.
+RTX4070ti.
+  4k
+RX7900XT.
+RTX4080.
+RX7900XTX.
+RTX4090.
+  There is options that are not current gen but that's very dependent on where you live and what stock is available.
+ 
+ COMMENT_BREAK
+   On 9/10/2023 at 5:41 PM, Justin Blue said:
+i just already got the 4k monitor and its such a hassle to sell besides why not get a better graphics card right?
+    If you have $400, get an RX 6750 XT. You can probably play League and Valorant at 4k/60 with it because those games will run on an EZ-Bake Oven (although I would think you would want more frames than that in Valorant). Play everything else at 1080p, should integer downscale from 4k and you can turn on sharpening if things look too fuzzy. 
+ COMMENT_BREAK
+ My son has a 3060Ti and it does 4k @60 if you turn down a few settings, on lots of games. His Cpu isnt a bottleneck since it’s a 5900x. My old gpu was a 3070 and it could also handle 4k@60.  No need to play every game at ultra. 
+ COMMENT_BREAK
+   On 9/11/2023 at 3:33 PM, Middcore said:
+  If you have $400, get an RX 6750 XT. You can probably play League and Valorant at 4k/60 with it because those games will run on an EZ-Bake Oven (although I would think you would want more frames than that in Valorant). Play everything else at 1080p, should integer downscale from 4k and you can turn on sharpening if things look too fuzzy. 
+yeah, just do 1080p on demanding titles.  There may be some games that run well with DLSS performance at 4k (for Nvidia cards).
+ COMMENT_BREAK

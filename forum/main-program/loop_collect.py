@@ -1,5 +1,5 @@
 from MiscToolsMain import MiscTools
-
+import time
 import logging
 import os
 import subprocess
@@ -13,15 +13,20 @@ import pandas
 #     run collect
 #     combine csv
 
-def run_main_collect_cycle():
-    collect_file_path=f'{os.getcwd()}/collect.py'
-    analyse_file_path=f'{os.getcwd()}/translate.py'    
-    try:
-        subprocess.run(["python", collect_file_path], check=True)
-        subprocess.run(["python", analyse_file_path], check=True)
-    except Exception as error:
-        logging.error(f'Main Program has failed to run due to {error}')
+# def run_main_collect_cycle():
+#     collect_file_path=f'{os.getcwd()}/collect.py'
+#     analyse_file_path=f'{os.getcwd()}/translate.py'    
+#     try:
+#         subprocess.run(["python", collect_file_path], check=True)
+#         subprocess.run(["python", analyse_file_path], check=True)
+#     except Exception as error:
+#         logging.error(f'Main Program has failed to run due to {error}')
 
+def run_main_collect_cycle():
+    # find a way to run the script and wait on the completion of the 
+    # collect script to run the translate script
+    work on this bit here
+    pass
 
 
 def import_dataframe(file_name:str, file_format:str)-> object:
@@ -49,11 +54,11 @@ def combine_csv():
     MiscTools.save_to_csv(df, 'main')
 
 def main():
-    MiscTools.format_logging('infinite_collect.log')
+    MiscTools.format_logging('loop-collect.log')
     while True:    
         run_main_collect_cycle()
         combine_csv()
-        
+        time.sleep(3600)
 
 
 if __name__=='__main__':

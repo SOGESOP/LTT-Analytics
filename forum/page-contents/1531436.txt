@@ -1,0 +1,19 @@
+
+ I have a Ryzen 5 pc, Has a B450M-A Motherboard with a ryzen 5 2600, a RX 480 8gb, 16gb of 3000MHz DDR4 with a EVGA 500W 80Plus gold PSU.
+
+Today i currently have tryed disconnecting everything from the motherboard. the PSU connectors, the GPU the CPU Power connecter, the CMOS battery, the RAM.
+Tryed a differant PSU thats another 500w its some dell obm psu but can be plugged in normally to the motherboard and gpu at least. and still get nothing.
+
+no boot screen, my keyboard and mouse wont even light up. im completely out of options as to how to get this 3 to 4 year old pc to work.
+
+Any help would be much apprechated
+ COMMENT_BREAK
+ Tried to swap the motherboard? I’m stupid and I can’t think of any other reason…
+ COMMENT_BREAK
+ Btw are there any status LEDs or beeps or anything suggesting the system has any power?
+  regards
+ COMMENT_BREAK
+   23 minutes ago, tomatensaftliebhaber027 said:
+Tried to swap the motherboard? I’m stupid and I can’t think of any other reason…
+I dont have any other motherboards to swap it out with, and it shows the orange led lights coming on. Its a asus version of a B450M-A
+ COMMENT_BREAK

@@ -1,0 +1,22 @@
+
+ So I spent about an hour and a half deleting and checking files to clear space on my ssd. After a while I notice even windows says I have 60gb of installed apps even though I have all of my games on my hdd not my ssd. The only apps on my ssd are:
+  -discord
+-xbox app
+-obs
+-steam
+-ea, ubisoft, riot and epic games app launcher
+-cap cut
+-geforce experience
+  I don't know if my ssd is corrupted or something.
+ COMMENT_BREAK
+ is windows itself saying things are installed or is it the capacity is lower than you expected? is this your primary drive?
+ COMMENT_BREAK
+ if windows is saying you have 60GB worth of apps installed, windows is probably just wrong.
+ COMMENT_BREAK
+ Where are you getting this number from? What program is telling you that you have 60GB of Apps installed?
+ COMMENT_BREAK
+ Lol
+ COMMENT_BREAK
+ What does the Disk Management show? Also if partitioning is OK, then WizTree helps to locate big files.
+Actually considering the original description the disk management should be fine.
+ COMMENT_BREAK

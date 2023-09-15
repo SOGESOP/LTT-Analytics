@@ -17,3 +17,17 @@ Before, I got that intel mobo screen with bios, bios update and boot device sele
 I dont specifaclly know howoto set this up, but it should point you towards the right direction?
     (Windows' built in bootmanager wont support linux well, linux bootmanagers can support windows, but there are several options afaik)
  COMMENT_BREAK
+ Maybe OS Prober is disabled?
+https://wiki.archlinux.org/title/GRUB#Windows
+ COMMENT_BREAK
+   2 hours ago, HanZie82 said:
+You need top setup a boot-manager on the drive the bios is booting from, and in that boot-manager you need to point to all your OSes so you can select to start from the list.
+
+I dont specifaclly know howoto set this up, but it should point you towards the right direction?
+    (Windows' built in bootmanager wont support linux well, linux bootmanagers can support windows, but there are several options afaik)
+Expand  
+Thanks but I can’t access the bios or windows or anything before the login screen, I quote:
+    2 hours ago, tomatensaftliebhaber027 said:
+Now, I did a lot of troubleshooting involving unplugging SSD 1 and now when booting it shows nothing for a while, then it does a 1sec beep, a pause, another one sec beep, then about a two and a half sec pause and then another one sec beep followed by another one sec beep after a short pause. Then it takes me directly to the sparkylinux installer screen. The beeps go like: BPBPPBPBP (B = beep, P = pause, PP = double or triple pause, I’m not that sure myself)
+Thanks for ur quick reply tho
+ COMMENT_BREAK

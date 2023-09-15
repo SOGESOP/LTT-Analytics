@@ -1,0 +1,3 @@
+
+ I just got this laptop from my father. All the functions were perfectly fines like a normal T15g would except the cpu always stuck at 800MHz. It had an ES Xeon/i7 10750h (QTJ2) and I looked on throttlestop it said I was VR limited. I already try to update the EC/BIOS firmware, install latest chipset, me, Dynamic boost and those kind of stuffs drivers, turn on/off all cpu and power management settings on bios and still no luck. Is it because the CPU was malfunctioning, or there is a problem with my voltage regulator in the motherboard, or it just missing microcode since the bios was updated to production by windows update automatically (thanks Microsoft!)?
+ COMMENT_BREAK

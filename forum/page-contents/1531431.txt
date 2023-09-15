@@ -1,0 +1,20 @@
+
+ I've wrongly bent the Intel I5 13400F cpu cooler's clip while trying to attach it to the motherboard. How can  I fix it? I have attached a pic of the bent clip. 
+  Reveal hidden contents
+ 
+ COMMENT_BREAK
+   1 hour ago, MichaelKnight99 said:
+I've wrongly bent the Intel I5 13400F cpu cooler's clip while trying to attach it to the motherboard. How can  I fix it? I have attached a pic of the bent clip. 
+We're going to need a picture with a) more light and b) better focus.
+ COMMENT_BREAK
+   1 hour ago, MichaelKnight99 said:
+I've wrongly bent the Intel I5 13400F cpu cooler's clip while trying to attach it to the motherboard. How can  I fix it? I have attached a pic of the bent clip. 
+  Reveal hidden contents
+  Expand  
+If you're talking about the plastic push pins, you're unlikely to successfully fix that, because its plastic.
+  I'd suggest buying of these instead.
+Thermalright Assassin King 120 SE CPU Air Cooler, AK120 SE, 5 Heatpipes, AGHP technology TL-C12C PWM Quiet Fan CPU Cooler With S-FDB Bearing, for AMD AM4 AM5/Intel 1150/1151/1200/1700, PC Cooler - Newegg.com 
+$20
+  Thermalright PS120SE CPU Air Cooler, 7 Heat pipes CPU Cooler,Dual 120mm TL-C12B V2 PWM Fan, AGHP 4.0 Technilogy, S-FDB Bearing, For AMD AM4 AM5/Intel 1700/1150/1151/1200, PC Cooler - Newegg.com 
+$36
+ COMMENT_BREAK

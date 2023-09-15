@@ -1,0 +1,58 @@
+
+ Hi, so I have this Dell Vostro 3405 laptop with Windows 11 (the laptop supports said OS). The laptop is like half a year old, and since maybe a couple months ago I've been dealing with this issue where the laptop suddenly dead locks (becomes completely unresponssive and I have to shut it down with power button). This mostly seems to happen with the laptop is idle (little to no CPU load) like when I'm just browsing an article or writing something. When I'm gaming or watching youtube this never happened.
+  Hope you can help me figure out whats going on (as I said even after a clean reinstall this keeps happening) thats it, thank you in advance.
+ COMMENT_BREAK
+ Latest Bios?
+  Checked your storage with something, maybe Hard Disk Sentinel?
+  Checked your RAm with something like Passmark Memtest86?
+ COMMENT_BREAK
+ 6 months old? you defenately still have warranty, contact dell.
+ COMMENT_BREAK
+   12 hours ago, 191x7 said:
+Latest Bios?
+  Checked your storage with something, maybe Hard Disk Sentinel?
+  Checked your RAm with something like Passmark Memtest86?
+I've ran the integrated dell troubleshooter tests that happen when the PC can't start correctly, those test memory and disk and reported no problem and I also ran the windows memory test and no problem from there as well, also crystal disk checked recently and seems alright, but i'll look those you mentioned up
+ COMMENT_BREAK
+ dell is famous for bloatware but that freezing effect can be alot from having 2 antivirus software running at the same time.. to defect nvme/SSD drive. 
+     
+ COMMENT_BREAK
+   12 hours ago, Robchil said:
+dell is famous for bloatware but that freezing effect can be alot from having 2 antivirus software running at the same time.. to defect nvme/SSD drive. 
+      I said I did a fresh reinstall so there are not 2 antivirus software running at the same moment
+ COMMENT_BREAK
+   11 hours ago, DanWhite said:
+I said I did a fresh reinstall so there are not 2 antivirus software running at the same moment
+ok and after reinstall it still deadlocks. 
+have you installed all drivers so there are no exclamation marks on any devices or unknown devices in device manager? 
+ 
+ COMMENT_BREAK
+   11 hours ago, Robchil said:
+ok and after reinstall it still deadlocks. 
+have you installed all drivers so there are no exclamation marks on any devices or unknown devices in device manager? 
+  There seems to be no exclamation marks there
+ COMMENT_BREAK
+   11 hours ago, DanWhite said:
+There seems to be no exclamation marks there
+mkay.. as mentioned over. contact dell support since it's still under warranty, doesn't matter if you have reinstalled windows or not. 
+but you might have to install some dell tools and send them some data for troubleshooting. 
+ 
+ COMMENT_BREAK
+   10 hours ago, Robchil said:
+mkay.. as mentioned over. contact dell support since it's still under warranty, doesn't matter if you have reinstalled windows or not. 
+but you might have to install some dell tools and send them some data for troubleshooting. 
+  Dell told me that the warranty doesn't cover helping me if I don't have the fabric OS that is ubuntu linux, while I use windows 11 they can't help me lol
+ COMMENT_BREAK
+   1 hour ago, DanWhite said:
+Dell told me that the warranty doesn't cover helping me if I don't have the fabric OS that is ubuntu linux, while I use windows 11 they can't help me lol
+seriously?.. 
+shouldn't matter what OS there is. 
+well just install ubuntu? .. 
+ 
+ COMMENT_BREAK
+   55 minutes ago, Robchil said:
+seriously?.. 
+shouldn't matter what OS there is. 
+well just install ubuntu? .. 
+  its because they don't provide help for operative systems that isn't the one that comes from fabric with the laptop it seems lol
+ COMMENT_BREAK

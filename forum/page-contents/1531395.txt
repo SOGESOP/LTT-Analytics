@@ -1,0 +1,97 @@
+
+ Build a new PC around the 7800X3d and I'm not sure what card to pick
+the 4080 costs 20% more, but with DLSS wouldn't it be better value in the future? 
+also, I saw that the 7900XTX had a lot of power issues and weird bugs when it launched, were they fixed? 
+ COMMENT_BREAK
+   4 hours ago, rottomer said:
+Build a new PC around the 7800X3d and I'm not sure what card to pick
+the 4080 costs 20% more, but with DLSS wouldn't it be better value in the future? 
+also, I saw that the 7900XTX had a lot of power issues and weird bugs when it launched, were they fixed? 
+Some MBA (AMD manufactured) 7900XTX had a cooler defect, that's all
+Initial drivers were lacking/buggy (for example idle/browsing consumption was over the top at 100W on hi refresh rates monitors or multi monitor setups) but they're mature now
+I don't need any upscaling with my 7900XTX, and feel it's better to not need it, so won't pay for it...
+ COMMENT_BREAK
+ When it comes to "better value in the future" to me, the 4080 and 7900XTX each have their own advantages. The 4080 does have access to DLSS and better RT performance, which should matter for future games. However, the 7900XTX does have 8GB more VRAM and the newer DisplayPort 2.1 standard, which is beneficial if gaming at a higher resolution. And frankly, no one here has a crystal ball - any advice you get based on these or other factors for "better value in the future" is pure speculation.
+  Look at Fortnite Lumen RT for example - AMD and Nvidia perform about the same with that RT implementation. Since Lumen is built into UE5, it is possible that future games won't actually have a benefit for RT on Nvidia cards. We just don't know whether Fortnite is a fluke or if Lumen really is going to be a great equalizer for RT performance going forward.
+  Another example - we don't know how pervasive DLSS Frame Generation are going to be. It might become basically required to get high FPS in games going forward, like how devs are over-using upscaling tech right now. And whether FSR 3 Fluid Motion Frames will be able to compete is a complete mystery at the moment. FSR 3 might be a total bomb and might see next to no game support, while being unusable in the games it does support. In that case, Nvidia would be the only way to play some games at an acceptable "framerate" - assuming you even consider Frame Generation frames acceptable.
+  Supposedly, the idle power issues with the 7900 series have been fixed, at least according to AMD's patch notes - it is no longer listed in the "Known Issues" section for the latest driver. So at least that probably shouldn't factor into your calculus.
+ COMMENT_BREAK
+   4 hours ago, PDifolco said:
+Some MBA (AMD manufactured) 7900XTX had a cooler defect, that's all
+Initial drivers were lacking/buggy (for example idle/browsing consumption was over the top at 100W on hi refresh rates monitors or multi monitor setups) but they're mature now
+I don't need any upscaling with my 7900XTX, and feel it's better to not need it, so won't pay for it...
+  4 hours ago, rottomer said:
+Build a new PC around the 7800X3d and I'm not sure what card to pick
+the 4080 costs 20% more, but with DLSS wouldn't it be better value in the future? 
+also, I saw that the 7900XTX had a lot of power issues and weird bugs when it launched, were they fixed? 
+On launch some first batch reference models had weak/cracked coolers. AMD somewhere has a list of item ID's that you can look up and see if it matches. If it matches then send it back as it's flagged as likely faulty. As far as I know anything older that end of December 2022/ start of January 2023 made cards are good to go.
+  AMD drivers had a bug with multiple variable refresh rate monitors being plugged in and tricked the card to work much harder than it needed to, even on idle tasks. To my knowledge the august driver update fixed that issue. 
+  For longevity, it'll highly depend what sort of games you plan to play. If you plan to play many AAA games where good DLSS 3.5 implementation is guaranteed, it'll age really well. If however you play more indie or AA games where such software features are rare and need pure outright performance, AMD might age better as there's no DLSS to depend on for shortcomings.
+ COMMENT_BREAK
+   4 hours ago, venomtail said:
+On launch some first batch reference models had weak/cracked coolers. AMD somewhere has a list of item ID's that you can look up and see if it matches. If it matches then send it back as it's flagged as likely faulty. As far as I know anything older that end of December 2022/ start of January 2023 made cards are good to go.
+  AMD drivers had a bug with multiple variable refresh rate monitors being plugged in and tricked the card to work much harder than it needed to, even on idle tasks. To my knowledge the august driver update fixed that issue. 
+Expand  
+Technically you're right, but in my experience people that buy hi tier $1000+ cards don't keep them for more than 3-4 years tops!
+So with that in mind DLSS isn't needed with these cards atm, and when it'll be you'd upgrade to the new 6080Ti or 9900XTX 
+  
+ COMMENT_BREAK
+   4 hours ago, PDifolco said:
+Technically you're right, but in my experience people that buy hi tier $1000+ cards don't keep them for more than 3-4 years tops!
+So with that in mind DLSS isn't needed with these cards atm, and when it'll be you'd upgrade to the new 6080Ti or 9900XTX 
+   how's Sapphire PULSE 7900XTX? not very familiar with AMD third party
+ COMMENT_BREAK
+   3 hours ago, rottomer said:
+how's Sapphire PULSE 7900XTX? not very familiar with AMD third party
+Sapphire, XFX and Power Colour would be my top picks, of course the more expensive model you choose from either 3 the better they are compared to the base models.
+ COMMENT_BREAK
+ Do i believe dlss 3 being limited to 4000 series is a bullshit marketing move? Yes
+am i willing to pay for the bullshit marketing move? yes i did, because it just works, and i get +100 fps in cyberpunk maxed out which is impossible without dlss 3.
+
+also if you care about RT AT ALL get the 4080, if you dont care about ray tracing go for 7900 XTX, no questions, thats a truly powerful card
+ COMMENT_BREAK
+   3 hours ago, venomtail said:
+Sapphire, XFX and Power Colour would be my top picks, of course the more expensive model you choose from either 3 the better they are compared to the base models.
+not my choice really, I'm from Israel and the 2 stores I want to buy from only have 3 different versions in total:
+Sapphire PULSE
+PowerColor RX 7900 XTX the basic version
+Gigabyte GAMING OC
+
+out of these 3 is the Pulse the best option?
+ COMMENT_BREAK
+   3 hours ago, rottomer said:
+not my choice really, I'm from Israel and the 2 stores I want to buy from only have 3 different versions in total:
+Sapphire PULSE
+PowerColor RX 7900 XTX the basic version
+Gigabyte GAMING OC
+
+out of these 3 is the Pulse the best option?
+I think I'd pick the powercolour just a bit over the base model Sapphire. Gigabyte recently had Nvidia cards crack so I'd avoid. I think AMD is safe but bad pattern.
+  Have a look:
+ 
+ COMMENT_BREAK
+   2 hours ago, venomtail said:
+I think I'd pick the powercolour just a bit over the base model Sapphire. Gigabyte recently had Nvidia cards crack so I'd avoid. I think AMD is safe but bad pattern.
+  Have a look:
+Expand  
+so, is base Powercolor better than base Sapphire?
+this is the Powercolor card https://tms.co.il/amd-cards?product_id=107742
+ COMMENT_BREAK
+   4 hours ago, PDifolco said:
+Technically you're right, but in my experience people that buy hi tier $1000+ cards don't keep them for more than 3-4 years tops!
+So with that in mind DLSS isn't needed with these cards atm, and when it'll be you'd upgrade to the new 6080Ti or 9900XTX 
+   We'll see a (small) part of my going to 4090 was the ability to use it longer.  Also, even now DLSS is useful and there are some recent games that essentially require it even with a 4090.  Maybe not frame generation that hasn't become particularly useful yet with its limitations.
+ COMMENT_BREAK
+   1 hour ago, ewitte said:
+We'll see a (small) part of my going to 4090 was the ability to use it longer.  Also, even now DLSS is useful and there are some recent games that essentially require it even with a 4090.  Maybe not frame generation that hasn't become particularly useful yet with its limitations.
+Agreed, I hesitated between the 7900xtx and the 4090
+But 1800EUR+ (they were more expensive 5 months ago) is ridiculous 
+ COMMENT_BREAK
+   4 hours ago, rottomer said:
+Build a new PC around the 7800X3d and I'm not sure what card to pick
+the 4080 costs 20% more, but with DLSS wouldn't it be better value in the future? 
+also, I saw that the 7900XTX had a lot of power issues and weird bugs when it launched, were they fixed? 
+since your buying a 4080 or 7900xtx it would mean you either play at 1440p or 4k where dlss really doesnt give you much better of a picture over fsr. and thus i wouldnt worry about dlss.
+
+so definitely get the 7900xtx. It performs better in most titles. it has more vram. it is cheaper. its a literal waste of your money to spend it on the 4080. 
+ COMMENT_BREAK

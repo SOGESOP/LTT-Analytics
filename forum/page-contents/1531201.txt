@@ -1,0 +1,43 @@
+
+ haven been in the techscene for a while so im not sure what is good now!
+currently have a 2080 ti and a ryzen 5700X! i just bought a better monitor ultrawide 3440X1440 144hz!
+and now my gpu cant utilize the monitors full capabilities! im playing current games!
+what gpu would be good?
+thanks in advance!
+ COMMENT_BREAK
+ 6900xt/6950xt, 4070ti, 7800xt would be my best bet for at that resolution
+  --
+  Actually that resolution is closer to 4k than 1440p so i would say 4080/7800xt/7900xt
+ COMMENT_BREAK
+   On 9/13/2023 at 10:58 AM, Bayonett Priest said:
+haven been in the techscene for a while so im not sure what is good now!
+currently have a 2080 ti and a ryzen 5700X! i just bought a better monitor ultrawide 3440X1440 144hz!
+and now my gpu cant utilize the monitors full capabilities! im playing current games!
+what gpu would be good?
+thanks in advance!
+What's your psu, mobo and cpu cooler? I might get a 5800X3D on top of the new gpu
+Try these new gpus
+XFX Speedster MERC 319 Radeon RX 6950 XT 16 GB Video Card (RX-695XATBD9) - PCPartPicker
+XFX Speedster MERC 310 Radeon RX 7900 XT 20 GB Video Card (RX-79TMERCU9) - PCPartPicker
+ASRock Phantom Gaming D OC Radeon RX 6800 XT 16 GB Video Card (RX6800XT PGD 16GO) - PCPartPicker
+ COMMENT_BREAK
+ the suggestions others gave are great but i want to remind you.
+
+if you want to crank up the settings to max, and have a +100 FPS experience on that resolution and refresh rate, then I'd say go for the top, get the RTX 4090.
+
+I'm also 144hz 1440p ultrawide user, and most demanding games it won't reach 144 fps ever, in cyberpunk with frame gen I get around 100-120 fps most of the time, which isnt bad given settings are all set to max.
+
+but if you can settle for 60-100 fps medium-high settings in games then sure what others suggest is also acceptable.
+
+but with a 4090 you'll truly get the experience of high refresh rate AAA maxed out games, the choice is yours. But I strongly recommend it because I am on a similar setup as you and I cant imagine a lower GPU for today's games, lower GPU would mean a lot less fps, going down from 4090 to 4080 would likely mean more than 30 less fps for me in most cases, which is night and day in smoothness in high refresh rate monitors.
+ COMMENT_BREAK
+   On 9/13/2023 at 10:58 AM, Bayonett Priest said:
+haven been in the techscene for a while so im not sure what is good now!
+currently have a 2080 ti and a ryzen 5700X! i just bought a better monitor ultrawide 3440X1440 144hz!
+and now my gpu cant utilize the monitors full capabilities! im playing current games!
+what gpu would be good?
+thanks in advance!
+anything thats at least 100% as good. so for you and because you choose this resolution i wouldnt put anything less than a 7900xtx/4080.
+
+but if thats too high of a price, you can always get the 6950xt/4070ti but vram and the lack there of makes the 4070ti not worth it for its price in my opinion. so in my opinion 6950xt or 7900xt. or maybe a 3090/3090ti if you can find one second hand thats good
+ COMMENT_BREAK

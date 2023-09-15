@@ -1,0 +1,22 @@
+
+ Basically every game on my pc runs perfectly, except for Fortnite and DbD, which are both based on Unreal Engine and both have the exact same issue. Every time I start the game and load into the first mathc, my fps will drop from 200+ to 15 or less. In the games lobby, everything is fine but as soon as I leave the battle bus or load into the the map in DbD, the issue appears. the intressting part is, that not only my dedicated gou, but also my integrated graphics are at 100% load, even though the igpu is not even connected or assigned to anything. After 30s-60s, the fps drops appears instantly, in the matter of a second I'm at normal framerate again, and it only happens in the first match after I launch the game, if i keep playing, eveything is normal.
+  Im using an r9 7950 x and a rx 7900 xtx and of course drivers and everything else are latest version and i dont have any unusal software or mods or whatever installed.
+ COMMENT_BREAK
+ Most of the time I find that large fps drops are due to loading files 99% of the time and usually it happens only once and then things get cashed so when it is loaded again it loads way faster. 
+ COMMENT_BREAK
+   14 minutes ago, Brooksie359 said:
+Most of the time I find that large fps drops are due to loading files 99% of the time and usually it happens only once and then things get cashed so when it is loaded again it loads way faster. 
+My system is completelly high end with the latest and fastest ssd, theres no way this is normal. also in every other game, i do not have this issue. also the lag stays when i tab out of the game. my cursor moves with like 1000ms ping even when the game is closed.
+ COMMENT_BREAK
+ When jedi survivor came out and performed terribly, i also had low fps in the loading screen when i started the game, but then not both of my gpus were at 100 and i couldnt move my cursor. also, in fortnite when im in the pre game lobby, everything runs fine. It only appears after i launch into the actual game. and i didnt have this issue a few weeks ago.
+ COMMENT_BREAK
+   11 minutes ago, H0LY F0RG said:
+My system is completelly high end with the latest and fastest ssd, theres no way this is normal. also in every other game, i do not have this issue. also the lag stays when i tab out of the game. my cursor moves with like 1000ms ping even when the game is closed.
+You can have a high end ssd but it's still slower than ram. I am not sure what to tell you but even with a high-end system loading files can cause fps drops even if it's for a very short period of time. Also keep in mind alot of ssds are fast due to ram in the ssd and not necessarily the nand itself being crazy fast. 
+ COMMENT_BREAK
+ Theres no way that this is normal, if it was, why cant i find anyone who has the same issue. and theres also no way that my system is to slow, beacause it can handle everything else without problems.
+ COMMENT_BREAK
+   6 minutes ago, Brooksie359 said:
+You can have a high end ssd but it's still slower than ram. I am not sure what to tell you but even with a high-end system loading files can cause fps drops even if it's for a very short period of time. Also keep in mind alot of ssds are fast due to ram in the ssd and not necessarily the nand itself being crazy fast. 
+And if it was because of slow ssd or ram, then why are the sdd and ram at normal loead and the two gpus are maxed?
+ COMMENT_BREAK

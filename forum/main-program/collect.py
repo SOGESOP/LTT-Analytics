@@ -3,6 +3,7 @@ import logging
 import requests
 import pandas
 import os
+import time
 from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
 from selenium import webdriver
@@ -10,6 +11,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
 from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 
     
 # i could use classes to include multiple web scrapers in one section?
@@ -20,17 +22,27 @@ class GetData:
     def setup_driver():
         logging.info("Driver setup started")
         global driver
-        # selects chrome as driver
         options=Options()
         options.add_argument('--headless=new')
         driver=webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
+    
+    def scroll_topic_page():
+        main_url='https://linustechtips.com/discover/'
+        driver.get(main_url)
+        for i in range(0, 10):
+            logging.info('Furhter topics have been loaded {i} times'.format(i=i))
+            wait = WebDriverWait(driver, 4)  # Wait for a maximum of 10 seconds
+            load_more_button=wait.until(EC.element_to_be_clickable((By.CSS_SELECTOR, '[data-action="loadMore"]')))
+            load_more_button.click()
+
+        logging.info('Topic page collection initiated')
+        response=requests.get(main_url) 
+        return response
+        
         
     # used to collect all the hrefs of the topics on the forum discover page
     def collect_href():
-        logging.info('Topic page collection initiated')
-        main_url='https://linustechtips.com/discover/'
-        driver.get(main_url)
-        response=requests.get(main_url)
+        response=GetData.scroll_topic_page()
         soup=BeautifulSoup(response.content, 'html.parser')
         external_references=[]
         for link in soup.find_all('a'):
@@ -46,7 +58,6 @@ class GetData:
             if 'https://linustechtips.com/topic/' in href:
                 formatted_href=MiscTools.string_splicer_symbolic(href, 0, 32, '/', True)
                 external_references_main_page.append(formatted_href)
-                        
         return external_references_main_page
     
     # checks for the href topic title, and the length parameter corresponds
