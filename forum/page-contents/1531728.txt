@@ -1,0 +1,15 @@
+
+ I used to use Dimly, but i feel that it being an overlay filter isnt good and if there was a way to just turn on the auto brightness at say 2 am, and turn it off say at 6 am, automatically without me needing to do it...
+  i dont like keeping auto brightness all the time. dont like the constant brightness change.
+ COMMENT_BREAK
+   1 hour ago, BaidDSB said:
+I used to use Dimly, but i feel that it being an overlay filter isnt good and if there was a way to just turn on the auto brightness at say 2 am, and turn it off say at 6 am, automatically without me needing to do it...
+  i dont like keeping auto brightness all the time. dont like the constant brightness change.
+what device is this for you need to be more specific
+ COMMENT_BREAK
+   47 minutes ago, goatedpenguin said:
+what device is this for you need to be more specific
+Moto G84.
+ COMMENT_BREAK
+ consider using smart brightness there is now in built way to do what you descirbed
+ COMMENT_BREAK

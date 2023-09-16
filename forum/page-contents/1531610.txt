@@ -1,0 +1,151 @@
+
+ Which motherboard would you recommend for running an Intel 13600k?
+  So far, these have been my personal choices:
+  - ASUS Prime Z790-A WIFI
+- Gigabyte Z790 AORUS Elite AX
+- MSI Tomahawk Z790 Wifi
+  I'm completely in the dark with DDR5 though, no idea what to get, what about these? G.Skill Trident Z5 RGB DDR5-6400 DIMM CL32-39-39-102
+  I gravitate towards the Gigabyte though I'm unsure of that GPU lock on the Gigabyte, looks it could conflict with a GPU backplate?
+ COMMENT_BREAK
+   20 hours ago, Melodist said:
+- ASUS Prime Z790-A WIFI
+- Gigabyte Z790 AORUS Elite AX
+- MSI Tomahawk Z790 Wifi
+The Prime is the worst board of the bunch, though they're all decent enough. I'd probably go for the Elite, just because the feature set of that board works best for me (I like a ton of USB and the safe boot button is really handy), but the Tomahawk has its reasons to get. 
+    20 hours ago, Melodist said:
+I gravitate towards the Gigabyte though I'm unsure of that GPU lock on the Gigabyte, looks it could conflict with a GPU backplate?
+What card are you using? I've used one of the boards with the similar mechanism (B650 Aorus Elite AX), and it didn't conflict whatsoever with the 7900 XTX Red Devil I used. I'd say it's pretty unlikely you'd get in a situation where it would conflict. 
+    20 hours ago, Melodist said:
+I'm completely in the dark with DDR5 though, no idea what to get, what about these? G.Skill Trident Z5 RGB DDR5-6400 DIMM CL32-39-39-102
+Assuming that's the 2x16GB or 2x24GB kit, it should be fine. If it's the 2x32GB or 2x48GB kit, it might be a bit too hard on your IMC depending on how lucky you are. That kit isn't anything special, I wouldn't go for it over a say a TeamGroup or Kingston kit in the same speed bin if the price is lower, but I wouldn't avoid it either. 
+ COMMENT_BREAK
+   19 hours ago, RONOTHAN## said:
+The Prime is the worst board of the bunch, though they're all decent enough. I'd probably go for the Elite, just because the feature set of that board works best for me (I like a ton of USB and the safe boot button is really handy), but the Tomahawk has its reasons to get. 
+I thought so about the Prime. What about the Tomahawk? Any advantages over the Elite? Yeah I'll skip the Prime A.
+  Don't know whether it's worth it to spend the 100 extra for the Aero G motherboard by Gigabyte, comes with 4 x gen M.2 and 1 x Gen 5 compared to 4 x gen 4 on the Elite.
+  https://www.gigabyte.com/Motherboard/Z790-AERO-G-rev-10#kf
+    19 hours ago, RONOTHAN## said:
+What card are you using? I've used one of the boards with the similar mechanism (B650 Aorus Elite AX), and it didn't conflict whatsoever with the 7900 XTX Red Devil I used. I'd say it's pretty unlikely you'd get in a situation where it would conflict. 
+Gainward 3070 Ti, will transition from my 9900K PC.
+  What's your current motherboard?
+  19 hours ago, RONOTHAN## said:
+Assuming that's the 2x16GB or 2x24GB kit, it should be fine. If it's the 2x32GB or 2x48GB kit, it might be a bit too hard on your IMC depending on how lucky you are. That kit isn't anything special, I wouldn't go for it over a say a TeamGroup or Kingston kit in the same speed bin if the price is lower, but I wouldn't avoid it either. 
+Can you explain to me please why it would be hard on the IMC?
+  So same timings different brand?
+  I'm mainly using the PC for Avid's Pro Tools and Gaming.
+ COMMENT_BREAK
+   19 hours ago, Melodist said:
+Don't know whether it's worth it to spend the 100 extra for the Aero G motherboard by Gigabyte, comes with 4 x gen M.2 and 1 x Gen 5 compared to 4 x gen 4 on the Elite.
+I wouldn't due to the way they get the Gen 5 M.2 slot. In order to have one on Z790, you need to reduce the primary x16 slot down to just x8. That doesn't make a huge difference to performance, but it is measurably worse for no real benefit outside of some storage benchmarks. 
+    19 hours ago, Melodist said:
+What about the Tomahawk? Any advantages over the Elite?
+Solid board, it's got an extra SATA port and a few extra fan headers at the expense of a few USB ports. In practice they're going to be basically identical and you should more shop based on looks and who's BIOS you prefer (personally I prefer Gigabyte's, but both are definitely usable). 
+    19 hours ago, Melodist said:
+Gainward 3070 Ti, will transition from my 9900K PC.
+That should fit just fine, from what I can tell from photos that card has a thinner backplate than the Red Devil XTX I used with that same PCIe lever. 
+    19 hours ago, Melodist said:
+What's your current motherboard?
+Z690 Unify-X. The board I mentioned with the Gigabyte tall PCIe release was the B650 Aorus Elite AX. 
+    19 hours ago, Melodist said:
+Can you explain to me please why it would be hard on the IMC?
+Sure. The 2x16GB and 2x24GB kits are single rank, while the 2x32GB and 2x48GB kits are dual rank. As a general rule, more ranks is more difficult for the IMC to run at high speeds, and thus the lower capacity kits are capable of higher speeds than the higher capacity kits. 
+    19 hours ago, Melodist said:
+So same timings different brand?
+Yeah, basically anything in that same speed bin (6400 CL32) will be practically identical. With DDR5 brand really doesn't matter all that much, most everything mildly fast will be using the same exact SK Hynix based memory ICs, the PCB doesn't seem to make a huge difference (the green PCB sticks clock just as well as the ones from G.Skill), and the PMIC with most higher speed kits should be Richtek across the board at this point. If you can save a bit of money by going with someone else, I would. 
+ COMMENT_BREAK
+   19 hours ago, RONOTHAN## said:
+I wouldn't due to the way they get the Gen 5 M.2 slot. In order to have one on Z790, you need to reduce the primary x16 slot down to just x8. That doesn't make a huge difference to performance, but it is measurably worse for no real benefit outside of some storage benchmarks. 
+  Solid board, it's got an extra SATA port and a few extra fan headers at the expense of a few USB ports. In practice they're going to be basically identical and you should more shop based on looks and who's BIOS you prefer (personally I prefer Gigabyte's, but both are definitely usable). 
+Expand  
+So I can install all 4 x NVMe slots without losing any bandwidth from other ports? Except 2 x SATA I saw which is fine.
+  Would installing their Thunderbolt 4 expansion card disable something?
+    Which ram config would you recommend that I can later on still upgrade.
+  Or generally any specific combinations?
+  Here is the shop I'll usually shop from:
+  https://www.mindfactory.de/Hardware/Arbeitsspeicher+(RAM)/DDR5+Module.html
+  Will my Z790 also be compatible with the 14th Gen?
+  Thanks so much for helping me out, immensely appreciated!
+ COMMENT_BREAK
+   18 hours ago, Melodist said:
+So I can install all 4 x NVMe slots without losing any bandwidth from other ports?
+Yeah, you should. 
+    18 hours ago, Melodist said:
+Would installing their Thunderbolt 4 expansion card disable something?
+It shouldn't 
+    18 hours ago, Melodist said:
+Will my Z790 also be compatible with the 14th Gen?
+It should, most Z690/Z790 boards already have a BIOS out that supports it. 
+    18 hours ago, Melodist said:
+Which ram config would you recommend that I can later on still upgrade.
+  Or generally any specific combinations?
+  Here is the shop I'll usually shop from:
+  https://www.mindfactory.de/Hardware/Arbeitsspeicher+(RAM)/DDR5+Module.html
+Expand  
+It really depends on the capacity you need, though generally I'd recommend getting the cheapest kit in these speed bins:
+2x16GB and 2x24GB: 6400 CL32
+2x32GB and 2x48GB: 6000 CL30/32
+  Both should work just fine, plus they should all clock pretty high if you want to attempt memory overclocking in the future. 
+These should be the kits that I'd get for each of these:
+2x16GB non-RGB: https://www.mindfactory.de/product_info.php/32GB-Patriot-VIPER-VENOM-DDR5-6400-DIMM-CL32-Dual-Kit_1483365.html
+2x16GB RGB: https://www.mindfactory.de/product_info.php/32GB--2x-16GB--G-Skill-Trident-Z5-RGB-schwarz-DDR5-6400-DIMM-CL32-39-39_1442695.html
+2x32GB non-RGB: https://www.mindfactory.de/product_info.php/64GB-G-Skill-Ripjaws-S5-schwarz-DDR5-6000-DIMM-CL30-Dual-Kit_1474165.html
+2x32GB RGB: https://www.mindfactory.de/product_info.php/64GB-G-Skill-Trident-Z5-RGB-silber-DDR5-6000-DIMM-CL30-Dual-Kit_1465672.html
+  As for 2x24GB and 2x48GB, they don't have any kits I'd recommend in stock, so unless you're willing to look somewhere else I'd probably avoid them. 
+ COMMENT_BREAK
+   18 hours ago, RONOTHAN## said:
+Yeah, you should. 
+  It shouldn't 
+  It should, most Z690/Z790 boards already have a BIOS out that supports it. 
+  It really depends on the capacity you need, though generally I'd recommend getting the cheapest kit in these speed bins:
+Expand  
+So, given that z690 motherboards come with 14th gen CPU support, should I maybe go instead for a z690 motherboard? What would be the advantage for me with a Z790 motherboard?
+ COMMENT_BREAK
+   17 hours ago, Melodist said:
+So, given that z690 motherboards come with 14th gen CPU support, should I maybe go instead for a z690 motherboard? What would be the advantage for me with a Z790 motherboard?
+They technically have a bit more connectivity options (some of the Gen 3 lanes on Z690 are Gen 4 lanes on Z790) and you don't have to worry about a BIOS update. Otherwise sticking with Z690 isn't a bad idea. My go-to board recommendation has been the Z690 Carbon/Force as for whatever reason it's been on a ton of sales in most markets, and it's a very feature rich board for the price (Germany doesn't seem to have those sales though). I'm personally on Z690 with a 13th gen CPU, and I don't really have many complaints about it other than BIOS updates for things like 2x24GB support being a bit slower than the Z790 boards. 
+  For the most part though, the price of the Z790 board is the same/within $10 of the Z690 board, and at that point you might as well just get the Z790 board as for the most part it will be a little better. 
+ COMMENT_BREAK
+   17 hours ago, RONOTHAN## said:
+They technically have a bit more connectivity options (some of the Gen 3 lanes on Z690 are Gen 4 lanes on Z790) and you don't have to worry about a BIOS update. Otherwise sticking with Z690 isn't a bad idea. My go-to board recommendation has been the Z690 Carbon/Force as for whatever reason it's been on a ton of sales in most markets, and it's a very feature rich board for the price (Germany doesn't seem to have those sales though). I'm personally on Z690 with a 13th gen CPU, and I don't really have many complaints about it other than BIOS updates for things like 2x24GB support being a bit slower than the Z790 boards. 
+Expand  
+So you think the Z790 Aorus Elite AX is a reliable choice?
+  Anything else below 300?
+  Thinking about the Tomahawk though, would be 30 bucks more for me. I think the Tomahawk has also more USB ports and cmos buttons?
+ COMMENT_BREAK
+   17 hours ago, Melodist said:
+So you think the Z790 Aorus Elite AX is a reliable choice?
+Yeah, it is at the top of my list of boards I'd get if I was shopping where you were. 
+    17 hours ago, Melodist said:
+Anything else below 300?
+There's a few others like the Gaming X AX, Z790-A Pro, and Z790 UD AC that I'd consider if you want to save a buck, but at the same time I wouldn't really want to run a 14900K on any of those boards. If your plan was to upgrade in the future to one of those very high current draw CPUs. 
+  It might be worth waiting for the new Z790 boards to release for 14th gen though, they should be a fair bit better than their current options in memory support and VRM quality for the price. 
+ COMMENT_BREAK
+   17 hours ago, RONOTHAN## said:
+Yeah, it is at the top of my list of boards I'd get if I was shopping where you were. 
+  There's a few others like the Gaming X AX, Z790-A Pro, and Z790 UD AC that I'd consider if you want to save a buck, but at the same time I wouldn't really want to run a 14900K on any of those boards. If your plan was to upgrade in the future to one of those very high current draw CPUs. 
+  Expand  
+Yeah but they are probably be 100 bucks higher in price I'd assume, at least. If I'd upgrade, I'd probably rather go for the 14700K anyways, which the Elite AX should handle fine right?
+  I noticed though that the MSI has a lot more USB ports at the back than the Gigabyte, especially USB 3.2 Gen 2.
+ COMMENT_BREAK
+   16 hours ago, Melodist said:
+Yeah but they are probably be 100 bucks higher in price I'd assume, at least. If I'd upgrade, I'd probably rather go for the 14700K anyways, which the Elite AX should handle fine right?
+The Elite AX should be fine with that. 
+    16 hours ago, Melodist said:
+I noticed though that the MSI has a lot more USB ports at the back than the Gigabyte, especially USB 3.2 Gen 2.
+Yeah, it has more higher speed USB ports. If you just care about the raw Type A count like I do (most of my devices plugged into the back of my system are peripherals and other things things that don't need super high speeds), the Elite is still the better option, but if you need more speed the Tomahawk would be the better pick. 
+ COMMENT_BREAK
+ I went with the tomahawk based off people like Buildzoid saying the Msi pro a board was solid board for the price, the tomahawk just had a few more features, vrm is well cooled, phc chip is wel cooled, llc works very well, it’s just been a solid board for me, I can’t advise on the others as I haven’t used them but Msi get a thumbs up from me 
+ COMMENT_BREAK
+ They currently give 100 cashback on steam for buying an MSI motherboard
+  Man, should I get the Elite or the Tomahawk.
+  Which of the motherboards runs stabler and is better for future proofing (14th Gen), the Elite or Tomahawk?
+ COMMENT_BREAK
+ I went with the tomahawk based off people like Buildzoid saying the Msi pro a board was solid board for the price, the tomahawk just had a few more features, vrm is well cooled, phc chip is wel cooled, llc works very well, it’s just been a solid board for me, I can’t advise on the others as I haven’t used them but Msi get a thumbs up from me 
+ COMMENT_BREAK
+   4 hours ago, Ebony Falcon said:
+I went with the tomahawk based off people like Buildzoid saying the Msi pro a board was solid board for the price, the tomahawk just had a few more features, vrm is well cooled, phc chip is wel cooled, llc works very well, it’s just been a solid board for me, I can’t advise on the others as I haven’t used them but Msi get a thumbs up from me 
+Has anyone tested either VRM capabilities and temps? Somewhere a video or articles online?
+  How are the temps using the M.2 heatsinks with NVMe 4 drives, especially the top one?
+  Does the top one allow for a custom one as well? Would there be enough space?
+    Will I be able to put the thunderbolt card into the small PCIe slot on the Tomahawk so that the bottom one stays free?
+ COMMENT_BREAK

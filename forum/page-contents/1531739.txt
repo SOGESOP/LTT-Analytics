@@ -1,0 +1,12 @@
+
+ Gskill F5-6000J3040F16GA2-RS5K is the ram I have, it’s not on the Qvl but I’ve never had issues in the past like this. I thought since it has an xmp profile it might work but I might need different ram, figured I’d ask here. 
+
+In the bios I’ve tried running the xmp profile which is cl30-40-40-96 at 6000mhz and sometimes it will start but it will either drop a bsod on me or it won’t start again. I have to pull the battery or short the jbatt connector to clear the cmos to get back into the bios. 
+  If I run it default with no changes the system boots and posts almost every single time but the speed is at 4800mhz and the timings are way worse. 
+  1-Should I just own that I f’ed up and get different ram ?
+2-If so what should I get that’s known to be stable in a 32gb 2x16gb kit from Amazon ?
+ COMMENT_BREAK
+ You should be able to get that kit to work, there's two things I'd try first:
+Make sure you're on the latest BIOS. This was an issue on the early BIOS revisions on AMD boards where the XMP profile would not read correctly. This has been mostly fixed on the latest BIOS revisions. 
+If that doesn't fix it, enter the parameters manually for the XMP, that should work. 
+ COMMENT_BREAK

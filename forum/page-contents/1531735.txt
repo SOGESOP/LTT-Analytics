@@ -1,0 +1,13 @@
+
+ I've got stuck in a rabbit hole trying to understand "power phases" which there is no simple explanation online that I can find.  I am in the market for a B type board for an i5-13600 but which I would ideally like an option to upgrade later to a more powerful processor.  I believe this b760m from asrock https://pg.asrock.com/MB/Intel/B760M PG Lightning WiFi/index.asp is recently released and ticks all the boxes for me apart from this query about power phases.
+  I am worried about the 7-1-1 power phase as I understand 7 is for the CPU and it is lower than any other 700 series boards I have seen.  I do not care about overclocking hence why I am looking at B boards, but I do want a board that will last for 3 years and allow me to upgrade CPU.  How can I tell which B boards will limit the upper tier 13th gen LG1700 or 14th gen refresh CPUs?
+ COMMENT_BREAK
+ If you're not overclocking, I feel like just about any half-decent board out there would be adequate enough. Gut feeling would say that 7 phases for the CPU would be plenty enough for a locked 14900, especially if you don't use the "optimized" settings nonsense most boards try pushing on you.
+ COMMENT_BREAK
+ I just seen in the spec details that these are 50A phases.  Thought I would share in case that makes a difference.
+ COMMENT_BREAK
+ I don't really worry about the spec too much (though you should check what the phases are rated for, not just how many), but how it performs thermally in reviews like on hardware unboxed (YouTube), since a board with good heatsinks can perform better than one with a more powerful VRM.
+  If you're only gaming, then the boards don't usually get that hot regardless of CPU, but if you're doing long-run multi-threaded stuff then definitely make sure you get a decent board.
+  FYI: the 13600 is not a 'proper' 13th gen CPU, but the 13600K is.
+  From looking at the board you mentioned, I'm pretty sure it will be fine with a 13600, but a 14900? Umm, I'd rather not.
+ COMMENT_BREAK

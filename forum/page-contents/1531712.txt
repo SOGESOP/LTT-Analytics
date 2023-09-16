@@ -1,0 +1,13 @@
+
+ UserBenchmarks: Game 98%, Desk 84%, Work 90%
+CPU: Intel Core i5-11400F - 78.9%
+GPU: Nvidia RTX 3060-Ti - 127.4%
+SSD: WDC PC SN530 SDBPNPZ-512G-1032 512GB - 166.7%
+RAM: Hynix HMAA2GU6AJR8N-XN 1x16GB - 35.8%
+MBD: MSI H510M PRO (MS-7D22)
+ 
+ COMMENT_BREAK
+ Userbenchmark is pretty useless.
+  The only possible application it has would be to compare your results to other people with the same hardware and even that is marginal.
+  If your PC is meeting your needs satisfactorily, there is no need to get validation it's "good" from websites or strangers on forums.
+ COMMENT_BREAK

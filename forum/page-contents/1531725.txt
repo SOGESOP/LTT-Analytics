@@ -1,0 +1,75 @@
+
+ Problem: I have a problem with my CPU, it has unusual high temps. Right now it has 73.5C on idle. Which is too hot, I put energy saving mode on through armoury crate but it doesn't do much. I updated the BIOS to the newest settings. When I started it up it went up to 90C.
+hope somebody can help me
+  PC Specs:
+Case: Lian o11 Dyanmic (Top: AIO on exhaust; Sides/Bottom: Intake
+Motherboard: ASUS X670e-pro WiFi
+RAM: G.Skill Trident Z 4x16GB 6400mhz (i know the MHz is incompatible) 
+AIO: Arctic Freezer 360
+GPU: Gigabyte RTX 3080 ti
+PSU: Corsair 1200w
+ COMMENT_BREAK
+ Bad cooler mount most likely.
+ COMMENT_BREAK
+   1 hour ago, lafrente said:
+Bad cooler mount most likely.
+What does this mean? I used the built-in mount, it sits firmly on the CPU
+ COMMENT_BREAK
+   1 hour ago, trotuele said:
+What does this mean? I used the built-in mount, it sits firmly on the CPU
+Too little thermal paste, not removing the sticker at the bottom, not tightening the screws enough for better contact etc.
+ COMMENT_BREAK
+   1 hour ago, lafrente said:
+Too little thermal paste, not removing the sticker at the bottom, not tightening the screws enough for better contact etc.
+Okay, I am checking the thermal paste. Is this a shitjob?
+ COMMENT_BREAK
+   1 hour ago, trotuele said:
+Okay, I am checking the thermal paste. Is this a shitjob?
+  Doesn't look bad enough to have caused such bad temps. Make sure you remove the sticker at the bottom of the cooler, and make sure you used correct brackets etc. I don't know that specific cooler & CPU combination but your issue is in the mounting of the cooler. (Unless CPU has a massive hardware issue which is unlikely)
+ COMMENT_BREAK
+   1 hour ago, lafrente said:
+Doesn't look bad enough to have caused such bad temps. Make sure you remove the sticker at the bottom of the cooler, and make sure you used correct brackets etc. I don't know that specific cooler & CPU combination but your issue is in the mounting of the cooler. (Unless CPU has a massive hardware issue which is unlikely)
+Checked that, I think the screws that I have for my AIO to screw into the backplate are not long enough. Like I can still push down the AIO a little bit.
+ COMMENT_BREAK
+   1 hour ago, trotuele said:
+Checked that, I think the screws that I have for my AIO to screw into the backplate are not long enough. Like I can still push down the AIO a little bit.
+Check for brackets, retention bars etc. in the box 
+ COMMENT_BREAK
+ Are you sure the cooler block is oriented the correct way per the manual ??
+    might  be worth a few minutes to just take everything off look at the install guide one more time and then reinstall everything ... It isn't the end of the world but that looks like too much paste to me in your photo.
+ COMMENT_BREAK
+   1 hour ago, lafrente said:
+Check for brackets, retention bars etc. in the box 
+The problem is, you can’t unscrew the backplate
+ COMMENT_BREAK
+   1 hour ago, atarione said:
+Are you sure the cooler block is oriented the correct way per the manual ??
+  Expand  
+Sorry if this is a stupid question, is this correct? I never thought of doing it like that. The picture above confuses me a bit.
+ COMMENT_BREAK
+   1 hour ago, trotuele said:
+Sorry if this is a stupid question, is this correct? I never thought of doing it like that. The picture above confuses me a bit.
+Expand  
+So the orientation is right  .. however look at the instructions they have a bit about offset mounting (I don't have this cooler or cpu myself).. but maybe the offset is the problem?
+  Take a look here::
+https://support.arctic.de/lf2-360r7  (check revision.. I assumed you have the most recent revision (7) if that is incorrect look on the website for your revision #?
+  Notice deeper cutout down towards PCIe slot , shallower bracket up top and #2 mounting holes
+       
+ COMMENT_BREAK
+   52 minutes ago, atarione said:
+So the orientation is right  .. however look at the instructions they have a bit about offset mounting (I don't have this cooler or cpu myself).. but maybe the offset is the problem?
+  Take a look here::
+https://support.arctic.de/lf2-360r7  (check revision.. I assumed you have the most recent revision (7) if that is incorrect look on the website for your revision #?
+Expand  
+Ohhhh, got it. Thank you. I will try it and update you!
+ COMMENT_BREAK
+   1 hour ago, trotuele said:
+Okay, I am checking the thermal paste. Is this a shitjob?
+Expand  
+If this was after the cooler was mounted, there's your problem. The majority of the CPU isn't making contact with the cooler, only some of the left side. 
+ COMMENT_BREAK
+   15 minutes ago, trotuele said:
+Ohhhh, got it. Thank you. I will try it and update you!
+LOOK DAWG, IT WORKS!!!!! IM SO HAPPY, THANK YOU THANK YOU THANK YOU!!!!
+ITS AT 40C NOW
+ COMMENT_BREAK

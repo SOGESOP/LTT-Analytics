@@ -1,0 +1,20 @@
+
+ Hi, 
+  I'm looking for a UPS for my home PC (1000W) and my home server (550W). I've heard good things about APC, so looking into those, the problem I'm facing is that for a consumer level, they only offer up to 1200W, I assume this is not going to be okay for my use case, I'll need 1550W, right? I also plan to run an extension (or a couple) from the UPS to power monitors and peripherals.
+  When you get above consumer level (more than 1200W) the price seems to SKYROCKET, so, any recommendations for a UPS I could use for this?
+  Cheers!
+ COMMENT_BREAK
+   28 minutes ago, Zalosath said:
+Hi, 
+  I'm looking for a UPS for my home PC (1000W) and my home server (550W). I've heard good things about APC, so looking into those, the problem I'm facing is that for a consumer level, they only offer up to 1200W, I assume this is not going to be okay for my use case, I'll need 1550W, right? I also plan to run an extension (or a couple) from the UPS to power monitors and peripherals.
+  Expand  
+Honestly a good 1500W/2000VA UPS will likely cost a lot. You'd likely be better off buying 2 separate lower end UPSes.
+  APC's home line of UPSes are MEH. I've been buying CyberPower UPSes since the 3 APC BackUPS models I had all died with the same fault after 5 years. The CyberPower models are also MEH but they are inexpensive and easier to replace the batteries in.
+  If money is no object look at Eaton 5000 or 9000 series.
+ COMMENT_BREAK
+   21 minutes ago, Gorgon said:
+Honestly a good 1500W/2000VA UPS will likely cost a lot. You'd likely be better off buying 2 separate lower end UPSes.
+  APC's home line of UPSes are MEH. I've been buying CyberPower UPSes since the 3 APC BackUPS models I had all died with the same fault after 5 years. The CyberPower models are also MEH but they are inexpensive and easier to replace the batteries in.
+  Expand  
+Another bonus to getting separate units is that OP would likely have the ability to have software automatically turn off the PCs when the battery level gets too low. That's one of my favorite features of my APC unit, if anything my only complaint is that I can't "forward" the request to other PCs on the network lol
+ COMMENT_BREAK

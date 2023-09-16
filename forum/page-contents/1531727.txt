@@ -1,0 +1,68 @@
+
+ Completely lost with this one, if anyone has any genius suggestions?
+  Only just recently, my computer has been hard crashing--video display goes dark, and my case fans rev up to max speeds. Windows remains running in the background as normal, I just have no video output.
+  My GPU (Gigabyte 2080 Super 'Gaming OC') isn't overclocked whatsoever beyond the modest factory OC they put on it. Otherwise it's running on factory settings, and has never had any issues in the past. PSU is a mid-tier 750W EVA one from a while ago. All drivers are current and up to date. I'm on Win10. GPU temps under load seem very reasonable, barely getting to 70C under load.
+  So far, I've tried:
+Reseating the video card, as well as PSU cables.
+Did a DDU reinstall of all Nvida drivers (Currently on version 537.34)
+Cleaning out any dust I could find from the case in general (there wasn't much) 
+Trying to monitor voltage in HWMonitor (hard, because I lose video output when this happens, and doesn't generate an error log that I can tell?)
+Does anyone have any idea what is going on here? The crashing exclusively happens while gaming, even in very GPU light older games (like the old Total War series, for example). When it crashes, I lost all video output, get a message saying that Displayport isn't detecting anything, and system audio continues to run as normal in the background. Never had any issues whatsoever with the PC in the past. 
+
+System Specs - 
+  Mobo - MSI Tomahawk B450 Max 
+CPU- Ryzen 3700X (Watercooled with an AIO)
+GPU- Gigabyte 2080 Super 'Gaming OC'
+RAM - 64G Corsair Vengeance DDR4 (XMP enabled)
+Boot Drive - 1TB Intel M.2 SSD
+Storage Drive - WD Blue SATA SSD 1TB 
+Monitor - Some Cheapo 1440p Westinghouse thing
+ COMMENT_BREAK
+ That's very odd behavior. I see a bios update available for your board from about 2 months ago, I would probably start there, if it's functioning otherwise okay.
+ COMMENT_BREAK
+   2 hours ago, TangentalV said:
+if anyone has any genius suggestions
+I had a similar issue a few months ago with a 3080ti. Black screen but Windows was still running in the background.
+  Fortunately for me, it was a faulty PSU so not too expensive to fix. I was convinced it was the GPU but when took one last shot at trying to diagnose the issue, I realised one of the PCIe power cables had melted to the PSU.
+  Maybe its a PSU issue but if not have you tried a complete fresh install of Windows. Just removes a Windows / Software issue. DDU is very good but nothing compares to a fresh install.
+  Only other things to try would be to dial back any OCs to stock (inc XMP) and running a single stick of Ram. Is it 2 x 32GB you have or 4 x 16?
+ COMMENT_BREAK
+   1 hour ago, JeffreyLF said:
+That's very odd behavior. I see a bios update available for your board from about 2 months ago, I would probably start there, if it's functioning otherwise okay.
+Not a bad idea! It's a quite old board, so that's actually something I probably should give a shot.
+  Thanks! Will give this a try and see if it helps.
+ COMMENT_BREAK
+   1 hour ago, ChrisLoudon said:
+I had a similar issue a few months ago with a 3080ti. Black screen but Windows was still running in the background.
+  Fortunately for me, it was a faulty PSU so not too expensive to fix. I was convinced it was the GPU but when took one last shot at trying to diagnose the issue, I realised one of the PCIe power cables had melted to the PSU.
+  Maybe its a PSU issue but if not have you tried a complete fresh install of Windows. Just removes a Windows / Software issue. DDU is very good but nothing compares to a fresh install.
+Expand  
+A PSU issue would be much, MUCH more palatable than having to fund a new GPU, one can hope!
+  I'll for sure give windows a fresh install. My computer doesn't have much clutter on it to begin with, literally only a very basic gaming computer. But...it's ran stable for it's entire life up until now, so that might be a good step to try!
+  EDIT - Here's a random question. I've been getting endlessly harassed by Windows to upgrade to Win11, but haven't-- because the last time I tried it, it was hot garbage. Do you think it would be worthwhile to do a fresh install/upgrade to Win11, and see if the issue persists?
+ COMMENT_BREAK
+   2 hours ago, TangentalV said:
+Completely lost with this one, if anyone has any genius suggestions?
+Did you try a different display cable and different connector (e.g an alternate DP or HDMI)?
+ COMMENT_BREAK
+   1 hour ago, Gorgon said:
+Did you try a different display cable and different connector (e.g an alternate DP or HDMI)?
+Oh good idea! I did try plugging the same Displayport cable into different ports on the GPU itself (I think it has 3 total?) But hadn't thought to try HDMI. Will give that a try next time it starts to freak out on me!
+ COMMENT_BREAK
+   1 hour ago, Gorgon said:
+Did you try a different display cable and different connector (e.g an alternate DP or HDMI)?
+I just had a thought.
+  The PC itself hasn't had anything jostled around in it necessarily. BUT, I have plugged/unplugged the exact DP cord it's using in and out of the GPU a *lot* lately, because I use the monitor for my work laptop when I'm able to work remotely.
+  As such, the DP cable has been getting a lot more action on it than it normally would have. Maybe it's possible that's my problem? A faulty DP cord?
+ COMMENT_BREAK
+   1 hour ago, TangentalV said:
+Do you think it would be worthwhile to do a fresh install/upgrade to Win11, and see if the issue persists?
+Personally, yes, but I kinda like Win11.
+ COMMENT_BREAK
+   1 hour ago, TangentalV said:
+I just had a thought.
+  The PC itself hasn't had anything jostled around in it necessarily. BUT, I have plugged/unplugged the exact DP cord it's using in and out of the GPU a *lot* lately, because I use the monitor for my work laptop when I'm able to work remotely.
+  As such, the DP cable has been getting a lot more action on it than it normally would have. Maybe it's possible that's my problem? A faulty DP cord?
+Expand  
+Sometimes the simple answer is the best
+ COMMENT_BREAK

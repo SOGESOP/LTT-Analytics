@@ -1,0 +1,74 @@
+
+ Hi everyone,
+  tl;dr ... The goal here is to completely deactivate my paid Google/Gmail services and host my email through my web hosting provider
+  More info:
+This year I have been slowly extracting myself from the Google's tentacles, and am just about ready to take the final steps.
+  Specifically email... not sure how this will play out, and suggestions would be appreciated. Here's the story...
+  I have a paid business plan, which was used as cloud storage, and hosting my email address through Gmail, with my own domain.. let's call it me@mydomain.com
+  I have been updating/advising (most) accounts/profiles with various services, retailers, work and personal, with my new email address (an outlook account). All cloud-based storage has been migrated over to OneDrive.
+  I will continue to maintain the domain name, and web hosting. This is through a provider that has no relation to Google.
+  I would like to keep me@mydomain.com functioning, in case someone contacts me through that address, and I've not updated them. It's been many years for me using webmail service, so I'm a bit rusty... if I remember, I can just have my email hosted through my web hosting provider right ? IMAP/POP, or whatever it is.I don't need to know the specifics on the technical "how", I'll work that part out
+    I guess the main question is... what happens to the contents of my Gmail based email ? I've cleared out over 20,000 emails, but there are many hundreds that I need to keep. Medical stuff, tax stuff, emails with unique hyperlinks to documentation etc... it would be an enormous job to reformat each one for archiving.
+Since Gmail does not have a folder management system, but "labels", I guess they won't migrate in any order. I'm ok with that.
+So.... I need some help with understanding what needs to happen.
+Speculating here....
+1. If I set up Outlook as a local mail client, will this bring all the remaining emails into Outlook, or only those that I received after the fact?
+2. And... if point 1. Is true, where are they hosted ? Still on Gmails server, or locally on my machine ? If they remain with Gmail, then accessing via Outlook is pointless.
+    Anything else I should address ? I'm going to delete all contacts, passwords, bookmarks, Google Pay, YouTube, and whatever else is associated with the company.
+     
+ COMMENT_BREAK
+ Oh bugger, I just realized something else. I DO need to keep all of the historic location info collected by maps, stretching as far back as six years I had better see if I can download a usable data log as .csv or something.
+ COMMENT_BREAK
+ Use Thunderbird to download the emails then you can delete them off google.
+ COMMENT_BREAK
+   17 hours ago, dilpickle said:
+Use Thunderbird to download the emails then you can delete them off google.
+I will be using Outlook only, as I wish to reduce the number of companies whose crap and data collection BS live on my computers. So Thunderbird won't make the cut, if Outlook can do the same task.
+  When I download emails, where would they then be stored ? Local drive ?
+ COMMENT_BREAK
+   17 hours ago, JaySonic said:
+Hi everyone,
+  tl;dr ... The goal here is to completely deactivate my paid Google/Gmail services and host my email through my web hosting provider
+  More info:
+This year I have been slowly extracting myself from the Google's tentacles, and am just about ready to take the final steps.
+Expand  
+Unless you have a fully dedicated server with your own reserved IP range(s), I wouldn't advise using webservers for email these days.
+https://www.namehero.com/blog/problem-email-shared-hosting/
+https://www.hostpapa.com/blog/web-hosting/web-and-email-hosting/
+https://kinsta.com/blog/keep-email-and-hosting-separate/
+  https://carriedils.com/web-hosting-email/
+https://empathysites.com/keep-email-and-web-hosting-separate/
+https://globalspex.com/6-reasons-email-hosting-not-website/
+  I'm not affiliated with either of these mail providers, but when the day comes to jump from my current email provider, it'll be one of these.
+https://www.fastmail.com/
+https://proton.me/mail
+ COMMENT_BREAK
+   16 hours ago, kirashi said:
+Unless you have a fully dedicated server with your own reserved IP range(s), I wouldn't advise using webservers for email these days.
+  Very interesting articles, thanks. The spam problems with web host email servers seems to be quite widespread.
+
+For me though, I'm only wanting to keep it active for the remaining contents, which I'll sort out over the next 12 months. And also to catch any emails sent to me from individuals I havent advised of the new address. It's surprising how many people I've notified were STILL emailing the old address, to the point where I've put together and distributed a procedure document on how to delete contacts from the address book in both Gmail and Outlook.
+
+I'll also look into activating IP restrictions by region, which might stop the onslaught of junk. I think I'll be fine restricting incoming message to Australian IPs only.
+
+Eventually, I'll kill the whole domain, as there's nothing hosted there anyway. But I do have a secondary domain on the same plan, which is my photography gallery, so I'll have to work out how to save it to a localhost server or FTP d/l or whatever (I'm very rusty on that too.. it's probably been 20 years since I've faffed around with backend web stuff)
+ COMMENT_BREAK
+   16 hours ago, JaySonic said:
+I will be using Outlook only, as I wish to reduce the number of companies whose crap and data collection BS live on my computers. So Thunderbird won't make the cut, if Outlook can do the same task.
+  When I download emails, where would they then be stored ? Local drive ?
+Uhhh OK. So you wanna move away from Google but you're happy to give everything to Microsoft?
+  Thunderbird is FOSS.
+ COMMENT_BREAK
+   4 hours ago, dilpickle said:
+Uhhh OK. So you wanna move away from Google but you're happy to give everything to Microsoft?
+  Thunderbird is FOSS.
+Perhaps you might wish to read my posts properly before responding to them.
+
+" I wish to reduce the number of companies whose crap and data collection BS live on my computers "
+
+Windows is the beating heart of my computers, and probably yours too. EVERY task, every process and every install is under the watchful eye of Microsoft. I no longer have any interest in countless various 'trust be bro' companies infecting my digital sovereignty, so I'm going all-in with as few of these corporate demons as possible. As such, it's entirely counterproductive to my goal if I use Thunderbird for my email client, Yahoo for my email address, Dropbox for my cloud service, Opera for my browser, Google for my spreadsheets, etc, when I can simply go 'all in' with the one antichrist as much as feasibly possible. 
+
+To be clear, I have no love for Microsoft, nor any particular trust for them over Google (or whatever). I find it to be deplorable what Microsoft require to use the tools that we pay for. Nor am I a fan of all the baked-in garbage they market to us, on an OS that WE HAVE PAID LICENCE FEES FOR.
+
+This project is about consolidation, not expansion, of legalized spyware operators. Installing Thunderbolt is counterproductive to the goal here.
+ COMMENT_BREAK

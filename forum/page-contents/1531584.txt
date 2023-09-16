@@ -1,0 +1,190 @@
+
+ Hey LTT community,
+  The brilliant and extensive LTT rig building YouTube guide brought me here.
+  I’ve always steered away from hardware as I've never really gelled with it, and for most of my adult life I've needed a mac for work purposes. However, recently I’ve had the hankering to build my own rig and I’ve finally raised the budget for it, so am now at the planning stage.
+  I was hoping some of you hardware veterans could have a look over my planned components, and let me know if you see any rookie mistakes or red flags, and if you have any cost-saving suggestions. I should mention that I'd take performance over looks, and would happily sacrifice RGB and fancy aesthetics if it meant better performance or reduced cost.
+  Any help would be greatly appreciated - thank you! 
+  Budget (including currency): £1500 - £2000
+  Country: UK
+  Games, programs or workloads that it will be used for: 
+Mainly a gaming PC. I mostly play immersive solo games rather than fast paced e-sports or FPS etc. I used Baldurs Gate 3’s recommended specs as a starting point to build my component list, as that and other games like Starfield and Warhammer Total War 3 will be on my list to pick up (plus I want to finally play modded Oblivion after years of being on macOS).
+  I will also need to do work on it. I work remotely and the most intensive software I'll need to be able to run is Adobe design software, Logic and Blender.
+  Other details (existing parts lists, whether any peripherals are needed, what you're upgrading from, when you're going to buy, what resolution and refresh rate you want to play at, etc): 
+I have a wireless USB mouse and headphones...and that's it!  I'm planning on picking up a basic keyboard and Windows 10 Professional, as my work is Windows based, it’s going for very cheap right now, and I'm pretty sure it’s a free upgrade to Windows 11.
+  Monitor wise, I will eventually need two monitors for work purposes, but I'm fine with one for now and for gaming I'll only need a single monitor. For the size and resolution, I have no size limitations and I figure a 27" 2560x1440 monitor is a good starting point. I don't know much about refresh rate, but I've been told I should be aiming for at least a 144Hz HDR monitor.
+  I'm currently opting for a DAC rather than a dedicated sound card (which isn't included in the component list below).
+  I'm planning on buying all of this within the next two months, either in one or two instalments. I have a work colleague who is from Hong Kong, and whose husband is travelling there in October. They've very kindly offered to pick up some of my components there if I'd like, since apparently PC parts are more accessible and drastically cheaper than they are in the UK. Asides from the BIOS likely not being in English, are there any other reasons why this might be a mistake over purchasing all the parts domestically?
+  My current component list:
+CPU: Intel Core i7-13700KF 3.4 GHz 16-Core Processor  (£373.38 @ Amazon UK) 
+CPU Cooler: Noctua NH-U12S chromax.black 55 CFM CPU Cooler  (£79.95 @ Amazon UK) 
+Motherboard: MSI PRO Z690-A WIFI DDR4 ATX LGA1700 Motherboard  (£164.85 @ Amazon UK) 
+Memory: Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory  (£64.98 @ Amazon UK) 
+Memory: Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory  (£64.98 @ Amazon UK) 
+Storage: Western Digital Black SN850X 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive  (£120.46 @ Scan.co.uk) 
+Video Card: ASRock Radeon RX6700XT CLD 12G Radeon RX 6700 XT 12 GB Video Card  (£337.19 @ Newegg UK) 
+Case: NZXT H7 Flow ATX Mid Tower Case  (£99.00 @ Computer Orbit) 
+Power Supply: SeaSonic PRIME TX-850 850 W 80+ Titanium Certified Fully Modular ATX Power Supply  (£275.47 @ Scan.co.uk) 
+Operating System: Microsoft Windows 10 Pro OEM - DVD 64-bit 
+Monitor: Gigabyte G27Q 27.0" 2560 x 1440 144 Hz Monitor  (£279.00 @ Computer Orbit) 
+Keyboard: Logitech MK235 Wireless Standard Keyboard With Optical Mouse  (£50.00 @ Amazon UK) 
+Total: £1909.26
+  Thanks for your help! 
+ COMMENT_BREAK
+ I would opt for a higher end cooler, like the NH-D15. Everything else seems to be good. Why buy a DVD copy of Windows? Collecting the packaging? Or do you like DVD drives (I sure do)?
+ COMMENT_BREAK
+   On 9/15/2023 at 8:34 PM, AAVVIronAlex said:
+I would opt for a higher end cooler, like the NH-D15. Everything else seems to be good. Why buy a DVD copy of Windows? Collecting the packaging? Or do you like DVD drives (I sure do)?
+Thanks for the reply - I'll check out the NH-D15!
+  Regarding the Windows 10 DVD, it's just how it came up on PCPartPicker - it'll actually be a digital purchase. I believe this means I'll need to flash install it, but could be wrong there!
+ COMMENT_BREAK
+ The 120mm fan goes inside the back of that case for an exhaust fan.
+  PCPartPicker Part List
+CPU: *Intel Core i7-13700F 2.1 GHz 16-Core Processor  (£359.00 @ Computer Orbit) 
+CPU Cooler: *Deepcool AK620 68.99 CFM CPU Cooler  (£65.47 @ Scan.co.uk) 
+Motherboard: *MSI B760 GAMING PLUS WIFI ATX LGA1700 Motherboard  (£145.00 @ Computer Orbit) 
+Memory: *G.Skill Ripjaws S5 64 GB (2 x 32 GB) DDR5-6000 CL32 Memory  (£187.41 @ Amazon UK) 
+Storage: *Western Digital Black SN850X 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive  (£120.46 @ Scan.co.uk) 
+Video Card: *Palit Dual GeForce RTX 4070 12 GB Video Card  (£534.97 @ Ebuyer) 
+Case: *Fractal Design Focus 2 ATX Mid Tower Case  (£64.99 @ Scan.co.uk) 
+Power Supply: *Corsair RM750e (2023) 750 W 80+ Gold Certified Fully Modular ATX Power Supply  (£99.34 @ Amazon UK) 
+Operating System: *Microsoft Windows 11 Home Retail - Download 64-bit  (£109.99 @ MoreCoCo) 
+Case Fan: *ARCTIC P12 56.3 CFM 120 mm Fan  (£8.50 @ AWD-IT) 
+Monitor: *LG UltraGear 27.0" 2560 x 1440 165 Hz Monitor  (£238.97 @ Amazon UK) 
+Total: £1934.10
+Prices include shipping, taxes, and discounts when available
+*Lowest price parts chosen from parametric criteria
+Generated by PCPartPicker 2023-09-15 22:47 BST+0100
+  A better look at those components.
+  https://www.lg.com/us/monitors/lg-27gr75q-b-gaming-monitor
+  https://www.msi.com/Motherboard/B760-GAMING-PLUS-WIFI   
+  https://www.intel.com/content/www/us/en/products/sku/230491/intel-core-i713700f-processor-30m-cache-up-to-5-20-ghz/specifications.html  
+  https://www.deepcool.com/products/Cooling/cpuaircoolers/AK620-High-Performance-CPU-Cooler-1700-AM5/2021/13067.shtml  
+  https://www.gskill.com/product/165/377/1649749474/F5-6000J3238G32GX2-RS5K-F5-6000J3238G32GA2-RS5K  
+  https://www.palit.com/palit/vgapro.php?id=4788
+  https://www.fractal-design.com/products/cases/focus/focus-2/black-tg-clear-tint/  
+    
+ COMMENT_BREAK
+   On 9/15/2023 at 8:56 PM, Why_Me said:
+The 120mm fan goes inside the back of that case for an exhaust fan.
+  PCPartPicker Part List
+CPU: *Intel Core i7-13700F 2.1 GHz 16-Core Processor  (£359.00 @ Computer Orbit) 
+CPU Cooler: *Deepcool AK620 68.99 CFM CPU Cooler  (£65.47 @ Scan.co.uk) 
+Motherboard: *MSI B760 GAMING PLUS WIFI ATX LGA1700 Motherboard  (£145.00 @ Computer Orbit) 
+*  (£187.41 @ Amazon UK) 
+*  (£120.46 @ Scan.co.uk) 
+*  (£508.00 @ Amazon UK) 
+*  (£64.99 @ Scan.co.uk) 
+*  (£99.98 @ Amazon UK) 
+*  (£109.99 @ MoreCoCo) 
+*  (£8.50 @ AWD-IT) 
+*  (£238.97 @ Amazon UK) 
+£1907.77
+
+
+Expand  
+Thanks for the detailed updated list - really appreciate it! I have a few questions about your changes, just so I better understand why you've switched certain things out:
+  1) Is it better to have a CPU with an integrated graphics card then, even if you have a dedicated video card installed too?
+  2) The LTT guide recommended setting up memory in dual racks - would the memory here (2 sticks of 32gb) be considered dual rack?
+  3) Is the 120mm exhaust fan to replace one of the case exhaust fans, or in addition to it?
+  Thanks
+ COMMENT_BREAK
+ Pretty sure Blender heaviliy favours Nvidia, just don't know what sort of rendering. If you AMD could be a choice you could have same performance for less or better performance at current price. Tried to go a bit premium so you have lower noise levels hopefully. If you're paying this much might as well:
+PCPartPicker Part List
+CPU: Intel Core i5-13600KF 3.5 GHz 14-Core Processor  (£269.99 @ Amazon UK)
+CPU Cooler: Deepcool ASSASSIN IV 79.1 CFM CPU Cooler  (£104.50 @ Amazon UK)
+Motherboard: MSI B760 GAMING PLUS WIFI ATX LGA1700 Motherboard  (£149.99 @ Amazon UK)
+Memory: TEAMGROUP T-Create Expert 32 GB (2 x 16 GB) DDR5-6000 CL30 Memory  (£110.12 @ Amazon UK)
+Storage: Crucial P5 Plus 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive  (£55.47 @ Amazon UK)
+Storage: Corsair MP600 CORE XT 4 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive  (£163.99 @ Amazon UK)
+Video Card: Gigabyte GAMING OC GeForce RTX 4070 12 GB Video Card  (£610.12 @ Amazon UK)
+Case: Fractal Design North ATX Mid Tower Case  (£124.95 @ Amazon UK)
+Power Supply: MSI MAG A850GL PCIE5 850 W 80+ Gold Certified Fully Modular ATX Power Supply  (£119.00 @ Amazon UK)
+Operating System: Microsoft Windows 11 Pro OEM - DVD 64-bit  (Purchased For £0.00)
+Case Fan: Phanteks D30-120 64.3 CFM 120 mm Fans 3-Pack  (£85.95 @ Amazon UK)
+Monitor: LG UltraGear 27.0" 2560 x 1440 165 Hz Monitor  (£238.97 @ Amazon UK)
+Total: £2033.05
+Prices include shipping, taxes, and discounts when available
+Generated by PCPartPicker 2023-09-15 21:21 BST+0100
+ COMMENT_BREAK
+   On 9/15/2023 at 9:22 PM, venomtail said:
+Video Card: Gigabyte GAMING OC GeForce RTX 4070 12 GB Video Card  (£610.12 @ Amazon UK)
+I'd rather just get a 4070 ti
+    On 9/15/2023 at 8:05 PM, captainadmiralv said:
+CPU: Intel Core i7-13700KF 3.4 GHz 16-Core Processor  (£373.38 @ Amazon UK) 
+CPU Cooler: Noctua NH-U12S chromax.black 55 CFM CPU Cooler  (£79.95 @ Amazon UK) 
+Motherboard: MSI PRO Z690-A WIFI DDR4 ATX LGA1700 Motherboard  (£164.85 @ Amazon UK) 
+Memory: Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory  (£64.98 @ Amazon UK) 
+Corsair Vengeance LPX 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory  (£64.98 @ Amazon UK) 
+Western Digital Black SN850X 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive  (£120.46 @ Scan.co.uk) 
+ASRock Radeon RX6700XT CLD 12G Radeon RX 6700 XT 12 GB Video Card  (£337.19 @ Newegg UK) 
+NZXT H7 Flow ATX Mid Tower Case  (£99.00 @ Computer Orbit) 
+SeaSonic PRIME TX-850 850 W 80+ Titanium Certified Fully Modular ATX Power Supply  (£275.47 @ Scan.co.uk) 
+Microsoft Windows 10 Pro OEM - DVD 64-bit 
+Gigabyte G27Q 27.0" 2560 x 1440 144 Hz Monitor  (£279.00 @ Computer Orbit) 
+Logitech MK235 Wireless Standard Keyboard With Optical Mouse  (£50.00 @ Amazon UK) 
+£1909.26
+Expand  
+in a build like this one below
+PCPartPicker Part List
+CPU: Intel Core i7-13700F 2.1 GHz 16-Core Processor  (£359.00 @ Computer Orbit) 
+CPU Cooler: Thermalright Peerless Assassin 120 SE ARGB 66.17 CFM CPU Cooler  (£42.00 @ Computer Orbit) 
+Motherboard: Gigabyte Z790 AORUS ELITE DDR4 ATX LGA1700 Motherboard  (£214.98 @ Ebuyer) 
+Memory: TEAMGROUP T-Force Vulcan Z 32 GB (2 x 16 GB) DDR4-3600 CL18 Memory  (£59.95 @ Amazon UK) 
+Storage: Corsair MP600 CORE XT 4 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive  (£163.99 @ Amazon UK) 
+Video Card: Zotac GAMING Trinity OC GeForce RTX 4070 Ti 12 GB Video Card  (£763.95 @ Amazon UK) 
+Case: Deepcool CC560 ARGB ATX Mid Tower Case  (£67.99 @ AWD-IT) 
+Power Supply: Thermaltake Toughpower GF A3 - TT Premium Edition 1050 W 80+ Gold Certified Fully Modular ATX Power Supply  (£129.98 @ Scan.co.uk) 
+Monitor: LG UltraGear 27.0" 2560 x 1440 165 Hz Monitor  (£238.97 @ Amazon UK) 
+Total: £2040.81
+Prices include shipping, taxes, and discounts when available
+Generated by PCPartPicker 2023-09-15 21:34 BST+0100
+ COMMENT_BREAK
+ You might consider an AMD build. I've included the 7800X3D which will offer better gaming performance in the titles mentioned. Performance in work software will be very good, just not as good as an Intel. 
+  PCPartPicker Part List
+CPU: AMD Ryzen 7 7800X3D 4.2 GHz 8-Core Processor  (£367.00 @ Amazon UK) 
+CPU Cooler: Thermalright Peerless Assassin 120 SE ARGB 66.17 CFM CPU Cooler  (£42.00 @ Computer Orbit) 
+Motherboard: MSI B650 GAMING PLUS WIFI ATX AM5 Motherboard  (£169.00 @ Computer Orbit) 
+Memory: G.Skill Flare X5 32 GB (2 x 16 GB) DDR5-6000 CL36 Memory  (£95.94 @ Amazon UK) 
+Storage: Crucial P5 Plus 2 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive  (£95.98 @ Amazon UK) 
+Video Card: MSI GAMING X TRIO GeForce RTX 4070 Ti 12 GB Video Card  (£805.98 @ Novatech) 
+Case: Lian Li LANCOOL 216 ATX Mid Tower Case  (£89.99 @ AWD-IT) 
+Power Supply: Thermaltake Toughpower GF3 TT Premium 750 W 80+ Gold Certified Fully Modular ATX Power Supply  (£119.99 @ AWD-IT) 
+Monitor: LG UltraGear 27.0" 2560 x 1440 165 Hz Monitor  (£238.97 @ Amazon UK) 
+Total: £2024.85
+Prices include shipping, taxes, and discounts when available
+Generated by PCPartPicker 2023-09-15 21:52 BST+0100
+ COMMENT_BREAK
+   On 9/15/2023 at 9:15 PM, captainadmiralv said:
+Thanks for the detailed updated list - really appreciate it! I have a few questions about your changes, just so I better understand why you've switched certain things out:
+  1) Is it better to have a CPU with an integrated graphics card then, even if you have a dedicated video card installed too?
+  2) The LTT guide recommended setting up memory in dual racks - would the memory here (2 sticks of 32gb) be considered dual rack?
+Expand  
+You want 2x32GB not 4x16GB so that you don't stress the memory controller. Integrated graphics is always a plus if it fits into your budget (look at the i7 13700). The 120mm fan goes inside the back of that case for a rear exhaust fan. The case comes with 2x140mm font intake fans but no rear exhaust fan.
+  https://www.intel.com/content/www/us/en/products/sku/230490/intel-core-i713700-processor-30m-cache-up-to-5-20-ghz/specifications.html
+ COMMENT_BREAK
+ Thanks @Why_Me @venomtail @filpo @brob for putting forward a component list - really helpful and I'm now going through my list making changes based on your suggestions! 
+ COMMENT_BREAK
+ PCPartPicker Part List
+CPU: Intel Core i7-13700K 3.4 GHz 16-Core Processor  (£376.00 @ Amazon UK) 
+CPU Cooler: Thermalright Peerless Assassin 120 SE 66.17 CFM CPU Cooler  (£47.82 @ Amazon UK) 
+Motherboard: MSI PRO Z690-A WIFI ATX LGA1700 Motherboard  (£189.98 @ Amazon UK) 
+Memory: G.Skill Ripjaws S5 64 GB (2 x 32 GB) DDR5-6000 CL32 Memory  (£193.31 @ Amazon UK) 
+Storage: Corsair MP600 CORE XT 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive  (£49.98 @ Amazon UK) 
+Storage: Corsair MP600 CORE XT 4 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive  (£163.99 @ Amazon UK) 
+Video Card: XFX Speedster MERC 319 Black Radeon RX 7800 XT 16 GB Video Card  (£508.00 @ Amazon UK) 
+Case: Lian Li LANCOOL 216 ATX Mid Tower Case  (£89.99 @ AWD-IT) 
+Power Supply: Corsair RM1000e (2023) 1000 W 80+ Gold Certified Fully Modular ATX Power Supply  (£132.94 @ Amazon UK) 
+Operating System: Microsoft Windows 10 Pro OEM - DVD 64-bit 
+Monitor: LG UltraGear 27.0" 2560 x 1440 165 Hz Monitor  (£225.96 @ Laptops Direct) 
+Total: £1977.97
+Prices include shipping, taxes, and discounts when available
+Generated by PCPartPicker 2023-09-16 20:48 BST+0100
+  So this is my new list, combining suggestions from each of your lists - @brob I have also made an AMD alternative list based off of your advice, but if I opt for 16 core, it took me over budget and so stuck with Intel for now.
+  The second SSD is for an offline work backup drive, and from what I understand with this setup, I'll need to flash update the motherboard's BIOS for it to function properly with the CPU. It's safe to say, there'll be a lot of reading the manuals and researching best BIOS configuration practices!
+  Again, I'd welcome any thoughts on the new list 
+ COMMENT_BREAK
+   45 minutes ago, captainadmiralv said:
+So this is my new list, combining suggestions from each of your lists - @brob I have also made an AMD alternative list based off of your advice, but if I opt for 16 core, it took me over budget and so stuck with Intel for now.
+  All cores are not equal. The 12 core 7900X, about £15 more than the i7-13700K, has slightly higher performance than the i7.
+  You will need to use Windows 11 with Intel CPU for optimal scheduling. It is tailored to take full advance of the CPU's Thread Director to manage core scheduling.
+ COMMENT_BREAK

@@ -3,7 +3,6 @@ import logging
 import requests
 import pandas
 import os
-import time
 from bs4 import BeautifulSoup
 from selenium.webdriver.common.by import By
 from selenium import webdriver

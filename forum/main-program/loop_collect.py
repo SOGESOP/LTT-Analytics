@@ -25,7 +25,17 @@ import pandas
 def run_main_collect_cycle():
     # find a way to run the script and wait on the completion of the 
     # collect script to run the translate script
-    work on this bit here
+
+    collect_file_path=f'{os.getcwd()}/collect.py'
+    analyse_file_path=f'{os.getcwd()}/translate.py'
+    
+    try:
+        subprocess.run(["python", collect_file_path], check=True)
+        time.wait(60)
+        subprocess.run(["python", analyse_file_path], check=True)
+    except Exception as error:
+        logging.error(f'Main Program has failed to run due to {error}')
+
     pass
 
 

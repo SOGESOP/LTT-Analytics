@@ -1,0 +1,63 @@
+
+ what can i do to make my motherboard use less power? i came to the conclusion that my cpu or gpu arent the reason for my high power draw, it is my motherboard.
+i looked it up and apparently high-end motherboards like mine (asus rog crosshair x670e gene) can use 40-80W of power. is there any way to lower this by disabling some unnecessary stuff?
+ COMMENT_BREAK
+   1 hour ago, JoHeJo06 said:
+what can i do to make my motherboard use less power? i came to the conclusion that my cpu or gpu arent the reason for my high power draw, it is my motherboard.
+i looked it up and apparently high-end motherboards like mine (asus rog crosshair x670e gene) can use 40-80W of power. is there any way to lower this by disabling some unnecessary stuff?
+your motherboard cannot use less power it draw power as much as it needs for the cpu think of it like a medium for hardware components and it has to give enough power to the components, the way you can "reduce motherboard power" is by indirectly reducing the power draw from components like the cpu, gpu which requires undervolting. Can I ask why you would want to do this? These days components are pretty efficient in power draw.
+ COMMENT_BREAK
+   1 hour ago, JoHeJo06 said:
+what can i do to make my motherboard use less power? i came to the conclusion that my cpu or gpu arent the reason for my high power draw, it is my motherboard.
+i looked it up and apparently high-end motherboards like mine (asus rog crosshair x670e gene) can use 40-80W of power. is there any way to lower this by disabling some unnecessary stuff?
+If you're at the high end, power draw is the least of your concerns. It's like complaining the 4090 consumes too much power. 
+ COMMENT_BREAK
+   1 hour ago, goatedpenguin said:
+your motherboard cannot use less power it draw power as much as it needs for the cpu think of it like a medium for hardware components and it has to give enough power to the components, the way you can "reduce motherboard power" is by indirectly reducing the power draw from components like the cpu, gpu which requires undervolting. Can I ask why you would want to do this? These days components are pretty efficient in power draw.
+The motherboard itself consumes power, not just what’s on it. 40-80 watts is about what would be expected to be drawn by high end boards. There’s a reason why many motherboards have actively cooled chipset heatsinks. 
+ COMMENT_BREAK
+   1 hour ago, goatedpenguin said:
+your motherboard cannot use less power it draw power as much as it needs for the cpu think of it like a medium for hardware components and it has to give enough power to the components, the way you can "reduce motherboard power" is by indirectly reducing the power draw from components like the cpu, gpu which requires undervolting. Can I ask why you would want to do this? These days components are pretty efficient in power draw.
+since i live in belgium with ridiculous energy prices, i wanted a high performance, low power draw build. i went with the 7800x3d because thats the best option for this build, and i currently have an asus rog strix vega 64. i undervolted both and i reduced the power limit by 15% on the gpu(210-230w), and i put the cpu in 65w eco mode. when i look up benchmarks about vega 64 power consumption, i often find that their whole test system uses 350-375W. mine uses 420-440 and the cpu and gpu use way less power then theirs. the only explanation i can give for this is that my high end motherboard uses way to much power.
+ 
+ COMMENT_BREAK
+ If you're measuring at the wall, the power consumption will be after PSU conversion losses. More efficient PSU could help there.
+  I never measured it myself, but running ram at lower speed, especially lower voltage, could help a bit.
+  Another trick I tried in the past to get ultra-low power systems was disabling anything you don't need or use in the bios. In those days, we're talking about things like serial and parallel ports! Now, not sure what you can turn off. If you have multiple network adapters, disable all but the one you use for example. If you have an external (USB) sound device, turn off mobo audio. Probably wont do a lot, but if you really want to get every little gain, you can try it.
+ COMMENT_BREAK
+ Be sure to make the distinction between  'measured at the wall socket'  and  measured at the power supply output, because the last does not include the power supply efficiency losses. Some review websites measure at the wall, others put meters between power supply and devices.
+  If your power supply is 92% efficient , then in order to produce 350 watts, it had to take  350 x 100 / 92 = 380 watts from the socket. So around 40-50w difference is in that ballpark.
+  The B650 chipset is a 7w TDP chip,  x670 is basically a pair of B650 chipsets, so you get 14w TDP.  In your case, the chipset probably averages 10 watts of power consumption, probably less.
+  I don't know how much DDR5 consumes these days, but I suspect at most 3-5 watts per stick, Crucial/Micron  says estimate for around 3w for every 8 GB of memory.
+You have onboard audio and network, which will consume 2-5w each, and that's about it.
+The VRM controller on the motherboard may consume a bit of power, and you may have conversion losses if the controller keeps running a bunch of phases pointlessly when not needd.
+ 
+ COMMENT_BREAK
+   47 minutes ago, porina said:
+If you're measuring at the wall, the power consumption will be after PSU conversion losses. More efficient PSU could help there.
+  I never measured it myself, but running ram at lower speed, especially lower voltage, could help a bit.
+  Another trick I tried in the past to get ultra-low power systems was disabling anything you don't need or use in the bios. In those days, we're talking about things like serial and parallel ports! Now, not sure what you can turn off. If you have multiple network adapters, disable all but the one you use for example. If you have an external (USB) sound device, turn off mobo audio. Probably wont do a lot, but if you really want to get every little gain, you can try it.
+Expand  
+i dont have sata drives, so i disabled sata in the bios and i enabled a feature called: ultra energy saving mode, im gonna test it right now.
+  edit: it did jack shit
+Edited 30 minutes ago by JoHeJo06
+ COMMENT_BREAK
+ if there's no sata devices, the controller's already "sleeping", consuming maybe 0.1w or something like that.
+  You'd notice a bit of difference disabling pci-e 5.0, tweaking the fans to turn off if the temperature inside goes below 65c or something like that..
+ 
+ COMMENT_BREAK
+ You could try asking Asus themselves how to configure the BIOS for optimal power consumption, there's quite a lot of settings on modern boards and small differences can add up.
+  Keep in mind too that higher refresh and higher memory settings increase the power consumption of your CPU and board (though often more noticeable at idle than under load).
+   
+ COMMENT_BREAK
+   54 minutes ago, JoHeJo06 said:
+since i live in belgium with ridiculous energy prices
+i live in belgium, and even my epyc server doesnt reach triple digits when it comes to annual power cost. even if you could cut the power consuption of your motherboard in half, it is irrelevant compared to other ways to save power:
+- actually learning to turn off your computer when you're not using it.
+- culling the ever-increasing number of standby devices in households
+- turning off the lights, assuming everything is already LED at this point
+- turning down the heater by half a degree in winter
+- rely on open windows rather than aircon in summer
+  sidenote, the government will actually pay you money if you make your house consume less power.
+  also - your motherboard isnt consuming 80 watts, not even epyc's IO die is that high.
+ COMMENT_BREAK

@@ -1,0 +1,20 @@
+
+ Hello I am going to buy a laptop with xqxga (2560x1600) I was wondering if the battery would drain quicker and if there was possible to switch to wuxga in windows..(Like for example if I wanted to do tasks to save battery to switch to a lower resolution..) idk if it is possible, but ik that I can change the scale
+ COMMENT_BREAK
+ You can very easily drop the screen resolution to something lower, however IMO the tradeoff in clarity isn't really worth the slight increase to battery life.
+ COMMENT_BREAK
+ Okay, thanks. Do you think that xqxga  consumes much more battery than xuxga? Because it has more pixels on the screen? Is it significant?
+ COMMENT_BREAK
+ you're not gonna have as much of an impact as you think, the problem isnt how many pixels are being output, the problem is the power needed to shine a backlight trough denser displays.
+  it *can* make a difference though, i had an old laptop with a 1366x768 display that would last about 10% longer when run at 640x480 (emulating PSX) than it did at 1366x768 (sitting on the desktop). with that i should note that this was a notably less efficient laptop than what is available these days.
+  as for the actual impact of a denser display on battery life.. that's difficult to say off hand. it also hugely depends on just how much backlight you need, because especially in near-idle workloads the display backlight is easily the biggest strain on battery life.
+ COMMENT_BREAK
+   31 minutes ago, Miguel Rocha said:
+Okay, thanks. Do you think that xqxga  consumes much more battery than xuxga? Because it has more pixels on the screen? Is it significant?
+It's probably negligible at best. If you're not pushing a framerate-limited 3D load and instead just bopping about Windows doing whatever, it won't make much of a difference.
+ COMMENT_BREAK
+ The best thing you can to save power is to reduce the brightness as much as you're comfortable. 
+Next would be to switch Windows to "performance mode" where the themes are turned off and you switch to "windows classic" where it looks like Windows 200/2003
+This way the vide card will not process a lot of 3d rendering the ddesktop and window corners and shades and will stay at lower freuencies for longer time saving power.
+  changing resolutions is kinda pointless ... because you're reducing a bit power consumption by having the video card process fewer pixels but the lcd display controller now has to work more to rescale the image from the lower resolution to the native resolution of the lcd screen  (video card spends less time rendering the image you see, so you save some power, but a part of this power saved will be used by the lcd display chip to stretch the image)
+ COMMENT_BREAK

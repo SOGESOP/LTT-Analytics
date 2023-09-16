@@ -1,0 +1,64 @@
+
+ So last night I discovered a weird noise coming from my computer. After getting on the floor and listening to it, I deduced that the PSU was the source of the noise. The noise is a sizzle or crackle and I'm not sure what the cause is. It doesn't sound like coil whine or a wire hitting the fan; it sounds more like there's some electrical arc (maybe? I'm not sure). The sound itself isn't very consistent as it will go for a second or two, then stop for half of a second, then start again. I don't know how else to describe the problem. Is it a problem? I plan on calling EVGA about it but I have classes so I can't until later. This is the second unit they've provided me with; the first one crapped out after just 10 days of use, which they gladly replaced with the one I currently have.
+  Specs:
+PSU: EVGA 600 Watt 80+Bronze
+CPU: Ryzen 5 3600
+Motherboard: ASUS Prime B550-A (Wi-Fi)
+Graphics Card: XFX RX 580 XXX (factory overclocked card)
+Memory: G. Skill Ripjaw-V 2x8GB DDR4
+Storage: Western Digital 500 GB M.2 NVME SSD
+Case: Cooler Master MasterBox MB320L ARGB Micro-ATX with Dual ARGB Fans
+   
+ COMMENT_BREAK
+ Yep. Get a new one ASAP. Don't deal with a risky PSU. 
+ COMMENT_BREAK
+   On 2/22/2021 at 5:30 PM, skNDstry said:
+Yep. Get a new one ASAP. Don't deal with a risky PSU. 
+Do you think it could be the unit itself or am I using the wrong PSU? Would you advise getting a different model?
+ COMMENT_BREAK
+   On 2/22/2021 at 5:34 PM, Milkhaver69 said:
+Do you think it could be the unit itself or am I using the wrong PSU? Would you advise getting a different model?
+EVGA is usually a pretty reliable company. It could be the unit, but you said this is your second of this model, so you might've just been really unlucky. 
+ COMMENT_BREAK
+ that's bad... Try to RMA it?
+ COMMENT_BREAK
+   On 2/22/2021 at 5:34 PM, Milkhaver69 said:
+Do you think it could be the unit itself or am I using the wrong PSU? Would you advise getting a different model?
+It's probably just that you are super unlucky with this particular model. Generally I have a pretty good experience with EVGA, and this PSU should be totally fine coping with what you have. How long have you had the 2nd unit for?
+ COMMENT_BREAK
+   On 2/22/2021 at 5:39 PM, skNDstry said:
+It's probably just that you are super unlucky with this particular model. Generally I have a pretty good experience with EVGA, and this PSU should be totally fine coping with what you have. How long have you had the 2nd unit for?
+Today (Monday Feb 22nd) would be day 3.
+ COMMENT_BREAK
+   On 2/22/2021 at 5:40 PM, Milkhaver69 said:
+Today (Monday Feb 22nd) would be day 3.
+Wow... That's real concerning... Maybe swap for a different PSU altogether...
+ COMMENT_BREAK
+   On 2/22/2021 at 5:46 PM, skNDstry said:
+Wow... That's real concerning... Maybe swap for a different PSU altogether...
+Yeah... I'm gonna ask about that when I call EVGA. Thanks for the help, though!
+ COMMENT_BREAK
+   On 2/22/2021 at 5:51 PM, Milkhaver69 said:
+Yeah... I'm gonna ask about that when I call EVGA. Thanks for the help, though!
+No worries
+ COMMENT_BREAK
+   On 2/22/2021 at 5:51 PM, Milkhaver69 said:
+Yeah... I'm gonna ask about that when I call EVGA. Thanks for the help, though!
+  Which "EVGA 600 Watt 80+Bronze" do you have?
+EVGA lists three different 80 PLUS Bronze 600W PSUs on their site.
+ COMMENT_BREAK
+   On 2/22/2021 at 5:38 PM, tishous said:
+EVGA is usually a pretty reliable company.
+Unfortunately this doesn't dictate how good their products are. Arguably most of EVGA's PSUs are either eh or shit.
+ COMMENT_BREAK
+   On 2/22/2021 at 7:00 PM, -rascal- said:
+  Which "EVGA 600 Watt 80+Bronze" do you have?
+EVGA lists three different 80 PLUS Bronze 600W PSUs on their site.
+https://www.amazon.com/gp/product/B01MTJTO2O/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1
+  Here's the amazon link for the one I bought.
+EVGA also suggested getting a 700-750 watt PSU after I told the guy what's in my system so I went with this one:
+https://www.amazon.com/gp/product/B07WW1XF51/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1 
+ COMMENT_BREAK
+ i ahve the same thing it happens after i use computer for while but mine is consistent is the same thing do i have to change
+ 
+ COMMENT_BREAK

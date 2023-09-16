@@ -1,0 +1,81 @@
+
+ asus b450 plus not working with ryzen 5 1400. original owner said it didn't work with ryzen 7 3700x but does work on old ryzen 3 1200. updated bios. no boot. tried resetting cmos. still no boot. but works perfectly on ryzen 3 1200
+ COMMENT_BREAK
+ Some boards do not have enough memory to support all the AM4 processors at once. When updating the BIOS to the most recent version, they "forget" how to use older processors. You probably need to use an older BIOS to support the Ryzen 3 1200 or Ryzen 5 1400 properly.
+As an alternative, why not buy a cheap new processor like the Ryzen 5 5500 ? Performance should be way better and they are very affordable at the moment.
+ COMMENT_BREAK
+   19 hours ago, Sawa Takahashi said:
+Some boards do not have enough memory to support all the AM4 processors at once. When updating the BIOS to the most recent version, they "forget" how to use older processors. You probably need to use an older BIOS to support the Ryzen 3 1200 or Ryzen 5 1400 properly.
+Did you read the post?
+  OP says the 1200 works but the 1400 doesn't. Any BIOS that dropped support for one of those would drop support for the other too.
+ COMMENT_BREAK
+   19 hours ago, Middcore said:
+Did you read the post?
+  OP says the 1200 works but the 1400 doesn't. Any BIOS that dropped support for one of those would drop support for the other too.
+Ok. What is your diagnostic then ?
+ COMMENT_BREAK
+   19 hours ago, Sawa Takahashi said:
+Ok. What is your diagnostic then ?
+The only information I have is that it works perfectly fine with the Ryzen 3 1200 but doesn't when any new CPU (Ryzen 7 3700x and Ryzen 5 1400) no faulty GPU or ram
+ COMMENT_BREAK
+   16 hours ago, Geka said:
+The only information I have is that it works perfectly fine with the Ryzen 3 1200 but doesn't when any new CPU (Ryzen 7 3700x and Ryzen 5 1400) no faulty GPU or ram
+Since you don't have any diagnostic to propose, why shouldn't my information be useful ? This is a troubleshooting forum and all info can be used to diagnose an issue. Maybe it isn't the solution but it may lead to the solution one way or another.
+Cheese
+ COMMENT_BREAK
+   16 hours ago, Sawa Takahashi said:
+Since you don't have any diagnostic to propose, why shouldn't my information be useful ? This is a troubleshooting forum and all info can be used to diagnose an issue. Maybe it isn't the solution but it may lead to the solution one way or another.
+Cheese
+Still no luck. One thing I do notice is that the led light that the motherboard has stays on with the Ryzen 5 1400 but pulses with the Ryzen 3 1200
+ COMMENT_BREAK
+   19 hours ago, Middcore said:
+Did you read the post?
+  OP says the 1200 works but the 1400 doesn't. Any BIOS that dropped support for one of those would drop support for the other too.
+Still no luck. One thing I do notice is that the led light that the motherboard has stays on with the Ryzen 5 1400 but pulses with the Ryzen 3 1200
+ COMMENT_BREAK
+   4 hours ago, Geka said:
+Still no luck. One thing I do notice is that the led light that the motherboard has stays on with the Ryzen 5 1400 but pulses with the Ryzen 3 1200
+Ok. I need to make sure of some specifications.
+Is your motherboard the ASUS Prime B450PLUS ? Just to make sure.
+If it is the Prime B450PLUS, there are many leds on that motherboard. Which one is lighting up/blinking ?
+Thanks
+ COMMENT_BREAK
+   16 hours ago, Sawa Takahashi said:
+Since you don't have any diagnostic to propose, why shouldn't my information be useful ? 
+  If OP had a diagnostic to propose he wouldn't be asking for help. Why are you antagonizing people asking for assistance? Or did you think you were replying to me again?
+ COMMENT_BREAK
+ Have you inspected both CPU's for bent or missing pins?
+ COMMENT_BREAK
+   2 hours ago, Middcore said:
+Have you inspected both CPU's for bent or missing pins?
+yes. no bent pins
+ 
+ COMMENT_BREAK
+   3 hours ago, Sawa Takahashi said:
+Ok. I need to make sure of some specifications.
+Is your motherboard the ASUS Prime B450PLUS ? Just to make sure.
+If it is the Prime B450PLUS, there are many leds on that motherboard. Which one is lighting up/blinking ?
+Thanks
+yes it is an asus prime b450plus. all of them are lighting up at the same time. it pulses with the ryzen 3 1200. it stays static with ryzen 5 1400
+ COMMENT_BREAK
+   2 hours ago, Middcore said:
+  If OP had a diagnostic to propose he wouldn't be asking for help. Why are you antagonizing people asking for assistance? Or did you think you were replying to me again?
+have no clue whats happening. seems extremely odd
+ COMMENT_BREAK
+   2 hours ago, Geka said:
+have no clue whats happening. seems extremely odd
+Pretty sure he thought he was replying to me and he was mad I pointed out that his suggestion showed he didn't read your post. Don't worry about it.
+ COMMENT_BREAK
+   2 hours ago, Geka said:
+yes it is an asus prime b450plus. all of them are lighting up at the same time. it pulses with the ryzen 3 1200. it stays static with ryzen 5 1400
+To be clear, are you talking about debug LEDs on the board or about decorative RGB lighting?
+ COMMENT_BREAK
+   1 hour ago, Middcore said:
+To be clear, are you talking about debug LEDs on the board or about decorative RGB lighting?
+I think it is decorative. But they do seem to react to the two cpus
+ COMMENT_BREAK
+   35 minutes ago, Geka said:
+I think it is decorative. But they do seem to react to the two cpus
+Your board should have these debug LEDs. In my experience, the "yellow green" is a lot more green than yellow. 
+ 
+ COMMENT_BREAK

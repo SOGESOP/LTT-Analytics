@@ -1,0 +1,5 @@
+
+ I plan on de-googling my email by switching to a provider with end-to-end encryption. I'm considering Proton Mail, but I wanted to get some of your thoughts before I go through all the trouble of changing the email address for the services I use.
+ COMMENT_BREAK
+ Proton is about as good as you can get tbh without hosting your own email server 
+ COMMENT_BREAK

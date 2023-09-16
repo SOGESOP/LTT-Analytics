@@ -1,0 +1,74 @@
+
+ I'm currently trying to figure out the best bang for my buck with a new router. Getting a 2gig up and down connection with fiber here soon. The best ones Im seeing are from Asus really but does anyone have any better suggestions, I haven't used Asus routers before so I don't know if they're really any good.
+  Current router only supports 1 got so it'll need to replaced
+ COMMENT_BREAK
+ If and when you buy a new router, make sure that your internet service provider supports it.
+ COMMENT_BREAK
+ Do you have a bunch of wired connections? Options with multiple 2.5 GbE ports are limited. This means you are generally going to need a switch too. 
+  To keep my entire network at least 2.5 GbE, my solution was to go with pfsense as my router, switches, and then some APs for my wifi.  
+  Dong Knows Tech is a pretty good place for router reviews. I used that site during my search for a multi gig router quite a bit before settling on the pfsense setup.
+ COMMENT_BREAK
+   6 hours ago, JeffreyLF said:
+I'm currently trying to figure out the best bang for my buck with a new router. Getting a 2gig up and down connection with fiber here soon. The best ones Im seeing are from Asus really but does anyone have any better suggestions, I haven't used Asus routers before so I don't know if they're really any good.
+  Current router only supports 1 got so it'll need to replaced
+Start looking at the list here. They should all have reviews on the same site if you need more information.
+  Being able to take full advantage of multi-gigabit ISP connections is not going to be cheap. But if any of these all-in-one solutions does the job, you can think of it as a good investment since many can theoretically support faster than 2Gbps if you intend to upgrade in the future. Keep in mind that rarely will you ever get close to 2Gbps in real-world environments over WiFi (even with WiFi 6E support). So plan to only expect reliable 2Gbps over ethernet, provided your clients/switches also support higher than 1Gbps speeds.
+  However, in light of WiFi 7 not being far away with support for higher speeds and MLO, it might be better to keep your symmetrical 1Gbps connection until WiFi 7 fully penetrates the market.
+ COMMENT_BREAK
+   6 hours ago, ET_Explorer said:
+If and when you buy a new router, make sure that your internet service provider supports it.
+What ISP horse shit are you quoting? They only support the routers they try to sell or rent to you.
+ COMMENT_BREAK
+ multi-gig routers that are actually capable of routing multi-gig are very premium devices, essentially anything consumer facing that's not some halo tier product isnt gonna cope.
+  having that said.. do you have any use for multi-gig speeds to begin with?
+ COMMENT_BREAK
+   6 hours ago, ET_Explorer said:
+If and when you buy a new router, make sure that your internet service provider supports it.
+Is there really a chance for an incompatible router connected to my modem? I've never had that happen with any brand I've done for family and I've bought some junky shit because of budget limitations lol
+    6 hours ago, OhioYJ said:
+Do you have a bunch of wired connections? Options with multiple 2.5 GbE ports are limited. This means you are generally going to need a switch too. 
+  To keep my entire network at least 2.5 GbE, my solution was to go with pfsense as my router, switches, and then some APs for my wifi.  
+  Dong Knows Tech is a pretty good place for router reviews. I used that site during my search for a multi gig router quite a bit before settling on the pfsense setup.
+Expand  
+Only one connection needs to be able to support it which is my computer in this scenario so no switch would be needed. I'll check out his videos though, thank you!
+    5 hours ago, johnt said:
+What ISP horse shit are you quoting? They only support the routers they try to sell or rent to you.
+I didn't think this could ever be a problem as stated above lol, maybe he means the modem, however my ISP provided modem will be good for the connection in this case.
+    5 hours ago, manikyath said:
+multi-gig routers that are actually capable of routing multi-gig are very premium devices, essentially anything consumer facing that's not some halo tier product isnt gonna cope.
+  having that said.. do you have any use for multi-gig speeds to begin with?
+Fun lol, I've got the money might as well have my 1-2 uses for it a month!
+ COMMENT_BREAK
+   6 hours ago, ET_Explorer said:
+If and when you buy a new router, make sure that your internet service provider supports it.
+I think you're confusing Modems (DSL/Cable), Media converters (Fiber), Gateways and Routers. Those are all different devices. Modems and Media converters are used to convert the ISP's connection to Ethernet. Its the modem/media converter that the ISP has the support. Now you have Gateways which have a modem and or media converter with a router built in, this is what most ISP's handout. Again the Modem and or media converter is what needs to be supported. A router on its own should work with most if not all connections. The issue you may have is with ISP's like AT&T who only provide a gateway in most cases, you will need to put the gateway in IP pass thru mode to turn off the router bits for example. 
+ COMMENT_BREAK
+   5 hours ago, JeffreyLF said:
+Fun lol, I've got the money might as well have my 1-2 uses for it a month!
+It would be so much easier to go gigabit. Multigig is more for when lots of devices all need fast internet access, not really so 1 PC can have a super fast pipe. 
+  Reason being, not many services will actually pump data down to a single client that fast…
+  Also, multigig hardware, as stated above, is not cheap because it’s not ubiquitous yet. To put this into perspective, 2 gigabit is faster then a harddrive… obviously you are not using a harddrive on your main PC, but the point is just to help demonstrate how fast that truly is - if you had a single drive NAS on your home network, even if you had the networking infrastructure for 10 gigabit,  it wouldn’t be able to provide you data as fast as your expecting to pull from the internet with 2 gigabit… 
+  I am simply suggesting, maybe get 1 gig now, and in a year or two as faster routers, WiFi 7, etc starts to be more common place (or exists in the case of WiFi 7), then make the jump. No reason to waste money just because you can. 
+ COMMENT_BREAK
+   4 hours ago, LIGISTX said:
+It would be so much easier to go gigabit. Multigig is more for when lots of devices all need fast internet access, not really so 1 PC can have a super fast pipe. 
+  Reason being, not many services will actually pump data down to a single client that fast…
+In fact Steam is about the only service I can think of that routinely can do more than Gigabit.  Frustratingly a lot of cloud services limit how fast you can upload to them unless you pay more for a business service.
+ COMMENT_BREAK
+   3 hours ago, Alex Atkin UK said:
+In fact Steam is about the only service I can think of that routinely can do more than Gigabit.  Frustratingly a lot of cloud services limit how fast you can upload to them unless you pay more for a business service.
+Exactly. The “internet” is not set up to pump data down to users at over gigabit speeds. 
+ COMMENT_BREAK
+   4 hours ago, LIGISTX said:
+It would be so much easier to go gigabit. Multigig is more for when lots of devices all need fast internet access, not really so 1 PC can have a super fast pipe. 
+  Reason being, not many services will actually pump data down to a single client that fast…
+  Also, multigig hardware, as stated above, is not cheap because it’s not ubiquitous yet. To put this into perspective, 2 gigabit is faster then a harddrive… obviously you are not using a harddrive on your main PC, but the point is just to help demonstrate how fast that truly is - if you had a single drive NAS on your home network, even if you had the networking infrastructure for 10 gigabit,  it wouldn’t be able to provide you data as fast as your expecting to pull from the internet with 2 gigabit… 
+Expand  
+I am fully aware of this, just want it for fun lol
+I also already have gigabit, I can afford it, just don't wanna spend $700 on a router when I'm sure there is probably other options 
+ COMMENT_BREAK
+   3 hours ago, JeffreyLF said:
+I am fully aware of this, just want it for fun lol
+I also already have gigabit, I can afford it, just don't wanna spend $700 on a router when I'm sure there is probably other options 
+That's why a lot of us go for a pfSense box as they're more flexible and if you go aliexpress cheaper than a consumer router capable of those speeds.  You can also usually use your own router for WiFi, ideally in Access Point mode.
+ COMMENT_BREAK

@@ -1,0 +1,5 @@
+
+ Is there anyway I can adjust the brightness and colour management of my AOC monitor in Ubuntu, like how I used to with i-menu when running Windows?
+  I've been looking around and I haven't been able to find anything for adjust brightness in Ubuntu that has worked so far.
+  I am running Ubuntu 22.04 with Wayland .
+ COMMENT_BREAK

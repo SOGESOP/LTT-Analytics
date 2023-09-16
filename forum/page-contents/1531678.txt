@@ -1,0 +1,83 @@
+
+ I have a Ryzen 5 3600 in my server been looking at the Ryzen 9 5900X as a upgrade since the price has came down. I always used to buy Intel and i assume AMDs CPU prices go up once no newer AM4 cpus are released.
+  At least it seemed to be that way with older intel cpu's.
+ COMMENT_BREAK
+ Maybe. Maybe not.
+  It's important to note that older parts get rarer, rare parts = expensive, like how when Apple discontinued the iPod classic the prices skyrocketed.
+  In fact, Apple discontinued the iPod Classic because they could not find parts.
+ COMMENT_BREAK
+ AM4 is different. AMD offered an upgrade path to almost every single AM4 motherboard out there, high end CPUs will be in demand for a while longer. If you want to upgrade, do it.
+ COMMENT_BREAK
+ Since I got onto AM4 back in 2020 I have seen their CPU prices plummet.
+  Kind of annoying if I am honest.
+  And by annoying I mean it makes me not want to buy from them next round.
+ COMMENT_BREAK
+ Buying and using a CPU as an investment is a very wrong choice
+ COMMENT_BREAK
+ CPU prices rarely go up. Typically they'll go down over time and motherboard prices start going up when a platform is EoL.
+ COMMENT_BREAK
+ Why would that annoy you? Almost no consumer product increases in value over time except for extreme cases (chip shortage plus increase in demand) or for artificially scarce items such as ‘collectibles.’ 
+  You’ll see some of the highest end chips of a generation maintain their value longer such as the older intel X series chips. But those tend to be the exception and are still generally cheaper than their original MSRP.
+ COMMENT_BREAK
+   7 hours ago, Echothedolpin said:
+Why would that annoy you?
+Because it happens within a few short months. They could knock off a hundred bucks, two hundred bucks.. whatever they feel like lol.
+ COMMENT_BREAK
+   7 hours ago, freeagent said:
+Because it happens within a few short months. They could knock off a hundred bucks, two hundred bucks.. whatever they feel like lol.
+I got ya! Thought you were looking for value increase. I’ve been I the same spot, bought a used 3600 for the ‘awesome’ price of $215 right before prices started to normalize at half that.
+  Tech is something that it really pays to have patience with, but by nature isn’t a very patient hobby lol.
+ COMMENT_BREAK
+ Prices will be adjusted based on supply and demand. No need to be mad at AMD for lowering prices. 
+  At EOL supply will dry up. If demand is above supply, prices for those few CPU still in circulation will go up. I suspect the higher end CPU will be higher since someone on AM4 would not want to buy a slower CPU. MB probably will be more expensive since they are more likely to fail.
+  It often is false economy to upgrade old platforms. Maybe you buy a new CPU, but then the MB fails or you need a newer feature. And, bang ... all that money was wasted because a new AM4  MB is expensive after EOL. YMMV 
+  Electronics never are an investment outside the use value you get out of them. Once you buy a new thing, there will be something faster and cheaper. And this is good... we don't want to be in 1960's era of computers with no improvements.
+ COMMENT_BREAK
+   6 hours ago, Echothedolpin said:
+I got ya! Thought you were looking for value increase. I’ve been I the same spot, bought a used 3600 for the ‘awesome’ price of $215 right before prices started to normalize at half that.
+  Tech is something that it really pays to have patience with, but by nature isn’t a very patient hobby lol.
+I'm still using my abacus. Because every time I want to buy a computer, I think I wait till they get cheaper ..
+/s
+  You buy at the time based on what it is worth to you. If you are a professional, you make money by using the PC. So, not buying it sooner, makes you lose money. If you just game and don't generate revenue, you have to weigh what being able to game a few months sooner is worth to you.
+ COMMENT_BREAK
+   6 hours ago, Lurking said:
+I'm still using my abacus. Because every time I want to buy a computer, I think I wait till they get cheaper ..
+/s
+  You buy at the time based on what it is worth to you. If you are a professional, you make money by using the PC. So, not buying it sooner, makes you lose money. If you just game and don't generate revenue, you have to weigh what being able to game a few months sooner is worth to you.
+Expand  
+Exactly,
+  this is the prime reason as to why I almost always buy second hand, excluding hard drives/ssds and usually but not always memory. 
+
+I don’t need latest and greatest, I game only about 2 hours a week tops as I’ve got a young family and a woodworking hobby. I chased baddest and best from about 2006-2015. It was fun, but honestly the cutting edge premium just wasn’t worth it.
+ 
+ COMMENT_BREAK
+   6 hours ago, Echothedolpin said:
+Exactly,
+  this is the prime reason as to why I almost always buy second hand, excluding hard drives/ssds and usually but not always memory. 
+
+I don’t need latest and greatest, I game only about 2 hours a week tops as I’ve got a young family and a woodworking hobby. I chased baddest and best from about 2006-2015. It was fun, but honestly the cutting edge premium just wasn’t worth it.
+Expand  
++1
+I'm buying a really good PC and try to use it for 10 years (I have multiple, the main PC will become a living room PC if I need more power). Cry once ..  I don't game, so that helps. After 10 years the parts may yield $50. But I got 10 years of enjoyment 
+  Once you buy something, you have to stop researching prices  Nothing good comes from it. Just use and enjoy the product.
+ COMMENT_BREAK
+   6 hours ago, Lurking said:
+Prices will be adjusted based on supply and demand. No need to be mad at AMD for lowering prices. 
+  Easy for you to say big spender
+  I am not talking over the course of a year or two, I am talking weeks. You pay 650 for a cpu only for them to knock off 150 a couple weeks later, then another 50 a month after that. If my wallet really craved that kind of abuse I would have just stuck with Intel lol.
+  But whatever.. it’s not like this happened last week or anything, I am mostly over it
+ COMMENT_BREAK
+ I've recently upgraded to a 5700X. The 5800X3D now costs the amount I paid for the 5700X and the old Ryzen 2600 I had lost its value really quickly too. Not to mention with how inflation is going right now, it's even cheaper and the trend will remain so.
+
+Buying a CPU is like buying a car, it depreciates not by the miles it accumulated, but by its upgrade being priced the same as its predecessor. In fact, since CPUs don't get slower at all (software just becomes more demanding) they also lose value as demand over the same model decreases over time (as customers are anticipating a new model to come out soon).
+
+Computer components of today, not just CPUs, are also different compared to retro computers in the quantity it's sold in. I'm afraid it just won't be a collector's item either.
+ COMMENT_BREAK
+   4 hours ago, freeagent said:
+Easy for you to say big spender
+  I am not talking over the course of a year or two, I am talking weeks. You pay 650 for a cpu only for them to knock off 150 a couple weeks later, then another 50 a month after that. If my wallet really craved that kind of abuse I would have just stuck with Intel lol.
+  Expand  
+When you paid $650, it was worth $650 to you. Be mad at yourself for being impatient. Markets can change quickly.
+  If they didn't lower prices, they wouldn't have sold them. I doubt lowering prices was out of charity (or to specifically piss you off). People complain if prices stay high. It seems some people complain when prices drop. Can't win....
+  I'm sure next time market adjustment is needed they will consult you to find out the politically correct % price reduction per month.
+ COMMENT_BREAK

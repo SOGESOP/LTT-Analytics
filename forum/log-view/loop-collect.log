@@ -1,1 +1,3 @@
-INFO:root:Collect section of program has run
+ERROR:root:Main Program has failed to run due to module 'time' has no attribute 'wait'
+INFO:root:Dataframes being imported
+INFO:root:Main dataframe shape: (64, 5)
