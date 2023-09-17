@@ -1,0 +1,40 @@
+
+ Hey guys,
+My current system:
+Amd ryzen 7 3700x
+MB Asrock AB350 pro 4
+Ram 16 GB DDR4
+Gigabyte RTX 2070
+SSd 128gb
+SSd 256 gb
+HDD 1TB
+  I was considering updating my MB, which chipset should i go for, keep in mind that i am on a budget.
+Can you guys give some recomendations ?
+Thanks in advance
+ 
+ COMMENT_BREAK
+ What are you hoping to achieve by changing motherboards? It's not going to make any difference in performance if all the other parts are the same.
+  If you're not changing CPU's, then you're restricted to other AM4 chipsets.
+ 
+ COMMENT_BREAK
+   2 hours ago, Middcore said:
+What are you hoping to achieve by changing motherboards? It's not going to make any difference in performance if all the other parts are the same.
+not excpeting performance gains, just to extend the life of my system.
+cause the current board that i have, i used since 2017. and i suspect that somtimes it is the cause of the blue screen error. and i know someone that wants to buy it
+ COMMENT_BREAK
+   2 hours ago, call me al said:
+not excpeting performance gains, just to extend the life of my system.
+cause the current board that i have, i used since 2017. and i suspect that somtimes it is the cause of the blue screen error. and i know someone that wants to buy it
+  Does the person who wants to buy it know that you think it's causing blue screens?
+ COMMENT_BREAK
+   2 hours ago, Middcore said:
+  Does the person who wants to buy it know that you think it's causing blue screens?
+no he does not. I had the blue screen issue 2 times last month, and i am not sure the cause.
+i told this person that the the ethernet port is not working in the MB. he already baught from me the cpu amd ryzen 7 1700
+and he wants a MB with it
+ COMMENT_BREAK
+ There are lots of decently priced B550 boards to choose from, which features do you need, or would like?
+  2x M.2 slot and 1x SATA is pretty easy to find, for example (full-size ATX): Gigabyte B550 Gaming X V2 is around $120.
+  The next level up would be e.g. the Gigabyte Aorus Elite, MSI Tomahawk and Asus Strix B550-F, but do you need stuff like higher-end audio, SPDIF, RGB, rear USB Type-C?
+  There are sometimes deals on X570 boards too, but stock seems pretty low now.
+ COMMENT_BREAK

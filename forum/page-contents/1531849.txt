@@ -1,0 +1,5 @@
+
+ i recently upgraded from wifi to ethernet and for some reasons my internet is stuck to 90-95 mbps while my internet subscription is supposed to cover up to 500 mbps, i have a category 6 cable, my motherboard supports up to 2.5gpbs, i use an intel 12700kf with an asus rog strix z690-i gaming wifi, so do you have any idea what could be causing this?
+ COMMENT_BREAK
+ What about the router/modem, are its ports capable of 500 Mbps? Are you directly connected to the router, or is there maybe a switch in between?
+ COMMENT_BREAK

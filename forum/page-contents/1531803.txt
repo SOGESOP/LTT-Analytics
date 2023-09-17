@@ -1,0 +1,165 @@
+
+ Budget (including currency): 
+€ 2000 - 3000 (max 3500)-> edit
+Country:
+Belgium - https://be.pcpartpicker.com/
+Games, programs or workloads that it will be used for:
+Games:
+- Factorio
+- Anno 1404 - 1800(in the future)
+- Farming Simulator
+- Football Manager
+- Frostpunk
+- City: Skylines
+- Horizon Zero Dawn 2 (when it releases for pc)
+
+Programs/Workloads:
+- OBS
+- Jetbrains: pycharm, intelliJ, Datagrip, etc..
+- IDE: vs code
+- Docker
+- VM's 4 (sandbox, 2 linux, 1 server)
+- Adobe Cloud: Photoshop, lightroom, premiere pro, Illustrator        
+- Inkscape, Gimp
+- Spotify, Teams, Discord, Steam
+- Browsers (a bunch of tabs)
+
+- I'm probably forgetting a bunch, but in general: coding, compiling, photo and video editing, streaming, a couple VM's and browsing + occasianal gaming.
+  Current hardware: Build from 2016
+- Asus Maximus VIII Hero DDR4 socket 1151 Z170
+- Intel I7 6700K OC 4.5GHz
+- Asus-Strix-GTX970
+- Corsair (2x8GB) 2666MHZ
+- Corsair RM650i                
+- Corsair H100i GTX
+- Corsair Obesidian 450D
+- SSD's samsung 850 evo 250GB and 500GB and HDD WD 1TB
+  peripherals:
+- webcam usb-a
+- mic blue yeti usb-a - want to upgrade in the future to a xlr mic
+- keyboard k70 2x usb-a
+- logi mx master 3
+- bluetooth dongle usb-a 2x
+- speakers old logitich 5.1 so need those jacks (green, black, orange)
+- 2x benq 27inch 1440p one connected with hdmi, the other mini-displayport.
+- 1x Dell 23inch 1080p (vertical stand) DVI-D - i figure this will be a problem
+  future upgrades in peripherals: XLR mic, new monitor probably 34inch 4K (and removing the Dell), probably new speakers at some point. Use current setup to transform to server.
+But for now no need in upgrading peripherals.
+  When to buy:
+As soon as possible, unless it's beneficial to wait a little longer. I have done some research and some say November is ideal, others say September is good because they come out with new hardware at the end of the year.
+Honestly I try to follow and read up to a lot of hardware stuff, amd, intel, nvidea, readon. But I'm a software guy, I can build my own desktop and there is the end of my knowledge.
+To each their own specialty. Please only begin suggesting something if you enjoy doing this kind of thing. I don't need someone telling me: "Hey at least put a list in pcpartpicker." I'll explain why I haven't.
+  Problem:
+I'm not sure if I should go with amd5 or intel, why?
+1. I need to use windows for development reasons
+2. I need and want to use linux - nvidea is not good at supporting drivers, so Radeon sounds better.
+3. I'm going into data/AI development and the CUDA cores in Nvidea are good for that.
+4. I can use cloud services for large datasets - so I may not need those cuda cores after all.
+5. I don't care for ray tracing or ultimate settings for gaming, and most of the games i play are resource-management focused and probably more CPU heavy.
+6. Although I do a lot of photo and video editing and I don't know if nvidea vs radeon has a big part in those workloads.
+
+What's important:
+1. my I/O needs to be fast
+2. I need enough cores for my VM's I figure 16 cores?
+3. I need a decent amount of RAM 32GB, maybe 64GB?
+4. my main drive should at least be 1TB since programming stuff takes a lot of space. and another 2TB drive would be nice. Since my current ones aren't M2.
+5. I don't think I'll be OC like i did previously - but a BIOS flash button is handy - as is an indicator on Motherboard for faults.
+6. enough USB-A and USB-C
+7. integrated Bluetooth would be nice (but optional since I use dongle now anyways)
+8. audio jacks
+9. no RGB, again I don't need RGB.
+10. Silent, cool temps.
+
+Question 1 :
+I have a retail version of windows, if i do a complete overhaul will they accept my retail version or are they gonna expect me to buy a new license for this new build?
+I guess they will, the ******. Since the current setup and case will be used for server (linux).
+  Question 2 :
+What about cooling? I have my desktop in the attic, summers can get very hot. I have been looking up water vs air cooling a lot, but it keeps unclear to me.
+I get that the water has some kind of buffer and then it will probably be mostly the same..
+I prefer a lot of fans at a lower speed to keep things cool. My current water cooling makes a lot of noise.
+Are those noctua really that good or is it hyped by influencers?
+
+
+Thanks if you got till the end, I am aware this is a load of talk and I feel like i missed some things still.
+I prefer to spent a good amount on SSD, RAM and Motherboard, I guess for my use on video editing the GPU will be important but I'm not gonna pay 1000 euro for a graphics card.
+  Please ask for additional information, if needed.
+
+
+   
+ COMMENT_BREAK
+   5 hours ago, mePino said:
+I have a retail version of windows, if i do a complete overhaul will they accept my retail version or are they gonna expect me to buy a new license for this new build?
+you can reuse it. No need to buy a new one
+    5 hours ago, mePino said:
+I guess they will, the ******
+they won't
+    5 hours ago, mePino said:
+Are those noctua really that good or is it hyped by influencers?
+they're good but overpriced. I'd rather get the phanteks T30s
+    5 hours ago, mePino said:
+€ 2000 - 3000 (max 3500)-> edit
+We can get a baller build for 3000 euro budget
+We can have intel or amd (tho intel will be hotter and harder to cool)
+If you don't want/need the 4090 for your application then just tell me
+  Intel 
+PCPartPicker Part List
+CPU: Intel Core i9-13900KF 3 GHz 24-Core Processor  (€598.95 @ Megekko) 
+CPU Cooler: ARCTIC Liquid Freezer II 420 A-RGB 68.9 CFM Liquid CPU Cooler  (€143.85 @ Megekko) 
+Motherboard: Gigabyte Z790 AORUS ELITE AX ATX LGA1700 Motherboard  (€264.95 @ Megekko) 
+Memory: G.Skill Trident Z5 RGB 32 GB (2 x 16 GB) DDR5-6400 CL32 Memory  (€132.95 @ Megekko) 
+Storage: Samsung 980 Pro 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive  (€78.99 @ Amazon Belgium) 
+Storage: Corsair MP600 CORE XT 4 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive  (€205.89 @ Alternate Belgium) 
+Video Card: Inno3D iChill X3 GeForce RTX 4090 24 GB Video Card  (€1729.00 @ Megekko) 
+Case: Lian Li LANCOOL III RGB ATX Mid Tower Case  (€165.89 @ Alternate Belgium) 
+Power Supply: Thermaltake Toughpower GF A3 - TT Premium Edition 1050 W 80+ Gold Certified Fully Modular ATX Power Supply  (€180.85 @ Azerty) 
+Total: €3501.32
+Prices include shipping, taxes, and discounts when available
+Generated by PCPartPicker 2023-09-17 14:28 CEST+0200
+  AMD
+PCPartPicker Part List
+CPU: AMD Ryzen 9 7950X3D 4.2 GHz 16-Core Processor  (€646.95 @ Azerty) 
+CPU Cooler: ARCTIC Liquid Freezer II 360 56.3 CFM Liquid CPU Cooler  (€121.85 @ Megekko) 
+Motherboard: Gigabyte B650 AORUS ELITE AX ATX AM5 Motherboard  (€242.95 @ Megekko) 
+Memory: G.Skill Ripjaws S5 32 GB (2 x 16 GB) DDR5-5600 CL28 Memory  (€118.90 @ Megekko) 
+Storage: Samsung 980 Pro 1 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive  (€78.99 @ Amazon Belgium) 
+Storage: Corsair MP600 CORE XT 4 TB M.2-2280 PCIe 4.0 X4 NVME Solid State Drive  (€205.89 @ Alternate Belgium) 
+Video Card: Inno3D iChill X3 GeForce RTX 4090 24 GB Video Card  (€1729.00 @ Megekko) 
+Case: Lian Li LANCOOL 216 ATX Mid Tower Case  (€113.85 @ Megekko) 
+Power Supply: Thermaltake Toughpower GF A3 - TT Premium Edition 1050 W 80+ Gold Certified Fully Modular ATX Power Supply  (€180.85 @ Azerty) 
+Total: €3439.23
+Prices include shipping, taxes, and discounts when available
+Generated by PCPartPicker 2023-09-17 14:26 CEST+0200
+ COMMENT_BREAK
+ Thanks for the work invested in making both lists!
+I don't feel good with spending half budget on a graphics card.
+  And this is the problem I'm not sure if it will make a big difference in my editing work.
+For my datasets - I don't worry too much since there are cloud services for that.
+
+The case comes with 2 fans, the liquid cooler has 3 and the power supply also has a fan,  I guess that will be sufficient or should i invest in more fans?
+I'm still looking at the differences in motherboards and memory.
+Also need to look up performance between the CPU's you mentioned.
+
+-- If someone has answers to my other questions that would be nice. Thanks in advance
+ COMMENT_BREAK
+ Add a couple of M.2 SSD's to this build and you're good to go ^^
+  PCPartPicker Part List
+CPU: *Intel Core i7-13700 2.1 GHz 16-Core Processor  (€432.95 @ Megekko) 
+CPU Cooler: *Deepcool AK620 68.99 CFM CPU Cooler  (€73.85 @ Megekko) 
+Motherboard: *MSI PRO Z790-A WIFI ATX LGA1700 Motherboard  (€232.00 @ Megekko) 
+Memory: *G.Skill Ripjaws S5 64 GB (2 x 32 GB) DDR5-6000 CL30 Memory  (€214.80 @ Azerty) 
+Video Card: *MSI RTX 4090 VENTUS 3X 24G OC GeForce RTX 4090 24 GB Video Card  (€1739.00 @ Megekko) 
+Case: *Lian Li LANCOOL 216 ATX Mid Tower Case  (€103.80 @ Azerty) 
+Power Supply: *Corsair RM1000e (2023) 1000 W 80+ Gold Certified Fully Modular ATX Power Supply  (€168.85 @ Megekko) 
+Total: €2965.25
+Prices include shipping, taxes, and discounts when available
+*Lowest price parts chosen from parametric criteria
+Generated by PCPartPicker 2023-09-17 19:07 CEST+0200
+  A better look at those components.
+  https://www.msi.com/Motherboard/PRO-Z790-A-WIFI  
+  https://www.intel.com/content/www/us/en/products/sku/230490/intel-core-i713700-processor-30m-cache-up-to-5-20-ghz/specifications.html  
+  https://www.deepcool.com/products/Cooling/cpuaircoolers/AK620-High-Performance-CPU-Cooler-1700-AM5/2021/13067.shtml   
+  https://www.gskill.com/product/165/377/1649234605/F5-6000J3040G32GX2-RS5K-F5-6000J3040G32GA2-RS5K  
+  https://www.msi.com/Graphics-Card/GeForce-RTX-4090-VENTUS-3X-24G-OC  
+  https://www.corsair.com/us/en/p/psu/cp-9020264-na/rme-series-rm1000e-fully-modular-low-noise-atx-power-supply-cp-9020264-na  
+  https://lian-li.com/product/lancool-216/  
+ COMMENT_BREAK

@@ -1,0 +1,22 @@
+
+ Good Morning,
+  I have been dealing with an issue for well over a year now, and have been unable to diagnose the exact cause. I have a well-substantiated theory that my GPU is to blame.
+  GTX 1060
+  The basic symptoms are as such; usually while playing video games (until recently, now it has occurred while watching a streaming video) my monitor(s) will all lose connection (powered on, NO CONNECTION on screen) but my PC is still running (I can hear audio/music/etc.) Additionally, my GPS fans will suddenly go into 100% RPM. 
+  I can NOT reproduce this of my own accord. This purely happens randomly. I have used multiple stress tests for CPU/GPU/Storage/RAM etc, and nothing causes the PC to fail. I try to play while having HWMONITOR up and paying attention to RPMs, voltages, heat of all my components and notice nothing out of the ordinary. At one point when it was failing a lot I noticed my EVGA precision AUTO fan speed was failing. It was ignoring my curve and was putting out 0% RPMs at some times. I can fix this, but sometimes it does go back to 0%. I can set it to a set value, but haven't done extensive testing with that for failures. I did notice when I do fix this curve, the failures are mitigated.
+  So this explains my assumption that my GPU is at fault. It is a strange set of symptoms indeed. Is it possible there was a software fault that caused my GPU to overheat and has caused permanent damage? (EVGA Precision continually not functioning correctly)
+  GPU prices have gone down, and I could easily put a dual fan 4060 in as a replacement. I just want to make sure that's the real problem first though.
+  Extra specs:
+  Ryzen 7 5800x
+ASRock B550 Pro4
+EVGA GTX 1060 6gb 
+WD Blue
+WD SSD
+DDR4 G.Skill 32gb
+RAIDMAX XT Series RX-500XT 500 W
+    Edit: Is now more prevalent to crashing while just watching videos. No longer has audio, the screens lose connection, fans on GPU go into overdrive, but all the peripherals remain powered. The only programs running are Opera GX, Discord, and Steam. 
+ 
+ COMMENT_BREAK
+ Latest motherboard Bios?
+  DisabledMultiplane Overlay MPO?
+ COMMENT_BREAK

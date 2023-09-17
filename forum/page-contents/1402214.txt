@@ -1,0 +1,33 @@
+
+ To preface this, I'm an IT tech, so I've tried all the obvious fixes. Driver reinstallation, BIOS updated to latest version, Windows updates, graphics driver updated, etc. Only thing I haven't done is reinstall Windows which I'll explain below.
+  Gigabyte Aorus 15P YD
+i7-11800H
+RTX 3080
+32GB memory
+1TB NVMe SSD
+Win10 64bit
+  ANY time I plug in more than 3 USB devices of any kind (laptop only has 3 USB ports so I always have to use a hub) everything starts to wig out, but ONLY when playing games. Seems to be related to high CPU/GPU usage.
+Mouse and keyboard will cut in and out, headset audio (USB) goes all fuzzy, but nothing ever quits working completely. After about 30sec to 2 min, it all stops and goes back to normal. Nothing I do ever seems to make a difference, whether I reconnect USB devices, unplug stuff, nothing. Just have to ride it out.
+  I've used a USB 2 hub, a USB 3 hub, and a Thunderbolt hub. Does it regardless of what I use. All unpowered though.
+I'm wondering if this is some sort of power draw issue, or not enough resources for the USB controller?
+  I'm hesitant to reinstall Windows, as I'm active military and setting up CAC access is a pain. I can do it again, just trying to get around it if I can.
+  Anyone have any last-ditch suggestions I can try to nail this down? I don't even see errors in Event Viewer. It's like the computer has no idea it's happening. It used to blue screen whenever the USB would cut out, but that quit after some driver updates.
+ 
+ COMMENT_BREAK
+   On 1/8/2022 at 12:38 PM, BWLServers said:
+To preface this, I'm an IT tech, so I've tried all the obvious fixes. Driver reinstallation, BIOS updated to latest version, Windows updates, graphics driver updated, etc. Only thing I haven't done is reinstall Windows which I'll explain below.
+  Gigabyte Aorus 15P YD
+i7-11800H
+RTX 3080
+Expand  
+I wonder if it's caused by one USB port connections being faulty, when you use only 2 of the ports (with leaving 1 of them empty and then another one) does the issue continue?
+ COMMENT_BREAK
+   On 1/11/2022 at 9:09 PM, RTX 3071 said:
+I wonder if it's caused by one USB port connections being faulty, when you use only 2 of the ports (with leaving 1 of them empty and then another one) does the issue continue?
+Unfortunately. I've tried combos of devices plugged only into a hub, split between the hub and PC, etc.
+Just updated the BIOS and that didn't help either. I'm gonna wipe it here soon when I upgrade to Win11 and see if that makes a difference.
+ COMMENT_BREAK
+ Have you figured it out?  I am currently having the same issue on the same laptop.  I’ve tried literally everything.  Only thing I can think of is it could be drawing too much power.
+ COMMENT_BREAK
+ Anyone figured it out yet? My tumor is growing every time this happens. Nothing works. Help
+ COMMENT_BREAK

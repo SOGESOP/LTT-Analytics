@@ -1,0 +1,106 @@
+
+ 2023 find myself after 30 years of being into Gaming / Computers etc having a ton of stuff I'm able to get rid of the odd cable but most end up in that "I may need this one day box" that is now rather heavy and full.
+  I've just counted and currently have 7 Desktops and 2 Laptops (all but 2 are used on the regular) but fear time has come my first full build PC is just not super useful and trying to do something about that to save him from being send to big skip in the sky.
+  Something that comes to mind is using him to render I'm looking to get back into making videos and remember rendering was always a slow task not talking anything fancy just low grade youtube bollocks odd cut here and there but wondering if I will be wasting my time even trying to get it set for that.
+  Its a i7 920 from launch week back in like 2010 i think it was maybe earlier. 
+  Would be using devinchi resolve and question is would this be able to even do the job or just use my NAS (Optiplex 3040 with a  i5 6500k)?
+  other question is when do you say goodbye to the old kit  its been a friend almost and around a long time.
+ COMMENT_BREAK
+   On 9/14/2023 at 12:11 PM, Tehkast said:
+2023 find myself after 30 years of being into Gaming / Computers etc having a ton of stuff I'm able to get rid of the odd cable but most end up in that "I may need this one day box" that is now rather heavy and full.
+  I've just counted and currently have 7 Desktops and 2 Laptops (all but 2 are used on the regular) but fear time has come my first full build PC is just not super useful and trying to do something about that to save him from being send to big skip in the sky.
+Expand  
+I've given up hoarding old stuff, for the most part lol. I still have a few pieces here and there from old builds, a motherboard, a cpu, a gpu.. but most is either sold or given away. Just do that. 
+ COMMENT_BREAK
+   On 9/14/2023 at 12:11 PM, Tehkast said:
+Its a i7 920 from launch week back in like 2010 i think it was maybe earlier. 
+Very power hungry and you are better off reselling it
+  Only real use nowadays aside from being on so tight of a budget that you cant just drop in a cheap 6 core westmere is just screwing around overclocking it
+    imc is pretty good so you can hit 3000+ ddr3 on some of em but i only have 2 samples (an i7 950 that hardwalls at 2900 and this i7 930 that goes past 3200 ddr3 but sticks topped out so have no idea how far it overclocks), and you cant use an asus board or any other board that handicaps nehalem with that 1:2 uncore memclk bullshit like this giga x58a ud3r i have here
+  Havent tested cpu freq oc but probs abit worse than westmere and this cooler is gravity mounted so temps are gonna be pretty meh for oc
+    Aside from overclocking for shits and giggles you can also give some stuff away, resell, maybe even make a retro build if you wanna revisit old games
+  Just list the stuff you have maybe youll be able to cobble something decent out of existing parts considering you have an i7 920
+ COMMENT_BREAK
+   On 9/14/2023 at 12:38 PM, DoctorNick said:
+I've given up hoarding old stuff, for the most part lol. I still have a few pieces here and there from old builds, a motherboard, a cpu, a gpu.. but most is either sold or given away. Just do that. 
+I've been toying with the idea of breaking down some of my old tech - sticking the different parts in foam and getting them framed. At least for some of the more meaningful or cool hardware
+  Recently laid out an iPhone 11 in a way I like, and I thought it would be a cool way to "get rid" of some of my older stuff too so it's not just laying around pointlessly
+ COMMENT_BREAK
+   On 9/14/2023 at 1:11 PM, ItTakes2ToMango said:
+I've been toying with the idea of breaking down some of my old tech - sticking the different parts in foam and getting them framed. At least for some of the more meaningful or cool hardware
+  Recently laid out an iPhone 11 in a way I like, and I thought it would be a cool way to "get rid" of some of my older stuff too so it's not just laying around pointlessly
+I like that idea could frame the CPU and first SSD (Was a 40gb intel cost £200 back in the day)
+ COMMENT_BREAK
+ I used to have various generations of CPU's on a shelf, Pentium D, AMD's K2-350, Core 2 Duo, etc. 
+  But a home sale, etc.  and just decide to minimize my life. 
+  It can be fun for a nice man cave type thing, but hoarding for the sake of "it may be useful some day" is incredibly insane.
+  Yes, I am judging hoarders.   
+  Interesting and sad show though.
+ COMMENT_BREAK
+   On 9/14/2023 at 1:18 PM, Tehkast said:
+I like that idea could frame the CPU and first SSD (Was a 40gb intel cost £200 back in the day)
+I used to service Fire systems and I have this really cool motherboard for a system initially implemented in 1997. Has the technicians name, date, and a little QC check still fresh on a sticker on it. It was a very interesting piece of tech, though nothing particularly special especially in the modern day. There are boards that do the same thing as it did, and more, at less than half the size and weight.
+  Now, it's a really cool looking board, but maintaining that thing in 2019, over 20 years later, was one of the biggest pains in my ass in my adult working life. I have a strong love/hate relationship for it.
+  I'm torn between framing it and smashing it to pieces
+ COMMENT_BREAK
+ I'm trying to un-hoard my collection of tech garbage.
+  The main criteria I've set for myself is that every machine which stays in the collection has to have something interesting, unique, or sentimental about it. I'm done hoarding piles of old desktops and boxes of parts just for the sake of having them. Yes it's convenient to have a ready supply of parts to dip into, but eBay exists and I can get just about anything delivered in a few days. 
+ COMMENT_BREAK
+   On 9/14/2023 at 1:11 PM, ItTakes2ToMango said:
+I've been toying with the idea of breaking down some of my old tech - sticking the different parts in foam and getting them framed. At least for some of the more meaningful or cool hardware
+  Recently laid out an iPhone 11 in a way I like, and I thought it would be a cool way to "get rid" of some of my older stuff too so it's not just laying around pointlessly
+Yeah that's a good idea as well!
+ COMMENT_BREAK
+ Everything needs to fit in a modestly sized box. I also ditch anything that's slower than a $200 refurbed system off amazon. These are increasingly looking like 6C 8th gen i5s which fit in 1 liter. 
+
+Just be glad you didn't go down the audiophile route. 4 subwoofers + their original packaging boxes take up a ton of space. Then there's 10 speakers on top of that...
+  The next time I move I'm going to target having a 30'x20' room and I'll be building shelves for the top corners to hold subwoofers... 8 subwoofers in corners... 
+ COMMENT_BREAK
+ I made a rule: If I don't see myself using something within the next year then I sell it. If I need it again then I can buy it again.
+ COMMENT_BREAK
+   On 9/14/2023 at 7:47 PM, dilpickle said:
+I made a rule: If I don't see myself using something within the next year then I sell it. If I need it again then I can buy it again.
+Selling is a option I wanna explore but now wonder what is worth selling what isn't etc.
+ COMMENT_BREAK
+ I'd say sell, unless you're planning to keep it for +50 years until it becomes vintage hardware.
+  See there's this difference between vintage and old hardware, right now your hardware is old, you could sell it but don't expect to get a ton of money for it, not the same as if you had idk an old IBM, Apple or rare 70s piece of hardware, that would count as vintage.
+  I have an use for old computers and it's stripping them out of individual components, I can take the power supply out and repurpose it, or if it's dead at least get the components out and use them for something else, hard drives could be useful too, motherboards and graphics cards if ancient I also give them the desoldering treatment and gather caps, connectors, etc. from them, CPU/GPU have useful heatsinks and fans, disc drives have the laser and other small parts inside.
+The rest like the case is basically scrap unless for a large project, I could use cases for stuff like an analogue scope, a capacitor bank, battery backups, AVRs, etc. the heavy stuff. but I often strip them out of the front plastics for increased airflow and mounting switches, meters, and so on.
+  But if you're not into electronics it wouldn't make any sense to keep parts for other projects.
+  I was sort of forced to learn to work on electronics due to the scarcity and pricing of components in my country, why pay premium for a pair of capacitors when I can simply pick up a dead computer and strip the power supply of them? I had a pile of dead trashy UPS units and managed to get 4 working batteries, 16 transformers and a shitton of rectifiers, regulators, caps, heatsinks, etc. cleared them out last week. Plastics went to the recycling centre and the dead batteries to a guy that can desulfate and refill them to sell at low cost.
+ COMMENT_BREAK
+ My "problem" is that I delay upgrading when I don't need to, which always take me past the time when my components have resell value. By the time I do, the market is far from liquid for the things I'm upgrading from. It doesn't help that I build with a role cycle in mind (so my PC today, or at least parts of it, will become the home's NAS or HTPC, etc.). Which I really like , although probably not the most energy efficient (and possibly not economical either).
+ COMMENT_BREAK
+ I have a lot more tech horde than most... the last stuff I got rid of was everything pentium 4 or older.
+  I used to host large retro lan parties, where I supplied all the hardware. Like 16-20 people in my house all playing starcraft. None of these people brought computers.
+  It was actually a great source of entertainment, trying to cobble together another gaming rig when more friends of friends came.
+  There were systems sharing a single power supply... computers built into  pizza boxes... multiseat setups... one "gaming rig" ran off a car battery and a few wall warts. (Just need 12v mainly, then a little 5v and 3.3v to run)
+  And yeah... I still have most all of the stuff.
+  Your post reminds me that maybe I should purge all DDR2 and IDE stuff at this point.
+ COMMENT_BREAK
+ I don't hoard deliberately. However it is not uncommon to buy a basic part that is not worth selling but stays on the may use one day shelf. 
+ COMMENT_BREAK
+ Only keep what is fully functional, and displayable, or is regularly used.
+
+I don’t keep anything else, if a piece of hardware isn’t in regular use or isn’t presentable in some way, I give it away, sell it or recycle it.
+it keeps the collection of stuff down, everything I own works, but I don’t keep around old fans, psus, cases, etc
+and if I’m not going to use it I don’t keep it, even if I may need it way in the future, I’ll get what I need then 
+not gonna keep a core2duo around just because I might want to swap my Q8200 at some point, no I’ll just buy a core2duo for 3$ in 2035 when my q8200 dies 
+ COMMENT_BREAK
+ Most are sold, given away or donated over the years.
+  Unfortunately some level of hoarding is still a thing, mostly out of nostalgia and maybe-one-day reasons.
+  Periodically regretting selling Nokia N-Gage QD and PSP 1st gen, oh and gifting my whole music CD collection...  
+ COMMENT_BREAK
+ When I got a new PC in 2020 I sold the old PC because I knew I could get more for it then than I would if I waited 5 more years before doing so.
+ COMMENT_BREAK
+   On 9/15/2023 at 4:01 PM, 8tg said:
+Only keep what is fully functional, and displayable, or is regularly used.
+
+I don’t keep anything else, if a piece of hardware isn’t in regular use or isn’t presentable in some way, I give it away, sell it or recycle it.
+Expand  
+Is this hard to dust? 
+ COMMENT_BREAK
+   1 hour ago, Tehkast said:
+Is this hard to dust? 
+I keep dust in my home to a minimum to begin with but the strategy is to hit it with one of those handheld swiffer dusters which gets between everything, it just can’t do exposed PCBs 
+ COMMENT_BREAK

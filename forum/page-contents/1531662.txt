@@ -1,0 +1,35 @@
+
+ Budget (including currency): $720
+  Country: Getting CPU or CPU and CPU Cooler from USA and buying GPU, PSU and Case in India
+  Games, programs or workloads that it will be used for: Streaming games (streamlabs desktop), gaming, photoshop, after effects
+  Other details (existing parts lists, whether any peripherals are needed, what you're upgrading from, when you're going to buy, what resolution and refresh rate you want to play at, etc): 
+Monitor Resolution : 1920x1080 60hz (will upgrade in the future after saving up, not sure what resolution, 1440p and above 144hz?)
+Current PC specs : https://pcpartpicker.com/user/SJMemento/saved/#view=rBF2kL
+Parts selected for upgrade : CPU - Ryzen 7 5800X, CPU Cooler - Thermalright Peerless Assassin 120 SE ARGB, GPU - Gigabyte Radeon RX 6750 XT, PSU - XPG Core Reactor 750G, Case - Cooler Master TD500 Mesh V2
+
+Just want to be sure if current pc mobo and other components will support the above upgrades, checked cooler and case dimensions and cooler is supposed to fit but if someone can check the dimensions it would be helpful as I don't have much experience with pc building, also I would have to upgrade mobo bios (there's google to help me with that).
+ COMMENT_BREAK
+   On 9/16/2023 at 12:16 PM, sachin_jadhav_1993 said:
+Just want to be sure if current pc mobo and other components will support the above upgrades, checked cooler and case dimensions and cooler is supposed to fit but if someone can check the dimensions it would be helpful as I don't have much experience with pc building, also I would have to upgrade mobo bios (there's google to help me with that).
+Why not a 5800X3D??? Need a good CPU for 1080 60Hz and might as well get a decent CPU to upgrade to with a $720 budget. 
+ COMMENT_BREAK
+   On 9/16/2023 at 12:28 PM, CommanderAlex said:
+Why not a 5800X3D??? Need a good CPU for 1080 60Hz and might as well get a decent CPU to upgrade to with a $720 budget. 
+There's almost a difference of $100 or more between 5800X and 5800X3D, it's a bit out of my budget. 
+ COMMENT_BREAK
+ The newer 5700X runs cooler than the older 5800X while giving you similar performance.
+  https://pcpartpicker.com/product/JmhFf7/amd-ryzen-7-5700x-34-ghz-8-core-processor-100-100000926wof  
+AMD Ryzen 7 5700X $189.00 
+  https://www.amd.com/en/products/cpu/amd-ryzen-7-5700x
+ COMMENT_BREAK
+   On 9/16/2023 at 6:14 PM, Why_Me said:
+The newer 5700X runs cooler than the older 5800X while giving you similar performance.
+  https://pcpartpicker.com/product/JmhFf7/amd-ryzen-7-5700x-34-ghz-8-core-processor-100-100000926wof  
+AMD Ryzen 7 5700X $189.00 
+  Expand  
+Well, that's the part I'm confused about right now. To go with the 5800X or the 5700X, isn't higher number supposed to be better and why was 5700X released after 5800X?
+ COMMENT_BREAK
+   7 hours ago, sachin_jadhav_1993 said:
+Well, that's the part I'm confused about right now. To go with the 5800X or the 5700X, isn't higher number supposed to be better and why was 5700X released after 5800X?
+  
+ COMMENT_BREAK

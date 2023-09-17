@@ -1,0 +1,215 @@
+
+ can a PC monitor be used as a TV screen? i know, i know "what the hell is wrong with you?" but i am limited on space as my PC is in my bedroom so i have been using my TV as my PC monitor since it has the HDMI ports and the cable box my TV gets the signals from is HDMI too but the TV is limited to 60hz as its kind of an older TV and even with new ones being 120hz and some rare ones of 144hz if you are willing to pay for it but can i do the reverse and use a PC monitor that would have better refresh rate work as a PC monitor and my TV screen?
+ COMMENT_BREAK
+ Man, punctuation.
+To answer your question, yes you can, why not? But most monitors are either have no speaker or terrible speaker.
+I've been using my monitor as my TV with external sound system for years, you just won't have a remote for it. TV box usually have remotes, so you're good on that.
+ COMMENT_BREAK
+ Yes, but a monitor…
+- doesn't have backwards compatible ports like SCART, if that matters to you
+- doesn't necessarily include speakers (and if it does, they're usually crappy)
+- generally doesn't have a remote
+- is typically much smaller than a TV
+  Obviously >60 Hz doesn't really matter for content consumption on a TV, but is nice to have to a PC. How much it matters on the PC depends on how sensitive your are to things like that.
+ COMMENT_BREAK
+   On 9/14/2023 at 5:20 AM, Dukesilver27- said:
+Man, punctuation.
+To answer your question, yes you can, why not? But most monitors are either have no speaker or terrible speaker.
+I've been using my monitor as my TV with external sound system for years.
+why? you cant say it all in one breath?
+    On 9/14/2023 at 5:20 AM, Dukesilver27- said:
+Man, punctuation.
+To answer your question, yes you can, why not? But most monitors are either have no speaker or terrible speaker.
+I've been using my monitor as my TV with external sound system for years.
+well thanks. to tell you both, i have been thinking about replacing my TV for a while now as its only 1080p with something that is 4k capable so pretty much nothing is off the table. 
+  and not that it matters but this is my current and upgrade build specs so it will be either using HDMI or DP cables so dont think i need SCART.
+  my current build
+CPU: intel i7 8700k
+motherboard: MSI z370 gaming plus
+GPU: EVGA 2070 super FTW3 ultra+
+RAM. corsair vengence RGB 32GB
+storage. samsung 970 evo plus 500g for OS, 2TB external
+CPU cooler: cheap prebuilt CPU cooler (i know, but i dont OC)
+case: corsair obsidian 1000D super tower
+fans: corsair QL 120s and 140s
+PSU: EVGA supernova 1000G+
+  the new build
+CPU: AMD ryzen 9 7950x3d
+motherboard: ASUS ROG strix b650e-f gaming wifi
+GPU: EVGA 2070 super FTW3 ultra+
+RAM. Gskill flareX5 64GB
+storage. samsung 970 evo plus 500g for OS, 2TB external
+CPU cooler: icue link h170i RGB
+case: corsair obsidian 1000D super tower
+fans: corsair QL 120s and 140s
+PSU: EVGA supernova 1000G+
+ COMMENT_BREAK
+   On 9/14/2023 at 5:26 AM, tdkid said:
+And not that it matters but this is my current and upgrade build specs so it will be either using HDMI or DP cables so dont think i need SCART.
+PCs never used SCART, but older video equipment does. I just mentioned it in case you have somwthing like that.
+ COMMENT_BREAK
+   On 9/14/2023 at 5:59 AM, Eigenvektor said:
+PCs never used SCART, but older video equipment does. I just mentioned it in case you have somwthing like that.
+Most new TV's also don't have SCART.
+  TV's come with a SmartOS, speakers, better image processing, and lower price for the size, but as a tradeoff you typically have lower refres rate, higher input lag and suboptimal text rendering due to the subpixel layout.
+ COMMENT_BREAK
+ You can, all you need is either a TV OS dongle (Apple TV, Chromecast, Firestick etc) or a TV box and then it's pretty much a TV (even have all of the picture processings)
+ COMMENT_BREAK
+ I sit 8 feet away from a 50inch LG UHD 4K TV that I specifically bought to use as a monitor. I love it. 4K/60 is way better than 1080p/60
+ COMMENT_BREAK
+   On 9/15/2023 at 2:37 AM, freeagent said:
+I sit 8 feet away from a 50inch LG UHD 4K TV that I specifically bought to use as a monitor. I love it. 4K/60 is way better than 1080p/60
+not sure if you are joking or not with the emoji but this is actually what i do except my TV is from like 10 years ago so its not 4k but looking into getting a 4k one soon if i can get a great deal .
+ COMMENT_BREAK
+ Haven't missed anything moving to a 48in OLED.   I don't really notice any of these subpixel issues (with cleartype turned OFF).  I do use software called colorcontrol to automatically wake and turn off the screen.
+ COMMENT_BREAK
+   On 9/14/2023 at 5:20 AM, Eigenvektor said:
+Yes, but a monitor…
+- doesn't have backwards compatible ports like SCART, if that matters to you
+- doesn't necessarily include speakers (and if it does, they're usually crappy)
+- generally doesn't have a remote
+- is typically much smaller than a TV
+  Obviously >60 Hz doesn't really matter for content consumption on a TV, but is nice to have to a PC. How much it matters on the PC depends on how sensitive your are to things like that.
+Expand  
+I haven't seen good speakers on any TVs either.
+ COMMENT_BREAK
+   On 9/15/2023 at 2:37 AM, freeagent said:
+I sit 8 feet away from a 50inch LG UHD 4K TV that I specifically bought to use as a monitor. I love it. 4K/60 is way better than 1080p/60
+I also am a tv for a monitor guy. This year I upgraded fro. I 43" 4k60 to a 65" 4k120. I could never go back.
+ COMMENT_BREAK
+   On 9/16/2023 at 1:10 PM, Blue4130 said:
+This year I upgraded fro. I 43" 4k60 to a 65" 4k120. I could never go back.
+Shhhh I keep telling myself there is no difference between 60/120  
+  Maybe next round of GPUs I will treat myself.
+ COMMENT_BREAK
+   On 9/16/2023 at 1:10 PM, Blue4130 said:
+I also am a tv for a monitor guy. This year I upgraded fro. I 43" 4k60 to a 65" 4k120. I could never go back.
+so what was the TV you had vs the one you have now?
+ COMMENT_BREAK
+   On 9/16/2023 at 1:14 PM, freeagent said:
+Shhhh I keep telling myself there is no difference between 60/120  
+  Maybe next round of GPUs I will treat myself.
+there literally is no difference at all. they say they 120 is a better refresh rate and therefor its better but they lie. we all know its the RGB that adds the frames to win games.
+ COMMENT_BREAK
+   22 hours ago, tdkid said:
+so what was the TV you had vs the one you have now?
+I live in china, so they will be brands that you've probably never heard of. The 43 was a whaley (side project of tencent parent company) and then I switched to a redmi x 2022 65 (made by xiaomi)
+ COMMENT_BREAK
+   18 hours ago, Blue4130 said:
+I live in china, so they will be brands that you've probably never heard of. The 43 was a whaley (side project of tencent parent company) and then I switched to a redmi x 2022 65 (made by xiaomi)
+yeah those are brands i have never heard of but i am betting they are knock offs or copied designs from american companies. just by a guess and not trying to be insulting.
+ COMMENT_BREAK
+   On 9/15/2023 at 9:49 PM, ewitte said:
+Haven't missed anything moving to a 48in OLED.   I don't really notice any of these subpixel issues (with cleartype turned OFF).  I do use software called colorcontrol to automatically wake and turn off the screen.
+so what monitor do you have?
+ COMMENT_BREAK
+   18 hours ago, tdkid said:
+yeah those are brands i have never heard of but i am betting they are knock offs or copied designs from american companies. just by a guess and not trying to be insulting.
+Xiaomi is now larger than Apple in the phone market.
+  https://www.knowyourmobile.com/news/xiaomi-is-now-bigger-than-apple-owns-17-of-global-market/#:~:text=Xiaomi has displaced Apple as the world’s second-biggest,the market%2C with Apple’s iPhone accounting for 14%.
+  And as for the tv, what isn't copied now? (though there are not many 4k120 tvs. Still pretty early days for those.
+ COMMENT_BREAK
+   18 hours ago, tdkid said:
+they are knock offs or copied designs from american companies
+You should explore more thru internet or best vacation around the world, included China - Beijing.
+Knock off american companies? How many TV and monitor design and made in American? Most top brand is not from American.
+Panasonic - Japan
+Sony - Japan
+Sharp - Japan (majority owned by Taiwan - Hon Hai (Foxconn) since 2016)
+Philips - Netherlands
+Samsung - Korea
+LG - Korea
+TCL - Hong Kong, China
+Hisense - China
+Asus - Taiwan
+Gigabyte - Taiwan
+MSI - Taiwan
+Acer - Taiwan
+AOC - Taiwan
+Cooler Master - Taiwan
+Lenovo - China (acquisition of IBM's personal computer division in year 2005)
+Huawei - China
+Xiaomi - China
+KTC - China
+Vizio - American (founder Wiliam Wang - born in Taiwan)
+Apple - American (so far only 2 monitor release and design for Apple device only)
+   
+ COMMENT_BREAK
+   14 hours ago, Andrewtst said:
+You should explore more thru internet or best vacation around the world, included China - Beijing.
+Knock off american companies? How many TV and monitor made in American? Most top brand is not from American.
+Panasonic - Japan
+Sony - Japan
+Sharp - Japan (majority owned by Taiwan - Hon Hai (Foxconn) since 2016)
+Expand  
+i didnt say every company out there was american. its just as an american i know about the fakes that are brought into this country like from wish.com, temu and others knock offs that turned out to be fakes. honestly its kind of funny.
+ COMMENT_BREAK
+   14 hours ago, tdkid said:
+wish.com, temu
+Lol! Who buy things from those site. Faint... those product is made by unknown and not from well known company. You see the price already know it won't be real.
+  You can find fake items even from Amazon.com by choosing those seller not fulfill by Amazon, and plenty from eBay.com
+Wish.com & Temu.com is both american company also... 
+ COMMENT_BREAK
+ Hisense is junk, and so is Sharp. Its like they have a built in time bomb. Both the smart and dumb tv's. Kinda funny, but not in a haha kinda way
+ COMMENT_BREAK
+   13 hours ago, freeagent said:
+Hisense is junk, and so is Sharp. Its like they have a built in time bomb. Both the smart and dumb tv's. Kinda funny, but not in a haha kinda way
+This I agreed, I just list all known brand. Hisense product is never in my list, Sharp is very silent, only recently they try to pick-up by release new mini-LED TV, still no OLED.
+  All my display is from Korea brand so far. Samsung and LG.
+TCL is very good but the premium series is not selling in Malaysia, so I can't buy.
+KTC is not selling at Malaysia.
+Xiaomi I buy their others home appliance product not the display.
+Sony the only thing I have is PS5, TWS and Headphones.
+Panasonic I currently only have Technics AZ80 TWS and also Panasonic Portable Air purifier.
+Apple I own their Macbook Pro, iPad, iPhone, not the display also.
+Asus only laptop, PSU, Keyboard and mouse, the monitor i already sold off and not recommended, spec is great but buggy.
+Gigabyte I use their MB and RTX 4090 GPU.
+Cooler Master only fans and cooling system.
+AOC is good if you want something value and good, so far I only own the 24G2SP which not in use at the moment, pending for selling.
+VIZIO - no money to buy, their monitor is freaking expensive and it is for professional series not gaming.
+ COMMENT_BREAK
+ Just to prove that not everything made in China is a copy...
+ COMMENT_BREAK
+   12 hours ago, Blue4130 said:
+Just to prove that not everything made in China is a copy...
+Expand  
+Haha! So cute!
+ COMMENT_BREAK
+ You can use a Monitor as a TV but do note that TVs almost always tend to come with some amount of processing to help improve the quality of content being displayed. From reducing judder to up-scaling. There is a bunch of processing done on mid range and higher displays that really helps content look better. Lower end TVs can have rather poor quality processing, but its still there.
+Monitors dont have this, so you will be seeing the raw image.
+No processing for a monitor for PC use is good, you want that, both for content creation so your seeing the raw image and for low input latency for gaming.
+  if your ok with this, then yes for sure you can use a monitor as a TV.
+ COMMENT_BREAK
+   4 hours ago, SolarNova said:
+You can use a Monitor as a TV but do note that TVs almost always tend to come with some amount of processing to help improve the quality of content being displayed. From reducing judder to up-scaling. There is a bunch of processing done on mid range and higher displays that really helps content look better. Lower end TVs can have rather poor quality processing, but its still there.
+Monitors dont have this, so you will be seeing the raw image.
+No processing for a monitor for PC use is good, you want that, both for content creation so your seeing the raw image and for low input latency for gaming.
+Expand  
+Many TV's now have gaming mode that turns off a lot of that stuff.
+ COMMENT_BREAK
+   3 hours ago, Blue4130 said:
+Many TV's now have gaming mode that turns off a lot of that stuff.
+Yes but we're talking about using a Monitor as a TV ..not a TV as a monitor
+ COMMENT_BREAK
+   3 hours ago, SolarNova said:
+Yes but we're talking about using a Monitor as a TV ..not a TV as a monitor
+well TVs for the most part are limited to 60hz unless you are willing to pay good money for a 4k 120hz or 144hz which yes they are getting cheaper every day but they are still around $500-1000 for a TV that you can easily see the pic from 10ft away which is still not bad but you have limits on what you can do when you use it as your PC monitor and your TV. PC monitors as far as i can tell flip this to where you get better quality of the images, faster response times but the size is limited to roughly 27-32" with some being 42" but extremely wide so not a good pic for far distances. 
+  so far i have kind of looked into samsung and LG TVs for a replacement but only from best buy. any suggestions on a store that does shipping?
+ COMMENT_BREAK
+   1 hour ago, tdkid said:
+42" but extremely wide
+42" will not extremely wide because 42" is in 16:9 aspect ratio, which is TV screen aspect ratio.
+  For your information.
+Wide (16:9) - 24", 27", 32", 42" 48", 55", 65" and etc.
+Ultrawide (21:9) - 29", 34", and 45"
+Super Ultrawide (32:9) - 40", 49", and 57"
+ COMMENT_BREAK
+   21 minutes ago, Andrewtst said:
+42" will not extremely wide because 42" is in 16:9 aspect ratio, which is TV screen aspect ratio.
+  For your information.
+Wide (16:9) - 24", 27", 32", 42" 48", 55", 65" and etc.
+Ultrawide (21:9) - 29", 34", and 45"
+Super Ultrawide (32:9) - 40", 49", and 57"
+Expand  
+i am talking about wide vs height or how tall. a 42" TV is also about 24-30" tall. 42" PC montior is about 12" tall. so the PC monitor is very wide. 
+ COMMENT_BREAK

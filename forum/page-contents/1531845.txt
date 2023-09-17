@@ -1,0 +1,8 @@
+
+ I am renovating my attic into a home theatre/flight/driving simulator but my PC is located about 12 metres away at my desk. I have looked at powered 15m usb and hdmi extensions but I am unsure as to whether this would introduce latency to the system. I know that I could do this better with thunderbolt but I cannot afford a thunderbolt add-in card or a thunderbolt hub, so I'm wondering whether theres a possible solution that has less latency than long hdmi and usb cables, but cheaper than thunderbolt. Any help would be much appreciated.
+ COMMENT_BREAK
+ The only latency introduced by long cables is the signal propagation time along those cables, which is relatively little compared to things like active signal converters/repeaters and etc. Any solution that's not "move the PC closer" is going to be higher-latency than that.
+  Will long cables cause enough latency to be a problem? Well, 12m isn't really that far, so for regular computing, media-playing, etc. the answer would be "No, you won't even notice it". For gaming, however, it could be an issue. Regardless, you're not going to do better on the latency front than "use shorter wires", which means putting a PC in the same room as your flight/driving-sim setup.
+ COMMENT_BREAK
+ Ok, thanks. I guess that flight sims are less affected by latency than FPS games etc, which I wouldnt be playing on that setup. I'll probably just go with the longer cables, thanks for your help.
+ COMMENT_BREAK

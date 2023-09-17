@@ -1,37 +1,149 @@
-Post Content
- Im looking for a heatsink for my PC, i currently have a be quiet slim and am looking to upgrade it as Im looking to upgrade my CPU in future.  So far my choices are;Noctua NH-D15Thermalright Phantom Spirit (Non-SE or SE whatever i can get my hands on easiest and cheapest)  or to kick it up a notch;Coolermaster MA824  Basically, is there anything better than these listed, im looking for performance first and foremost, price doesnt really concern me but if performance is even or extremely similar then id rather go cheaper (obvs ). Im not looking for an AIO or any form of watercooling, any suggestions?
 
- COMMENT_BREAK Deepcool AK620 is as effective as NH-D15 but costs almost half as much. Thermalright dual-towers are great for value too.AIO-s degrade in time, some perhaps less than others, but still if you don't need it now then no point having it for future updates.
-
- COMMENT_BREAK   3 hours ago, TatamiMatt said:Im looking for a heatsink for my PC, i currently have a be quiet slim and am looking to upgrade it as Im looking to upgrade my CPU in future.  So far my choices are;Noctua NH-D15Thermalright Phantom Spirit (Non-SE or SE whatever i can get my hands on easiest and cheapest)  Expand  Take Tom's with a grain of salt, but worth taking into consideration...  https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html  https://www.tomshardware.com/reviews/thermalright-peerless-assassin-120-se
-
- COMMENT_BREAK Well, after checking - in US Thermalright Peerless Assassin 120 SE costs only $35 - so the best value and no compromises in performance.
-
- COMMENT_BREAK   3 hours ago, TatamiMatt said:Thermalright Phantom Spirit (Non-SE or SE whatever i can get my hands on easiest and cheapest)Just get this or the peerless assassin or whatever variant thats cheapest
-
- COMMENT_BREAK   3 hours ago, Dedayog said:Take Tom's with a grain of salt, but worth taking into consideration...  https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html  https://www.tomshardware.com/reviews/thermalright-peerless-assassin-120-seOr maybe a bowl of salt. Despite having been released 15 days ago, it's already out of date. Lol!  PS120 is a great choice, and probably one of the best for the price. 
-
- COMMENT_BREAK ive done a good lot of looking into things on the thermalright side of things, phantom spirit is the updated version of the peerless assassin and hits better numbers than both it and even the NH-D15. But im just wondering if theres anythingmore extreme at cooling, PA has 6 heat pipes, PS has 7 but that coolermaster, while not as good value for money has 8. I am and very much have been leaning towards the PS but was curious if i can pump those numbers down even lower.
-
- COMMENT_BREAK   3 hours ago, TatamiMatt said:ive done a good lot of looking into things on the thermalright side of things, phantom spirit is the updated version of the peerless assassin and hits better numbers than both it and even the NH-D15. But im just wondering if theres anythingmore extreme at cooling, PA has 6 heat pipes, PS has 7 but that coolermaster, while not as good value for money has 8. I am and very much have been leaning towards the PS but was curious if i can pump those numbers down even lower.Can you tell us what you're trying to cool?  And what case?  They work in concert.  
-
- COMMENT_BREAK   3 hours ago, Dedayog said:Can you tell us what you're trying to cool?  And what case?  They work in concert.  Looking to cool a 13700KF in a 5000D Airflow, i know the PS should be more than viable for this, but i personally enjoy seeing how low i can get temps with minor little improvements that all add up
-
- COMMENT_BREAK   2 hours ago, TatamiMatt said:Looking to cool a 13700KF in a 5000D Airflow, i know the PS should be more than viable for this, but i personally enjoy seeing how low i can get temps with minor little improvements that all add upIf you simply want the best 'forever' air cooler, go NH-D15. If you want the best bang for the buck for that CPU, go Thermalright's PA. NH-D15's value is a long term argument, since Noctua regularly maintain mounting hardware and make improvements to existing products. Its very likely that your next CPU upgrade can be cheaper by getting updated mounting hardware, assuming you're reusing the cooler.  It depends on what you define as 'low temps', because without extreme cooling, you might struggle to see sub 100C on a 13700KF at full TDP. Low temps are cool, but not worth the sacrifice for little gain in my opinion.
-
- COMMENT_BREAK   3 hours ago, TatamiMatt said:ive done a good lot of looking into things on the thermalright side of things, phantom spirit is the updated version of the peerless assassin and hits better numbers than both it and even the NH-D15. But im just wondering if theres anythingmore extreme at cooling, PA has 6 heat pipes, PS has 7 but that coolermaster, while not as good value for money has 8. I am and very much have been leaning towards the PS but was curious if i can pump those numbers down even lower.Of course. be quiet! Dark Rock Pro 4, DeepCool AK/AG620, TR Frost Commander 140, and a few others I don't recall.   Depending on the reviewer, all of those best the D15.
-
- COMMENT_BREAK   45 minutes ago, RevGAM said:Of course. be quiet! Dark Rock Pro 4, DeepCool AK/AG620, TR Frost Commander 140, and a few others I don't recall. All good shouts, but from research, thermalright seem to be absolutely killing it beating out all the above with their phantom spirit, at least from what i can see and if only a little in some cases, even their own frost commander is beaten by that little smaller fanned powerhouse at the hottest under an overclocked load, though just barely, however tbf the FC is better in every other aspect
-
- COMMENT_BREAK   37 minutes ago, TatamiMatt said:All good shouts, but from research, thermalright seem to be absolutely killing it beating out all the above with their phantom spirit, at least from what i can see and if only a little in some cases, even their own frost commander is beaten by that little smaller fanned powerhouseThat depends on how much you care about noise but they are similar otherwise. 
-
- COMMENT_BREAK   36 minutes ago, RevGAM said:That depends on how much you care about noise but they are similar otherwise. I generally always wear headphones so noise isnt an issue in the slightest for me
-
- COMMENT_BREAK   33 minutes ago, TatamiMatt said:I generally always wear headphones so noise isnt an issue in the slightest for meIt's all up to you now...
-
- COMMENT_BREAK If money is unlimited, replace the stock fans of the one you choose with stronger ones. 
-
- COMMENT_BREAK Im thinking the Frost Commander or PS, and possibly adding a 3rd fan as opposed to changing the fans in front (only if needed), probably a 120mm airflow due to the design of the fins, but quite high RPM to pull air hard through the fins and not cause an blockage of airflow from the other fans
-
+ Im looking for a heatsink for my PC, i currently have a be quiet slim and am looking to upgrade it as Im looking to upgrade my CPU in future.
+  So far my choices are;
+Noctua NH-D15
+Thermalright Phantom Spirit (Non-SE or SE whatever i can get my hands on easiest and cheapest)
+  or to kick it up a notch;
+Coolermaster MA824
+  Basically, is there anything better than these listed, im looking for performance first and foremost, price doesnt really concern me but if performance is even or extremely similar then id rather go cheaper (obvs ). Im not looking for an AIO or any form of watercooling, any suggestions?
  COMMENT_BREAK
+ Deepcool AK620 is as effective as NH-D15 but costs almost half as much. Thermalright dual-towers are great for value too.
+AIO-s degrade in time, some perhaps less than others, but still if you don't need it now then no point having it for future updates.
+ COMMENT_BREAK
+   On 9/14/2023 at 12:57 PM, TatamiMatt said:
+Im looking for a heatsink for my PC, i currently have a be quiet slim and am looking to upgrade it as Im looking to upgrade my CPU in future.
+  So far my choices are;
+Noctua NH-D15
+Thermalright Phantom Spirit (Non-SE or SE whatever i can get my hands on easiest and cheapest)
+  Expand  
+Take Tom's with a grain of salt, but worth taking into consideration...
+  https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html
+  https://www.tomshardware.com/reviews/thermalright-peerless-assassin-120-se
+ COMMENT_BREAK
+ Well, after checking - in US Thermalright Peerless Assassin 120 SE costs only $35 - so the best value and no compromises in performance.
+ COMMENT_BREAK
+   On 9/14/2023 at 12:57 PM, TatamiMatt said:
+Thermalright Phantom Spirit (Non-SE or SE whatever i can get my hands on easiest and cheapest)
+Just get this or the peerless assassin or whatever variant thats cheapest
+ COMMENT_BREAK
+   On 9/14/2023 at 1:03 PM, Dedayog said:
+Take Tom's with a grain of salt, but worth taking into consideration...
+  https://www.tomshardware.com/reviews/best-cpu-coolers,4181.html
+  https://www.tomshardware.com/reviews/thermalright-peerless-assassin-120-se
+Or maybe a bowl of salt. Despite having been released 15 days ago, it's already out of date. Lol!
+  PS120 is a great choice, and probably one of the best for the price. 
+ COMMENT_BREAK
+ ive done a good lot of looking into things on the thermalright side of things, phantom spirit is the updated version of the peerless assassin and hits better numbers than both it and even the NH-D15. But im just wondering if theres anythingmore extreme at cooling, PA has 6 heat pipes, PS has 7 but that coolermaster, while not as good value for money has 8. I am and very much have been leaning towards the PS but was curious if i can pump those numbers down even lower.
+ COMMENT_BREAK
+   On 9/14/2023 at 1:37 PM, TatamiMatt said:
+ive done a good lot of looking into things on the thermalright side of things, phantom spirit is the updated version of the peerless assassin and hits better numbers than both it and even the NH-D15. But im just wondering if theres anythingmore extreme at cooling, PA has 6 heat pipes, PS has 7 but that coolermaster, while not as good value for money has 8. I am and very much have been leaning towards the PS but was curious if i can pump those numbers down even lower.
+Can you tell us what you're trying to cool?  And what case?
+  They work in concert.  
+ COMMENT_BREAK
+   On 9/14/2023 at 1:39 PM, Dedayog said:
+Can you tell us what you're trying to cool?  And what case?
+  They work in concert.  
+Looking to cool a 13700KF in a 5000D Airflow, i know the PS should be more than viable for this, but i personally enjoy seeing how low i can get temps with minor little improvements that all add up
+ COMMENT_BREAK
+   On 9/14/2023 at 1:44 PM, TatamiMatt said:
+Looking to cool a 13700KF in a 5000D Airflow, i know the PS should be more than viable for this, but i personally enjoy seeing how low i can get temps with minor little improvements that all add up
+If you simply want the best 'forever' air cooler, go NH-D15. If you want the best bang for the buck for that CPU, go Thermalright's PA. NH-D15's value is a long term argument, since Noctua regularly maintain mounting hardware and make improvements to existing products. Its very likely that your next CPU upgrade can be cheaper by getting updated mounting hardware, assuming you're reusing the cooler.
+  It depends on what you define as 'low temps', because without extreme cooling, you might struggle to see sub 100C on a 13700KF at full TDP. Low temps are cool, but not worth the sacrifice for little gain in my opinion.
+ COMMENT_BREAK
+   On 9/14/2023 at 1:37 PM, TatamiMatt said:
+ive done a good lot of looking into things on the thermalright side of things, phantom spirit is the updated version of the peerless assassin and hits better numbers than both it and even the NH-D15. But im just wondering if theres anythingmore extreme at cooling, PA has 6 heat pipes, PS has 7 but that coolermaster, while not as good value for money has 8. I am and very much have been leaning towards the PS but was curious if i can pump those numbers down even lower.
+Of course. be quiet! Dark Rock Pro 4, DeepCool AK/AG620, TR Frost Commander 140, and a few others I don't recall. 
+  Depending on the reviewer, all of those best the D15.
+ COMMENT_BREAK
+   On 9/14/2023 at 3:55 PM, RevGAM said:
+Of course. be quiet! Dark Rock Pro 4, DeepCool AK/AG620, TR Frost Commander 140, and a few others I don't recall. 
+All good shouts, but from research, thermalright seem to be absolutely killing it beating out all the above with their phantom spirit, at least from what i can see and if only a little in some cases, even their own frost commander is beaten by that little smaller fanned powerhouse at the hottest under an overclocked load, though just barely, however tbf the FC is better in every other aspect
+ COMMENT_BREAK
+   On 9/14/2023 at 4:02 PM, TatamiMatt said:
+All good shouts, but from research, thermalright seem to be absolutely killing it beating out all the above with their phantom spirit, at least from what i can see and if only a little in some cases, even their own frost commander is beaten by that little smaller fanned powerhouse
+That depends on how much you care about noise but they are similar otherwise. 
+ COMMENT_BREAK
+   On 9/14/2023 at 4:04 PM, RevGAM said:
+That depends on how much you care about noise but they are similar otherwise. 
+I generally always wear headphones so noise isnt an issue in the slightest for me
+ COMMENT_BREAK
+   On 9/14/2023 at 4:06 PM, TatamiMatt said:
+I generally always wear headphones so noise isnt an issue in the slightest for me
+It's all up to you now...
+ COMMENT_BREAK
+ If money is unlimited, replace the stock fans of the one you choose with stronger ones. 
+ COMMENT_BREAK
+ Im thinking the Frost Commander or PS, and possibly adding a 3rd fan as opposed to changing the fans in front (only if needed), probably a 120mm airflow due to the design of the fins, but quite high RPM to pull air hard through the fins and not cause an blockage of airflow from the other fans
+ COMMENT_BREAK
+ If looking at Thermalright, PS120SE, FC140.
+  Their 4th gen pipes are great. That is how it is able to compete with FC140 and its 5x 8mm pipes, and 1000G of mass, before fans. I flip flop between the two all the time. PS120SE and FC140 can run my 5800X3D, and 5900X up to 180w PPT with no fans installed on the cooler. Pretty good. 
+  I have 2x FC140 in Grey and White, PS120SE ARGB, PA120SE White ARGB, TRUE Black Rev.C, TRUE circa 2007, Le Grand Macho RT, True Spirit 140 Power, XP-90, and some NVME sinks.
+ COMMENT_BREAK
+   On 9/15/2023 at 2:27 AM, freeagent said:
+If looking at Thermalright, PS120SE, FC140.
+  Their 4th gen pipes are great. That is how it is able to compete with FC140 and its 5x 8mm pipes, and 1000G of mass, before fans. I flip flop between the two all the time. PS120SE and FC140 can run my 5800X3D, and 5900X up to 180w PPT with no fans installed on the cooler. Pretty good. 
+  I have 2x FC140 in Grey and White, PS120SE ARGB, PA120SE White ARGB, TRUE Black Rev.C, TRUE circa 2007, Le Grand Macho RT, True Spirit 140 Power, XP-90, and some NVME sinks.
+Expand  
+@freeagent So in your opinion is there a winner between the 2? I think im leaning more toward the FC140
+ COMMENT_BREAK
+   On 9/15/2023 at 8:10 AM, TatamiMatt said:
+@freeagent So in your opinion is there a winner between the 2? I think im leaning more toward the FC140
+I do find myself going back to FC140. There is literally 5w difference between the two coolers.
+ COMMENT_BREAK
+   On 9/15/2023 at 11:39 AM, freeagent said:
+I do find myself going back to FC140. There is literally 5w difference between the two coolers.
+Thank you! I do also prefer the look of the all black FC over the PS as it only comes in standard colours. Thats settled then, thanks all!
+ COMMENT_BREAK
+   On 9/15/2023 at 11:44 AM, TatamiMatt said:
+Thank you! I do also prefer the look of the all black FC over the PS as it only comes in standard colours. Thats settled then, thanks all!
+Why'd you mark yourself for the solution? LOL!
 
+BTW, the FC140 is noisier as I believe I mentioned.
+ COMMENT_BREAK
+   On 9/15/2023 at 4:19 PM, RevGAM said:
+BTW, the FC140 is noisier as I believe I mentioned.
+It’s really not that bad. I don't use the stock fans anymore, but to me they are quieter than what I am using now, but also have maybe 2/3 the performance. Hardly a game changer though. High performance and silence very rarely go hand in hand. To me the D15 is all hype. And has been since at least 2016.
+ COMMENT_BREAK
+   On 9/15/2023 at 4:19 PM, RevGAM said:
+Why'd you mark yourself for the solution? LOL!
+
+BTW, the FC140 is noisier as I believe I mentioned.
+Oh I did lol, must've hit it by accident, still new here! 
+  But the noise shouldn't be an issue, I wear headphones if I'm on my pc anyway
+ COMMENT_BREAK
+   On 9/15/2023 at 4:19 PM, RevGAM said:
+BTW, the FC140 is noisier as I believe I mentioned
+I came back to this because I changed my setup since my last post. The stock fans move 100cfm.. you can’t do that silently, just as an fyi. 
+ COMMENT_BREAK
+   3 hours ago, freeagent said:
+I came back to this because I changed my setup since my last post. The stock fans move 100cfm.. you can’t do that silently, just as an fyi. 
+Really?    I didn't know that.
+ COMMENT_BREAK
+   2 hours ago, RevGAM said:
+Really?    I didn't know that.
+Its all good buddy. I am running a single fan on FC140 right now, and this thing is as quiet as a church mouse. If I am honest, I can run my 58X3D with no fan on the cooler and it will be just fine.
+ COMMENT_BREAK
+   2 hours ago, freeagent said:
+Its all good buddy. I am running a single fan on FC140 right now, and this thing is as quiet as a church mouse. If I am honest, I can run my 58X3D with no fan on the cooler and it will be just fine.
+That's cuz you're a magician, though. I can barely put my shirt on correctly let alone do what you do!    
+  Seriously though, what's your formula for doing it with no fan?
+  And, hey, I know 100CFM tends to be noisy. Heck, I was doing noise testing on lesser fans and hearing annoying noise down to 20-25 dBA.
+ COMMENT_BREAK
+   1 hour ago, RevGAM said:
+That's cuz you're a magician, though. I can barely put my shirt on correctly let alone do what you do!
+Aww shucks 
+    1 hour ago, RevGAM said:
+Seriously though, what's your formula for doing it with no fan?
+I don't know.. maybe my TIM application?
+ 
+ COMMENT_BREAK
+   1 hour ago, freeagent said:
+Aww shucks 
+  I don't know.. maybe my TIM application?
+  You are a TIM wizard!  
+ COMMENT_BREAK
+   50 minutes ago, RevGAM said:
+You are a TIM wizard!  
+This is how I do mine.. nothing special really
+ 
+ COMMENT_BREAK

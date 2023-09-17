@@ -1,3 +1,3 @@
 ERROR:root:Main Program has failed to run due to module 'time' has no attribute 'wait'
 INFO:root:Dataframes being imported
-INFO:root:Main dataframe shape: (64, 5)
+INFO:root:Main dataframe shape: (81, 5)

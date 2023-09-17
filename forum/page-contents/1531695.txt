@@ -18,7 +18,7 @@ Basically how this works is you run a cable from your main router to your second
 
 This is how I have setup my second router which is connected to my ISP Router.
  COMMENT_BREAK
-   5 hours ago, Techreprise said:
+   On 9/16/2023 at 4:03 PM, Techreprise said:
 I will suggest to use wired repeater mode via ethernet mode. It gives better stability and the second router will work as an access point and will have different SSID (Wifi name and password). 
 Now the question is if the landlord will allow you to have a repeater installed in your room.
 Basically how this works is you run a cable from your main router to your second router and setup your second router as access point. TP Link has an auto setup mode for easier setup of the modes.
@@ -27,12 +27,12 @@ This is how I have setup my second router which is connected to my ISP Router.
 Expand  
 Thanks for the idea but doesn't look easy to do and I also don't want wires through the floors of my house, do you know any good solutions that sends the internet through the electricity cables?
  COMMENT_BREAK
-   6 hours ago, SinTonNiSon said:
+   On 9/16/2023 at 3:54 PM, SinTonNiSon said:
 sends the internet through the electricity wires to get a cable linked to the PC and an antenna in the bedroom.
 Powerline adapters are very hit or miss on if they will even work. Generally they work best when both outlets are on the same circuit. While they can work when outlets are on different circuits if the outlets are on different phases it can be very challenging. 
   Really the only way to know if these adapters will work is to try them. Just be aware of some of the BS marketing they sometimes use. You might see adapters advertise 500 Mbps, but thats only between the adapters. Many times the Ethernet ports only are rated for 100 Mbps. Though it's a good possibility that you may not get more than that anyway. So really look at the specs of these adapters. OH and another thing, if you have high draw appliances on the circuit(s) that these adapters are on it can cause huge amounts of interference and might make it so they dont work at all. 
  COMMENT_BREAK
-   5 hours ago, Donut417 said:
+   On 9/16/2023 at 4:34 PM, Donut417 said:
 Powerline adapters are very hit or miss on if they will even work. Generally they work best when both outlets are on the same circuit. While they can work when outlets are on different circuits if the outlets are on different phases it can be very challenging. 
   Really the only way to know if these adapters will work is to try them. Just be aware of some of the BS marketing they sometimes use. You might see adapters advertise 500 Mbps, but thats only between the adapters. Many times the Ethernet ports only are rated for 100 Mbps. Though it's a good possibility that you may not get more than that anyway. So really look at the specs of these adapters. OH and another thing, if you have high draw appliances on the circuit(s) that these adapters are on it can cause huge amounts of interference and might make it so they dont work at all. 
 Expand  
@@ -42,11 +42,11 @@ I just checked my fuse box, there are rows lines of breakers, and one of them ha
 
 Do you have any idea of a reputable brand for powerline adapters?
  COMMENT_BREAK
-   5 hours ago, SinTonNiSon said:
+   On 9/16/2023 at 4:57 PM, SinTonNiSon said:
 Do you have any idea of a reputable brand for powerline adapters?
 Not really. BUT when I search on Amazon TP Link and Netgear both pop up. I know those brands I have used TP Link stuff in the past and it has worked well. I have a Netgear Cable modem so Id go with one of these brands. My advice is go with a brand that you know. Also check out the reviews. Also make sure where ever you buy them has a good return policy, because like I said, they may or may not work. 
  COMMENT_BREAK
-   4 hours ago, Donut417 said:
+   On 9/16/2023 at 5:03 PM, Donut417 said:
 Not really. BUT when I search on Amazon TP Link and Netgear both pop up. I know those brands I have used TP Link stuff in the past and it has worked well. I have a Netgear Cable modem so Id go with one of these brands. My advice is go with a brand that you know. Also check out the reviews. Also make sure where ever you buy them has a good return policy, because like I said, they may or may not work. 
 Thanks a lot man, I really appreciate it.
 
@@ -54,15 +54,15 @@ It is probably a dumb question, but I have never had to return anything from Ama
  COMMENT_BREAK
  Running cables and taping them to walls, floors, is an ugly, but functional solution. 
  COMMENT_BREAK
-   4 hours ago, SinTonNiSon said:
+   On 9/16/2023 at 5:40 PM, SinTonNiSon said:
 but how do I check in case I have to buy from other vendors?
 You will have to verify it with the seller. Most stores in the US have it listed on their websites or you can ask in store if they have a physical location. 3rd party sellers on Amazon should also have something listed. When in doubt email the seller to verify. 
  COMMENT_BREAK
-   4 hours ago, ToboRobot said:
+   On 9/16/2023 at 5:42 PM, ToboRobot said:
 Running cables and taping them to walls, floors, is an ugly, but functional solution. 
 Not possible, but thanks
  COMMENT_BREAK
-   4 hours ago, SinTonNiSon said:
+   On 9/16/2023 at 5:49 PM, SinTonNiSon said:
 Not possible, but thanks
 You drew a map.  You can run a cable from the router to the PC.  The cable can go out the door, or through the wall (yes you can fix it later and no one will know) and across the hall to the PC, you can tape the cable down so no one trips.
 
@@ -74,7 +74,7 @@ Possible, yes, most likely based on the the layout provided you can do it.
   While I have had absolutely horrendous experiences with Powerline, it is an option as long as you don't expect it to perform as good as ethernet or WiFi.
   Here are some options with reviews. Wasn't really expecting Asus to have a ZenWiFi system for this!
  COMMENT_BREAK
-   4 hours ago, ToboRobot said:
+   On 9/16/2023 at 5:53 PM, ToboRobot said:
 You drew a map.  You can run a cable from the router to the PC.  The cable can go out the door, or through the wall (yes you can fix it later and no one will know) and across the hall to the PC, you can tape the cable down so no one trips.
 
 Same thing with the bedroom, just run the cable out into the hall, then towards the bedroom next to the wall, taping it again to the floor or wall.
@@ -83,14 +83,18 @@ Possible, yes, most likely based on the the layout provided you can do it.
 Expand  
 I wouldn't be able to close my doors and I can't drill holes or I would breach my contract 
  COMMENT_BREAK
-   3 hours ago, Falcon1986 said:
+   23 hours ago, Falcon1986 said:
 @SinTonNiSon
   While I have had absolutely horrendous experiences with Powerline, it is an option as long as you don't expect it to perform as good as ethernet or WiFi.
   Here are some options with reviews. Wasn't really expecting Asus to have a ZenWiFi system for this!
 Expand  
 Thanks a lot man , I really appreciate that you are sticking to the topic
  COMMENT_BREAK
-   1 hour ago, SinTonNiSon said:
+   22 hours ago, SinTonNiSon said:
 I wouldn't be able to close my doors and I can't drill holes or I would breach my contract 
 Not even flat cables?
+ COMMENT_BREAK
+   20 hours ago, Alex Atkin UK said:
+Not even flat cables?
+Do you have cable stonks or something?
  COMMENT_BREAK
