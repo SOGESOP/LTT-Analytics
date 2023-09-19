@@ -1,0 +1,25 @@
+Post Content
+ Okay, the PC I have has a 1060 in it. The display started cutting out. so I did the standard trying different cables. That didn't help. So I put my pare 750ti into the pc. Same issue. I then realized it was the monitor. So I replaced the monitor with a spare from another PC. It worked. But had red dots all over. I thought it could be a Vram issue. But I was going to try DDU before I did anything rash. I completed the uninstall. Red dots remained, even in Windows safe mode. I then made the awful choice to try another hdmi cord mid install. Which caused a black screen. I then made the even more idiotic choice to force the pc off mid-install. Now It has no display. No Bios display at all. I have tried both HDMI cords. So, What do I even do? Is the 1060 dead? should i put my 750ti back in?
+
+ COMMENT_BREAK   On 9/18/2023 at 1:32 AM, jsnotlout1 said:I then made the awful choice to try another hdmi cord mid install.   Do you mean in the middle of installing the drivers again?  The PC shouldn't need the Nvidia drivers just to get a video output from the GPU. It should be able to fall back on generic display drivers.
+
+ COMMENT_BREAK   On 9/18/2023 at 1:36 AM, Middcore said:  Do you mean in the middle of installing the drivers again?  The PC shouldn't need the Nvidia drivers just to get a video output from the GPU. It should be able to fall back on generic display drivers.Yeah, I got annoyed and held the power button down. So is the 1060 just dead? should I go through with putting the 750ti back in? What did the red dots mean?
+
+ COMMENT_BREAK   On 9/18/2023 at 1:37 AM, jsnotlout1 said:Yeah, I got annoyed and held the power button down. So is the 1060 just dead? should I go through with putting the 750ti back in? What did the red dots mean?no the 1060 should not be dead try booting the pc with your igpu and repeating the process of ddu. Try resseting the cmos and try using the displayport cable instead.
+
+ COMMENT_BREAK   On 9/18/2023 at 2:04 AM, goatedpenguin said:no the 1060 should not be dead try booting the pc with your igpu and repeating the process of ddu. Try resseting the cmos and try using the displayport cable instead.I put the 750ti back in and it works, I think, sadly the 1060 is dead
+
+ COMMENT_BREAK   On 9/18/2023 at 1:36 AM, Middcore said:  Do you mean in the middle of installing the drivers again?  The PC shouldn't need the Nvidia drivers just to get a video output from the GPU. It should be able to fall back on generic display drivers.I replaced the 1060 with the 750 and it works now. Is the 1060 just dead?
+
+ COMMENT_BREAK It could be dead but I also think that stopping a driver installation halfway should not be the case of causing it to be dead, correct me if I am wrong anyone, but is it possible that OP could put both gpus in and restart the driver installation on the second one?
+
+ COMMENT_BREAK   On 9/18/2023 at 4:28 PM, goatedpenguin said:It could be dead but I also think that stopping a driver installation halfway should not be the case of causing it to be dead, correct me if I am wrong anyone, but is it possible that OP could put both gpus in and restart the driver installation on the second one?I only have one PCIE slot, so i cant. But Im pretty sure its dead. I tried it again no image. It spins up but no image.
+
+ COMMENT_BREAK   On 9/18/2023 at 9:22 PM, jsnotlout1 said:I only have one PCIE slot, so i cant. But Im pretty sure its dead. I tried it again no image. It spins up but no image.if it spinning up then its not dead, usally if components are dead like a motherboard they will not power on at all the driver is software based not hardware based try uninstalling all the drivers for gpus(including the 750 and 1060) with ddu. 100 percent sure this is a windows issue.
+
+ COMMENT_BREAK   On 9/19/2023 at 12:22 AM, goatedpenguin said:if it spinning up then its not dead, usally if components are dead like a motherboard they will not power on at all the driver is software based not hardware based try uninstalling all the drivers for gpus(including the 750 and 1060) with ddu. 100 percent sure this is a windows issue.Alright. After a DDU. The 1060 displays again. Sadly the HDMI port is dying. As alot of movement can cause it to start showing red dots or just cut out the image
+
+ COMMENT_BREAK   16 hours ago, jsnotlout1 said:Alright. After a DDU. The 1060 displays again. Sadly the HDMI port is dying. As alot of movement can cause it to start showing red dots or just cut out the imageat least your gpu is not dead hahahaha
+
+ COMMENT_BREAK
+

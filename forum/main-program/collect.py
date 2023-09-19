@@ -206,7 +206,7 @@ class TopicDataframe:
             # saves a file with the comment content to the topic id it was gained from
             parent_folder=os.path.normpath(os.getcwd()+ os.sep +os.pardir)
             path="{init_path}/page-contents/{filename}.txt".format(init_path=parent_folder, filename=topic_id)
-            with open(path, 'w') as f:
+            with open(path, 'w', encoding="utf-8") as f:
                 f.write(comment_content_string)    
         MiscTools.save_to_csv(tp, 'collect_run')            
         

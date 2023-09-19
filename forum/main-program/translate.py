@@ -35,7 +35,7 @@ class TextFormatConversion:
     def reading_file_into_list(topic_id:str):
         inital_file_path=os.getcwd()
         file_path="{initial}/page-contents/{name}.txt".format(initial=inital_file_path[:-12], name=topic_id)
-        f=open(file_path, 'r')
+        f=open(file_path, 'r', encoding="utf-8")
         logging.info('Contents for file {name} has been read'.format(name=topic_id))
         # Converts the file into a list of all the lines and then returns that list
         file_contents:list[str]=(f.read()).splitlines()
@@ -63,7 +63,7 @@ class TextFormatConversion:
         for comment in comment_content:
             comment_content_string+=f"{comment}\n\n"
         # writes the string content into the file
-        with open(path, 'w') as f:
+        with open(path, 'w', encoding="utf-8") as f:
             f.write(comment_content_string)
         
          

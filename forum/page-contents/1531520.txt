@@ -1,0 +1,430 @@
+
+ Summary
+Already in the past, Plex GmbH has made some unpopular decisions in the further development of its self-hosting media library and streaming service. (As already shown in some videos on the LTT Youtube channel). Now they seem to want to crack down on piracy and the distribution of it through their products with little regard for long-time legal users.
+  Over the past few hours, Plex users running their server on a VPS or dedicated server at Hetzner have received an email stating that Plex will completely block access to these servers hosted at Hetzner as of October 12 in accordance with your terms of service.
+  In the official Plex forums, the incomprehension of the users towards this decision is already apparent a short time later. to completely block one of the largest cosumer hosting providers.
+Especially users from countries like Germany, where upload rates for their private Internet connection are around 30 MBit/s according to Statista (https://de.statista.com/statistik/daten/studie/416534/umfrage/durchschnittliche-internetgeschwindigkeit-in-deutschland/), operating with a cloud provider is often the best solution for watching high-resolution movies on the road or with the family.
+  Many posts from users also question whether this step is actually able to stop criminals from sharing copied movies, as they are likely to have switched to another cloud provider within a few hours.
+  Also the statements and explanations of the Plex employees do not make the users feel comfortable, because they seem very dismissive and little explanatory.
+  Quote
+This is a super-important topic and one I’m personally invested in. First off, I have some bad news for you: I’m afraid we can’t really give any juicy details about what exactly we’re doing or how we investigate these types of accounts & services. That type of stuff is almost like “trade secrets” and we don’t want to tip our hats to any of those nefarious folks who might be lurking and reading.
+[...]
+Most of the action here all happens in the shadows and it isn’t very visible to regular, legitimate users. And if we’re doing things right, it
+Expand  
+    Quote
+We don’t really have anything else specific to say that wasn’t covered in the email sent to affected users. If an affected user wishes to continue using their Plex Media Server without issue, they should move it to be hosted from home. [...]
+Source: https://forums.plex.tv/t/not-allowed-to-use-hetzner/853570/15
+  My thoughts
+Making piracy and its distribution more difficult is an important step that even product manufacturers like Plex need to address. However, I doubt that this is the right approach. Many users who either don't have a fast enough internet connection or don't have the hardware at home to follow the Plex staff's recommendation and run the Plex server at home will have to look for alternatives like Jelly to continue enjoying their media library. This approach will probably only cost Plex more users and will have no real effect in the area of piracy. 
+There is also the question of whether users of other hosting providers will face similar problems in the future if it is now the official company policy to block hosting providers.
+  Sources
+https://forums.plex.tv/t/plex-fireside-in-the-forums/851849/176
+https://forums.plex.tv/t/not-allowed-to-use-hetzner/853570/15
+https://de.statista.com/statistik/daten/studie/416534/umfrage/durchschnittliche-internetgeschwindigkeit-in-deutschland/
+https://stadt-bremerhaven.de/plex-blockt-zugriff-auf-hetzner-server/
+ COMMENT_BREAK
+ Use Emby instead.
+ COMMENT_BREAK
+   On 9/15/2023 at 11:16 AM, strajk- said:
+Use Emby instead.
+Because Emby will be okay with people selling access to their Emby instances?
+    To the article:
+This has been an ongoing battle for a long time but Plex is now being forced to do something at a larger scale because it's one of those places where a lot of people are profiting off pirated content by selling access. I'm sure this wasn't a lightly taken decision and Hetzner (at least I wouldn't be surprised) probably pushed for some of it too. Hetzner already took away GPUs because people were mining on them back in the day too.
+ COMMENT_BREAK
+   On 9/15/2023 at 11:18 AM, Lurick said:
+Hetzner already took away GPUs because people were mining on them back in the day too.
+A cloud hosting service discontinued their GPU compute services because of crypto? Wow.
+  I guess it wouldn't have been just as easy to add a ban in their terms of service? Let good people continue to have access who can't afford to host stuff themselves.
+ COMMENT_BREAK
+   On 9/15/2023 at 12:51 PM, Windows7ge said:
+A cloud hosting service discontinued their GPU compute services because of crypto? Wow.
+  I guess it wouldn't have been just as easy to add a ban in their terms of service? Let good people continue to have access who can't afford to host stuff themselves.
+Without a way to detect it quickly and accurately putting it in the ToS is rather pointless to addressing the business cost issue it places on them.
+ COMMENT_BREAK
+   On 9/15/2023 at 11:18 AM, Lurick said:
+Hetzner already took away GPUs because people were mining on them back in the day too.
+Source on this?
+When I looked just now they still offer GPU servers. It's just that they are in limited supply, and Nvidia has some clauses about using GeForce cards in data centers, so they can only offer it in certain regions.
+  It doesn't make sense to discontinue a service because it is popular. If it was a power consumption issue then they could just raise prices to the point where it became financially sound for them, or throttled the cards to reduce power consumption. 
+  When I looked around I found posts about them banning all crypto, but the reason for that was because of Chia mining, not GPU mining. Chia was really taxing on their storage, and it's hard to limit how many IOPs each individual server can pull, since it's a shared resource unlike the GPUs. I couldn't find anything about specifically GPU mining being an issue and them removing it because of that.
+    Anyway, I don't think these news are that big of a deal. It probably sucks for a handful of people, but how many people are actually renting servers and putting their Plex library (which are of course just legally obtained movies and episodes, right?) on that?
+ COMMENT_BREAK
+   On 9/15/2023 at 1:36 PM, LAwLz said:
+It doesn't make sense to discontinue a service because it is popular. If it was a power consumption issue then they could just raise prices to the point where it became financially sound for them, or throttled the cards to reduce power consumption. 
+They could but the service offering and cost calculations would have been done on workload profile that is not 100% time unitization. They could raise the price but that would make it unattractive to gamers or other users. Another higher cost service to address that workload, crypto, wouldn't stop misuse of the cheaper service offering either.
+  Azure, Google and AWS addressed this issue by putting in detection of these applications and blocking them, or powering the instance off or even just outright closing the account. F@H and BOINC participants have had to fight against these during events.
+ COMMENT_BREAK
+   On 9/15/2023 at 11:18 AM, Lurick said:
+Hetzner already took away GPUs because people were mining on them back in the day too.
+Hetzner ended up with their ASN and IPs having a bad reputation with Akamai, CloudFlare, Azure, basically every service. So they've really changed their policy. I work in IT security and when I report malicious traffic to Hetzner they don't mess around. 
+  Obviously we don't know that Hetzner reached out, but it would certainly fit in with their continued effort to improve their reputation as a non-scammy hosting provider. 
+ COMMENT_BREAK
+   On 9/15/2023 at 1:44 PM, leadeater said:
+They could but the service offering and cost calculations would have been done on workload profile that is not 100% time unitization. They could raise the price but that would make it unattractive to gamers or other users. Another higher cost service to address that workload, crypto, wouldn't stop misuse of the cheaper service offering either.
+Yes, but it doesn't make sense for them to discontinue the service (which, again, they apparently didn't do) instead of raising the prices.
+Having one customer pay a high fee is still more profitable than having zero customers pay anything. They already had the infrastructure in place. They had already made the investment to get it running, and it seems like they got the infrastructure up and running after mining had become a thing. I don't think they bought a bunch of graphics cards and then were surprised that people rented them to mine on.
+    But again, this assumes that the premise is even true which I haven't been able to find any evidence for. I would like to see some evidence for it one way or another because to me it sounds like it could be one of those "facts" that just gets repeated over and over because it sounds plausible.
+ COMMENT_BREAK
+   On 9/15/2023 at 1:52 PM, LAwLz said:
+Having one customer pay a high fee is still more profitable than having zero customers pay anything.
+No it's actually not, especially if it's prior investment in infrastructure calculated on a workload type and that's not the reality of the situation. If you raise the cost and you get too low subscription count then you'll never get an ROI and if you base the cost on 40% of the GPUs never being assigned to any customer at all when you were accounting for 80% then even doubling the service cost may not put the service in to positive ROI.
+  I wouldn't simplify it to "just raise prices" because it's actually not the simple. Hardware doesn't remain relevant forever.
+    On 9/15/2023 at 1:52 PM, LAwLz said:
+(which, again, they apparently didn't do)
+Where are you looking. The only GPU instances I can find are on the auction section of their website for existing, now legacy, server instances. Are there any new, not Intel 6th and 7th Gen, offerings? I can't find any. Admittedly not look for long but certainly not easy to find if they exist.
+  You can't even search for "GPU" for new instances
+  So I would say it is true, GPU instances were discontinued.
+    Edit:
+Also if you have 1000 GPUs purchased at $500 USD and the open market is $900 currently and the service is in negative profitability selling off the GPUs is not a bad business move.
+ COMMENT_BREAK
+   On 9/15/2023 at 2:03 PM, leadeater said:
+No it's actually not, especially if it's prior investment in infrastructure calculated on a workload type and that's not the reality of the situation. If you raise the cost and you get too low subscription count then you'll never get an ROI and if you base the cost on 40% of the GPUs never being assigned to any customer at all when you were accounting for 80% then even doubling the service cost may not put the service in to positive ROI.
+  I wouldn't simplify it to "just raise prices" because it's actually not the simple. Hardware doesn't remain relevant forever.
+Expand  
+That's a fair point, but again, they introduced this after crypto mining was already a thing, and it wasn't until Chia became a thing that they actually introduced the "no crypto mining" clause in their contracts.
+  That, coupled with the fact that I can't find any statement about them stopping to offer GPUs because of crypto makes me think this is an assumption presented as a fact, rather than an actual fact. It my or may not be true, but I would just like a source.
+      On 9/15/2023 at 2:03 PM, leadeater said:
+Where are you looking. The only GPU instances I can find are on the auction section of their website for existing, now legacy, server instances. Are there any new, not Intel 6th and 7th Gen, offerings? I can't find any. Admittedly not look for long but certainly not easy to find if they exist.
+No, I am referring to the same auctioned instances you found.
+    On 9/15/2023 at 2:03 PM, leadeater said:
+Also if you have 1000 GPUs purchased at $500 USD and the open market is $900 currently and the service is in negative profitability selling off the GPUs is not a bad business move.
+That would be a good move if that was the case, but it does not seem like they are doing that since they still offer those servers.
+  Just to be clear, I am not saying it did or didn't happen. I am just saying that I can't find any evidence for it being that way.
+Anyway, the topic seems to have derailed a lot so I think it is best to leave all the "Hetzner stopped offering GPUs because of crypto miners" for some other topic, unless there is a link to someplace where they clearly say they stopped offering GPUS because of crypto miners.
+ COMMENT_BREAK
+   On 9/15/2023 at 10:30 AM, secsudo said:
+Many users who either don't have a fast enough internet connection or don't have the hardware at home to follow the Plex staff's recommendation and run the Plex server at home will have to look for alternatives like Jelly to continue enjoying their media library. This approach will probably only cost Plex more users and will have no real effect in the area of piracy. 
+Plex staff have always recommended that users run their Plex server at home though. They're setup guides talk about accessing the server over localhost, or over the LAN IP. They're setup guide doesn't mention anything about SSL certs, firewall configuration, rate limits, or any of the other stuff you'd need in order to set up an internet facing service.
+  I would also imagine that the number of regular users hosting their library on Hetzner is tiny. I'm a Hetzner user myself and opening up my own admin console I can see that storage volumes are €52.36/mo per TB. That'd be ~€450/mo for me without even touching bandwidth costs.
+  I'm sure the "false positive rate" for a ban action like this would be pretty low.
+ COMMENT_BREAK
+   On 9/15/2023 at 4:04 PM, maplepants said:
+Plex staff have always recommended that users run their Plex server at home though. They're setup guides talk about accessing the server over localhost, or over the LAN IP. They're setup guide doesn't mention anything about SSL certs, firewall configuration, rate limits, or any of the other stuff you'd need in order to set up an internet facing service.
+You're right, Plex's recommendation has always been to run on the Local Network. However, as I also described, many countries/regions have very strong restrictions on upcloud for home connections. With 20-30Mbit/s bandwidth you don't need to try to stream high quality content.
+  If you read through the comments on Reddit and in the posts linked here, you can see that it's not so much that a legitimate Plex user is renting a server to install Plex, but rather already has a server for backups, private cloud (e.g. Nextcloud) and other services and is running Plex on that server.
+    On 9/15/2023 at 4:04 PM, maplepants said:
+I would also imagine that the number of regular users hosting their library on Hetzner is tiny. I'm a Hetzner user myself and opening up my own admin console I can see that storage volumes are €52.36/mo per TB. That'd be ~€450/mo for me without even touching bandwidth costs.
+As for the prices, the VPS prices are actually absolutely unprofitable. However, the server exchange offers servers with 14TB for 40-50 dollars per month. Bandwidth costs are included. If you have such a general purpose solution, it is understandably very affordable for many.
+    On 9/15/2023 at 4:04 PM, maplepants said:
+I'm sure the "false positive rate" for a ban action like this would be pretty low.
+I cannot estimate how many people are affected by these changes. However, according to users' comments, I would at least claim that it is many of their regular customers. Power users who are tech-savvy and don't like to use cloud services or pay subscriptions, because many people with a lifetime license also seem to complain.
+ COMMENT_BREAK
+   On 9/15/2023 at 10:30 AM, secsudo said:
+Summary
+Already in the past, Plex GmbH has made some unpopular decisions in the further development of its self-hosting media library and streaming service. (As already shown in some videos on the LTT Youtube channel). Now they seem to want to crack down on piracy and the distribution of it through their products with little regard for long-time legal users.
+  Over the past few hours, Plex users running their server on a VPS or dedicated server at Hetzner have received an email stating that Plex will completely block access to these servers hosted at Hetzner as of October 12 in accordance with your terms of service.
+Expand  
+See here is one small detail everyone is forgetting. It won't cost Plex a dime infact it will make them more valuable as a company! Why because everyone or almost everyone uses the lifetime membership. Meaning even if they switched to another software they still paid Plex for that lifetime membership and now Plex essentially gets the license back. Not to mention they have every right to block ip addresses that are abusing their terms of service much less the legal necessity to atleast attempt to show attempts to remove pirates from their services. 
+ COMMENT_BREAK
+   On 9/15/2023 at 8:51 PM, Fasterthannothing said:
+See here is one small detail everyone is forgetting. It won't cost Plex a dime infact it will make them more valuable as a company! Why because everyone or almost everyone uses the lifetime membership. Meaning even if they switched to another software they still paid Plex for that lifetime membership and now Plex essentially gets the license back. Not to mention they have every right to block ip addresses that are abusing their terms of service much less the legal necessity to atleast attempt to show attempts to remove pirates from their services. 
+That is correct. The only problem is that they put all users who run their Plex server with a cloud provider under general suspicion. I have no problem with them cracking down on piracy. In fact, I see it as very important. But the approach is very questionable in my opinion. When moving servers, the thing that takes the longest is copying the video data. Criminals will probably not be stopped by the IP blocking.
+Measures like limiting the sharing of the library to 10 accounts or making the sharing process more difficult would be simple and probably much more effective ways.
+ COMMENT_BREAK
+   On 9/15/2023 at 1:17 PM, leadeater said:
+Without a way to detect it quickly and accurately putting it in the ToS is rather pointless to addressing the business cost issue it places on them.
+I figured that. My thoughts are if you're leasing cloud hardware that the hosting company has some right to know what it's being used for. Perhaps not outright spying on your instances but monitoring network traffic and the like.
+  I'll admit I don't know how most crypto communicates with peers but one would think there'd be a pattern or signature a network firewall could use to say hey, this traffic is suspicious and/or going to XYZ which are red flags. Are the GPUs at 100%? Yes. Investigate further.
+  But I guess if that's easier said than done just outright dropping a big percentage of your business is the better of the two.
+ COMMENT_BREAK
+   On 9/15/2023 at 10:30 AM, secsudo said:
+In the official Plex forums, the incomprehension of the users towards this decision is already apparent a short time later. to completely block one of the largest cosumer hosting providers.
+Especially users from countries like Germany, where upload rates for their private Internet connection are around 30 MBit/s according to Statista (https://de.statista.com/statistik/daten/studie/416534/umfrage/durchschnittliche-internetgeschwindigkeit-in-deutschland/), operating with a cloud provider is often the best solution for watching high-resolution movies on the road or with the family.
+Not only do upload speeds suck in Germany, most private internet connections have been switched to DS lite (dual stack lite), which means a lot of services - especially DynDNS - stop working.
+For the price of a business contract with a fixed IP address (or the price of a fixed IP address for your private contract), you can easily afford a dedicated server.
+ COMMENT_BREAK
+   On 9/15/2023 at 9:19 PM, secsudo said:
+When moving servers, the thing that takes the longest is copying the video data. Criminals will probably not be stopped by the IP blocking.
+If you are sailing the high seas then the most likely migration path is delete everything, or backup config only, and redownload everything. Doesn't actually make any sense to migrate the data when you can actually get it all back very quickly.
+ COMMENT_BREAK
+   On 9/15/2023 at 11:16 AM, strajk- said:
+Use Emby instead.
+just get a Walkman instead.  what is with all this modern crap that needs to connect to the internet??
+  if u wanna watch movies, get laserdisc  = )
+         
+ COMMENT_BREAK
+   On 9/15/2023 at 4:35 PM, secsudo said:
+You're right, Plex's recommendation has always been to run on the Local Network. However, as I also described, many countries/regions have very strong restrictions on upcloud for home connections. With 20-30Mbit/s bandwidth you don't need to try to stream high quality content.
+Those markets definitely exist. Germany, where I live, being one of them. But, I don't think the existence of these markets means that Plex has to offer a robust solution for streaming media over the internet.
+  They've chose to focus on use cases where the server and client are almost always on the same LAN. 
+    On 9/15/2023 at 4:35 PM, secsudo said:
+If you read through the comments on Reddit and in the posts linked here, you can see that it's not so much that a legitimate Plex user is renting a server to install Plex, but rather already has a server for backups, private cloud (e.g. Nextcloud) and other services and is running Plex on that server.
+No question the users hosting their media on one of these providers is a loud segment of Plex users. But I still would be surprised if it was a large one.
+    On 9/15/2023 at 4:35 PM, secsudo said:
+As for the prices, the VPS prices are actually absolutely unprofitable. However, the server exchange offers servers with 14TB for 40-50 dollars per month. Bandwidth costs are included. If you have such a general purpose solution, it is understandably very affordable for many.
+That's a good point. I had forgotten about the server exchange market. Right now they've got a 16TB machine with 64GB of RAM and an i7-7700 for €71 a month. That's not at all unreasonable. Unity Media (the bastards) used to offer just 5mbps up on some plans. If I were stuck with them I'd probably be looking at Hetzner's server auction daily.
+    On 9/15/2023 at 4:35 PM, secsudo said:
+I cannot estimate how many people are affected by these changes. However, according to users' comments, I would at least claim that it is many of their regular customers. Power users who are tech-savvy and don't like to use cloud services or pay subscriptions, because many people with a lifetime license also seem to complain.
+Maybe, but only Plex have the analytics to say so. But as for the liftem licensees, I'm a lifetime license holder myself. We're kind of Plex's worst customers. I gave them ~€120 a few years ago and nothing since. Yet I expect them to make sure their server and client keep up with every OS update for a wide variety of devices.
+  A lifetime Plex Pass holder who is selling their Hetzner hosted library is just about worst customer for Plex I could imagine.
+ COMMENT_BREAK
+   On 9/16/2023 at 8:18 PM, maplepants said:
+A lifetime Plex Pass holder who is selling their Hetzner hosted library is just about worst customer for Plex I could imagine.
+absolutely
+ COMMENT_BREAK
+ Is this related to recent law cases? Copyright law is wired. So without knowing anything I would blame Sony, Warner brothers, etc. for this.
+  Recently they tried to make a DNS liable for copyright violations. Imagine suing the phonebook company because they printed a business address to a scamming used car seller.
+ COMMENT_BREAK
+   On 9/16/2023 at 8:18 PM, maplepants said:
+Those markets definitely exist. Germany, where I live, being one of them. But, I don't think the existence of these markets means that Plex has to offer a robust solution for streaming media over the internet.
+Yes they dont have to, but that doesnt mean they have to flat out block that use-case....
+ COMMENT_BREAK
+ Wake me up when they remove all the original plex functionally so i can ask for a refund of the lifetime plex pass.
+ COMMENT_BREAK
+ I'm not saying at all that I agree with what Plex are doing - but I can see it from their side, as I've covered below. Though the 20% off lifetime Plex Pass offer that runs this week does seem conveniently timed, though pretty tempting for my intended use case of local streaming (which I thought was the main point of their offer).
+  On 9/15/2023 at 10:30 AM, secsudo said:
+However, I doubt that this is the right approach. Many users who either don't have a fast enough internet connection or don't have the hardware at home to follow the Plex staff's recommendation and run the Plex server at home will have to look for alternatives like Jelly to continue enjoying their media library. This approach will probably only cost Plex more users and will have no real effect in the area of piracy.
+Not Plex's problem if you're internet has terrible upload speeds. I think my sympathy is somewhat limited as I always remember Plex stating that it was designed to be self-hosted on a local device, not for using an externally-hosted ISP or hosting from outside. It's been at least 8 years since I last tried Plex and the reason I didn't bother was because external streaming just wasn't possible on the Internet connection I had at the time (1MBps DOWN, let alone up!) and I didn't need it for local streaming since I didn't share my library. But I never thought about setting it up remotely even when the speed improved ten-fold.
+  That said the homepage has change massively since I last looked at their website, with it basically advertising itself as a streaming service and mentions of it being used for self-hosted media being bumped to half way down the homepage. They're clearly repositioning themselves as an app to manage multiple streaming services with the original self-hosted media app being an afterthought.
+  On 9/15/2023 at 10:30 AM, secsudo said:
+This approach will probably only cost Plex more users and will have no real effect in the area of piracy. 
+Except it makes it someone else's problem. not Plex's. Which is probably the intention. I wouldn't be surprised if Plex is attempting to avoid legal action with this move. Being a German based ISP I wouldn't be surprised if they've had a "do this and we won't take it further but if you don't we'll drop some legal action" kind of contact and they've decided it's the best play (had it been a US ISP, I'm sure the lawyers wouldn't have gone the nicely nicely approach).
+  Also, a Plex customer who's purchase a lifetime Plex Pass doesn't generate any new revenue if they're only streaming their own media, so it's makes zero difference cheaper for Plex if that customer abandons the service or not.
+  --
+  Having read some of the comments on the linked thread show part of the problem. There's one user who posted the following:
+  Quote
+I am not violating the ToS. I share my Plex with my sister on the east coast and me and another Plex user (in Japan) have been sharing with each other since 2014. That’s the sum total of folks who have access to my server other than me.
+I'd be amazed if that isn't a ToS violation. If the person I've quoted used their Plex account to access their own media from anywhere in the world that would be fine. But sharing it, even with a family member and especially one who lives elsewhere, probably crosses the line. I'm sure that US media companies would consider sharing content from a remote Plex server piracy and no better than torrenting (even though the software is in both examples, legal).
+  I'm assuming that someone has pushed Plex into this decision. But having read the comments on the Plex forum there are clearly people who don't seem to realise that they're breaking the ToS - the above quote is just one example of several that I found where they claim to not be violating the ToS but the use-case they've described would certainly fit the definition of piracy.
+  The most telling thing for me is the Reddit thread on it - where people seem to have few problems with this change. And when Reddit threads take a seemingly sensible view on a subject...
+ COMMENT_BREAK
+   17 hours ago, thewelshbrummie said:
+xcept it makes it someone else's problem. not Plex's.
+Its  already not Plex's problem. They are not obligated in any way, shape, or form to police the users private files that never touch their servers.....
+ COMMENT_BREAK
+   17 hours ago, jagdtigger said:
+Its  already not Plex's problem. They are not obligated in any way, shape, or form to police the users private files that never touch their servers.....
+It might actually be a problem for Plex, depending on the local laws and what other companies are saying to them. 
+Anti-piracy laws can be very draconian and it's not unheard of that companies and people get hit with stupid lawsuits because they are vaguely associated with some case.
+Plex might be trying to cover their own ass and they feel like they aren't losing any valuable customers in the process.
+    That doesn't make things right though. I completely agree with you that it shouldn't be Plex's problem what someone does on a non-Plex-owned server with their own private files. Plex has nothing to do with it really, but it only takes a few people out for "revenge" on pirates to make one hell of trouble for Plex.
+  With all that being said, if this was the case then I think it would be better if Plex just stood up for their users instead of instantly caving without informing their users more than a few weeks before the change happens, and then respond in a very vague way.
+ COMMENT_BREAK
+   17 hours ago, LAwLz said:
+It might actually be a problem for Plex, depending on the local laws and what other companies are saying to them. 
+Dont think so, then the media dinosaurs wouldve already coerced everyone to do their bidding including OS devs..... They provide the SW but legally speaking they cannot be held liable for what the user is doing with  it.
+ COMMENT_BREAK
+   On 9/15/2023 at 11:18 AM, Lurick said:
+Because Emby will be okay with people selling access to their Emby instances?
+    To the article:
+This has been an ongoing battle for a long time but Plex is now being forced to do something at a larger scale because it's one of those places where a lot of people are profiting off pirated content by selling access. I'm sure this wasn't a lightly taken decision and Hetzner (at least I wouldn't be surprised) probably pushed for some of it too. Hetzner already took away GPUs because people were mining on them back in the day too.
+Expand  
+Why would it matter what Emby thinks?
+It is Open Source, do whatever you want with it.
+And if Emby is not your cup of cake you also have Jellyfin which is also a popular Open Source alternative to plex.
+ COMMENT_BREAK
+   17 hours ago, jagdtigger said:
+Dont think so, then the media dinosaurs wouldve already coerced everyone to do their bidding including OS devs..... They provide the SW but legally speaking they cannot be held liable for what the user is doing with  it.
+That's never stopped things like HDCP being forced in to connection standards and other copy protections. Then there is the issue of companies like Disney no longer selling physical media in Aus/NZ and that is going to keep spreading. Whatever communication direct or indirect that is happening with Plex if I were them I'd see some pretty clear writing on the wall going on here, if eventually the only media (new) that could possibly be in people's Plex media libraries is illegitimately obtained then it is in it's entirety a piracy platform i.e. the only source of this media is on a paid content streaming platform with no re-distribution rights. 
+  It's probably not a good idea to give these companies excuses to push this type of agenda.
+ COMMENT_BREAK
+   16 hours ago, strajk- said:
+Why would it matter what Emby thinks?
+It is Open Source, do whatever you want with it.
+And if Emby is not your cup of cake you also have Jellyfin which is also a popular Open Source alternative to plex.
+Open source is not immunity for litigation. Best case in a losing battle Emby repos and official downloads get taken down and continued work on it becomes technically illegal.
+  Open source has never been and never will be "do whatever you want with it", no matter how much freedom there is with such things it's not actually complete and absolute.
+ COMMENT_BREAK
+   13 hours ago, leadeater said:
+Open source is not immunity for litigation. Best case in a losing battle Emby repos and official downloads get taken down and continued work on it becomes technically illegal.
+  Open source has never been and never will be "do whatever you want with it", no matter how much freedom there is with such things it's not actually complete and absolute.
+You are right on paper and in theory, but realistically it would be near impossible to do what you propose (make it illegal to even work on it) and in practice it would just keep working like normal.
+I mean, how often have people not gone after torrenting clients? And as we can see with those, it hasn't slowed down development or made it any harder to get. The same thing would happen if someone went after Emby or Jellyfin. Them being open source makes them a million times more resilient to legal threats than Plex, because if Plex folds for legal pressure nobody can pick up the torch, and they will fold as soon as they risk losing money (because they are a for-profit company).
+With Emby and Jellyfin, anyone can pick up the torch, preferably (and probably) someone in a country with less oppressive laws. 
+Them being open source also means that it is harder to strike it down using local laws. If New Zealand makes it illegal to work on because "it might be used for piracy" then someone in France for example might work on it instead, and in France it might not be illegal. It's way easier to go after a corporate entity than individual contributors.
+      Edit:
+I think it is worth noting that Plex is not really a program to stream your own local content anymore. It can still do that, but a simple look at their website is very telling. Plex, the company, want the program to be a streaming service, and since they are partnered and rely on companies like Warner Bros, Paramount, Lionsgate, MGM, Viacom, BBC and so on, they probably don't want to risk pissing them off and losing their business model.
+ COMMENT_BREAK
+   13 hours ago, LAwLz said:
+You are right on paper and in theory, but realistically it would be near impossible to do what you propose (make it illegal to even work on it) and in practice it would just keep working like normal.
+I mean, how often have people not gone after torrenting clients? And as we can see with those, it hasn't slowed down development or made it any harder to get. The same thing would happen if someone went after Emby or Jellyfin. Them being open source makes them a million times more resilient to legal threats than Plex, because if Plex folds for legal pressure nobody can pick up the torch, and they will fold as soon as they risk losing money (because they are a for-profit company). With Emby and Jellyfin, anyone can pick up the torch, preferably (and probably) someone in a country with less oppressive laws. 
+Expand  
+A media streaming product probably requires a little more effort than a torrenting client and I'd imagine people would be a little more picky about who's they use. I don't think many clones of Emby is really going to fly compared to a torrent client.
+  You do actually want to pick an Emby source that will actually get updated and maintain the software quality.
+  The main issue is anyone that hosts the repo can be ordered to delete it which is the whole downfall of the "we can do whatever we want". Yes you can, until you make it public then ehhhh not really.
+ COMMENT_BREAK
+   13 hours ago, leadeater said:
+A media streaming product probably requires a little more effort than a torrenting client for sure and I'd imagine people would be a little more picky about who's they use, I don't think many clones of Emby is really going to fly compared to a torrent client.
+  The main issue is anyone that hosts the repo can be ordered to delete it which is the whole downfall of the "we can do whatever we want". Yes you can, until you make it public then ehhhh not really.
+When you say "media streaming product", what do you mean exactly?
+If you're just talking about the interface used to pull videos from your own collection, then I don't think people will be that picky. I would be very surprised if a clone of for example Emby didn't pop up and get popular if for some reason someone went after Emby.
+If you're talking about a servicer provider, like Plex wants to be, then I agree that people will be more picky. But I don't think the people who use Emby and Jellyfin are looking for some service where they stream content someone else provides them with.
+  As for a repo being taken down, that's just cutting off the head of a hydra. It doesn't work. We have seen this time and time again. How have the attempts at taking down the pirate bay worked out? And that is a way bigger target than some video player clients. If you want a more apples-to-apples comparison then just look at torrent clients.
+Going after Emby and Jellyfin would be like going after VLC. It would never work. Not just because it's such a massive stretch to call them a "piracy program", but even if some countries did them being open source makes them very agile and they typically have no firm base or company they belong to, and that's the usual angle of attack for these types of litigations.
+  Them being open source absolutely makes a massive difference.
+Them not being a company also makes a massive difference.
+Them not being a "service provider" like Plex, that requires partnerships from massive media-providers like Viacom makes a massive difference.
+  Jellyfin and Emby are in my opinion not at all in the same situation as Plex. Plex is very vulnerable and has to play ball when pushed around. Jellyfin and Emby do not.
+ COMMENT_BREAK
+   13 hours ago, LAwLz said:
+When you say "media streaming product", what do you mean exactly?
+Emby, Plex, Jillyfin... isn't literally what we are talking about the obvious thing we are talking about 
+  Edit:
+And remember just because it might work for 6 months or a year doesn't mean it's a long term solution and survival. Do you want to run Emby from 2011?
+  If it's on Github and ordered to be removed then it'll keep getting removed. Even if it doesn't it actually needs to get developed or it's a dead end software. Not being a company doesn't remove the issue at all. Someone somewhere has to host it and you can't tell me massive usage and approval is going to happen on a not well-known and trusted site. Sketchysources.com isn't going to be viable place for EmbyClone#2821
+  The Pirate Bay isn't even a comparable example, torrent clients yes sure that is. Torrent clients however have, like Emby etc currently do, a legitimate argument for their usage to not be exclusive to illegal file sharing since it is actually used for legitimate software and file distribution. As does Emby etc for now. However like I mentioned if zero physical media exists from any media company in XYZ region the only content after that date this was instigated is illegal content always. If it's only illegal content that can now be used with the software, ignoring old content since we know that's how it'll get played out, then the legitimate usage argument comes under more serious scrutiny.
+  "This software can only be used with illegal content, it must be banned". It's an argument not won with torrenting, does not mean it cannot be won here.
+ COMMENT_BREAK
+   13 hours ago, leadeater said:
+Emby, Plex, Jillyfin... isn't literally what we are talking about the obvious thing we are talking about 
+Plex is a fairly different type of product compared to Emby and Jellyfin.
+  Emby and Jellyfin are very focused on playing your own media. They are basically VLC but with a different skin.
+  Plex is a subscription service that does allow you to play your own media, but judging by their website they are more focused on being a Netflix type of service.
+  I just want you to clarify what exactly you mean with "media streaming product" so that we don't talk past each other. Plex and Jellyfin/Emby are not really the same category of programs. There is some overlap in functionality, but they are still pretty different. I guess you could call Emby and Jellyfin a subset of what Plex is. 
+          13 hours ago, leadeater said:
+Edit:
+And remember just because it might work for 6 months or a year doesn't mean it's a long term solution and survival. Do you want to run Emby from 2011?
+  If it's on Github and ordered to be removed then it'll keep getting removed. Even if it doesn't it actually needs to get developed or it's a dead end software. Not being a company doesn't remove the issue at all. Someone somewhere has to host it and you can't tell me massive usage and approval is going to happen on a not well-known and trusted site. Sketchysources.com isn't going to be viable place for EmbyClone#2821
+Expand  
+If it keeps getting removed from Github then it could (and would) move to a different platform. We have seen this happen with other programs.
+  But that is assuming the program would even get removed to begin with, which is a massive stretch and far more unlikely than Plex caving to pressure from their business partners.
+    If you think Jellyfin and Emby are just as vulnerable to getting shut down as Plex then I don't know what to tell you. 
+They absolutely aren't. No way in hell. And that's for several reasons I have already listed.
+ COMMENT_BREAK
+   13 hours ago, leadeater said:
+Open source is not immunity for litigation. Best case in a losing battle Emby repos and official downloads get taken down and continued work on it becomes technically illegal.
+  Open source has never been and never will be "do whatever you want with it", no matter how much freedom there is with such things it's not actually complete and absolute.
+Why would Emby or Jellyfin get canceled if a part of its userbase uses it for nefarious actions? 
+If that was the case Deluge and many others would had long been shutdown.
+  EDIT: just read the whole spiel between you and LAwLz, which I basically subscribe to what he said. 
+ COMMENT_BREAK
+   12 hours ago, LAwLz said:
+Plex is a fairly different type of product compared to Emby and Jellyfin.
+  Emby and Jellyfin are very focused on playing your own media. They are basically VLC but with a different skin.
+  Plex is a subscription service that does allow you to play your own media, but judging by their website they are more focused on being a Netflix type of service.
+No they aren't that different at all. They are all competing software which is why the comparisons/arguments always come up when someone says I use or want to use Plex because 90% of the time someone will chime in with the "Why not use Emby/Jellyfin because they are open source". All 3 are great products that offer extremely similar capabilities. The reason why I'm still on Plex is because they support more obscure clients like PlayStation as that actually is my primary device for Plex usage.
+    12 hours ago, LAwLz said:
+Plex and Jellyfin/Emby are not really the same category of programs.
+Yes they are.
+  All 3 are content libraries for hosting media files and for streaming them over the network. They all have nice client interfaces to browse content and play it.
+  As a Plex user for more than a decade Plex primary usage and reason it existed was for playing your own media, and that is still the case today. More recently they have "other things" and that's as I said more recent and pretty sparse in offered content and bad user experience. Whatever their source is for things like movie trailers, of my own movies, sucks and buffers horribly.
+  But again they are all comparable and competing software with the same primary use case.
+    12 hours ago, LAwLz said:
+If it keeps getting removed from Github then it could (and would) move to a different platform. We have seen this happen with other programs.
+Like I said that doesn't mean people will follow and development will continue long term. Many torrent clients simply stopped existing because of this very issue.
+  And it's not like I'm saying this is that likely to happen but refer back to original point, "It's open source so we can do whatever we want" which the reality is no. The more of a problem you are perceived the more difficult it'll become. The longer term threat is the removal of legitimate ownership of media at all, I'm already not able to legally obtain Disney media in my country region format. It's not currently illegal for me to buy a US Region 1 Blu-ray on Amazon and import it, currently. It's also currently possible to do this, currently.
+ COMMENT_BREAK
+   12 hours ago, strajk- said:
+Why would Emby or Jellyfin get canceled if a part of its userbase uses it for nefarious actions? 
+If that was the case Deluge and many others would had long been shutdown.
+All torrent clients have an actual defended usage case of "can be used for legal distribution" and is actively used for those purposes.
+  Ok now you are Disney, you release zero content via any method other than Disney+. What is the legal status of any content on Plex/Emby/Jellyfin going forward. Illegal redistribution right? Now lets add in the rest that start going the same path.
+  What is the long term status of Plex/Emby/Jellyfin?
+ COMMENT_BREAK
+   12 hours ago, strajk- said:
+Why would Emby or Jellyfin get canceled if a part of its userbase uses it for nefarious actions? 
+I recall Kodi being cancelled due to nefarious users. The reason is the project made it easy to pirate and thats what users were using it for. I know in the case of Plex you can share access to your Plex server over the internet. Now Ive never used Emby or Jellyfin, but if they offer similar capabilities that could be an issue. I can tell you that under US law its illegal to break copy protection on DVD's and Blurays. So it you have ripped any movies on to your server you are technically breaking the law, because you have to strip the copy protection to do it. The only reason the FBI doesn't kick in your door is because the law only really applies to distributors of copyrighted content. But if you share your Plex server with others over the internet and you have content not created by you on it then technically you are distributing copyrighted material and are breaking the DMCA. 
+ COMMENT_BREAK
+   12 hours ago, Donut417 said:
+I recall Kodi being cancelled due to nefarious users. The reason is the project made it easy to pirate and thats what users were using it for. I know in the case of Plex you can share access to your Plex server over the internet. Now Ive never used Emby or Jellyfin, but if they offer similar capabilities that could be an issue. I can tell you that under US law its illegal to break copy protection on DVD's and Blurays. So it you have ripped any movies on to your server you are technically breaking the law, because you have to strip the copy protection to do it. The only reason the FBI doesn't kick in your door is because the law only really applies to distributors of copyrighted content. But if you share your Plex server with others over the internet and you have content not created by you on it then technically you are distributing copyrighted material and are breaking the DMCA. 
+Expand  
+Kodi does still exist btw, it's just really hated, to the point Google removed "Kodi" from it's autocomplete search citing "associated with copyright infringement". Although checking now it seems to be back and allowed autocomplete word 
+  Limewire, eDonkey2000, eMule, Kazaa (not open source though) are all victims and in the past, to be fair though torrent kind of helped kill them too. Hilariously LimeWire got sued for 72 trillion, they lost multiple lawsuits
+    Quote
+On October 26, 2010, U.S. federal court judge Kimba Wood issued an injunction ordering Lime Wire LLC to prevent "the searching, downloading, uploading, file trading and/or file distribution functionality, and/or all functionality" of its software in Arista Records LLC v. Lime Group LLC.[8][9] A trial investigating the damages necessary to compensate the affected record labels was scheduled to begin in January 2011.[10] As a result of the injunction, the RIAA initially suggested that LimeWire was responsible for $72 trillion in damages, before eventually settling for $105 million.[11][12] Thereafter, the company stopped distributing the LimeWire software, and versions 5.5.11 and newer have been disabled using a backdoor installed by the company.
+Expand  
+  RIAA has a non-zero win count.
+ COMMENT_BREAK
+   11 hours ago, leadeater said:
+Kodi does still exist btw, it's just really hated, to the point Google removed "Kodi" from it's autocomplete search citing "associated with copyright infringement". Although checking now it seems to be back and allowed autocomplete word 
+Every single "Free TV" box sold on ebay sold over the last decade has been a "Kodi" box with pirate distribution backends. Basically think customized Android (with the nvidia shield being the most capable, albeit expensive compared to some of the other SoC's) and usually the backends of these were a mixture of Openload (shut down in 2019), facebook itself, and file sharing lockers.
+  The Kodi software, to my knowledge, never contained these backends/modifications out of the box, they were always part of a the third party pirate network who also sold the boxes behind the scenes.
+    11 hours ago, leadeater said:
+Limewire, eDonkey2000, eMule, Kazaa (not open source though) are all victims and in the past, to be fair though torrent kind of helped kill them too. Hilariously LimeWire got sued for 72 trillion, they lost multiple lawsuits
+    RIAA has a non-zero win count.
+  Napster, Kazaa, eMule, Limewire, and so forth were only shutdown because of the "hosting" aspect of these systems. Where as bitTorrent has no implicit hosting element to it. Napster came out at a time when a lot of people were on dialup and "music ripping" was the new hot thing. Up to that point most media piracy was done via IRC and the alt.binaries usenet hierarchy. 
+  MPAA, RIAA, BSA, ESA, etc have no means of shutting down bittorrent because bittorrent is nothing more than a protocol, it's like trying to shut down down "the web". There is no means of doing so that isn't "shutting down the interent", and believe me, the the elderly suits in the legacy media companies would love to shut down the internet and return to selling CD singles at $100.
+  I would rather physically own the media, but optical media is subject to wear and hardware manufacturers still producing ODD's, while other kinds of media (eg usb sticks, sd cards, Nintendo Switch carts, etc) are not guaranteed to last due to flash media not being mask-ROM and thus self-erasure is certain at some age.
+  The thing is, and let's be serious, if the "internet" was no longer a viable option for pirates, people would just go back to copying the physical media anyway, and it would just result in a return of the "bootleg" market in a larger way than already exists in large cities. People quickly forget that "Canal Street" is a thing. These physical markets exist because copying things like a designer purse is harder than copying a CD.
+   
+ COMMENT_BREAK
+   11 hours ago, Kisai said:
+The thing is, and let's be serious, if the "internet" was no longer a viable option for pirates, people would just go back to copying the physical media anyway, and it would just result in a return of the "bootleg" market in a larger way than already exists in large cities.
+Not when there is no physical media, but it would be physical copies of content ripped from streaming platforms. 
+  As for bittorrent I know, but it's been tried many times to kill it and one of the things that saved it was the actual legitimate usage of it, unlike LimeWire etc. If the only thing standing in the way of making bittorrent illegal were written laws then they'd simply get changed. Thankfully it's not that simple, if it were then I would say RIAA would probably have gotten that type of law change through.
+  Overall I don't particularly care much about these things, however throwing caution to the wind and thinking everything is fine can have the same outcome of LimeWire who literally thought the same thing.
+  And I really hate what Disney has done and will do in more regions. The death of physical media has never been closer, will others follow?
+ COMMENT_BREAK
+   12 hours ago, Donut417 said:
+I recall Kodi being cancelled due to nefarious users.
+Kodi still exists and is actively developed. So if someone at some point tried to "cancel" them it kind of just proves my point that you can't take down open source software like that.
+It is way easier to take down commercial and proprietary software because you can hit them where it hurts them, their profits, and the source code is most likely only accessible by a few people. 
+    Of course, it is kind of possible to take down open-source software, but it is not in the same ballpark as how easy it would be to take down proprietary software. 
+      12 hours ago, leadeater said:
+Ok now you are Disney, you release zero content via any method other than Disney+. What is the legal status of any content on Plex/Emby/Jellyfin going forward.
+The vast library of content that was legal to obtain and rip before this proposed mass cleansing of content outside of Disney+, or home made movies, or movies not from Disney.
+The list goes on and on.
+  Honestly, I think this conversation has gotten pretty ridiculous. To me it just seems like you really like Plex (which is fine) and as a result, got mad when someone brought up Emby/Jellyfin. So instead of acknowledging that they are in vastly different situations, we are now discussing a pretty ridiculous theoretical scenario that would put Emby/Jellyfin in a tough spot. Where it becomes outlawed to work on a media player and several countries all pool their resources together to crack down on a video player.
+      I think you understand the difference in resilience between an open-source project and a closed-source one in the context of being erased. This whole discussion seems ridiculous to me. Of course it is harder to shut down an open-source project than a closed-source one. That doesn't necessarily mean the open-source program is the one very one should use, but I think it is silly to pretend like a government could just as easily shut down or make demands to Jellyfin as they could Plex. They absolutely can't. 
+ COMMENT_BREAK
+   13 hours ago, leadeater said:
+That's never stopped things like HDCP being forced in to connection standards and other copy protections. Then there is the issue of companies like Disney no longer selling physical media in Aus/NZ and that is going to keep spreading. Whatever communication direct or indirect that is happening with Plex if I were them I'd see some pretty clear writing on the wall going on here, if eventually the only media (new) that could possibly be in people's Plex media libraries is illegitimately obtained then it is in it's entirety a piracy platform i.e. the only source of this media is on a paid content streaming platform with no re-distribution rights. 
+  Expand  
+Well they couldnt take down any torrent clients/force video players to detect pirated content so i very much doubt they could do anything to plex.....
+ COMMENT_BREAK
+   9 hours ago, LAwLz said:
+The vast library of content that was legal to obtain and rip before this proposed mass cleansing of content outside of Disney+, or home made movies, or movies not from Disney.
+The list goes on and on.
+A list getting ever shorter which is the point. Anyone not seeing the death of physical media is simply blind. Ask Blockbuster lol
+    9 hours ago, LAwLz said:
+got mad when someone brought up Emby/Jellyfin.
+What? No. <edit> Sorry misunderstood what you were referring to. I find it really amusing you think I got mad because I use Plex lol. That had nothing to do with it. I'm pointing at the naivety that open source can let you do anything and is protection from being shut down. <edit>
+    9 hours ago, LAwLz said:
+I think you understand the difference in resilience between an open-source project and a closed-source one in the context of being erased. This whole discussion seems ridiculous to me.
+It is and it isn't, depends if you ignore the point and drill down on things that don't matter. Emby and Jillyfin will die off like other open source projects like LimeWire if they become too difficult to host, too difficult to associate with and too high risk. If these types of software get branded like LimeWire no amount of being open source will save them, like LimeWire.
+  The only real difference between these and LimeWire was that LimeWire was made obsolete by bittorrent, thus not making it worth trying to save.
+  Assuming ease of anything I said is on you, how you see it. Nowhere, at no time, did I say anything about ease, bar my last post. But simply ignoring open source projects that have been killed off by these companies is not a good idea and history revisionist. 
+  P.S. I probably wouldn't be using Plex still if the other 2 had real PlayStation apps, not that I even pay Plex money anymore since I have an ancient life time pass.
+ COMMENT_BREAK
+   9 hours ago, jagdtigger said:
+Well they couldnt take down any torrent clients/force video players to detect pirated content so i very much doubt they could do anything to plex.....
+Plex inc the company behind the software is US based. So yes someone can absolutely do something. I’m betting big Media has deeper pockets than Plex. Remember the deeper the pockets the more the legal system can work for you. 
+ COMMENT_BREAK
+   8 hours ago, Donut417 said:
+Plex inc the company behind the software is US based. So yes someone can absolutely do something. I’m betting big Media has deeper pockets than Plex. Remember the deeper the pockets the more the legal system can work for you. 
+That would be like suing a knife making company for assisting in a murder, which is pure BS......
+ COMMENT_BREAK
+   8 hours ago, jagdtigger said:
+That would be like suing a knife making company for assisting in a murder, which is pure BS......
+And McDonalds was sued over a hot cup of coffee…… How that one turn out? 
+ COMMENT_BREAK
+   7 hours ago, Donut417 said:
+And McDonalds was sued over a hot cup of coffee…… How that one turn out? 
+Not living in the USA so IDK......
+ COMMENT_BREAK
+   7 hours ago, jagdtigger said:
+Not living in the USA so IDK......
+My point still stands. Plex is an American company and therefore can be sued for bull shit reasons. 
+ COMMENT_BREAK
+   7 hours ago, Donut417 said:
+And McDonalds was sued over a hot cup of coffee…… How that one turn out? 
+That one has an easy explanation. McDonalds Coffee (and also plenty of other restaurants) over heat coffee and tea to a level that would physically burn you. And they know that. https://web.archive.org/web/20150923195353/http://www.business.txstate.edu/users/ds26/Business Law 2361/Misc/McDonalds coffee.pdf
+  Now, I'm not one to dismiss stupid lawsuits, but that was definitely one McDonalds should have seen, and wasn't the first time. 
+  Quote
+Before trial, McDonald's gave the opposing lawyer its operations and training manual, which says its coffee must be brewed at 195 to 205 degrees and held at 180 to 190 degrees for optimal taste.
+I don't drink coffee, but I also can't stand hot drinks at all, but it seems to me that if a drink is being held at a temperature that would burn your skin in a time shorter than it would take to react to the spill, you would make some effort to operate it at the lowest temperature that would make it safe, which is 160F, not 205F.
+  They also apparently continue to do so, and so does Starbucks.
+  I suppose if you're stupid enough to drink coffee, and you spill on yourself, you have nobody to blame but yourself. McDonalds and Starbucks can avoid the potential half million dollar lawsuits millions of times per day by getting out of selling Coffee, or only filling customer's own suitable reusable coffee cups. Because then the problem is not the coffee but the customer's choice of mug.
+   
+ COMMENT_BREAK
+ Whew lad, Went from Hentzer blocking Plex to how Open Source isn't as resilient as we think to death of physical media (which is a spot on assessment btw) to McDonald's Coffee lawsuit... what a wild ride.  
+ COMMENT_BREAK
+   4 hours ago, Donut417 said:
+My point still stands. Plex is an American company and therefore can be sued for bull shit reasons. 
+For now, at least until Anti-SLAAP laws are adopted at the federal level and not on a per-state basis with varying degrees of effectiveness. There are some states with very good Anti-SLAAP laws which make bullshit lawsuits much harder to deal with since they carry the heavy risk of a reverse lawsuit being lodged with increased damages iirc.
+ COMMENT_BREAK
+ Might want to update this to note they are handing out individual bans as well now
+           
+ COMMENT_BREAK
+ Never liked it, not sure why is so glorified on tech forums it's just a regular media player with extra steps, and paid.
+  I have my pirate collection in hard drives and discs, why overcomplicate it? whenever I want to watch a movie on the TV I just copy to a USB stick, read it from the STB and that's it, no size issues as the TV is 480p anyway.
+  Local storage.
+ COMMENT_BREAK
+   2 hours ago, Lurick said:
+For now, at least until Anti-SLAAP laws are adopted at the federal level and not on a per-state basis with varying degrees of effectiveness. There are some states with very good Anti-SLAAP laws which make bullshit lawsuits much harder to deal with since they carry the heavy risk of a reverse lawsuit being lodged with increased damages iirc.
+Those laws at the Federal Level are subject to lobbyists. All media companies have to do is pour enough money in to the political system to end those bills from becoming a law.  
+  Furthermore an argument can be made that Plex is for piracy. Technically ripping copyrighted media off of disk violates the law. Sharing that said media across the internet so others can access it violates the law. The fact is if an ISP like Cox can be held liable for piracy (over $1 billion judgement) then Plex can most definitely be held liable. Neither of those parties technically host the content. 
+  1 hour ago, Caroline said:
+it's just a regular media player with extra steps, and paid.
+We use Plex as an OTA TV DVR. It provides not only recording but a guide.  Also all the media on a Plex server can be distributed to like any device (PC, Tablet, Phone, TV, etc). 
+ COMMENT_BREAK

@@ -1,0 +1,7 @@
+Post Content
+ I have a fantastic old dual-CPU motherboard that would make for quite the mid-2000s powerhouse, but only problem is it does not have any PCIe 16x slots - just six 8x slots (and two PCI-X). I would like to put a graphics card in here; I know the server supports PCIe graphics output since it had no problem using a natively 1x card I tried. I was thinking of cutting the back of the slots open with wire cutters; that seemed a little less brutal and a little more reliable than cutting the pins off of a GPU to fit in the slot. I would like to know what others would recommend, though.
+
+ COMMENT_BREAK Get a craft knife and just cut out the back wall of the slot, ideally on whichever slot has no obstructions behind it 
+
+ COMMENT_BREAK
+

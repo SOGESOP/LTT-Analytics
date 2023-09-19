@@ -1,0 +1,23 @@
+Post Content
+ Budget (including currency): ₹200,000 (INR)Country: IndiaGames, programs or workloads that it will be used for: Blender, Unreal Engine 5, DaVinci Resolve. 3D Modeling/Rendering, Video Editing and maybe some light to moderate GamingOther details (existing parts lists, whether any peripherals are needed, what you're upgrading from, when you're going to buy, what resolution and refresh rate you want to play at, etc):2 Parts Lists that I crudely put together are attached.Looking for a good Mouse and 1440p Monitor.Looking to buy ASAP.1440p60 will be more than enough for me. 
+
+ COMMENT_BREAK Dude, there's no real choice. If you have money, go for 13700K + 4070.
+
+ COMMENT_BREAK   On 9/17/2023 at 8:50 PM, Spakes said:Dude, there's no real choice. If you have money, go for 13700K + 4070.Regarding GPU choice, would the higher VRAM of the 4060 Ti with 16GB be a better option over the 4070 with 12GB??
+
+ COMMENT_BREAK   On 9/17/2023 at 9:14 PM, J404 said:Regarding GPU choice, would the higher VRAM of the 4060 Ti with 16GB be a better option over the 4070 with 12GB??No, 4060 Ti doesn't have as much horses as 4070. Unless you go for really big scenes in Blender that can eat all of 16 GB of VRAM. In every other workload 4070 is way better.
+
+ COMMENT_BREAK   On 9/18/2023 at 4:07 AM, Spakes said:No, 4060 Ti doesn't have as much horses as 4070. Unless you go for really big scenes in Blender that can eat all of 16 GB of VRAM. In every other workload 4070 is way better.Ok. What about the CPU and MOBO choice? Would the AMD list that I attach here would be worth a look?
+
+ COMMENT_BREAK   On 9/18/2023 at 7:27 PM, J404 said:Ok. What about the CPU and MOBO choice? Would the AMD list that I attach here would be worth a look?Expand  No, 13700K is more interesting. Besides, even 7800X is better in Blender than 7800X3D due to higher clocks.
+
+ COMMENT_BREAK   On 9/18/2023 at 7:52 PM, Spakes said:No, 13700K is more interesting. Besides, even 7800X is better in Blender than 7800X3D due to higher clocks.So, 13600KF, 4070, Z790, 850W PSU, 5200Mhz RAM, Deepcool AK620 Cooler. Anything to second guess and/or change out?  BTW, Thank you so much for helping thus far.
+
+ COMMENT_BREAK   On 9/18/2023 at 8:20 PM, J404 said:So, 13600KF, 4070, Z790, 850W PSU, 5200Mhz RAM, Deepcool AK620 Cooler. Anything to second guess and/or change out?If 13600K isn't that much more expensive, I'd suggest getting it instead of KF. If your GPU dies, you'll be glad that you got an iGPU for diagnostic purposes and continuing to do basic tasks. And get an SSD with DRAM cache, they are generally a bit faster and more reliable.  On 9/18/2023 at 8:20 PM, J404 said:BTW, Thank you so much for helping thus far.No problem.
+
+ COMMENT_BREAK   9 hours ago, Spakes said:If 13600K isn't that much more expensive, I'd suggest getting it instead of KF. If your GPU dies, you'll be glad that you got an iGPU for diagnostic purposes and continuing to do basic tasks. And get an SSD with DRAM cache, they are generally a bit faster and more reliable.No problem.Thanks for the info, final speculation that I am having is the MOBO; should I future proof and go with DDR5 or go with DDR4 to cut costs?
+
+ COMMENT_BREAK   3 hours ago, J404 said:Thanks for the info, final speculation that I am having is the MOBO; should I future proof and go with DDR5 or go with DDR4 to cut costs?Go with DDR5 only if you plan to upgrade to 14th gen since (it's only speculation based on leaked benchmarks of internet) those are likely to benefit from higher speeds. 12th and 13th gen aren't gonna show more than marginal improvements by going from DDR4 to DDR5.
+
+ COMMENT_BREAK
+

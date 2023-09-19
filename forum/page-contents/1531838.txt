@@ -10,6 +10,26 @@
   I have a craftsman one, in a sound proofed room inside a room that is 800 sqft and within 30 feet it's still too loud. 
 
 Mine looks like this https://www.mowersatjacks.com/product-details/proforce/vlf1582019?gclid=cj0kcqjwx5qobhdyarisapbmagca4ckeeugfcmnejxcu69ach9gjxggacfemenrhc8ll-11jwobryygaaocrealw_wcb
-  Unfortunately so loud you can't be in the same room with it even when it's contained in a sound dampened room off to the side, so I don't know what to do without spending close to $10k+ on one.
+  Unfortunately so loud you can't be in the same room with it even when it's contained in a sound dampened room off to the side, so I don't know what to do without spending close to $10k+ on one.  It's basically in a closet that has sound proofing.
   Thanks
+ COMMENT_BREAK
+   On 9/17/2023 at 6:06 PM, Edge Case IT Specialist said:
+Hello,
+  I have a craftsman one, in a sound proofed room inside a room that is 800 sqft and within 30 feet it's still too loud. 
+There’sa 26 gallon “ultra quiet” Fortress model for around $400:
+  https://www.harborfreight.com/air-tools-compressors/air-compressors-tanks/air-compressors/26-gallon-175-psi-ultra-quiet-vertical-shopauto-air-compressor-57336.html
+  If 4.5 SCFM at 90 PSI is enough for you, it might be an option. I don’t have any hands-on experience with it, and I don’t make a living with air tools, but I’ve been happy with the little one. 
+ COMMENT_BREAK
+ Hello,
+  Basically 50dBA or more is too loud however ultra quiet compressors are about 69dBA as I recall and those are still too loud.  I've looked at all the Ultra Quiet compressors and less than 50dBA is hard to get, or extremely expensive.  I wondered if the LTT one is far away with a really long hose or if the noise is removed from the videos vs a really long hose.  Anyhow any other suggestions would be nice.
+ COMMENT_BREAK
+   On 9/17/2023 at 11:21 PM, Edge Case IT Specialist said:
+Hello,
+  Basically 50dBA or more is too loud however ultra quiet compressors are about 69dBA as I recall and those are still too loud.  I've looked at all the Ultra Quiet compressors and less than 50dBA is hard to get, or extremely expensive.  I wondered if the LTT one is far away with a really long hose or if the noise is removed from the videos vs a really long hose.  Anyhow any other suggestions would be nice.
+From what I've seen, they only use it outside where the noise doesn't bother others and as you rarely if ever hear it, its used in so small bursts they can wait until the tank is full. 
+  Adam Savage (Tested) has his in opposite corner from where he sits and in sound proofed box (video with timestamps https://youtu.be/25eZ17IoRK4?si=zjguTFzHESge-OBD&t=491). So no easy solutions. Other than doing short bursts and sound proofing as much as you can.
+ 
+ COMMENT_BREAK
+ Ours has an auto-purge that is super loud. To quiet it down we took the 3D model of a gun suppressor, scaled it up so it would fit on the exhaust and 3D printed it. After being stuffed with polyfill it is actually quite effective lol
+  That said tho it would be awful to have in the same room and trying to put it somewhere else should be your first step.
  COMMENT_BREAK

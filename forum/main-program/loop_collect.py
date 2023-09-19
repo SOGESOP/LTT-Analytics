@@ -31,10 +31,12 @@ def run_main_collect_cycle():
     
     try:
         subprocess.run(["python", collect_file_path], check=True)
-        time.wait(60)
+        time.sleep(60)
         subprocess.run(["python", analyse_file_path], check=True)
     except Exception as error:
         logging.error(f'Main Program has failed to run due to {error}')
+        raise Exception(error)
+
 
     pass
 

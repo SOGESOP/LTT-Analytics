@@ -1,0 +1,30 @@
+
+ First post. Sorry if I'm not the best at providing context
+
+Current specs: 
+CPU: Intel Core i5-12400F 2.5 GHz 6-Core Processor
+Cooler: Thermalright Silver Soul 135 82 CFM CPU Cooler
+Mobo: MSI MAG B660M MORTAR WIFI DDR4 Micro ATX LGA1700 
+RAM:     V-Color SKYWALKER PLUS 32 GB (2 x 16 GB) DDR4-3200 CL16 
+SDD: Western Digital Blue SN570 1 TB M.2-2280 PCIe 3.0 X4 (two of these)
+GPU: Zotac GAMING AMP GeForce RTX 3060 Ti LHR 8 GB
+CASE: Silverstone PS15
+Current PSU: Corsair CX650F 650 W 80+ Bronze Certified Fully Modular ATX
+
+Situation:
+With my current set-up. Everything runs great. I'm in the process of making an ITX set-up, so I bought a new SFX sized PSU (Corsair SF750). I put it in my current rig just to try it out. It didn't work. So I bought a different PSU (EVGA SuperNOVA 650 GM) to try. That one doesn't work either. They both show different behavior but neither of them work. 
+
+Corsair SF750 - Turns on for a micro-second then makes a clicking sound and turns off. Then, when I turn it off at the back, it does the same thing again
+EVGA SuperNOVA 650 GM - Doesn't turn on at all
+
+I did the paper clip test with all three PSUs and they all did the same thing as when they were connected to the rig:
+Corsair CX650F - Fan turns on and runs fine
+Corsair SF750 - Clicks then turns off
+EVGA SuperNOVA 650 GM - Doesn't respond at all
+
+I figure there's no way BOTH of the new ones are broken, so I'm wondering if it's something to do with the voltage in my apartment? I live in an old building, so it's not the best (lights flicker sometimes when there's a lot of people using their ACs, etc). But then why is my current one working with no problems? 
+
+Any insight would be greatly appreciated. 
+ COMMENT_BREAK
+ Can you take them to a friend's house and try there? My guess is you got really unlucky somehow.
+ COMMENT_BREAK
