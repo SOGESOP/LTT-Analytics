@@ -80,6 +80,7 @@ def main():
         TextFormatConversion.formatting_topic_files(topic_number, seperated_comments)
         TopicDataFrame.add_comment_number(topic_number, seperated_comments)
     MiscTools.save_to_csv(tp, 'collect_run')
+    MiscTools.error_collection("Program_end")
 
 if __name__=='__main__':
     main()

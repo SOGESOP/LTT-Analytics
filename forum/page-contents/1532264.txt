@@ -1,0 +1,11 @@
+Post Content
+ My Monitors keep shutting down after i start playing some random video game, but my computer stays on.The monitors won't turn back on unless i restart my computer.
+
+ COMMENT_BREAK And it's only in games? Not the desktop?  Is it specific games or all games?What is your system specs?
+
+ COMMENT_BREAK   On 9/20/2023 at 5:37 PM, Zomeguy said:And it's only in games? Not the desktop?  Is it specific games or all games?What is your system specs?My specs are AMD ryzen 7, 16 gb ram. Geforce RTX 2080 super. And no, it doesn't seem to be any specific games. The desktop shuts down i think. Hard to know, The monitors just shut off along with the sound. Pc just stays on until i turn it off.
+
+ COMMENT_BREAK Are all drivers (motherboard/CPU and video card) up to date?  Do you ever get blue screens or is it just locking up and going black?  I had that happen with Baulders Gate 3 but after a few patches it stopped. So it sounds like a software issue.  Have you tried running something Aida64 to test the various parts of your PC? It can sometimes help to diagnose if there's an issue.
+
+ COMMENT_BREAK
+

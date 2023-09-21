@@ -1,0 +1,11 @@
+Post Content
+ Hello, my PC started shutting down when i was playing some games, like the power was removed. I thought it was a faulty wall socket but after changing that the problem remained. So i thought it was a PSU issue because:I got shocked when i touched a screw on the case but i haven't been able to replicate this.When i plug something in a USB port it turns off sometimes.I have checked the windows event log and this caught my eye: Event ID: 41 Description: The system has rebooted without cleanly shutting down first.  <EventData>    <Data Name="BugcheckCode">0</Data>    <Data Name="BugcheckParameter1">0x0</Data>    <Data Name="BugcheckParameter2">0x0</Data>    <Data Name="BugcheckParameter3">0x0</Data>    <Data Name="BugcheckParameter4">0x0</Data>    <Data Name="SleepInProgress">0</Data>    <Data Name="PowerButtonTimestamp">0</Data>    <Data Name="BootAppStatus">0</Data>    <Data Name="Checkpoint">0</Data>    <Data Name="ConnectedStandbyInProgress">false</Data>    <Data Name="SystemSleepTransitionsToOn">0</Data>    <Data Name="CsEntryScenarioInstanceId">0</Data>    <Data Name="BugcheckInfoFromEFI">false</Data>    <Data Name="CheckpointStatus">0</Data>    <Data Name="CsEntryScenarioInstanceIdV2">0</Data>    <Data Name="LongPowerButtonPressDetected">false</Data>  </EventData>Also sometimes when i start my PC it get's stuck in the bootloader asking to plug in a device because it cannot find a OS. My OS is stored in a SSD Nvme.PC Components:MB: ASrock B450 ProCPU: Ryzen 7 2700GPU: RX5802 sticks of 8GB RAM GSkill RipjawsSSD Nvme.2 HHD (old)PSU : CoolerMaster MWE 550 Gold  I don't know what is the faulty component at this point, it may be the psu, the HDD or the Nvme or maybe the MB how can i find out?   
+
+ COMMENT_BREAK Well since it's happening also when you plug in a USB device I would lean towards the Motherboard being the issue. It sounds like it's shorting somewhere.
+
+ COMMENT_BREAK The blue screen error I get is WHEA_UNCORRECTABLE_ERROR
+
+ COMMENT_BREAK Is that just when you plug in a USB device or anytime you get a blue screen it's that message?
+
+ COMMENT_BREAK
+

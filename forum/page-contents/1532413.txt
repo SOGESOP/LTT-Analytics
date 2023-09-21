@@ -1,0 +1,13 @@
+Post Content
+ Hello, when turning my pc on I get power but no boot with CPU & ram debug lights on. However when I hold the power button down to turn it off and then back on again its boots!(doesn't happen every try can take 2/3 attempts). I built my pc 7 weeks ago and its been happening since day 2. I messaged motherboard company they requested I changed some stuff in the bios which I did but didn't fix it. They then told me to speak to the company I brought it from so they can test it. They tested it and couldn't find any faults and have now sent it back to me. I thought it might've been my ram causing the issue and as it wasn't on the motherboard compatibility list, so I brought new ram and problem still persists. When the pc actually turns on I haven't noticed any performance issues. Has anyone experienced the same or have any ideas? or is it something I've just got to put up with.My Build: Ryzen 7 7700x, MSI Mag b650 tomahawk wifi, msi mag coreliquid p240 cooler, corsair 32gb 6000 ram, samsung 990 pro 1tb, asus tuf gaming oc 4070, corsair rm850e psu, corsair 4000D, windows 11 (not activated) What I've tried: reseated every component and cable. Checked for bent pins, tried 1 stick of ram in different slots, bios updated to latest.
+
+ COMMENT_BREAK   1 hour ago, ed12345 said:They then told me to speak to the company I brought it from so they can test it. They tested it and couldn't find any faults and have now sent it back to me.If they didn't find any faults on there end with your pc. Yet, you are having the same issues on your end, tells me that you are doing something different that is causing these problems.
+
+ COMMENT_BREAK   1 hour ago, ET_Explorer said:If they didn't find any faults on there end with your pc. Yet, you are having the same issues on your end, tells me that you are doing something different that is causing these problems.They only had and tested the motherboard not the whole pc. I've had a friend round to check everything was done correctly and it was (just in case I missed something obvious). Any ideas? 
+
+ COMMENT_BREAK Have you tried turning off EXPO? If so and it still persists, it may be possible the memory controller on the CPU end is faulty and it could be a CPU failure. 
+
+ COMMENT_BREAK   13 minutes ago, Garborator said:Have you tried turning off EXPO? If so and it still persists, it may be possible the memory controller on the CPU end is faulty and it could be a CPU failure. Expo is currently turned off. I did turn it on a couple weeks ago and it did the timing and booting fine, but wouldn't turn back on the next day. Even after trying the power button hold to off and on again. So I had to flash the bios to be able to boot again. 
+
+ COMMENT_BREAK
+

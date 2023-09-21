@@ -1,0 +1,15 @@
+Post Content
+ Hello,As the title says, I have a laptop with Windows Enterprise and I want to RDP to a Windows Home computer, but I don't think it's possible, unless you know of a way to do it?Thanks
+
+ COMMENT_BREAK What are specs of both PC's?What have you already tried?What was the result?What are you hoping to achieve?Put some effort in, else no one will.1,4k posts, No excuse to not know that already!!!
+
+ COMMENT_BREAK   On 9/18/2023 at 2:37 PM, Filingo said:Hello,As the title says, I have a laptop with Windows Enterprise and I want to RDP to a Windows Home computer, but I don't think it's possible, unless you know of a way to do it?ThanksI found this, but I can't vet/verify it.
+
+ COMMENT_BREAK   On 9/18/2023 at 2:43 PM, HanZie82 said:What are specs of both PC's?What have you already tried?What was the result?What are you hoping to achieve?Put some effort in, else no one will.1,4k posts, No excuse to not know that already!!!I didn't try anything yet because I just know generally that I can't get a Windows Home edition to become an RDP host  Both computers are Windows 11.I am using the laptop to connect to another Windows (10) Enterprise PC so I know the laptop works  The PC is Windows 11 Home with Ryzen 5 3600
+
+ COMMENT_BREAK There are some "patches" that patch the remote desktop service so that it will run on Windows home edition, but eventually windows update removes it or fixes it.  My advice would be to use AnyDesk ... it's free and works great.
+
+ COMMENT_BREAK thanks everyone, I thought I could actually remotely play a game temporarily but I just gave up the idea
+
+ COMMENT_BREAK
+

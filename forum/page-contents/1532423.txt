@@ -1,0 +1,5 @@
+Post Content
+ Hey, has anyone else been having issues with the new GRD NVIDIA released today (09/21/23)? I’m running a 3070 FE and I’ve been having all sorts of issues since the install. My pc stops outputting to either of my displays halfway through the install, then just starts freaking out when I restart.   I rolled back the update and got everything fixed up. Just wanted to see if anyone else was having a similar experience
+
+ COMMENT_BREAK
+

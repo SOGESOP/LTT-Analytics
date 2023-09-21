@@ -1,0 +1,9 @@
+Post Content
+ I built a new computer a couple of months ago and it has been running perfectly fine until recently. I've tested to see if anything was overheating, but the max temp for my CPU was around 80C and my GPU was around 70C. I've updated all of my drivers and made sure my windows was up to date. I tested my memory to see if anything was faulty, but after running memtest86 everything looked fine. Reset my computer and ran bleachbit a bunch of times. I even made sure every cable was fully plugged in to my computer just in case something had gotten loose. I have tried just about everything I can think of but to no avail.  Specs:-NVIDIA GeForce RTX 4080 ROG Strix-Intel Core i7-13700K-32 GB Corsair Vengeance DDR5 RAM-Asus ROG STRIX Z790-F-2 Samsung 980 PRO SSDs-H150i RGB ELITE Liquid CPU Cooler
+
+ COMMENT_BREAK Could be a bug with the latest Nvidia driver...try installing an older version after using DDU to remove your current one. 
+
+ COMMENT_BREAK If its just games crashing it could be gpu memory errors. Not sure whats a good windows tool to test that tho maybe FurMark, there are scripts under linux.
+
+ COMMENT_BREAK
+

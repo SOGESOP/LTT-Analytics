@@ -1,0 +1,9 @@
+Post Content
+ I have recently built a gaming pc for the first time.   How do I make sure that everything works as it should?   I haven’t been been impressed by the performance and I’ve also had problems with artefacting in games.  Build:Ryzen 7800X3DAsus tuf 4070tiAsus tuf B-650 wifiCorsair 32gb ddr5Samsung 990 pro 2tbAsus tuf 1000W psuDark rock pro 4 cpu cooler
+
+ COMMENT_BREAK   23 minutes ago, Ammitzboell said:I haven’t been been impressed by the performance and I’ve also had problems with artefacting in games.Older games, or newer games?    23 minutes ago, Ammitzboell said:How do I make sure that everything works as it should? Start with some benchmarks you can compare your scores with, like 3D Mark, Unigine, Cinebench.  Download HWMonitor or HWInfo and have it running alongside your games, to check the clocks and temperatures.
+
+ COMMENT_BREAK wdum not impressed. resaloution rt or not what are your standereds and where did they come from?
+
+ COMMENT_BREAK
+

@@ -1,0 +1,7 @@
+Post Content
+ SummaryOn September 19th Dwarf Fortress, a beloved ASCII Dwarf colony simulator in development since 2002, has finally been released with support for Linux!  Quotes  Quote 50.10 now live: Alerts, ammo, food, and Linux  My thoughtsI think now is a great time to look at dwarf fortress if you've never heard of it, it's made by two guys as a passion project that have been working on it since 2002. It's been notoriously a windows only game for a long time, but now it's available natively on Linux!To understand the history of this game:I think this is a big deal, it means I can finally play the game on my linux machines, but it also means the game is more easily available to players, so it deserves recognition  Sourceshttps://store.steampowered.com/news/app/975370/view/5430833992895813012?l=english
+
+ COMMENT_BREAK That's actually really surprising that it wasn't already! It's like the most Linux-y game ever made (At least in my head, idk if that makes sense)
+
+ COMMENT_BREAK
+

@@ -1,0 +1,27 @@
+Post Content
+ Can I use this  woofer/subwoofer Without any crossover?Or do i require any inductor or capacitor or a subwoofer crossover board  Below attached some specs of that speaker/woofer 
+
+ COMMENT_BREAK It's going to sound best with a cross over to pull out the frequencies above it' ideal range, cross over will depend on what you're pairing it with, what enclosure, driving amps, etc.
+
+ COMMENT_BREAK   14 hours ago, Bitter said:It's going to sound best with a cross over to pull out the frequencies above it' ideal range, cross over will depend on what you're pairing it with, what enclosure, driving amps, etc.So what specifications crossover required for this?
+
+ COMMENT_BREAK   13 hours ago, Kamranbites said:So what specifications crossover required for this?Depends what you're putting it into and what it's going to be playing along side.
+
+ COMMENT_BREAK The easiest way, is usually just use high pass filter on the amplifierDepending on your speaker setup, commonly subwoofer's HPF is set at 100 or 120Hz max
+
+ COMMENT_BREAK   13 hours ago, Bitter said:Depends what you're putting it into and what it's going to be playing along side.There is a tweeter 3.3uf 100v 2inch
+
+ COMMENT_BREAK   12 hours ago, ImWilly said:The easiest way, is usually just use high pass filter on the amplifierDepending on your speaker setup, commonly subwoofer's HPF is set at 100 or 120Hz maxAmplifier has just normal audio output 100w
+
+ COMMENT_BREAK You can use it without a crossover. It won't work well though. Trying to do what it looks like you're attempting will probably cost you a bunch of time and money for questionable results.   Making a good cross over would require buying a measurement microphone that costs more than the speaker you're trying to repair (assuming you don't have a measurement file for your tweeter and woofer). Also a lot of time fiddling with simulation software. You'd also probably want to do the measurements outside and on a ladder.     You previously asked about a woofer and I touched on part of why you probably shouldn't try to create a hybrid speaker set with mismatched woofers (and crossovers). Here's the link to my response, which you marked as the answer   
+
+ COMMENT_BREAK A tweeter and a subwoofer are not going to sound good, you'll be missing a lot in between them.Also the enclosure matters a lot.
+
+ COMMENT_BREAK Agreed with everything @cmndr has been saying.Buying random drivers (tweeter, woofer, subwoofer) will only result in a bad experience and lots of wasted time and money.  You need to search around for completed DIY speaker projects so that you know exactly the kind of matched speakers and crossovers you should buy. This is still ignoring the fact that the drivers still need to be mounted in enclosures that match well with the drivers' sound qualities.  If you watch this video, you will see the complexities of building your own speaker setup. Even this guy still needed consultation from an expert on what to buy. You need to make an enclosure size designed for the drivers, and then you need to program the crossover to match the drivers' properties.  In your previous threads, you did not trust your own ears to determine if you needed to add a subwoofer to your setup and you did not trust your ears to choose between having 2 speakers or 4 speakers.  I don't think you should trust yourself to build speakers. 
+
+ COMMENT_BREAK I appreciate your concern, but remember, even the greatest speakers were once doubted by skeptics. I'll take your advice into consideration, but I'm confident in my ability to make informed decisions about my setup."         
+
+ COMMENT_BREAK Currently the best practices for designing speakers involve $100,000+ anechoic chambers, $10,000+ Klippel machines. VERY expensive simulation software and a team of people with science and engineering backgrounds.   You can get usable results with "rule of thumb" approaches but it sounds like you're trying to repair a speaker that's probably better thrown away if you don't have the EXACT same part it shipped with.   Kind of the bare minimum is a 3 meter ladder, a $100 microphone (that you measure in 10 different spots), REW and some simulation software for crossovers... and you probably build 5 different versions of the same crossover and test them all... https://www.diyaudio.com/community/threads/speaker-crossover-simulation-software.315925/It takes a stupid amount of time. And it's easy to get bad results.   The first speaker that you build should be from a kit that SOMEONE ELSE designed. You should not be doing design work for your first attempt. It's like doing a marathon (42KM) without training.
+
+ COMMENT_BREAK
+
