@@ -31,7 +31,7 @@ class GetData:
         driver=webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     
     
-selenium has decided to brick itself    
+selenium has decided to brick itself, also change paths to be based at code/ to be based at ltt-analytcis  
 
     def scroll_topic_page():
         main_url='https://linustechtips.com/discover/'
