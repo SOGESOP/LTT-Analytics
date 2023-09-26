@@ -1,0 +1,21 @@
+Post Content
+ What are some of the good options for TKL hot-swappable keyboards out there right now?I can think of Keychron Q3s, GMMKs, and there seems to be a new version of Drop CTRL that just came out, but overall the option seems limited.Any ideas?
+
+ COMMENT_BREAK Practically any device that connects via USB is hotswappable, so I'm not really understanding your question.  If you want a hotswappable keyboard, anything on the market that isn't PS/2 will fit the bill. Or are you looking for keyboards without the numpad, but have a numpad accessory that is hotswappable?
+
+ COMMENT_BREAK A few more options  1. Monsgeek M3  2. MONOKEI Standard  3.  Freebird TKL (GB ALERT!)  4. Zoom TKL (currently OOS)  5. FL ESPORTS MK870   
+
+ COMMENT_BREAK   On 9/19/2023 at 8:27 PM, Crunchy Dragon said:Practically any device that connects via USB is hotswappable, so I'm not really understanding your question.  If you want a hotswappable keyboard, anything on the market that isn't PS/2 will fit the bill. Or are you looking for keyboards without the numpad, but have a numpad accessory that is hotswappable?OP means hot-swappable switches. It's a thing in the mechanical keyboard community.
+
+ COMMENT_BREAK   On 9/19/2023 at 8:27 PM, Crunchy Dragon said:Practically any device that connects via USB is hotswappable, so I'm not really understanding your question.He is referring to the switches, hotswap means they are socketed and not soldered on.  Another option to consider is this: CIDOO v87. I haven't tried it myself, but if the V21 (the numpad only version) is anything to go by this one should be nice as well.https://epomaker.com/products/cidoo-v87  Overall TKL should be a lot out there, at least compared to full-size which must be about the most uncommon one, ironically.Ducky One 3 should also be hotswap now, I believe.
+
+ COMMENT_BREAK   On 9/19/2023 at 8:50 PM, izz said:OP means hot-swappable switches. It's a thing in the mechanical keyboard community.Ah, that would explain it. Thanks
+
+ COMMENT_BREAK There is also PCMK from Pulsar, Mountain their Everest Core, there is also latest Lemokey L3 from Keychron. I'm also planning to get a barebones one myself soon.
+
+ COMMENT_BREAK Oh also... every TKL is hotswappable if you are brave enough =P  Here is my 9~ Year old Filco MT2 TKL (mx-red w/ Vortex PBT keycaps)  The way I did this it is 100% reversible .. but anyways I got some 5Pin JST connectors and a spare usb extenstion cable and made a pig tail how swap cable for the filco.   I had a specific use case in mind or I would have made the pig tail shorter probably.. but whatever it works, and if I want to put it back to stock I just have to reinstall the stock cable.   
+
+ COMMENT_BREAK   On 9/19/2023 at 8:35 PM, atarione said:A few more options  1. Monsgeek M3  2. MONOKEI Standard  3.  Freebird TKL (GB ALERT!)  Expand  Good list, I just want to add the Cidoo V87, wireless, Aluminium case, TKL with a knob. 
+
+ COMMENT_BREAK
+

@@ -1,0 +1,25 @@
+Post Content
+ Hello techies,  Bought me a new machine after i had mine dying at almost 9 years.Really happy with the performance of the new machine BUT:This noise (video) only happens when i play games (like Siege).  I have tried many things with the fan settings but none seem to help.As you can see in the video, i even decoupled the small fan on the AIO.According to plenty of videos, this usually causes the humming.  Is there anything else i can try? What even causes this?  The cable of the pump is connected to the pump header btw.I've tried the CPU header but the result is the same.Currently i have no fan on the CPU header, but everything runs smooth.The AIO cools perfectly but this sound is really annoying.  Please advise. 
+
+ COMMENT_BREAK Are you sure thats the AIO making that noise and not the GPU because that 100% sounds like coil whine from the GPU not the CPU and because this cooler is quieter then your older one it covered up the sounds of the coil whine more.  Try limiting your  FPS to 300 or 240 and see if that causes the coil whine to go away. You realistically dont need 500+ FPS in siege.
+
+ COMMENT_BREAK I hear some nasty coil whine, not a fan whine.
+
+ COMMENT_BREAK   On 9/24/2023 at 9:29 PM, Snak3Doc. said:Hello techies,  Bought me a new machine after i had mine dying at almost 9 years.Really happy with the performance of the new machine BUT:This noise (video) only happens when i play games (like Siege).Expand  That is horrible, and I'm not really easily affected.  Do you hear it with the fans unplugged? If not, I would contact Arctic and ask about replacing whatever is making that horrible noise!  Otherwise, like the others said, maybe it's your GC.
+
+ COMMENT_BREAK That is your GPU, gross. I would return it.
+
+ COMMENT_BREAK   On 9/24/2023 at 10:27 PM, Shimejii said:Are you sure thats the AIO making that noise and not the GPU because that 100% sounds like coil whine from the GPU not the CPU and because this cooler is quieter then your older one it covered up the sounds of the coil whine more.  Try limiting your  FPS to 300 or 240 and see if that causes the coil whine to go away. You realistically dont need 500+ FPS in siege.  Thank you. It's the GPU indeed that's making the noise.I've put a limit on the FPS in Siege (ingame) first, that helped and the GPU is more quiet.Af for my second test, i kept the cap uncapped ingame but udes the AMD Adrenaline feature.When i use this, the FPS behaves a bit off. It seems to fluctuate more, is this a know thing?    My reasoning was that this way i always have at least 120 FPS and the distance between the max of 250 isn't as big.
+
+ COMMENT_BREAK   10 hours ago, freeagent said:That is your GPU, gross. I would return it.Is this accepted as a valid reason for a return?
+
+ COMMENT_BREAK   13 hours ago, RevGAM said:That is horrible, and I'm not really easily affected.  Do you hear it with the fans unplugged? If not, I would contact Arctic and ask about replacing whatever is making that horrible noise!  Otherwise, like the others said, maybe it's your GC.Yeah so it's not the arctic product. So for people doing there research and considering buying this, it cools great and is silent.It seems that it's the GPU.   From what i've seen, it is not with every game either. 
+
+ COMMENT_BREAK   1 hour ago, Snak3Doc. said:  From what i've seen, it is not with every game either. Maybe try locking your frames?
+
+ COMMENT_BREAK   1 hour ago, freeagent said:Maybe try locking your frames?Can this be done with the Adrenaline software (in a better way than i did)?Cause for instance, Siege is capped at 144 ingame, but my monitor can handle more than that.
+
+ COMMENT_BREAK   1 hour ago, Snak3Doc. said:Can this be done with the Adrenaline software (in a better way than i did)?Cause for instance, Siege is capped at 144 ingame, but my monitor can handle more than that.I could not say, I do not use AMD GPU's..
+
+ COMMENT_BREAK
+

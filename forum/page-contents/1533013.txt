@@ -1,0 +1,9 @@
+Post Content
+ Like the title says, I currently have a 9940X 14-core/28 threads, but it's Skylake-X architecture (2017 tech). I have a 4070Ti and play at 1440p and 4K 144hz depending on the game. From a real world standpoint, should I notice considerable gains upgrading to something like a 14700K? (rumored 20-core October 17th release)  If we base it on something now, let's say a 13700K?
+
+ COMMENT_BREAK Anything high refresh rate, yeah modern chips are going to absolutely eat Skylake-X alive. Heck, its predecessor would eat it alive if you get a sample that clocks as high, clock for clock Broadwell-E is faster in games than these Skylake-X chips, they just don't have the clock headroom so you can brute force past them (same as how Haswell-E can perform the same if running ~300Mhz higher core/200Mhz higher uncore in my experience). I run my 7980XE at 4.0GHz flat as I only have it on a 280mm AIO, so my 6950X (since sold) was actually faster in stuff like Fallout 76 that's extremely single core bound.
+
+ COMMENT_BREAK   15 minutes ago, Zando_ said:Anything high refresh rate, yeah modern chips are going to absolutely eat Skylake-X alive. Heck, its predecessor would eat it alive if you get a sample that clocks as high, clock for clock Broadwell-E is faster in games than these Skylake-X chips, they just don't have the clock headroom so you can brute force past them (same as how Haswell-E can perform the same if running ~300Mhz higher core/200Mhz higher uncore in my experience). I run my 7980XE at 4.0GHz flat as I only have it on a 280mm AIO, so my 6950X (since sold) was actually faster in stuff like Fallout 76 that's extremely single core bound.Interesting, one thing I forgot to mention is I AM overclocking at 36% from the motherboard, putting all cores at 4.1ghz, but I know that pales in comparison to modern gen chips.
+
+ COMMENT_BREAK
+

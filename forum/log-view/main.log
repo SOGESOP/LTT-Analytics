@@ -1,0 +1,387 @@
+INFO:root:Driver setup started
+INFO:WDM:====== WebDriver manager ======
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:WebDriver version 116.0.5845.96 selected
+INFO:WDM:Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+INFO:WDM:About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+INFO:WDM:Driver downloading response is 200
+INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver has been saved in cache [C:\Users\Theo\.wdm\drivers\chromedriver\win64\116.0.5845.188]
+INFO:root:Furhter topics have been loaded 0 times
+INFO:root:Furhter topics have been loaded 1 times
+INFO:root:Furhter topics have been loaded 2 times
+INFO:root:Furhter topics have been loaded 3 times
+INFO:root:Furhter topics have been loaded 4 times
+INFO:root:Furhter topics have been loaded 5 times
+INFO:root:Furhter topics have been loaded 6 times
+INFO:root:Furhter topics have been loaded 7 times
+INFO:root:Furhter topics have been loaded 8 times
+INFO:root:Furhter topics have been loaded 9 times
+INFO:root:Topic page collection initiated
+INFO:root:Unfiltered page added with href: https://linustechtips.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/login/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/lostpassword/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/register/
+INFO:root:Unfiltered page added with href: https://linustechtips.com
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/58/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/466/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/blogs/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/gallery/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/events/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/files/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/online/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/staff/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/store/category/3-subscriptions/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/466/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/?view=condensed&csrfKey=4b512629e0634f544f36b212f3fd8aca
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/?view=expanded&csrfKey=4b512629e0634f544f36b212f3fd8aca
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1086063-abetross/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1086063-abetross/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1070668-issac-zachary/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1531420-which-iphone-15-should-i-get-15-or-15-pro/?do=findComment&comment=16148215
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1070668-issac-zachary/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/638293-retro_r/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/8-phones-and-tablets/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1531420-which-iphone-15-should-i-get-15-or-15-pro/?do=findComment&comment=16148215
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1531420-which-iphone-15-should-i-get-15-or-15-pro/?do=findComment&comment=16148215
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1025521-silencer12/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532983-subnetting-not-segmenting-my-network-like-it-used-to/?do=findComment&comment=16148214
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1025521-silencer12/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1113743-cryptoknight614/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/46-troubleshooting/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532983-subnetting-not-segmenting-my-network-like-it-used-to/?do=findComment&comment=16148214
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532983-subnetting-not-segmenting-my-network-like-it-used-to/?do=findComment&comment=16148214
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/networking/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/network/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1089683-captainquirk26/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148213
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1089683-captainquirk26/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1089683-captainquirk26/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/18-new-builds-and-planning/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148213
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148213
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1113766-maplez/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1113766-maplez/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/991006-goatedpenguin/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532879-where-to-buy-ecc-unregisteredunbuffered-dimm-eudimm-ddr5-usa/?do=findComment&comment=16148212
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/991006-goatedpenguin/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1083439-countersync/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/5-cpus-motherboards-and-memory/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532879-where-to-buy-ecc-unregisteredunbuffered-dimm-eudimm-ddr5-usa/?do=findComment&comment=16148212
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532879-where-to-buy-ecc-unregisteredunbuffered-dimm-eudimm-ddr5-usa/?do=findComment&comment=16148212
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/15563-thrasher_565/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148211
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/15563-thrasher_565/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1089683-captainquirk26/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/18-new-builds-and-planning/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148211
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148211
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1113720-im_curry/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532964-is-it-worth-to-upgrade-my-old-pc-or-should-i-build-a-new-one/?do=findComment&comment=16148210
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1113720-im_curry/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1113720-im_curry/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/18-new-builds-and-planning/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532964-is-it-worth-to-upgrade-my-old-pc-or-should-i-build-a-new-one/?do=findComment&comment=16148210
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532964-is-it-worth-to-upgrade-my-old-pc-or-should-i-build-a-new-one/?do=findComment&comment=16148210
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1113764-brianmurphymurph/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1533014-i-really-need-some-help/?do=findComment&comment=16148209
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1113764-brianmurphymurph/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/88-laptops-and-pre-built-systems/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1533014-i-really-need-some-help/?do=findComment&comment=16148209
+INFO:root:Unfiltered page added with href: https://linustechtips.com/tags/help%23/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/621424-fxscreamer/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1533013-gains-from-upgrading-a-9940x-to-a-14700k-or-even-a-13700k/?do=findComment&comment=16148208
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/621424-fxscreamer/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/621424-fxscreamer/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/5-cpus-motherboards-and-memory/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1533013-gains-from-upgrading-a-9940x-to-a-14700k-or-even-a-13700k/?do=findComment&comment=16148208
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1533013-gains-from-upgrading-a-9940x-to-a-14700k-or-even-a-13700k/?do=findComment&comment=16148208
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/773340-da-na/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338452/?do=findComment&comment=969510
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338452/?do=findComment&comment=969510
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338452/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1113765-silversalamander/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1113765-silversalamander/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/688296-freeagent/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532111-brand-new-crucial-mx500-sata-ssd-zero-gb-written-already-dying/?do=findComment&comment=16148207
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/688296-freeagent/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/857895-worstalentscout/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/38-storage-devices/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532111-brand-new-crucial-mx500-sata-ssd-zero-gb-written-already-dying/?do=findComment&comment=16148207
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532111-brand-new-crucial-mx500-sata-ssd-zero-gb-written-already-dying/?do=findComment&comment=16148207
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1089683-captainquirk26/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148206
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1089683-captainquirk26/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1089683-captainquirk26/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/18-new-builds-and-planning/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148206
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148206
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/482245-zando_/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1533013-gains-from-upgrading-a-9940x-to-a-14700k-or-even-a-13700k/?do=findComment&comment=16148205
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/482245-zando_/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/621424-fxscreamer/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/5-cpus-motherboards-and-memory/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1533013-gains-from-upgrading-a-9940x-to-a-14700k-or-even-a-13700k/?do=findComment&comment=16148205
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1533013-gains-from-upgrading-a-9940x-to-a-14700k-or-even-a-13700k/?do=findComment&comment=16148205
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/518538-schnoz/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338452/?do=findComment&comment=969509
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338452/?do=findComment&comment=969509
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338452/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/15563-thrasher_565/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148204
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/15563-thrasher_565/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1089683-captainquirk26/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/18-new-builds-and-planning/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148204
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148204
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1072598-tetras/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532846-thoughts-on-this-13700k-build/?do=findComment&comment=16148203
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1072598-tetras/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/259185-ramm/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/18-new-builds-and-planning/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532846-thoughts-on-this-13700k-build/?do=findComment&comment=16148203
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532846-thoughts-on-this-13700k-build/?do=findComment&comment=16148203
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/688296-freeagent/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532862-very-annoying-fan-humnoise-arctic-liquid-freezer-ii-360/?do=findComment&comment=16148202
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/688296-freeagent/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1113617-snak3doc/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/28-cooling/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532862-very-annoying-fan-humnoise-arctic-liquid-freezer-ii-360/?do=findComment&comment=16148202
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532862-very-annoying-fan-humnoise-arctic-liquid-freezer-ii-360/?do=findComment&comment=16148202
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1089683-captainquirk26/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148201
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1089683-captainquirk26/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1089683-captainquirk26/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/18-new-builds-and-planning/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148201
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148201
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1113764-brianmurphymurph/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1113764-brianmurphymurph/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1084625-lankyman/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532987-i-am-building-a-pc-soon-and-would-like-to-see-wether-this-is-a-good-list-or-not-for-what-i-intend/?do=findComment&comment=16148200
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1084625-lankyman/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1084625-lankyman/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/18-new-builds-and-planning/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532987-i-am-building-a-pc-soon-and-would-like-to-see-wether-this-is-a-good-list-or-not-for-what-i-intend/?do=findComment&comment=16148200
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532987-i-am-building-a-pc-soon-and-would-like-to-see-wether-this-is-a-good-list-or-not-for-what-i-intend/?do=findComment&comment=16148200
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/15563-thrasher_565/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148199
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/15563-thrasher_565/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1089683-captainquirk26/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/18-new-builds-and-planning/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148199
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148199
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/470303-jorgemeister/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532139-tkl-hotswappable-keyboards/?do=findComment&comment=16148198
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/470303-jorgemeister/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/6656-kirbi/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/44-peripherals/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532139-tkl-hotswappable-keyboards/?do=findComment&comment=16148198
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532139-tkl-hotswappable-keyboards/?do=findComment&comment=16148198
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/3604-ligistx/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1533005-connectx-2-and-win-11/?do=findComment&comment=16148197
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/3604-ligistx/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/3604-ligistx/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/45-networking/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1533005-connectx-2-and-win-11/?do=findComment&comment=16148197
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1533005-connectx-2-and-win-11/?do=findComment&comment=16148197
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/621424-fxscreamer/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1533013-gains-from-upgrading-a-9940x-to-a-14700k-or-even-a-13700k/?do=findComment&comment=16148196
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/621424-fxscreamer/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/5-cpus-motherboards-and-memory/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1533013-gains-from-upgrading-a-9940x-to-a-14700k-or-even-a-13700k/?do=findComment&comment=16148196
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1533013-gains-from-upgrading-a-9940x-to-a-14700k-or-even-a-13700k/?do=findComment&comment=16148196
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1089683-captainquirk26/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148195
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1089683-captainquirk26/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1089683-captainquirk26/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/18-new-builds-and-planning/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148195
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/?do=findComment&comment=16148195
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/851-191x7/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532968-freezing-mystery-new-gpu-got-freezes-from-previous-gpu/?do=findComment&comment=16148194
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/851-191x7/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1065330-sandybay/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/16-graphics-cards/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532968-freezing-mystery-new-gpu-got-freezes-from-previous-gpu/?do=findComment&comment=16148194
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532968-freezing-mystery-new-gpu-got-freezes-from-previous-gpu/?do=findComment&comment=16148194
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/564670-dedayog/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532987-i-am-building-a-pc-soon-and-would-like-to-see-wether-this-is-a-good-list-or-not-for-what-i-intend/?do=findComment&comment=16148193
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/564670-dedayog/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1084625-lankyman/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/18-new-builds-and-planning/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532987-i-am-building-a-pc-soon-and-would-like-to-see-wether-this-is-a-good-list-or-not-for-what-i-intend/?do=findComment&comment=16148193
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1532987-i-am-building-a-pc-soon-and-would-like-to-see-wether-this-is-a-good-list-or-not-for-what-i-intend/?do=findComment&comment=16148193
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/all.xml/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/466/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/privacy/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/terms/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/contact/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/cookies/
+INFO:root:Unfiltered page added with href: https://www.invisioncommunity.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/register/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/login/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/466/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/search/
+INFO:root:Unfiltered page added with href: https://linustechtips.com
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/58/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/466/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/blogs/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/gallery/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/events/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/files/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/online/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/staff/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/store/category/3-subscriptions/
+INFO:root:href and topic ID being filtered
+INFO:root:Initial Dataframe formed
+INFO:root:Connecting to page: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1532987-i-am-building-a-pc-soon-and-would-like-to-see-wether-this-is-a-good-list-or-not-for-what-i-intend/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1532987-i-am-building-a-pc-soon-and-would-like-to-see-wether-this-is-a-good-list-or-not-for-what-i-intend/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1531420-which-iphone-15-should-i-get-15-or-15-pro/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1531420-which-iphone-15-should-i-get-15-or-15-pro/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1532879-where-to-buy-ecc-unregisteredunbuffered-dimm-eudimm-ddr5-usa/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1532879-where-to-buy-ecc-unregisteredunbuffered-dimm-eudimm-ddr5-usa/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1532968-freezing-mystery-new-gpu-got-freezes-from-previous-gpu/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1532968-freezing-mystery-new-gpu-got-freezes-from-previous-gpu/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1533013-gains-from-upgrading-a-9940x-to-a-14700k-or-even-a-13700k/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1533013-gains-from-upgrading-a-9940x-to-a-14700k-or-even-a-13700k/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1533005-connectx-2-and-win-11/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1533005-connectx-2-and-win-11/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1532964-is-it-worth-to-upgrade-my-old-pc-or-should-i-build-a-new-one/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1532964-is-it-worth-to-upgrade-my-old-pc-or-should-i-build-a-new-one/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1532862-very-annoying-fan-humnoise-arctic-liquid-freezer-ii-360/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1532862-very-annoying-fan-humnoise-arctic-liquid-freezer-ii-360/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1533014-i-really-need-some-help/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1533014-i-really-need-some-help/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1532139-tkl-hotswappable-keyboards/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1532139-tkl-hotswappable-keyboards/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1532846-thoughts-on-this-13700k-build/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1532846-thoughts-on-this-13700k-build/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1532111-brand-new-crucial-mx500-sata-ssd-zero-gb-written-already-dying/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1532111-brand-new-crucial-mx500-sata-ssd-zero-gb-written-already-dying/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1532983-subnetting-not-segmenting-my-network-like-it-used-to/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1532983-subnetting-not-segmenting-my-network-like-it-used-to/
+INFO:root:Title names being added to the Dataframe
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/
+INFO:root:7 comments interactions recorded
+INFO:root:Connecting to page 2 for href: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1532970-bolting-pc-to-a-wall//page/2
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1532970
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:140 comments interactions recorded
+INFO:root:Connecting to page 2 for href: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1381504-community-standards-updated//page/2
+INFO:root:51 comments interactions recorded
+INFO:root:Connecting to page 3 for href: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1381504-community-standards-updated//page/3
+INFO:root:57 comments interactions recorded
+INFO:root:Connecting to page 4 for href: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1381504-community-standards-updated//page/4
+INFO:root:13 comments interactions recorded
+INFO:root:Comment content found for: 1381504
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1532987-i-am-building-a-pc-soon-and-would-like-to-see-wether-this-is-a-good-list-or-not-for-what-i-intend/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1532987-i-am-building-a-pc-soon-and-would-like-to-see-wether-this-is-a-good-list-or-not-for-what-i-intend/
+INFO:root:3 comments interactions recorded
+INFO:root:Connecting to page 2 for href: https://linustechtips.com/topic/1532987-i-am-building-a-pc-soon-and-would-like-to-see-wether-this-is-a-good-list-or-not-for-what-i-intend/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1532987-i-am-building-a-pc-soon-and-would-like-to-see-wether-this-is-a-good-list-or-not-for-what-i-intend//page/2
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1532987
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1531420-which-iphone-15-should-i-get-15-or-15-pro/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1531420-which-iphone-15-should-i-get-15-or-15-pro/
+INFO:root:4 comments interactions recorded
+INFO:root:Comment content found for: 1531420
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1532879-where-to-buy-ecc-unregisteredunbuffered-dimm-eudimm-ddr5-usa/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1532879-where-to-buy-ecc-unregisteredunbuffered-dimm-eudimm-ddr5-usa/
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1532879
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1532968-freezing-mystery-new-gpu-got-freezes-from-previous-gpu/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1532968-freezing-mystery-new-gpu-got-freezes-from-previous-gpu/
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1532968
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1533013-gains-from-upgrading-a-9940x-to-a-14700k-or-even-a-13700k/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1533013-gains-from-upgrading-a-9940x-to-a-14700k-or-even-a-13700k/
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1533013
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1533005-connectx-2-and-win-11/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1533005-connectx-2-and-win-11/
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1533005
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1532964-is-it-worth-to-upgrade-my-old-pc-or-should-i-build-a-new-one/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1532964-is-it-worth-to-upgrade-my-old-pc-or-should-i-build-a-new-one/
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1532964
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1532862-very-annoying-fan-humnoise-arctic-liquid-freezer-ii-360/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1532862-very-annoying-fan-humnoise-arctic-liquid-freezer-ii-360/
+INFO:root:2 comments interactions recorded
+INFO:root:Comment content found for: 1532862
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1533014-i-really-need-some-help/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1533014-i-really-need-some-help/
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1533014
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1532139-tkl-hotswappable-keyboards/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1532139-tkl-hotswappable-keyboards/
+INFO:root:4 comments interactions recorded
+INFO:root:Comment content found for: 1532139
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1532846-thoughts-on-this-13700k-build/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1532846-thoughts-on-this-13700k-build/
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1532846
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1532111-brand-new-crucial-mx500-sata-ssd-zero-gb-written-already-dying/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1532111-brand-new-crucial-mx500-sata-ssd-zero-gb-written-already-dying/
+INFO:root:3 comments interactions recorded
+INFO:root:Comment content found for: 1532111
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1532983-subnetting-not-segmenting-my-network-like-it-used-to/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1532983-subnetting-not-segmenting-my-network-like-it-used-to/
+INFO:root:1 comments interactions recorded
+INFO:root:Comment content found for: 1532983
+INFO:root:Contents for file 1532970 has been read
+INFO:root:29 found for topic 1532970
+INFO:root:Contents for file 1381504 has been read
+INFO:root:87 found for topic 1381504
+INFO:root:Contents for file 1532987 has been read
+INFO:root:30 found for topic 1532987
+INFO:root:Contents for file 1531420 has been read
+INFO:root:8 found for topic 1531420
+INFO:root:Contents for file 1532879 has been read
+INFO:root:5 found for topic 1532879
+INFO:root:Contents for file 1532968 has been read
+INFO:root:16 found for topic 1532968
+INFO:root:Contents for file 1533013 has been read
+INFO:root:4 found for topic 1533013
+INFO:root:Contents for file 1533005 has been read
+INFO:root:6 found for topic 1533005
+INFO:root:Contents for file 1532964 has been read
+INFO:root:23 found for topic 1532964
+INFO:root:Contents for file 1532862 has been read
+INFO:root:12 found for topic 1532862
+INFO:root:Contents for file 1533014 has been read
+INFO:root:2 found for topic 1533014
+INFO:root:Contents for file 1532139 has been read
+INFO:root:10 found for topic 1532139
+INFO:root:Contents for file 1532846 has been read
+INFO:root:11 found for topic 1532846
+INFO:root:Contents for file 1532111 has been read
+INFO:root:20 found for topic 1532111
+INFO:root:Contents for file 1532983 has been read
+INFO:root:4 found for topic 1532983
+ERROR:root:['Program_end']

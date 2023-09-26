@@ -1,0 +1,23 @@
+Post Content
+ I'm thinking of this build but there are a few things i'm uncertain of.  - Samsung EVO 2tb 980 pro vs 990 pro. Is the extra money worth the performance?- Corsair RM 850E vs 850X. I'm not sure what the difference is, one says 2021, the other 2023. Is later year better?- Is 2x16gb (32gb) DDR5 6400 fast enough?- Motherboard. I don't need something fancy, MSI z790 Pro Gaming looks like it has nice lightening and has functionality such as 5.1 audio jacks which I need.- Lian li 011 dynamic (is this still the nicest looking case with this front and side glass design or is there something better?- CPU cooler + fans. Obviously since i'm going for the 011 dynamic I want a good looking build. The Cooler Master Illusion with Halo fans look very good for the money right? Performance should be fine too I guess, i'm not looking for the most quiet system, as long as the performance isn't bad or anything I dont feel like going for a Corsair fan system. What do you guys think? What should I change?  I'm taking my old RTX2080 with me since I always upgrade GPU and rest of PC seperate every 5 years or so  Thanks
+
+ COMMENT_BREAK   On 9/24/2023 at 6:59 PM, ramm said:- Corsair EVO 850E vs 850X. I'm not sure what the difference is, one says 2021, the other 2023. Is later year better?EVO? Do you mean RMe and RMx?
+
+ COMMENT_BREAK   On 9/24/2023 at 7:06 PM, Tetras said:EVO? Do you mean RMe and RMx?oh yes that one i think, the top picks on pcpartpicker. I think i maybe mixed the name of the PSU and M2 ssd
+
+ COMMENT_BREAK   On 9/24/2023 at 7:15 PM, ramm said:oh yes that one i think, the top picks on pcpartpicker. I think i maybe mixed the name of the PSU and M2 ssdRMx is an older pre-PCIE5/ATX3.0 PSU and unlike the RMe (2023) it doesn't come with a 12/16 pin cable, but it has a longer warranty (10 v 7), 100% Japanese capacitors (RMe can use Taiwanese, reviews show Teapo and Elite) and a maglev fan.  The updated RMx is called the RMx SHIFT, but it moved the modular board to the side which is not compatible with some cases.
+
+ COMMENT_BREAK   On 9/24/2023 at 7:20 PM, Tetras said:RMx is an older pre-PCIE5/ATX3.0 PSU and unlike the RMe (2023) it doesn't come with a 12/16 pin cable, but it has a longer warranty (10 v 7), 100% Japanese capacitors (RMe can use Taiwanese, reviews show Teapo and Elite) and a maglev fan.  The updated RMx is called the RMx SHIFT, but it moved the modular board to the side which is not compatible with some cases.So I should go with the RMe 2023 instead of the RMx 2021?   
+
+ COMMENT_BREAK   On 9/24/2023 at 7:30 PM, ramm said:So I should go with the RMe 2023 instead of the RMx 2021?If they're the same price and you don't care about ATX3.0/PCIE5, then I'd take the RMx.  If you want ATX3.0/PCIE5 and can't afford the RMx SHIFT (or it is incompatible with your case), MSI A850G, or Thermaltake GF3, then I'd go for the RMe (2023) or be quiet 12 M.
+
+ COMMENT_BREAK If you're not planning on any overclocking a B760 baord will do just fine.
+
+ COMMENT_BREAK   On 9/24/2023 at 8:27 PM, Tetras said:If they're the same price and you don't care about ATX3.0/PCIE5, then I'd take the RMx.  If you want ATX3.0/PCIE5 and can't afford the RMx SHIFT (or it is incompatible with your case), MSI A850G, or Thermaltake GF3, then I'd go for the RMe (2023) or be quiet 12 M.I dont really know what that means. i just want something future proof because in a few years im probably gonna go for an rtx 4000 or 5000 series
+
+ COMMENT_BREAK   On 9/24/2023 at 8:36 PM, venomtail said:If you're not planning on any overclocking a B760 baord will do just fine.obviously im going to overclock
+
+ COMMENT_BREAK   16 hours ago, ramm said:i just want something future proof because in a few years im probably gonna go for an rtx 4000 or 5000 seriesIn that case, you might want to buy a PSU with the updated 12v-2x6 connector.
+
+ COMMENT_BREAK
+
