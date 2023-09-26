@@ -13,7 +13,8 @@ ENV PATH="$VIRTUAL_ENV/bin:$PATH"
 
 
 COPY forum .
+COPY requirements.txt requirements.txt
 RUN python3 -m pip install --upgrade pip \
 && python3 -m pip install -r requirements.txt --no-cache-dir
-WORKDIR C:\Users\Theo\code\ltt-analytics\forum\main-program
-CMD [ "python3" "loop_collect.py" ]
+CMD [ "python", "/main-program/loop_collect.py" ]
+

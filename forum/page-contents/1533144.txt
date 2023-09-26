@@ -1,0 +1,76 @@
+
+ I installed a bios update for my motherboard (asrock a320m/ac) to 7.00 and once it reached 100% it said to press enter to restart, so I did and the system just went black then shut itself down without rebooting. Now when I try to turn the system on everything but the gpu boots on (all the fans spin, the gpu fan spins up for about 10 seconds then stops, rgb comes on) but there's no display from either the gpu or motherboard. Any idea what to do? I'm a novice at this and all the information I found online (reboot the cmos, etc.) didn't help any.
+ COMMENT_BREAK
+ what CPU do you have installed? Is it possible the CPU is no longer supported with the latest BIOS you installed?
+ COMMENT_BREAK
+ and do a bios reset after bios update.. 
+ 
+ COMMENT_BREAK
+ I currently have the old cpu in (a ryzen 3) and am upgrading to a ryzen 5 5600x, I assumed the newer bios was compatible with the older cpu, should I swap them and then try again or would that cause issue?
+ COMMENT_BREAK
+   1 hour ago, Robchil said:
+and do a bios reset after bios update.. 
+  I did and that didn't hange anything so after some testing I thought to ask the experts
+ COMMENT_BREAK
+   1 hour ago, Dylan McAlister said:
+I currently have the old cpu in (a ryzen 3) and am upgrading to a ryzen 5 5600x, I assumed the newer bios was compatible with the older cpu, should I swap them and then try again or would that cause issue?
+yep..  AM4 bios'es got so large they tend to leave the old ones behind on newer bios'es. 
+ 
+ COMMENT_BREAK
+   1 hour ago, Dylan McAlister said:
+I currently have the old cpu in (a ryzen 3) and am upgrading to a ryzen 5 5600x, I assumed the newer bios was compatible with the older cpu, should I swap them and then try again or would that cause issue?
+Which Ryzen 3 specifically? Many older 1st and some 2nd gen I believe were removed from support due to BIOS chip size and couldn't fit it all in. Best would be to see if your R5 5600x would work.
+  https://www.asrock.com/mb/AMD/A320Mac/index.asp#CPU
+  EDIT: Also, the 5600x isnt supported until p7.20 BIOS, so if you installed 7.00 then you won't be supported on the 5600x and likely wont work either.
+ COMMENT_BREAK
+   1 hour ago, Robchil said:
+yep..  AM4 bios'es got so large they tend to leave the old ones behind on newer bios'es. 
+      1 hour ago, Skiiwee29 said:
+Which Ryzen 3 specifically? Many older 1st and some 2nd gen I believe were removed from support due to BIOS chip size and couldn't fit it all in. Best would be to see if your R5 5600x would work.
+  https://www.asrock.com/mb/AMD/A320Mac/index.asp#CPU
+  EDIT: Also, the 5600x isnt supported until p7.20 BIOS, so if you installed 7.00 then you won't be supported on the 5600x and likely wont a
+A ryzen 3 3200g, I installed the 7.00 because on asrocks website it said that the update 7.00 bios was needed before I installed 7.20
+ COMMENT_BREAK
+   1 hour ago, Dylan McAlister said:
+  A ryzen 3 3200g, I installed the 7.00 because on asrocks website it said that the update 7.00 bios was needed before I installed 7.20
+so Depending on which version of the 3200g, one is supported by all BIOS versions, one stops at 4.00. Seems like you likely have the one that stops at 4.00
+ 
+ COMMENT_BREAK
+   1 hour ago, Skiiwee29 said:
+so Depending on which version of the 3200g, one is supported by all BIOS versions, one stops at 4.00. Seems like you likely have the one that stops at 4.00
+  Expand  
+That makes sense, I'm looking into flashing a bios over the incorrect bios without a cpu, I know on asus they have a button but asrock seems to have a different system for this. Thank you for your advice! If you have any other advice on the matter it'd be much appreciated.
+ COMMENT_BREAK
+   1 hour ago, Dylan McAlister said:
+That makes sense, I'm looking into flashing a bios over the incorrect bios without a cpu, I know on asus they have a button but asrock seems to have a different system for this. Thank you for your advice! If you have any other advice on the matter it'd be much appreciated.
+with a low end board like this, it won't have BIOS flashback. You only have a few options here:
+  A: Apply for an AMD bootkit here: https://www.amd.com/en/support/kb/faq/pa-100
+  B: Buy a cheap compatible CPU like an Athlon chip
+  C: Take it to a computer repair shop locally. Most should offer this as a service for a few bucks.
+ COMMENT_BREAK
+   1 hour ago, Dylan McAlister said:
+That makes sense, I'm looking into flashing a bios over the incorrect bios without a cpu, I know on asus they have a button but asrock seems to have a different system for this. Thank you for your advice! If you have any other advice on the matter it'd be much appreciated.
+    1 hour ago, Skiiwee29 said:
+with a low end board like this, it won't have BIOS flashback. You only have a few options here:
+  A: Apply for an AMD bootkit here: https://www.amd.com/en/support/kb/faq/pa-100
+  B: Buy a cheap compatible CPU like an Athlon chip
+  C: Take it to a computer repair shop locally. Most should offer this as a service for a few bucks.
+a shop would probably just use External BIOS flashing with CH341A programmer 
+ COMMENT_BREAK
+   1 hour ago, Skiiwee29 said:
+with a low end board like this, it won't have BIOS flashback. You only have a few options here:
+  A: Apply for an AMD bootkit here: https://www.amd.com/en/support/kb/faq/pa-100
+  B: Buy a cheap compatible CPU like an Athlon chip
+  C: Take it to a computer repair shop locally. Most should offer this as a service for a few bucks.
+I've called around and there's a shop in my area that says they might be able to do it but the guy who does that isn't in today but will be tomorrow, if they can't then I'll order a cheap compatible cpu, if it comes to that do you have any recommendations?
+ COMMENT_BREAK
+   55 minutes ago, Dylan McAlister said:
+I've called around and there's a shop in my area that says they might be able to do it but the guy who does that isn't in today but will be tomorrow, if they can't then I'll order a cheap compatible cpu, if it comes to that do you have any recommendations?
+One of these will likely be your cheapest options. These are listed as being supported on ALL BIOS versions. Just find whichever is supported on ALL BIOS versions and the cheapest on the CPU compatibility list I linked above.
+ 
+ COMMENT_BREAK
+   51 minutes ago, Skiiwee29 said:
+One of these will likely be your cheapest options. These are listed as being supported on ALL BIOS versions. Just find whichever is supported on ALL BIOS versions and the cheapest on the CPU compatibility list I linked above.
+  Expand  
+Thank you again for your help! I'll make sure to pay attention to bios compatibility on my next cpu upgrade.
+ COMMENT_BREAK

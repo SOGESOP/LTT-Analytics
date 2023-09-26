@@ -1,0 +1,35 @@
+
+ I had a power outage today and my PC is connected to a UPS, so I woke it up, closed all my programs, and shut my PC down. After it shut down, I turned off my UPS, as I do after every power outage. When the power came back on, I turned my UPS back on. I waited until it was fully on, then I tried to turn on my PC. I pressed the power button on my case and walked away to wait for it to boot. When I came back, my display was black and when I checked the inside of my PC, the GPU fans were spinning, but my CPU and system fan weren't. I followed the same procedure I always do during a power outage, so I suspected that my PSU finally died (I got the PC in spring 2015) and I have had some random crashes and freezes in the past year. I ordered a new one, but I am experiencing the same issue.
+  Specs:
+CPU: i7-4790
+CPU Cooler: Noctua NH-D9L
+GPU: EVGA GeForce RTX 3050 XC BLACK GAMING
+Motherboard: Gigabyte GA-Z97X-SLI (I'm not sure what my BIOS is, but I know it is before version F8 based on when I bought it)
+RAM: 2x4 Adata 1600 mhz DDR3 kit and 2x4 Patriot 1600 mhz DDR3 kit
+Drives: 4tb Western Digital HDD (OS Drive) and 2tb Western Digital HDD
+PSU: [Original] - 550W XFX TS Series 80 PLUS BRONZE [New] - 600W Thermaltake Toughpower GX2 80+ Gold
+I also have a DVD Drive, wi-fi and bluetooth PCIe card, and a system fan
+  I have tried powering on with just CPU, motherboard, and RAM, but I still can't get it to POST. Sometimes, the CPU fan spins, but it is very inconsistent because I can retry a configuration and the CPU fan behaves differently. I am now beginning to suspect an issue with either my CPU or motherboard. I don't think the power outage is the cause since they happen frequently and my PC has been fine. My GPU and HDD's both power on and seem fine.
+  As of writing this post, I haven't tried with just one stick of RAM. I've spent hours troubleshooting already and need to take a break. I also haven't tried with other components. I don't have any other motherboards or CPU's, so I can't. Is there anything that I overlooked, or should I get replacements?
+Edited 17 minutes ago by dgl
+ COMMENT_BREAK
+   22 hours ago, dgl said:
+I have tried powering on with just CPU, motherboard, and RAM, but I still can't get it to POST. Sometimes, the CPU fan spins, but it is very inconsistent because I can retry a configuration and the CPU fan behaves differently. I am now beginning to suspect an issue with either my CPU or motherboard.
+Definitely sounds like an issue with the motherboard. The CPU fan should be turning regardless if it's plugged into the CPU fan header. Since the motherboard is ~8 years old, you can definitely try a new CMOS battery if it hasn't been replaced as it's probably dead by now and sometimes can cause some quirkiness to show up with a dead CMOS battery. However, if changing the battery still doesn't work, then the motherboard is most likely bad given it's age. 
+ COMMENT_BREAK
+   22 hours ago, CommanderAlex said:
+Definitely sounds like an issue with the motherboard. The CPU fan should be turning regardless if it's plugged into the CPU fan header. Since the motherboard is ~8 years old, you can definitely try a new CMOS battery if it hasn't been replaced as it's probably dead by now and sometimes can cause some quirkiness to show up with a dead CMOS battery. However, if changing the battery still doesn't work, then the motherboard is most likely bad given it's age. 
+Thank you for your response. I tried a new CMOS battery (the old one was basically dead) and I got a POST with just CPU, GPU, and motherboard power. I connected everything back up and it didn't POST. I removed everything but the CPU, GPU, and motherboard power and still no POST. If I leave the power on, my GPU and CPU fans keep trying to spin, but shortly stop. Since it appears that it is a motherboard issue, would it be worth it to get a used one to replace mine, or should I just upgrade?
+ COMMENT_BREAK
+   49 minutes ago, dgl said:
+Thank you for your response. I tried a new CMOS battery (the old one was basically dead) and I got a POST with just CPU, GPU, and motherboard power. I connected everything back up and it didn't POST. I removed everything but the CPU, GPU, and motherboard power and still no POST. If I leave the power on, my GPU and CPU fans keep trying to spin, but shortly stop. Since it appears that it is a motherboard issue, would it be worth it to get a used one to replace mine, or should I just upgrade?
+Honestly, buying a used motherboard on this old of a platform is just not worth the price and you would be better off upgrading the hardware. If you have a tight budget, you can go with a used AM4 and 3rd gen Ryzen. 
+ COMMENT_BREAK
+   37 minutes ago, CommanderAlex said:
+Honestly, buying a used motherboard on this old of a platform is just not worth the price and you would be better off upgrading the hardware. If you have a tight budget, you can go with a used AM4 and 3rd gen Ryzen. 
+Thank you for your help.
+ COMMENT_BREAK
+   19 minutes ago, dgl said:
+Thank you for your help.
+Anytime!!!
+ COMMENT_BREAK

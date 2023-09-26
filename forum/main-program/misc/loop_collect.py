@@ -26,7 +26,7 @@ def run_main_collect_cycle():
     # find a way to run the script and wait on the completion of the 
     # collect script to run the translate script
 
-    main_file_path=f'{os.getcwd()}/main.py'
+    main_file_path=f'{os.getcwd()}{os.sep}main_program{os.sep}main.py'
     
     try:
         subprocess.run(["python", main_file_path], check=True)

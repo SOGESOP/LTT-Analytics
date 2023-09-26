@@ -1,0 +1,1065 @@
+
+ Hey everybody!
+  Let us know if you have any issues with sponsors we're currently running across any of LMG's channels. The business team is active here and will chime in and respond as necessary. Please keep discussion related to sponsor complaints and on topic in this thread. We'll do our best to field any complaints, and address them as necessary, but also make sure reach out to the companies in question as well first, if you're having any problems.
+  Thanks for watching our content, and for the support and feedback, we really do appreciate it.  
+ COMMENT_BREAK
+ I want to add another complaint about Volta Charger. In their latest update to their indiegogo supporters they've told us if we want a tracking number for our shipment we have to sign up for their "LATEST NEWS & OFFERS" mailing list. I should not have to be spammed by their marketing department just to receive a tracking number.
+ COMMENT_BREAK
+ I have also found Acronis True Image 2020 to get really slow and sometimes even lock up completely with large (>2TB) incremental backups over a longer timespan as soon as you try to browse the backup to recover a file from it. It makes the incemental backup function basically useless if you don't have it do a complete backup every other week or so (at least there is a setting for that), which is really annoying because it obviously takes a long time to finish and uses system resources in the process.
+  I'd like to believe that newer versions are better, but unfortunately I will never find out as they have switched to a subscription based model, so I will most likely switch to using another software with my next system upgrade.
+ COMMENT_BREAK
+ Manscapped lawnmower 3.0 
+I bought that, and it stopped working after 1 use. I contacted support and they be sent me a replacement that died after 2 weeks. Now the third died on my hands after about 6 months. I have used it normally, charged it at low wattage and I m really really careful on cleaning it with water. Arm I have 3 e waste products at home.
+Also when you but it, there is a hidden subscription for about 10€ per month for a useless part (blades)
+  Photo of their waterproof. I ve washed it a few times in low pressure water from a sink. They did a good job keeping the water inside I guess
+ COMMENT_BREAK
+   On 5/18/2022 at 3:50 PM, nexus7556 said:
+I want to add another complaint about Volta Charger. In their latest update to their indiegogo supporters they've told us if we want a tracking number for our shipment we have to sign up for their "LATEST NEWS & OFFERS" mailing list. I should not have to be spammed by their marketing department just to receive a tracking number.
+I'll add to this, they *intentionally* sabotaged sending out automatic shipping notifications. In an early update, they said they had brought our order info from Backerkit/Indiegogo to Shopify. The system started to send out emails, which they said they had stopped in the comments.
+
+https://www.indiegogo.com/projects/giga-the-ultimate-universal-gan-charger/x/548182#/updates/40
+  I guess they've run this entire campaign, supposedly they were shipping *months* ago.. and they never had a system setup to track orders? I have no idea.
+  They had hundreds of units in the US on May 7. I'm figuring they are doing as they said, delaying orders to their detractors. I was backer 245. They stated they've exhausted all 500 of the 200W Gigas in US inventory. I've got no shipping stuff. No notifications from FedEx, UPS, or USPS of a shipment coming, so yea.
+  They did sell Giga Bundles, of 5x and 2x packs, but I think unless all of them were sent to the US, it wouldn't account for mine not being shipped yet unless they're not shipping in order received but some other metric.
+ COMMENT_BREAK
+   On 5/20/2022 at 8:06 PM, Rikere said:
+I'll add to this, they *intentionally* sabotaged sending out automatic shipping notifications. In an early update, they said they had brought our order info from Backerkit/Indiegogo to Shopify. The system started to send out emails, which they said they had stopped in the comments.
+
+https://www.indiegogo.com/projects/giga-the-ultimate-universal-gan-charger/x/548182#/updates/40
+  I guess they've run this entire campaign, supposedly they were shipping *months* ago.. and they never had a system setup to track orders? I have no idea.
+Expand  
+Hey all,
+  Thanks for letting us know with regards to Volta. I just want to confirm, we've stopped all partnerships with Volta and ended our contracted campaign for this year as a result of the poor customer service from these products. We worked with them for quite a long time and had no issues prior to this indiegogo campaign, but the recent developments caused us to take action and stopped running integrations for their products until their customer service can improve to the level of standards we expect from our partners. We'll reevaluate our partnership in the future, but as things currently stand, we won't work with them anymore until these are fixed and made right. 
+ COMMENT_BREAK
+   On 5/20/2022 at 9:38 AM, PeachGr said:
+Manscapped lawnmower 3.0 
+I bought that, and it stopped working after 1 use. I contacted support and they be sent me a replacement that died after 2 weeks. Now the third died on my hands after about 6 months. I have used it normally, charged it at low wattage and I m really really careful on cleaning it with water. Arm I have 3 e waste products at home.
+feel like a lot of newer products are like that, manscaped is also a bit shady. some complain about poor performance etc. when older equipment was made to last much longer or for a decade with the same blade and motor. hate that these "modern" shavers that barely shave, lugs instead of cuts, weak engines/motors, guards and can handle a bit of mishandling. would be nice to see manscaped with a good tool, but seems overpriced ... yeah.
+  wish more mainstream with better products would be sponsoring, instead of a lot of digital e-waste products or just more expensive products.
+Edited May 21, 2022 by Quackers101
+ COMMENT_BREAK
+   On 5/21/2022 at 8:02 PM, Quackers101 said:
+when older equipment was made to last much longer or for a decade with the same blade and motor.
+its weird.. From the 3 shaving machines ive had, doesnt matter what year i go for.. AS LONG AS its one year older than current.. Then its fine.
+They must be swapping parts or something to get easier profits, because my 2022 "insert brand here" died in 3 weeks.. But the same brand from 2020.. Is still alive and kicking as it was new and im only really emptying it from time to time and washing it, nothing more.
+  Even has a secondary shaving machine to get the last hairs away and thats going great, just hope this brand (cant remember name, will edit in later) doesnt change any parts
+because its the best fucking shaving machine ive had in a while and it just damn works without any problems.
+  2022 model: Kills itself faster.
+2019/2021 model: Will outlast anything from 2022 apparantly.
+ COMMENT_BREAK
+ Just saw the Yvonne Cricut video and I was shocked that terribly anti-consumer company got past your screeners as their history checks off most of Linus's pet peeves. 
+  Anti-consumer.
+Sued third party that wrote linux support for it. 
+Forced DRM cartridges for a while. 
+Tried forcing cloud requirements with paid restrictions. 
+  Source.
+  Some quotes:
+  "The “update” would have limited Cricut owners to uploading just 20 designs to their own devices each month, unless they paid for Cricut’s $8-per-month-minimum cloud service,"
+  "forced customers to use a cloud service to upload designs to their own machines"
+  "There’s not a lot of recourse for people who wish their machines worked differently. Cricut’s owner, Provo Craft, sues makers of third party software to make sure customers stay locked into Cricut’s software and cloud storage system. "
+ COMMENT_BREAK
+   On 5/23/2022 at 4:29 AM, madsci1016 said:
+Just saw the Yvonne Cricut video and I was shocked that terribly anti-consumer company got past your screeners as their history checks off most of Linus's pet peeves. 
+Not a sponsor, this isn't the place for it.
+ COMMENT_BREAK
+   On 5/23/2022 at 4:34 AM, Andrewrobert said:
+Not a sponsor, this isn't the place for it.
+but also a bit about promoting the product. while the complaint should be targeted if it was a sponsor, it's also warranted to let their history of this product to be pointed out. As Yvonne did try to cover some of the issues about this product.
+ COMMENT_BREAK
+ Yes forgive me for missing the nuisance in sponsor video vs bought video that promotes the product. Where should have i posted this?
+  This hits hard for me as I was active/passionate about consumer rights, open source, etc back in 2010 timeframe when Cricut went after suing people for writing software to expand support of their machines. They were the poster child back then for everything LTT stands against now a days for right to repair, right to own, anti-cloud, anti-DRM and anti-ewaste, etc.  There's still issues as recently as last year that people are fighting. They remove support for older, functioning cutters and no one else wants to support them for fear of more lawsuits. And their calling the new machine "maker" to try and rid themselves of the blowback from all their anti-maker behavior is just insulting. 
+  It's just a shock to see an LTT video showing them in a positive light. Sponsored or not. 
+  Their major competitor, Cameo, on the otherhand isn't open source, but people have written third party apps to no consequence and has a true maker community around it. 
+  Sorry. Rant over. This just happened to be my new favorite YouTube channel (LTT) bring up some old wounds of mine from rallying against companies like Cricut more than a decade ago. 
+ COMMENT_BREAK
+ Not really a complaint, but was this agreed with FlexiSpot?
+
+
+Also this clip that is on the product page: 
+ Unfortunately I missed the time window to buy the product I liked  (the E8 frame), lucky that Honey go me some discount, but it's not as much.
+ 
+ COMMENT_BREAK
+   On 5/3/2022 at 5:31 PM, CPotter said:
+Hey everybody!
+  Let us know if you have any issues with sponsors we're currently running across any of LMG's channels. The business is active here and will chime in and respond as necessary. 
+  Thanks for watching our content, and for the feedback, we really do appreciate it.  
+sad to see NordPass got a spot with LMG… hope it was enough money, seeing as most of us tech savvy viewers were already aware of the NordVPN controversy a while ago… as if im trusting that company with MY PASSWORDS!!! did Luke literally say "dont trust them" on the latest WAN show??
+  On 5/18/2022 at 3:50 PM, nexus7556 said:
+I want to add another complaint about Volta Charger. In their latest update to their indiegogo supporters they've told us if we want a tracking number for our shipment we have to sign up for their "LATEST NEWS & OFFERS" mailing list. I should not have to be spammed by their marketing department just to receive a tracking number.
+  I own about $400+ worth of Volta products and regret it so much (found em from LTT).... constantly making warranty claims, cables that dont work properly, magnets that break apart, customer support thats non existant... if anyone can suggest an alternative company that supports at least 50w USB-C i'd be all ears. As soon as my Spark cable breaks, im out. Lifetime warranty is cool til it takes 4 weeks to get a replacement sorted and already gone through that process SIX TIMES.
+
+    On 5/20/2022 at 9:38 AM, PeachGr said:
+Manscapped lawnmower 3.0 
+I bought that, and it stopped working after 1 use. I contacted support and they be sent me a replacement that died after 2 weeks. Now the third died on my hands after about 6 months. I have used it normally, charged it at low wattage and I m really really careful on cleaning it with water. Arm I have 3 e waste products at home.
+Also when you but it, there is a hidden subscription for about 10€ per month for a useless part (blades)
+  Photo of their waterproof. I ve washed it a few times in low pressure water from a sink. They did a good job keeping the water inside I guess
+Expand  
+I also got one of these, just not through LTT. Pretty sure i had the 2.0 version... had one replaced under warranty, the second one started doing the same thing (randomly turning on) and i got no reply from em... just gave up
+
+------------
+
+all i've learnt from this is dont buy any kind of kickstarter product thats electrical (i also own a POS Tribit bluetooth speaker that was on ShortCircuit)... the only kickstarter product that i own and am GENUINELY super happy with is my KeySmart.
+ COMMENT_BREAK
+   On 6/2/2022 at 7:17 PM, volatus146 said:
+just gave up
+I gave up on the third. 90€/$ is way too much for a product that as I ve discover is less than 10$ to be made. I bought the Panasonic ER1421S for 78€ and I understood what a professional high quality product looks like. I hope they will stop promote that garbage
+ COMMENT_BREAK
+   On 5/18/2022 at 3:50 PM, nexus7556 said:
+I want to add another complaint about Volta Charger. In their latest update to their indiegogo supporters they've told us if we want a tracking number for our shipment we have to sign up for their "LATEST NEWS & OFFERS" mailing list. I should not have to be spammed by their marketing department just to receive a tracking number.
+That's why you have a junk email address just for BS like this... It works for me. LOL
+ COMMENT_BREAK
+ I saw an Instagram post on LTT for ZeroLatency VR. I thought it looked super cool, because I thought most of those companies died of covid. 
+  I was excited that there was a 20% off coupon from LTT, so I applied it online, and made my reservation! 
+  Things turned around when I went to check in. I arrived at the counter, they pulled up my reservation, and they told me the total would be $100. But... That's the full price! I had been quoted $80 online because of the 20% coupon. I asked them about it, and they said that even if the coupon was entered online and showed as working, they don't take coupons and the only way to get a discount is if you have a credit from a missed appointment. I showed them the LTT post where it says the coupon code could be used, and they didn't care. I ended up paying full price. 
+ COMMENT_BREAK
+   On 6/4/2022 at 8:14 PM, TechyAlex said:
+I saw an Instagram post on LTT for ZeroLatency VR. I thought it looked super cool, because I thought most of those companies died of covid. 
+  I was excited that there was a 20% off coupon from LTT, so I applied it online, and made my reservation! 
+  Things turned around when I went to check in. I arrived at the counter, they pulled up my reservation, and they told me the total would be $100. But... That's the full price! I had been quoted $80 online because of the 20% coupon. I asked them about it, and they said that even if the coupon was entered online and showed as working, they don't take coupons and the only way to get a discount is if you have a credit from a missed appointment. I showed them the LTT post where it says the coupon code could be used, and they didn't care. I ended up paying full price. 
+Expand  
+Hey @TechyAlex, this is absolutely not okay and goes against our service standards. Are you able to DM me the location, your booking ID/number and your email address? We're going to follow up with Zero Latency and ensure this is resolved. Thanks!
+ COMMENT_BREAK
+   On 6/4/2022 at 8:14 PM, TechyAlex said:
+I saw an Instagram post on LTT for ZeroLatency VR. I thought it looked super cool, because I thought most of those companies died of covid. 
+  I was excited that there was a 20% off coupon from LTT, so I applied it online, and made my reservation! 
+  Things turned around when I went to check in. I arrived at the counter, they pulled up my reservation, and they told me the total would be $100. But... That's the full price! I had been quoted $80 online because of the 20% coupon. I asked them about it, and they said that even if the coupon was entered online and showed as working, they don't take coupons and the only way to get a discount is if you have a credit from a missed appointment. I showed them the LTT post where it says the coupon code could be used, and they didn't care. I ended up paying full price. 
+Expand  
+Just a follow up on this, we spoke with Zero Latency, and they'll be reaching out to @TechyAlex by email directly to make this right. They're following up with this, and all, locations to ensure that this mistake doesn't end up happening again. Thanks for bringing it to my attention!
+ COMMENT_BREAK
+   On 6/16/2022 at 11:02 PM, SeanLMG said:
+Just a follow up on this, we spoke with Zero Latency, and they'll be reaching out to @TechyAlex by email directly to make this right. They're following up with this, and all, locations to ensure that this mistake doesn't end up happening again. Thanks for bringing it to my attention!
+Thank you Sean! I will update when I hear from them.
+ COMMENT_BREAK
+ Cooler Master having horrible communication with contest winners and not delivering winnings. XPosted for visibility.
+     
+ COMMENT_BREAK
+ Glasswire
+To be honest, not sure if they are so much an active sponsor any more but their website is a bit misleading with their subscription prices, listing them as "Buy" with no time period, and not making it clear that the price is a subscription. 
+ COMMENT_BREAK
+ I joined these forums just to post this.  Very bored on a Sunday evening and for once I decided to take notice of a seque to your sponsor, BuildRedux.
+  So, clickity click, let's go click some silly numbers and buttons and build a computer!
+    There are three issues that is quite concerning on their website.  Now I'm all for easy builds for first time and/or inexperienced computer users so the interface is good, not to my liking but good.  But!  First time, new, inexperienced customers probably will not notice the first two issues I have spotted almost instantly.  The third issue is annoying to me and would likely put off a not so new or inexperienced potential customer.
+    Reveal hidden contents
+
+
+The above issues are a problem.  Customers are potentially being sold items they do not want or even need and in the case of the build I put together in a handful of clicks there is the potential they may not receive the items they pay for.  Each of these came very quickly and raised suspicion and perceivable frustration (in the understanding of other consumers encountering these issues).
+  The larger issue is this is clearly not a PC building company.  From the word go, their company model is clearly a credit purchase model.  At every point the website is pushing credit usage to buy their products.  Yes, non-credit purchase is possible and straightforward however pushing credit this hard is unpleasant at best.
+  As Linus despises subscription models (garage door!) I despise both credit pushing and unwanted costs in a similar way.
+ COMMENT_BREAK
+ as a pre-built PC it's not bad^
+Not sure about the site and what you went in on so can't say much about that and between image and parts. Some are just for showcasing but it depends as said before. Else the deal doesn't seem too bad, but maybe some elements seem a bit sus, like what PSU, RAM is that? unsure or random? ok... As for wifi card would be better as an option, but nothing wrong to include and you might just find another deal instead. As for the fans in the case itself, that might just be extra that comes with the case and not much to do about, or if they just add some random 4 extra fans? that one don't know what they support in terms of software and such, which could be a hidden * in the deal.
+ COMMENT_BREAK
+ An update regarding Volta
+  I bought a giga 130W charger from them based on Short-circuit/LTT ad last September. It finally delivered after 7 months of delay (was supposed to ship in November, I got it this June). They did seem to have genuine issues with manufacturing, shipping, etc. so I wont take too many points from them.
+  But 3 weeks back ordered a carrying case from them. Made the payment but no ETA or communication on when its shipping or arriving, even after 2 follow up mails and posting on their forum
+  I know they're a small company struggling to keep their boat afloat, but I feel they should be a little more responsible and not go overboard in taking pre-orders and taking forever to deliver them
+  I don't really have any suggestions, nor have I associated with them long enough to determine if LMG should work with them or not, but I'm just sharing my experience here.
+  UPDATE: Finally got the carrying case and I have been satisfied with their product after using it for over a year. Apart from typical small company scaling issues and delays, I have no other complaints. I would recommend their products
+ COMMENT_BREAK
+   On 6/17/2022 at 4:58 PM, TechyAlex said:
+Thank you Sean! I will update when I hear from them.
+Heard back from ZeroLatency today. They explained that the employee at the location was fairly new and had not heard about the promotion. They said they have remedied the issue and offered me a few free visits, which I declined as I don't live close to any of their locations. 
+  I'd say that solves the problem all good from my end. Thanks @SeanLMGfor helping with this! 
+ COMMENT_BREAK
+   On 6/19/2022 at 10:26 PM, DanFraser said:
+*Snip
+Another thing I notice that their build, setup and testing is $99, whereas in many ads I heard from LTT is $75 flat, but I guess they change it fairly recently.
+ COMMENT_BREAK
+ I have an anti-complaint about Honey. Yes, they may or may not by hoovering up my data when I make a purchase but they did just save me ~$100 on glasses so that's a worthy trade off. Honey does "what it says on the box" and you can't ask much more these days.
+ COMMENT_BREAK
+   On 6/25/2022 at 2:25 AM, Kev said:
+I have an anti-complaint about Honey. Yes, they may or may not by hoovering up my data when I make a purchase but they did just save me ~$100 on glasses so that's a worthy trade off. Honey does "what it says on the box" and you can't ask much more these days.
+Agreed. Honey has saved me a good chunk of money at this point and even let me keep a $50 refund after their own mistake.
+ COMMENT_BREAK
+ Hello I am writing in regards to the most recent LLT video about OnePlus. In that video you guys discuss how OnePlus can no longer be recommended by you due to their several problems. However in the June 17th TechLinked video you have a sponsorship by OnePlus. Why is it that you don't recommend them, but then recommend them in a paid TechLinked episode?
+ COMMENT_BREAK
+ @CPotter I think you should not let oneplus sponsor videos, promoting their oneplus 10 on the channel when you are clearly not happy about them as shown on the most recent ltt video. The video sais you would not recommend them, so why promote them? 
+ COMMENT_BREAK
+   On 6/27/2022 at 12:09 AM, driver160 said:
+@CPotter I think you should not let oneplus sponsor videos, promoting their oneplus 10 on the channel when you are clearly not happy about them as shown on the most recent ltt video. The video sais you would not recommend them, so why promote them? 
+    On 6/26/2022 at 7:17 PM, BenNotTen said:
+Hello I am writing in regards to the most recent LLT video about OnePlus. In that video you guys discuss how OnePlus can no longer be recommended by you due to their several problems. However in the June 17th TechLinked video you have a sponsorship by OnePlus. Why is it that you don't recommend them, but then recommend them in a paid TechLinked episode?
+  I would think GPL Violations would also be an issue:
+  GitHub Complaint Thread (One of several)
+  Reddit Thread Example (Again One of Many)
+  As someone with a stack of OnePlus devices, it's rather frustrating. I will say I don't have any of these issues, but I don't run OOS.
+ COMMENT_BREAK
+   On 6/22/2022 at 3:35 AM, TechyAlex said:
+Heard back from ZeroLatency today. They explained that the employee at the location was fairly new and had not heard about the promotion. They said they have remedied the issue and offered me a few free visits, which I declined as I don't live close to any of their locations. 
+  I'd say that solves the problem all good from my end. Thanks @SeanLMGfor helping with this! 
+Happy this got taken care of, thanks @TechyAlex!
+ COMMENT_BREAK
+   On 5/20/2022 at 9:38 AM, PeachGr said:
+Manscapped lawnmower 3.0 
+I bought that, and it stopped working after 1 use. I contacted support and they be sent me a replacement that died after 2 weeks. Now the third died on my hands after about 6 months. I have used it normally, charged it at low wattage and I m really really careful on cleaning it with water. Arm I have 3 e waste products at home.
+Also when you but it, there is a hidden subscription for about 10€ per month for a useless part (blades)
+  Photo of their waterproof. I ve washed it a few times in low pressure water from a sink. They did a good job keeping the water inside I guess
+Expand  
+Idk about 'hidden subscription', it's pretty well known as a subscription service, but yeah that's some shotty waterproofing
+ COMMENT_BREAK
+   On 6/30/2022 at 9:45 PM, Jtalk4456 said:
+hidden subscription
+It is checked on and you have to check it off manually, and that's shady. 
+ COMMENT_BREAK
+   On 6/30/2022 at 10:49 PM, PeachGr said:
+It is checked on and you have to check it off manually, and that's shady. 
+Oh there's a talk to be had about opt in vs opt out, but saying hidden is a different issue. 
+ COMMENT_BREAK
+   On 6/20/2022 at 8:43 AM, RedRound2 said:
+An update regarding Volta
+  I bought a giga 130W charger from them based on Short-circuit/LTT ad last September. It finally delivered after 7 months of delay (was supposed to ship in November, I got it this June). They did seem to have genuine issues with manufacturing, shipping, etc. so I wont take too many points from them.
+  But 3 weeks back ordered a carrying case from them. Made the payment but no ETA or communication on when its shipping or arriving, even after 2 follow up mails and posting on their forum
+Expand  
+As far as I know LTT has paused their partnership with Volta [See last posts of a older sponsorship complaint thread]
+  https://linustechtips.com/topic/1416749-weekly-sponsorship-suggestioncomplaint-thread-march-2022/page/2/
+ 
+ COMMENT_BREAK
+ Hi, 
+  I just saw the ad for saymine and thought it sounded good so decided to look up how it works and what their promises are about not abusing the data you're giving them. So it works by giving them read access to all your emails as far as I can tell (can't believe you guys just went ahead and did that) and optionally giving them access to send emails on your behalf. I get that they need some way to identify the accounts so sure, however I could not find any marketing materials about how they use the data they can gather from this, how they promise not to be the bad guys and how they promise to keep your data safe. It might be somewhere in their privacy policy but the fact that they don't talk about their own data privacy in the marketing material makes me not trust them personally. On top of that they are based in tel-aviv which privacy wise does not exactly have the best track record. And I don't know if they have privacy protections similar to GDPR but I would think they would very explicitly put something like that front and center on their site. 
+  All in all I would not personally feel good recommending this service and I would not give them access to my emails. Seems counter productive when you're trying to improve your privacy. 
+ COMMENT_BREAK
+ Hi,
+I don't know if that is also something LMG might want to look into.
+Mista GG just published a video how he was treated by manscaped.
+It sounds like Manscaped is treating smaller Creators really really bad. From underselling to not paying at all.
+
+I'm guessing Manscaped isn't really able to do this with LMG but LMG probably also has the power to put Manscaped into its place.
+
+Regards, Turtle
+ COMMENT_BREAK
+ lots of people seem to be having issues with the UNVR v1 from ubiquiti lots of comments about it but nobody from the company is responding
+UNVR stopped responding - just white flashing light | Ubiquiti Community
+ COMMENT_BREAK
+   On 7/14/2022 at 4:27 PM, Mobrockers said:
+Hi, 
+  I just saw the ad for saymine and thought it sounded good so decided to look up how it works and what their promises are about not abusing the data you're giving them. So it works by giving them read access to all your emails as far as I can tell (can't believe you guys just went ahead and did that) and optionally giving them access to send emails on your behalf. I get that they need some way to identify the accounts so sure, however I could not find any marketing materials about how they use the data they can gather from this, how they promise not to be the bad guys and how they promise to keep your data safe. It might be somewhere in their privacy policy but the fact that they don't talk about their own data privacy in the marketing material makes me not trust them personally. On top of that they are based in tel-aviv which privacy wise does not exactly have the best track record. And I don't know if they have privacy protections similar to GDPR but I would think they would very explicitly put something like that front and center on their site. 
+Expand  
+Wanted to piggyback off this a bit, I remember they or someone else had a sponsorship from them a few months ago and I checked it out. The system, at least then, was pretty rudimentary where it just sends an email to the company asking for them to delete your data and that's it, I would have at least expected something a bit better based on how they try to sell it to you. They make it sound like they'll keep pushing to get the company to delete your data or something but it was just a single email and then the company would respond directly to you and probably half the time they'd just say "no" to the request since I'm not in a specific state like California or in Europe so it was pretty pointless.
+ COMMENT_BREAK
+   On 7/18/2022 at 8:32 PM, Robyn H said:
+lots of people seem to be having issues with the UNVR v1 from ubiquiti lots of comments about it but nobody from the company is responding
+UNVR stopped responding - just white flashing light | Ubiquiti Community
+We can ping our contacts. 
+    On 7/18/2022 at 7:26 PM, turtles_vrywhr said:
+
+
+
+
+
+
+
+Expand  
+I haven't watched the video yet but we will. @GeoffLMG - Our experience with them has been great from the start, but you're right and that might just be because even a few years ago our following was still much larger compared to smaller creators.
+ COMMENT_BREAK
+ I noticed that another person had posted about FlexiSpot advertising the LTT review of their product on their pages, and I wanted to share about my incredibly awful experience I had with them. I had a literal bait and switch pulled on me during the Amazon Prime Day deal on their E7 Pro Plus Frame (the same one reviewed by LTT and they have Linus laying on the desk on the Amazon product page). The desk was advertised to be the E7 Pro Plus legs with the Premium Keypad. The 3 Stage legs on the page. The Legs had 3 color options Black, White, and Silver. Black was not on sale so I chose Silver over White for my space. What I received was not the E7 Pro Legs. It did not have double crossbars, cable management tray, or the premium keypad. The legs were 3 stage but onle a single crossbar and max weight rating of 275lbs I promptly checked Amazon to see if I accidentally ordere the wrong thing. Low and Behold the product option had been removed and clicking on the item I ordered takes me to the E7 Pro Plus legs but in Black. Clearly there had been a mistake, and this was a sold by FlexiSpot item. Ok no big deal I will just contact them to get it sorted out. I tried through chat on Amazon and they simply ignored the fact that I had received the wrong item and simply told me that the legs could hold 355lbs after checking with relevant staff. Ok whatever I'll just call in, it is kind of a weird situation after all. I try 2 different times to call and both times I get timed out (which is only after 5 min for their call line) saying no one is available, call back later. At this point I have a half assembled desk in my living room that I am putting off repackaging and sending back to Amazon, but I am trying to wait to send it back until I can find out how FlexiSpot can remedy this. I have now just got finished with probably the most frustrating email chain of my life with their support and can confidently say this company does not care about its customers. I don't want this post to be too long or whiny, but I can share my correspondence if necessary. I just wanted people to know and since they are using LTT as a form of advertisement I figured it was important. I will be filing a report against them as a seller on Amazon for bait and switch but I doubt anything comes of it. Just going to have to wait til Black Friday now. Probably just gonna cough up my dough to UpLift cause at least they will treat me like a human being.
+ COMMENT_BREAK
+ Hi LMG team
+  Thought I'd share the horror show I'm experiencing with LG. After watching the below video I was sold on giving OLED a try for gaming. So shopped around and actually ended up against my better judgement ordering directly from LG's webpage instead of Amazon to save a 100 bucks. Well it has been about a month and here's the LG shit show
+  1. TV ordered 7.4.2022 
+2. TV Shipped 7.6.2022
+3. TV Damaged 7.10.2022 @Fedex
+4. Per LG TV sent back to them and deliver to the Englewood Cliffs, NJ location
+5. I contacted LG on 7.11.2022 and inquired on the damaged shipment and asked when they would be dispatching a replacement. They instructed me that I would need to file a damage claim with Fedex and process a return. I explained that I cannot process a return/damage claim on a item I did not receive and provided them the detailed tracking info showing them they had got the TV back. I've called 6 times and up to I could not even begin to guess on the emails as of 7.25.2022. I've got the order info and fedex tracking if you want it. 
+  Update 7.29.2022 Another 2 hours on the phone today to be instructed to call fedex again. Followed up email and the fedex documentation
+@CPotter
+  Update 7.30.2022 - LG chat just straight up dropped me on my ass after refusing to call their online support center lol
+  Update 8.3.2022 - Was on the phone with LG again this morning given the usual run around - had to drop the call to catch a flight asked them for a follow email - no response
+  Update 8.5.2022 email response today letting me know LG does not offer a replacement or exchange program. Absolutely incredible. Their customer service department makes the US government look outright efficient. 
+  Update 8.9.2022 - Finally got a return confirmation number but they will not issue my refund until (they get the item back from Fedex) so I again provided the fedex confirmation number should they got the item back early july. Also totaled it up 76 emails, 19 calls at an average of 45 min a piece. 
+  Update 8.10.2022 2 hours on the phone with them and 8 different people but I finally got a return authorization. Which they promptly emailed me a return lable for an item I don't have lol they are telling me to ignore it. 
+  Update 8.19.2022 Another 2 hour phone session but I finally got my return. I do hereby solemnly swear I will never purchase a LG product again. This has been the worst customer service experience of my life. Hope you drop them on their ass LMG team.
+  So long story short there is no circumstance to which I will ever again purchase a LG anything  would you all recommend Sony or Samsung for a replacement?
+  LGE CHAT.pdf
+Fetching info...
+vi 
+LGE CHAT.pdf
+Fetching info...
+ COMMENT_BREAK
+ I don’t have permission to post in the sponsor discussion board so apologies if this is the wrong place to post this info, but the link shown on WAN show tonight was broken and people were too distracted with Linus’ echo to notice the broken link? http://lmg.gg/UBIQUITIWAN http://lmg.gg/ubiquitiwan
+ COMMENT_BREAK
+ Sorry to hear you had issues sometimes AMAZON will throw packages nowhere near my front porch but UPS is by far the worst they won’t even show up but say they did or damage my packages. 
+       I just ordered my 2nd LG Unltra gear to go with my 34GN830A-B because I love the sleak , crisp, perfectly curved HDR Display @ 160HZ. The desk that I use for computing isn’t large enough for another monitor 27 inches or more so I went with the ultragear 24GN650-B and got a 2nd VESA/ViVo(lol) adjustable mount. The problem was the horrendous customer service on the LG site itself because I was hoping to get some sort of discount or a coupon because I just spent nearly $800 on my first monitor. I spoke to seven different people and only the last person even tried to understand anything about their products. So I did but I unfortunately usually do and ordered it from Amazon for $156 I get it tomorrow. I hope it’s as awesome as my 34”(0 issues with my new dreamachine) i’m sure it will be as ultra gear by LG seems to be very quality.    
+  Just focus on the monitor not the mess that is the nearly completed set up including the 3080 TI I just acquired today.
+ COMMENT_BREAK
+   On 7/30/2022 at 2:00 AM, xxaj said:
+I don’t have permission to post in the sponsor discussion board so apologies if this is the wrong place to post this info, but the link shown on WAN show tonight was broken and people were too distracted with Linus’ echo to notice the broken link? http://lmg.gg/UBIQUITIWAN http://lmg.gg/ubiquitiwan
+Merged to complain thread.
+ COMMENT_BREAK
+   On 8/1/2022 at 2:49 PM, LogicalDrm said:
+Merged to complain thread.
+As of August 1st their affiliate program is no longer a thing. I removed the link from the show on YouTube.
+ COMMENT_BREAK
+   On 7/25/2022 at 2:02 PM, NAEHS said:
+Hi LMG team
+  Thought I'd share the horror show I'm experiencing with LG. After watching the below video I was sold on giving OLED a try for gaming. So shopped around and actually ended up against my better judgement ordering directly from LG's webpage instead of Amazon to save a 100 bucks. Well it has been about a month and here's the LG shit show
+  1. TV ordered 7.4.2022 
+Expand  
+Sorry for this one taking so long. Have their been any updates on this since this issue? That's a super not cool situation.
+ COMMENT_BREAK
+   On 8/2/2022 at 7:42 PM, CPotter said:
+Sorry for this one taking so long. Have their been any updates on this since this issue? That's a super not cool situation.
+No worries just wanted to make sure you saw it. I was on the phone with them for another hour and half this morning unfortunately I had to get on a plane so I asked them to email me an update that was at around 10am EST just checked nothing at 9:18EST. I've sent them another follow-up email 
+ COMMENT_BREAK
+ A while ago, I found the the Pulseway Discord and did some scrolling up to see what it was all about. I noticed someone recently say that they noticed the community moderator Jamie was using a stock photo of some guy as his avatar. A moderator in r/MSP also confirmed that the Jamie from Pulseway wasn't real in this comment.
+I also reverse image searched the profile photo in my email of my "account manager" (different person than Jamie); and lo and behold it's a stock image of some generic person available for sale!
+Someone else found that their LinkedIn is also full of stock photo people. I couldn't get LinkedIn to work so I would like if anyone here does they could dig up more examples for the community.
+Here is a thread I've created in r/sysadmin about it, where other people confirm the same.
+This feels really weird and unsettling to me. Why would they be creating "fake people" for account management, social media, and possibly more?
+I also got banned from their company-run reddit for asking the same question instead of them just addressing the issue, which seems extra shady to me.
+Should Pulseway continue to be recommended or a sponsor of LTT in light of this? I don't think so, but I would love to hear what LMG and the community has to say.
+If LMG is able to reach out to Pulseway for an explanation that would be great as well.
+Edited August 23, 2022 by SansVarnic
+Corrected your font for Dark Theme.
+ COMMENT_BREAK
+   On 8/19/2022 at 7:18 PM, MagicianMountain1835 said:
+A while ago, I found the the Pulseway Discord and did some scrolling up to see what it was all about. I noticed someone recently say that they noticed the community moderator Jamie was using a stock photo of some guy as his avatar. A moderator in r/MSP also confirmed that the Jamie from Pulseway wasn't real in this comment.
+I also reverse image searched the profile photo in my email of my "account manager" (different person than Jamie); and lo and behold it's a stock image of some generic person available for sale!
+Someone else found that their LinkedIn is also full of stock photo people. I couldn't get LinkedIn to work so I would like if anyone here does they could dig up more examples for the community.
+Expand  
+  As a follow-up to your post, the only listed address I could find on their website seems to be temporary rented office spaces:
+https://www.pulseway.com/privacy
+  6/9 Trinity Street, Dublin 2, Ireland
+https://www.completeofficesearch.com/office-space/serviced-offices-69-trinity-street-dublin-2/
+  I would really like to know who is really behind that company, because it seems a bit sketchy at the moment.
+  There might be a really good explanation for that (or not) I just don't have any evidence to point one way or another.
+ COMMENT_BREAK
+   On 8/19/2022 at 8:03 PM, adubpak said:
+  As a follow-up to your post, the only listed address I could find on their website seems to be temporary rented office spaces:
+https://www.pulseway.com/privacy
+  6/9 Trinity Street, Dublin 2, Ireland
+https://www.completeofficesearch.com/office-space/serviced-offices-69-trinity-street-dublin-2/
+  Expand  
+Very interesting, thanks for looking that up!
+ COMMENT_BREAK
+ I just watched the latest TechLinked ("Google Broke Android.....", Aug 20, 2022) and I think you should look into Wondershare Filmora.
+  I have downloaded it several times in the past, giving it chances in several different times where I needed relatively easy video editing software. Every time I installed it, there were weird 3rd party processes that popped up alongside it. When trying to close them, they were mysteriously popped again- even when Filmora was not running at all.
+When uninstalled it the 1st time, a bunch of junk left behind including some of the processes I've seen.
+  The 2nd time, after I did what I had to do, I uninstalled it using Revo Uninstaller Pro (which is a very good software and I'm so happy I bought a long ago) and still some persisting executables were left behind. I only managed to remove them when booting lightweight OS from boot USB so no part of the local OS were running an delete it using the file explorer then cleaning the registry. This is such a nightmare of a process to go through for 'just a video editing software'.
+  Things you should know:
+1.) I haven't pirated the software, it was downloaded from the official website of Wondershare (there were two different purchases because it's been long time between the 2 installs and couldn't find proof of purchase or the signed files).
+2.) Wondershare is a Chinese company based in Shenzhen. Chinese companies aren't known for their impeccable businesses practices.
+ COMMENT_BREAK
+ Using the Mac Address supplied link I signed up for Mine (saymine.com).  I have had my own email domain and email address for nearly 20 years.  I have thousands of emails in nearly one hundred folders.  Most of these dealing with accounts, services, and online subscriptions.  The personal side of my LastPass has close to 500 account/password entries.
+  After giving Mine access to my email it returned a total of 18 companies that "have my data", one of them being Mine itself. It did not return anything for Google or Apple.  It found only 2 of my dozen streaming accounts. Only two of the dozens of online shopping accounts that have emails about setting up the account and orders.  
+  Even though Mine was free, I feel like I overpaid.
+ COMMENT_BREAK
+   On 8/20/2022 at 8:53 AM, Kimkash said:
+I just watched the latest TechLinked ("Google Broke Android.....", Aug 20, 2022) and I think you should look into Wondershare Filmora.
+  I have downloaded it several times in the past, giving it chances in several different times where I needed relatively easy video editing software. Every time I installed it, there were weird 3rd party processes that popped up alongside it. When trying to close them, they were mysteriously popped again- even when Filmora was not running at all.
+When uninstalled it the 1st time, a bunch of junk left behind including some of the processes I've seen.
+Expand  
+I think it's a pretty widespread opinion that you just avoid Wondershare products for exactly this reason. I'm surprised to see them pushing Wondershare at all. They bundle all kinds of PUP and similar, and use a ton of dirty grey hat SEO tricks etc. They're pretty sketchy all around.
+ COMMENT_BREAK
+   On 8/18/2022 at 10:06 PM, NastyFlytrap said:
+Getting sponsored by a company who has a dubious history of operating a VPN service, to promote a CYBER SECURITY APPLICATION sounds like a terrible fucking idea....
+  Expand  
+i guess linus needs the money
+ COMMENT_BREAK
+   On 8/18/2022 at 10:06 PM, NastyFlytrap said:
+Getting sponsored by a company who has a dubious history of operating a VPN service, to promote a CYBER SECURITY APPLICATION sounds like a terrible fucking idea....
+Since when is a VPN service considered to be dubious? I use NordVPN all the time and it's great. After all, how else am I supposed to watch my BBC or US-Only shows?
+ COMMENT_BREAK
+   On 8/21/2022 at 2:55 PM, silentdragon95 said:
+Since when is a VPN service considered to be dubious? I use NordVPN all the time and it's great. After all, how else am I supposed to watch my BBC or US-Only shows?
+most dubious is claims about security and privacy, then using scripts to say that one "use it personally"... which can be awful for trust. How many that has been punished by this kind of marketing and "fake growth" by influence.
+ COMMENT_BREAK
+   On 5/3/2022 at 5:31 PM, CPotter said:
+Hey everybody!
+  Let us know if you have any issues with sponsors we're currently running across any of LMG's channels. The business is active here and will chime in and respond as necessary. 
+  Thanks for watching our content, and for the feedback, we really do appreciate it.  
+Hey Colton, 
+  I know in the past I believe the WAN show was sponsored by MechanicalKeyboards.com. I wanted to bring a recent Reddit post to light: 
+ It appears there is still a code for them on their website https://mechanicalkeyboards.com/c/linustechtips 
+  Didn't see it in the master sponsor list either but just wanted to share my concern here with the team. 
+ COMMENT_BREAK
+   On 8/18/2022 at 10:06 PM, NastyFlytrap said:
+Getting sponsored by a company who has a dubious history of operating a VPN service, to promote a CYBER SECURITY APPLICATION sounds like a terrible fucking idea....
+  Expand  
+Hey @NastyFlytrap thanks for flagging this, our team will look into it. Any information you could provide on Nord's VPN issues in the past would be helpful. While we don't promote the VPN service and a few of our team members use their services, we'd love to hear more as it's been a while since our initial due diligence with them.
+ COMMENT_BREAK
+   On 8/24/2022 at 9:38 PM, CubesTheGamer said:
+Hey Colton, 
+  I know in the past I believe the WAN show was sponsored by MechanicalKeyboards.com. I wanted to bring a recent Reddit post to light: 
+Expand  
+Our team caught this, thanks for sending as well! We've put all spots with Mechanicalkeyboards.com until we see how this is resolved. 
+ COMMENT_BREAK
+   On 8/21/2022 at 5:41 PM, NastyFlytrap said:
+1: They had a major hack/leak cant recall off the top of my head, and they tried to shove it under the rug and not handle it responsibly, which is immoral and i like beating immoral companies over the head.
+2: its not a VPN, its a cyber security suite. In the video they were advertising an anti malware app.
+This is a very vile thing to do on their part, and very insidious too. People have no clue what trust means until it is betrayed, and they never see it coming because of people like him excusing this shit
+Scripts asking for a personal endorsement with a product is a pretty big issue in our industry. Our team makes sure to address that in any sponsor scripts we do. We won't say that we use it if we don't, it's important we're transparent on that. I will say that I know a few of our team members do use the Nord Security suite, as well as NordPass, personally. We're following up on this spot getting attached to this video (with our systems, sometimes mistakes happen like this one), and putting stuff into place so there's less conflicts like this in the future. Thanks for flagging this, guys, we're doing our best and happy we can have a place to address concerns like this and improve for our future!
+
+As mentioned, anything you guys can send on issues with Nord would be appreciated as we do another audit on them. Thanks!
+ COMMENT_BREAK
+   On 8/21/2022 at 2:55 PM, silentdragon95 said:
+Since when is a VPN service considered to be dubious?
+Personally... since the beginning. A VPN provider might provide you service, neverthless is a company that you're paying that knows every site you and your software visiting and every search you make.
+Therefore, call VPN a "security feature" one for all for me is uncorrect. A VPN might be useful when you're on a public Wifi Network with no encryption or in some other specific contest. Therefore, VPN is not "more security", but a service.
+  On 8/21/2022 at 2:55 PM, silentdragon95 said:
+I use NordVPN all the time and it's great.
+Glad that you enjoy how you spend your money.
+  On 8/21/2022 at 2:55 PM, silentdragon95 said:
+After all, how else am I supposed to watch my BBC or US-Only shows?
+I don't know and personally I don't care about that. Please, don't get me wrong: your VPN provider gives you something that you cannot achieve via ISP, but please also consider that using this VPN provider you're circumventing National Intelletual Properties licensing that the broadcaster has/wants to comply. It's fine for you? Ok, but please don't forget that is quite a grey area...
+ COMMENT_BREAK
+ Complaint:
+  There's a sponsor that gets plugged multiple times per video that doesn't offer a warranty on the majority of their products.
+Not sure of the company's name, but it looks like they sell rebranded water bottles and the CEO has a super anti-worker stance re: unions.
+  I feel like LMG shouldn't be advertising products from such an anti-consumer company.
+ COMMENT_BREAK
+   On 8/27/2022 at 7:30 PM, pstrick2 said:
+Complaint:
+  There's a sponsor that gets plugged multiple times per video that doesn't offer a warranty on the majority of their products.
+Not sure of the company's name, but it looks like they sell rebranded water bottles and the CEO has a super anti-worker stance re: unions.
+  I feel like LMG shouldn't be advertising products from such an anti-consumer company.
+Expand  
+You can just say it straight, there's no need to be dick about it.
+ COMMENT_BREAK
+   On 8/25/2022 at 6:38 PM, mMontana said:
+A VPN provider might provide you service, neverthless is a company that you're paying that knows every site you and your software visiting and every search you make.
+would rather a VPN provider ""know"" this information, which is a verified and audited no-logs provider, rather than my ISP which is absolutely logging everything.
+ COMMENT_BREAK
+   On 8/25/2022 at 6:38 PM, mMontana said:
+I don't know and personally I don't care about that. Please, don't get me wrong: your VPN provider gives you something that you cannot achieve via ISP, but please also consider that using this VPN provider you're circumventing National Intelletual Properties licensing that the broadcaster has/wants to comply. It's fine for you? Ok, but please don't forget that is quite a grey area...
+Even as someone who doesn't pirate games and thinks that if an able bodied person wants to play Wii U or 3DS games on the PC rather then the original console is just objectively wrong, I think no one would say that current Intellectual property laws and licensing set-ups are reasonable for the theoretical goal of intellectual property of having people or businesses have exclusive rights for a limited time to prevent copying and encourage the ideas to be innovated on. Not being able to watch Infinity Train because Warner Brothers Discovery hates their artists is a pretty clear indicator of the fact.
+ COMMENT_BREAK
+ I don't watch every single piece of shit these big companies like Disney or WB throw up, whether it be a show or movies. It's a waste of time in my opinion. They no longer has that movie magic sparks. All is CGI bull shits these days.
+ COMMENT_BREAK
+ I know you guys are sick to death about the complaints with Volta.. Just wanted to update on the prior complaint I posted:
+
+My units finally arrived, and unfortunately it looks like the whole thing's been a big scam. I ordered 2 of the 200 watt units. My test has been to plug in my phone and a laptop, each runs on 65 watt chargers. The phone doesn't charge at 65 watts from the Volta, it appears to max out at 30 watts. The port is marked 100 watt. The laptop doesn't appear to charge from the Volta Giga either. It looks like it may slowly drain its battery while drawing a little power from the outlet to help it along. Cables are tested and known good/known to work with other power sources without issue. I have tried multiple permutations of ports on the chargers and no difference.
+
+While charging the phone and laptop, the Giga gets very hot. I have no means to measure it, but I would guess it's a little over 110F while in *principal* operating at half capacity max (and very likely quite a bit less).
+
+Volta heavily implies the chargers can do 200 watts of output, but they only ever list 20 watt and 30 watt charging standards (Samsung quickcharge and 20 watt apple charging). I'm not sure how this 200 watt charger was ever supposed to output 200 watts. My phone can get a full charge in 30 minutes at 65 watts. It's been charging for 1.5 hours (from 8% to 85% now) using the Volta Giga. I think this charger might be giving it 20 to 30 watts.
+
+If you guys still have your volta chargers from when they did the sponsor spot, I think it'd make a great video to put one on one of the new testing machines you have and see what you can pull out of it. Or get answers out of Volta about why the charger doesn't work as they advertised.
+
+--
+
+They had previously told LTT we'd get our orders by end of April I believe. It currently looks like Volta never had the capacity to meet that order. They're managing to send out 150 orders/week or so according to the numbers they're giving us on IGG.
+ COMMENT_BREAK
+   On 8/27/2022 at 3:53 PM, NastyFlytrap said:
+With all due respect, the last thing im going to care about in 2022 are the feelings of 'too big to fail' corporations and governments that border on corrupt.
+Which currently does not mean anything for the "using VPN service is more security" claim that I'm arguing against?
+  On 8/28/2022 at 10:59 AM, Arika S said:
+would rather a VPN provider ""know"" this information, which is a verified and audited no-logs provider, rather than my ISP which is absolutely logging everything.
+Fair enough, but for internet access you must be an ISP or pay an ISP, which by law have to log the traffic. 
+But you think that't's better and smarter pay another company (on top) to know what traffic is being made by you and your devices, and believe being sure that no one wil access to that logs.
+Frankly, I cannot see any company use their lawyers (aka money) to defend the customer in spite of the company.
+  On 8/28/2022 at 4:28 PM, Ultraforce said:
+Even as someone who doesn't pirate games and thinks that if an able bodied person wants to play Wii U or 3DS games on the PC rather then the original console is just objectively wrong, I think no one would say that current Intellectual property laws and licensing set-ups are reasonable for the theoretical goal of intellectual property of having people or businesses have exclusive rights for a limited time to prevent copying and encourage the ideas to be innovated on. Not being able to watch Infinity Train because Warner Brothers Discovery hates their artists is a pretty clear indicator of the fact.
+Intellectual property laws are roses with a humongous quantity of thorns, that change from the side you're looking or you're stainding. As developer, content creator, part of the media or intellectual prorperty creation business, costs become profits and payrolls. 
+However, "reasonable" is another wording for "what I consider is right" multiplied for the audience you're speaking to. Laws are not reasonable, only laws. If anyone wants "better" (for his/her/its/whatever point of view), please step up and start the path for that in own country. Believe me, you'll gonna have a tough road.
+  However, all the concerns about ISPs and IPs owner don't change the basic assumption: the VPN provider knows data about the customer. It's one more organization that has data, so define this "more security" is still without proof to me.
+ COMMENT_BREAK
+ I don't know if Cloudflare is still an active sponsor or not, but they are currently in the news for defending the notorious web forum Kiwi Farms, which they host. Yesterday on their twitter they posted their rules and guidelines, several of which Kiwi Farms has either break or is continuing to break. https://blog.cloudflare.com/cloudflares-abuse-policies-and-approach/  The Guardian has published an news article on subject which shows the great lengths Cloudflare is going to defend their stance on the matter.
+https://www.theguardian.com/technology/2022/sep/01/cloudflare-defends-providing-security-services-to-trans-trolling-website-kiwi-farms
+ COMMENT_BREAK
+   On 9/1/2022 at 7:35 PM, Knightsword said:
+I don't know if Cloudflare is still an active sponsor or not, but they are currently in the news for defending the notorious web forum Kiwi Farms, which they host. Yesterday on their twitter they posted their rules and guidelines, several of which Kiwi Farms has either break or is continuing to break. https://blog.cloudflare.com/cloudflares-abuse-policies-and-approach/  The Guardian has published an news article on subject which shows the great lengths Cloudflare is going to defend their stance on the matter.
+https://www.theguardian.com/technology/2022/sep/01/cloudflare-defends-providing-security-services-to-trans-trolling-website-kiwi-farms
+Expand  
+  Before I start this, let me be clear I am not defending Kiwi Farms and think what they are doing is vile
+  That being said;
+  Cloudflare is a tool that almost every website that gets a decent amount of traffic will use. The effect of banning certain websites can and will have a large fallout that could lead to large negative effects for other innocent websites. 
+  I also don't think it would work. Take Andrew Tate for instance. Was deplatformed of nearly every major site, But if anything, it just made him even more popular despite his outdated and misogynistic views on women and viled up his army even more.
+  See for example the "Daily Stormer" website, was using cloudflare. Cloudflare removed access to their services, and they just used one of Cloudflare's competitors and still exists to this day. 
+  If cloudflare does ban further sites, where's the line drawn. What is to be banned, what's the threshold for removing someone (or trying to) off the internet. 
+  Dangerous path to go down and is too political for the LTT forums so I will not comment further.
+   
+ COMMENT_BREAK
+ dbrand seriously messed up with the Killswitch. First they say that it will include the cover and screen protector, then they say that they are also doing thumbsticks but anybody that preordered will get them free. Then, surprise surprise, they separate the screen protector and make the thumbsticks and travel cover an extra fee, while already charging 3x most other cases for the base version.
+  Comparing the “Killswitch Update #3” email with the “Killswitch Update #4” email highlights the discrepancy. It literally says it’s going to include the protector and cover in the kit. And what I find most strange is that they never revealed pricing before, so they could’ve very easily not gone against their word by selling it all as a bundle for like $90…
+  Poor behavior on the part of dbrand, and judging by the comments on r/SteamDeck they just lost a lot of their hype and preorders.
+ COMMENT_BREAK
+   On 9/2/2022 at 7:42 AM, suredoood said:
+dbrand seriously messed up with the Killswitch. First they say that it will include the cover and screen protector, then they say that they are also doing thumbsticks but anybody that preordered will get them free. Then, surprise surprise, they separate the screen protector and make the thumbsticks and travel cover an extra fee, while already charging 3x most other cases for the base version.
+  Comparing the “Killswitch Update #3” email with the “Killswitch Update #4” email highlights the discrepancy. It literally says it’s going to include the protector and cover in the kit. And what I find most strange is that they never revealed pricing before, so they could’ve very easily not gone against their word by selling it all as a bundle for like $90…
+Expand  
+I'd like to chime in and mention that their product page to reserve shows that it should come with the items in this screenshot attached.
+    However upon hearing of the updates to Dbrands Project Killswitch update #4 
+
+They have changed up what the components entail. That and made it into a tiered system from what it looks like.
+  R/SteamDeck is reasonably upset about what is a potential bait and switch as some point out.
+Link to outrage post #1 - Reddit Link
+Missing the tempered glass as part of the components for the product. Which is not listed in their official thread here: Official Reddit Link to the project update #4 thread
+And you can currently still see the components listed in their official website. 
+Link to Dbrands website.
+
+
+My general thoughts. I already downvoted as you can see in screenshot too. So i'm displeased with how Dbrand is taking this as of the current time and might not be a good idea to sponsor them until they can sort this out. Especially as LTT Heavily favors the Steamdeck, and Linus personally loving the upgrades they've made to the deck. This wouldn't be a good image to continue working with them especially around the steamdeck at this time.
+
+ 
+ COMMENT_BREAK
+ I'm happy to see the continued partnership with Anker in the latest LTT YouTube video. I've had a great experience with there products (cables and chargers) and there customer service is above and beyond 
+ COMMENT_BREAK
+ Hi, not really a complaint, but I hate what Ubisoft did to a Rocksmith. I own Rocksmith 2014 and I love it. The modding community is great. The only flaw Rocksmith 2014 has is the requirement to own a special cable, but you pay once and you OWN it forever.
+  Now, Rocksmith+ is a service and it costs c$40 for 3 months or c$130 per year. Rocksmith 2014 costs the same as 3 month subscription, the cable is another c$40. Except you pay once and you own the product.
+  I own Rocksmith 2014 about 8 years now. I didn't buy a single song thanks to huge modding community (cdlc's of official songs gets deleted, so there is no piracy. I can only get what is not available on official store). I'd need to pay over 1k c$ for a Rocksmith+ license for the same time.
+  I'm sure that Rocksmith+ has a lot of improvements over 2014, but the business model where you own nothing is a no-go for me. I'll stick to my 2014 until Rocksmith+ kills modding community. I think it's not very customer friendly approach.
+ COMMENT_BREAK
+   On 9/6/2022 at 7:12 PM, Skioles said:
+Hi, not really a complaint, but I hate what Ubisoft did to a Rocksmith. I own Rocksmith 2014 and I love it. The modding community is great. The only flaw Rocksmith 2014 has is the requirement to own a special cable, but you pay once and you OWN it forever.
+  Now, Rocksmith+ is a service and it costs c$40 for 3 months or c$130 per year. Rocksmith 2014 costs the same as 3 month subscription, the cable is another c$40. Except you pay once and you own the product.
+  Expand  
+Man, that's a huge bummer.  I've been waiting for Rocksmith+...
+ COMMENT_BREAK
+   On 8/19/2022 at 7:18 PM, MagicianMountain1835 said:
+A while ago, I found the the Pulseway Discord and did some scrolling up to see what it was all about. I noticed someone recently say that they noticed the community moderator Jamie was using a stock photo of some guy as his avatar. A moderator in r/MSP also confirmed that the Jamie from Pulseway wasn't real in this comment.
+I also reverse image searched the profile photo in my email of my "account manager" (different person than Jamie); and lo and behold it's a stock image of some generic person available for sale!
+Someone else found that their LinkedIn is also full of stock photo people. I couldn't get LinkedIn to work so I would like if anyone here does they could dig up more examples for the community.
+Expand  
+    On 8/19/2022 at 8:03 PM, adubpak said:
+  As a follow-up to your post, the only listed address I could find on their website seems to be temporary rented office spaces:
+https://www.pulseway.com/privacy
+  6/9 Trinity Street, Dublin 2, Ireland
+https://www.completeofficesearch.com/office-space/serviced-offices-69-trinity-street-dublin-2/
+  Expand  
+  @SeanLMG have you been able to get any update about Pulseway's shady practices?
+ COMMENT_BREAK
+ I know dbrand is spicy and basically a meme at this point…but between the stuff last week and this now….yikes. 
+ COMMENT_BREAK
+   On 9/8/2022 at 9:08 PM, D3LUXE15 said:
+I know dbrand is spicy and basically a meme at this point…but between the stuff last week and this now….yikes. 
+Expand  
+That's horrible about anyone's death.  Not cool at all.
+ COMMENT_BREAK
+   On 9/8/2022 at 9:08 PM, D3LUXE15 said:
+I know dbrand is spicy and basically a meme at this point…but between the stuff last week and this now….yikes. 
+Expand  
+I mean…cmon…
+ COMMENT_BREAK
+ It's like they've got a "spicy" 12 year old running their Twitter.
+ COMMENT_BREAK
+   On 9/8/2022 at 9:08 PM, D3LUXE15 said:
+I know dbrand is spicy and basically a meme at this point…but between the stuff last week and this now….yikes. 
+Expand  
+There's something seriously wrong with this, i'm not a royalist in anyway but this still seems awful of them to post something like this.  it still hits home for millions throughout the world and to clearly openly mock it seems wrong.
+  I'll never purchase anything from them due to this stunt.
+ COMMENT_BREAK
+ dbrand being debranded.
+ COMMENT_BREAK
+ I mean its part of their brand, Its jokes. is it in poor taste? absolutely. but them making jokes in poor taste isn't really new & I don't think it should affect their sponsorship. that being said, stuff like this really doesn't matter to me. so 
+I do understand if this crosses a personal line for some people, everyone has a different stance on how far stuff like this should go or when its acceptable to make jokes about x thing.
+Edited September 9, 2022 by Razercake
+rephrasing
+ COMMENT_BREAK
+   On 9/9/2022 at 7:08 PM, Razercake said:
+I mean its part of their brand, Its jokes. is it in poor taste? absolutely. but them making jokes in poor taste isn't really new & I don't think it should affect their sponsorship.
+Doing it to promote their own product, is a bit eh. Using someones death for selling a product, one is for memes, this is for "business".
+ 
+ COMMENT_BREAK
+   On 9/9/2022 at 7:15 PM, Quackers101 said:
+Doing it to promote their own product, is a bit eh. Using someones death for selling a product, one is for memes, this is for "business".
+  Everything they do is to promote their own product, its all for business.  you can think this is too far, but I'm just saying for me its like "meh, bad joke" & I move on. 
+ COMMENT_BREAK
+ Maybe dbrand should put "Press F to pay respect".
+ COMMENT_BREAK
+   On 9/9/2022 at 7:08 PM, Razercake said:
+I mean its part of their brand, Its jokes. is it in poor taste? absolutely. but them making jokes in poor taste isn't really new & I don't think it should affect their sponsorship. that being said, stuff like this really doesn't matter to me. so 
+I do understand if this crosses a personal line for some people, everyone has a different stance on how far stuff like this should go or when its acceptable to make jokes about x thing.
+There are certain lines should never be crossed.  It's an insult really doing it 2 hours after the death was announced.
+  dBrand has always been edgy, and that's okay...but this is just disrespectful.  To not care about the Queens death is perfectly okay (Like Linus' reaction and response was perfectly okay), to acknowledge it is okay (if they didn't tweet their stuff), but to market it is just low.  There were literally tens of thousands outside mourning her death.
+  You can tell their mentality behind it as well by how they replied.  It quite frankly is disrespecting the dead, when it's literally a mourning period for a country.  I agree with @samwilki this is enough for me to not support their product. 
+ COMMENT_BREAK
+   On 9/13/2022 at 8:57 AM, wanderingfool2 said:
+There are certain lines should never be crossed.  It's an insult really doing it 2 hours after the death was announced.
+  dBrand has always been edgy, and that's okay...but this is just disrespectful.  To not care about the Queens death is perfectly okay (Like Linus' reaction and response was perfectly okay), to acknowledge it is okay (if they didn't tweet their stuff), but to market it is just low.  There were literally tens of thousands outside mourning her death.
+  Expand  
+yea i get it, like I said everyone has a different idea of where the line is.
+ COMMENT_BREAK
+   On 9/13/2022 at 5:04 PM, Razercake said:
+yea i get it, like I said everyone has a different idea of where the line is.
+oh yeah.
+ COMMENT_BREAK
+   On 9/2/2022 at 7:42 AM, suredoood said:
+dbrand seriously messed up with the Killswitch. First they say that it will include the cover and screen protector, then they say that they are also doing thumbsticks but anybody that preordered will get them free. Then, surprise surprise, they separate the screen protector and make the thumbsticks and travel cover an extra fee, while already charging 3x most other cases for the base version.
+  Comparing the “Killswitch Update #3” email with the “Killswitch Update #4” email highlights the discrepancy. It literally says it’s going to include the protector and cover in the kit. And what I find most strange is that they never revealed pricing before, so they could’ve very easily not gone against their word by selling it all as a bundle for like $90…
+Expand  
+I agree LMG should rethink their sponsor with Dbrand over this!
+ COMMENT_BREAK
+ Unfortunately I have to agree on dbrand. Their products are nice, but I don't think I will be supporting them any more after this for a long time.
+ COMMENT_BREAK
+ Tbqh, I have no issues with them 'disrespecting the dead', after all once someone is dead they're nothing more than a forbidden steak.
+I wouldn't say I'm a big fan of the monarchy, but I did think the Queen was a canny lass, and I thought the initial tweet was kinda funny.
+  If they'd left it there I would have just thought that's typical Dbrand and thought no more of it, but it's their response that I found really insulting though.
+  I'm not usually one for caring about people's feelings, but I don't think even I would say "Shouldn't you be grieving?". That's not even funny, that's just sick
+ COMMENT_BREAK
+ Hi, I am a bit disappointed with LMG. I was thinking about buying the VOLTA Giga Charger on Indiegogo a few months ago. I wasn't sure if I should risk it but I bought a cable from them before and was very satisfied. Then I saw the Mac Address video which was sponsored by Volta Giga charger + an extra discount.
+  After that I ordered it. Since it is a pre-order I had absolutely no problem that it came MONTHS late. Last week I got it after more than half a year late. Unfortunately the quality is absolutely poor. The ports are inserted completely wrong and because of that the cables I plug in break with time. Customer support does not respond to requests. Such experiences are not individual cases. Under the discussion tab on Indigogo there are many people who have made the same experiences.
+https://www.indiegogo.com/projects/giga-the-ultimate-universal-gan-charger/x/28437350#/discussion
+I hope such stories move LMG not to promote Kickstarter or Indigogo Campania. You NEVER know what you'll get in the end and something like this shouldn't be advertised because it's not a finished product yet and LMG can't even read customer reviews.
+     
+ COMMENT_BREAK
+ Regarding the recent plex sponsorship. I am a happy user of plex and lifetime subscriber. I feel that the behaviour of plex in presenting the following:
+https://www.plex.tv/blog/pro-week-day-1-linus/
+Without disclosing on that page or in the relevant newsletter email, that they paid for services from Linus. Is distasteful at best. When watching LTT and its associated channels I am used to and greatly appreciate the complete, explicit, and unmissable, transparency whenever there is money involved. Having this missing in this context makes me uncomfortable and unhappy, while it may not be legally or even morally required that they provide this transparency, it would still be appreciated and its absence is unpleasant. I would appreciate it, if going forward, if any company pays LMG for something, that LMG requires that they provide significantly more transparency on their end should they do something like what plex is doing.
+ COMMENT_BREAK
+   On 9/18/2022 at 4:15 PM, Sogehttechnik said:
+Hi, I am a bit disappointed with LMG. I was thinking about buying the VOLTA Giga Charger on Indiegogo a few months ago. I wasn't sure if I should risk it but I bought a cable from them before and was very satisfied. Then I saw the Mac Address video which was sponsored by Volta Giga charger + an extra discount.
+  Expand  
+the other casing is mass produce and use by other comapines.  now  q/a of the internal. yeah that on the company that design the internal thru.
+ COMMENT_BREAK
+ Hey, first-time poster; joined to ask this. This entire year, in Australia at least, SecretLab has been advertising chairs as being discounted from a price I believe they've never actually sold at.
+  Take the Titan Evo 2022: In Sep '21 they announced prices were raising from starting at A$619 to A$679, then went on sale around a month later to A$644.
+It's been 'on sale' since then, and the website often presents a countdown for when it will end, but it always just changes to another identical sale with a different theme. 
+  But, the price also silently raised again in Feb '22 to start at A$724, advertised as discounted from A$759. I don't think it's ever sold at A$759, and it's illegal (in my state) to advertise as discounted from a price you've never sold at.
+I've asked SL support about this several times, including describing this as illegal and deceptive, and their response consistently ignores the issue and is always something like "we do have sales from time to time".
+  It's not about whatever the price is, to me. Permanently pretending to be on sale and refusing to acknowledge it is deliberately deceptive, and they don't seem to mind me suggesting it's unlawful.
+Does anyone else see a problem with this as I do?
+ COMMENT_BREAK
+   On 9/21/2022 at 2:25 AM, deepfry3 said:
+Hey, first-time poster; joined to ask this. This entire year, in Australia at least, SecretLab has been advertising chairs as being discounted from a price I believe they've never actually sold at.
+  Take the Titan Evo 2022: In Sep '21 they announced prices were raising from starting at A$619 to A$679, then went on sale around a month later to A$644.
+It's been 'on sale' since then, and the website often presents a countdown for when it will end, but it always just changes to another identical sale with a different theme. 
+ 
+Expand  
+OH yeah If they can't point to a single time they had it for that price in AUS then they are clearly breaking the law they at the very lest could have emailed you an prior ad for your market that showed that yes it was at the price once.
+ COMMENT_BREAK
+   On 9/21/2022 at 2:25 AM, deepfry3 said:
+Hey, first-time poster; joined to ask this. This entire year, in Australia at least, SecretLab has been advertising chairs as being discounted from a price I believe they've never actually sold at.
+  Take the Titan Evo 2022: In Sep '21 they announced prices were raising from starting at A$619 to A$679, then went on sale around a month later to A$644.
+It's been 'on sale' since then, and the website often presents a countdown for when it will end, but it always just changes to another identical sale with a different theme. 
+ 
+Expand  
+That kinda reminds me of this which recently happened here in the UK
+https://www.thegrocer.co.uk/lidl/lidl-rapped-by-ad-watchdog-over-misleading-black-friday-savings-claims/669421.article
+  Basically if I brought out a chair and set the RRP/MSRP at £690, but everywhere sold it for £420. It would be misleading to put it on sale for £360 with a savings of £330, because you would only really be saving £60.
+  But on a more related note, I know that down under they have much stricter consumer rights than our already fairly strict rules, and I'm fairly sure we have a minimum amount of time it has to be sold at the higher price for them to advertise it as the 'was' price. However, I do believe there's a loophole, at least with retailers with multiple stores, in that it only has to be sold in one store at the higher price.
+ COMMENT_BREAK
+ I'm not sure what the minimum amount of time is to sell at the original rate in Aus, if there is one. To meet a technicality, it wouldn't surprise me if SL did something like sell it at the higher rate once for an hour, or for a few minutes between sales.
+  If that was the case, I'm not sure why support would avoid answering the question, but in my mind it's still deliberately and unnecessarily deceptive. The lower "sale" rate is clearly the standard price they expect most consumers to purchase at, but their tactic is calling it a sale so customers always think now is the best time to buy.
+Example - I just got a Facebook ad for SL literally saying saying "lowest prices of the year, now" for their Black Friday sale. This one is technically true since there's some specific chair designs cheaper than usual, but almost all of them remain the same price they have been all year.
+  For the standard models, they clearly never have to actually go on sale, because just calling the standard price a sale is obviously just as effective. Every interaction I've had with support about it, they've continued to turn a blind eye and act as though their current sale is a one-off limited time opportunity.
+ COMMENT_BREAK
+   On 5/20/2022 at 9:38 AM, PeachGr said:
+Manscapped lawnmower 3.0 
+I bought that, and it stopped working after 1 use. I contacted support and they be sent me a replacement that died after 2 weeks. Now the third died on my hands after about 6 months. I have used it normally, charged it at low wattage and I m really really careful on cleaning it with water. Arm I have 3 e waste products at home.
+Also when you but it, there is a hidden subscription for about 10€ per month for a useless part (blades)
+  Photo of their waterproof. I ve washed it a few times in low pressure water from a sink. They did a good job keeping the water inside I guess
+Expand  
+I hope someone at the company see this. I considered buying one but i will NOT now. Thank you for saving us some hard earned dollars.
+ COMMENT_BREAK
+   On 9/18/2022 at 4:15 PM, Sogehttechnik said:
+Hi, I am a bit disappointed with LMG. I was thinking about buying the VOLTA Giga Charger on Indiegogo a few months ago. I wasn't sure if I should risk it but I bought a cable from them before and was very satisfied. Then I saw the Mac Address video which was sponsored by Volta Giga charger + an extra discount.
+  I believe after feedback related to issues from the whole thing with Volta that at least since April LMG is not working with Volta.
+ 
+ COMMENT_BREAK
+ I put a pretty long post regarding my concerns with the most recent Anker sponsored video in the associated thread. The short version is this: LMG would do well to avoid promoting AC power products (power strips, surge protectors, current taps) which aren't listed under the appropriate standards defined for those devices. In the referenced video the prominently featured Anker 615 and less prominently demonstrated PowerPort Cube fit under that description. I'd recommend my post above for further details, but suffice it to say that Anker consistently promotes AC power products which typically lack proper labeling for relevant standards (proper labeling is typically seen as those holographic metal foil labels or as an integral part of the case's injection molding to indicate a listing certificate number and/or the appropriate standards; see guidelines here). A likely reason for this lack of labeling is because Anker all to often also fails to have their device listed under relevant standards.
+  Good luck!
+Jon
+ COMMENT_BREAK
+   On 9/27/2022 at 12:16 PM, that_dude said:
+TL;DR Anker might deliver a (known) dangerous good .
+any sponsors doing electronics or "health/food", jk but yes, that could suck.
+ COMMENT_BREAK
+   On 9/21/2022 at 4:27 AM, justinboggs said:
+OH yeah If they can't point to a single time they had it for that price in AUS then they are clearly breaking the law they at the very lest could have emailed you an prior ad for your market that showed that yes it was at the price once.
+Update on this. Someone with 'Senior Customer Care Specialist' in their signature emailed me explaining again that freight/component prices have affected their ability to sell at their previous rate, but they do have sales from time to time for their customers to enjoy. I wasn't going to respond yet again since they clearly just don't care, but I received another email asking for further information to address the issue.
+  I said the following:
+I've repeatedly suggested SecretLab is breaking the law by misleading customers on their website, and I've repeatedly said that responding with "we do have sales from time to time" is an absurd and unhelpful response.
+I really don't know what else I can say to be any more clear. From your responses, either you know it's wrong and you're deliberately avoiding the issue, or you really don't see an issue with a consumer pointing out that you're breaking the law.
+  They still ignored it and just responded with the same freight/component prices thing. Crazy.
+ COMMENT_BREAK
+ This is not a complaint about the sponsor per-se, but just an observation/suggestion about how LTT talks about them...
+For context, I just watched this video:
+At the end of it, there's an ad for Privacy.com, which seems to be a fantastic service that I'd love to use.
+
+However, it is very specifically limited to US Residents only.
+A fact which is not communicated in the sponsorship spot at all, nor in-fact on the actual privacy.com homepage.
+You only find this out either by getting suspicious at how useful it is and how unlikely it would be to actually work for you, and going combing in their support desk to find this article: https://support.privacy.com/hc/en-us/articles/360012046934-Who-can-use-Privacy-
+Or even more annoyingly, by signing up (and probably ignoring the 'I accept the terms and conditions and am also a US Resident' text because who reads that anyway?) and trying to use it.
+  I'd love to see LTT be clear about this limitation of the sponsor, given that there are some (many?) of us viewers who are outside the US, and especially given that most if not all of the LTT employees also fall into this category.
+No need to harp on it or anything, but a quick simple "If you're a US resident and ..." or "Currently available to US residents only" or something like that chucked into the read would (I feel), be a great way to be upfront with the viewers about it, but without detracting too much from the flow of the video.
+ COMMENT_BREAK
+ I have honestly been shocked by the Oracle sponsorships. Their business model has pretty much always been to lure companies in, then lock them in to make sure they can't leave and charge really high licensing prices. While this may not be enough in and of itself, they are well known in tech as one of the most hated companies. Also there are the recent bribery charges that they have been fined for by the SEC https://www.theregister.com/2022/09/27/oracle_fined_23_million_sec/
+ COMMENT_BREAK
+ I think pulling the Oura sponsored SC was a mistake. I know there was the mispronunciation however I highly doubt that was the only reason why they wanted it pulled. When I watched the video every single comment I read was complaining about the subscription. Literally every single one. I don't remember reading a single comment that didn't mention the subscription. Also Linus has been using the run without a subscription and is grandfathered for life. With backpack delays, lack of a clear warranty, and now giving into sponsor pressure to remove was is essentially a bad review its getting difficult to trust LTT and their editorial process. 
+ COMMENT_BREAK
+ Not that you are currently working with logitech but I'm just leaving it here in case you might work with them in the future.
+  My complaint is not about there product, it's about how they handle it.
+I work in a pretty well known computer store in my country (I live somewhere in europe).
+Last weekend I found out via a customer with a dead mouse (not the problem I'm talking about, these things can happen) that logitechs serial numbers on the box does not match the serial numbers on the product.
+Because we list every serialnumber that a customer buys in their account we know exactly when a customer bought that exact product from us or not.
+This is a huge problem when a product needs to be fixed under warrenty.
+We at the shop have no way to know if a logitech product was ever sold by us and/or when it was sold by us.
+Our policy with logitech products is, luckily for the customer, to just believe the customer.
+But I'm almost certain other shops won't be as easy with this.
+Not sure what to do with this other than try to bring this to someone with an audience as big as yours.
+I'm happy to clearify if anything is unclear, English is not my native language.
+ COMMENT_BREAK
+ First time poster here, I saw a recent video with sponsor Privacy.com as a sponsor and also happened to come across this HN post. The linked site details problems with Privacy.com's (ironically) privacy practices. I personally checked with the claims made by the site and all seem to be valid according to the privacy policy of privacy.com and Onfido, and other users also reported that Onfido was used as identity verification. I'm unsure if Privacy.com's required use of a service that shows flagrant disregard for privacy of particularly sensitive personal information disqualifies them as a potential sponsor for LTT, but this is definitely going to make me more carefully consider sponsorships for online services from LTT.
+  Relevant links:
+Blog post
+Privacy's privacy
+Onfido's privacy
+Onido's facial scan policy
+ COMMENT_BREAK
+   On 9/18/2022 at 4:15 PM, Sogehttechnik said:
+Hi, I am a bit disappointed with LMG. I was thinking about buying the VOLTA Giga Charger on Indiegogo a few months ago. I wasn't sure if I should risk it but I bought a cable from them before and was very satisfied. Then I saw the Mac Address video which was sponsored by Volta Giga charger + an extra discount.
+  Expand  
+Hey, I'm sorry you had this experience. We're no longer working with these folks because of stuff like this, but we had worked with them originally because they've shown success (BEFORE 2021/2022) with creating good products and shipping them through crowdfunding websites. I think our first partnership with them was in 2017 if I recall, and we did our best to validate everything they were doing.
+  Let me know if your issue got resolved.
+    On 9/29/2022 at 3:08 AM, roberestarkk said:
+This is not a complaint about the sponsor per-se, but just an observation/suggestion about how LTT talks about them...
+For context, I just watched this video:
+
+
+
+
+
+Expand  
+We try to do this in video descriptions but have failed with Privacy. I'll talk to the team and we'll try to update our description texts moving forward.
+    On 9/19/2022 at 8:51 PM, Nardella said:
+Regarding the recent plex sponsorship. I am a happy user of plex and lifetime subscriber. I feel that the behaviour of plex in presenting the following:
+https://www.plex.tv/blog/pro-week-day-1-linus/
+Without disclosing on that page or in the relevant newsletter email, that they paid for services from Linus. Is distasteful at best. When watching LTT and its associated channels I am used to and greatly appreciate the complete, explicit, and unmissable, transparency whenever there is money involved. Having this missing in this context makes me uncomfortable and unhappy, while it may not be legally or even morally required that they provide this transparency, it would still be appreciated and its absence is unpleasant. I would appreciate it, if going forward, if any company pays LMG for something, that LMG requires that they provide significantly more transparency on their end should they do something like what plex is doing.
+Expand  
+We do try to actively monitor things like this, we'll send this to our Plex contact.
+ COMMENT_BREAK
+   Having Epic Games as an sponsor is not the end of the world, but I have concern about advertising Epic Games, since they have shown Anti-Consumer and Anti-Competition behavior in the past. (Some context)
+  tl;dr
+scamming kids with micro-transactions in Fortnite
+having connections to Tencent (Chinese company)
+paying games studios for exclusive deals (like PC Building Sim 2)
+thus does not try to compete fairly with other Stores (e.g Steam, GOG)
+  This may not be the concern of the average consumer, but it does impact the whole market of game sales.
+ COMMENT_BREAK
+ LTT advertised the Dbrand atomic grip case for the S22 Ultra in this video: https://www.youtube.com/watch?v=k5tcHp1kBmQ
+  I bought the case, received it in April of 2022, and it was the worst phone case that I've ever owned. It is too flimsy, which results in the phone literally falling out of it when held normally. It was so bad that Dbrand shortly after "killed it" per an email that they sent to me, trying to get me to buy the replacement.
+All in all, this was a waste of money, and I am disappointed that LTT accepted this faulty product as a sponsor.
+ 
+
+ 
+ COMMENT_BREAK
+   On 10/13/2022 at 2:53 PM, Hathos said:
+LTT advertised the Dbrand atomic grip case for the S22 Ultra in this video: https://www.youtube.com/watch?v=k5tcHp1kBmQ
+  I bought the case, received it in April of 2022, and it was the worst phone case that I've ever owned. It is too flimsy, which results in the phone literally falling out of it when held normally. It was so bad that Dbrand shortly after "killed it" per an email that they sent to me, trying to get me to buy the replacement.
+
+
+Expand  
+Huh.  I have this case and they never contacted me about buying a replacement.  I guess I'm not worthy.
+  I do agree, though, it is flimsy AF.
+ COMMENT_BREAK
+   On 10/13/2022 at 3:55 PM, Erioch said:
+Huh.  I have this case and they never contacted me about buying a replacement.  I guess I'm not worthy.
+  I do agree, though, it is flimsy AF.
+After trying dozens of brands of cases, the one I've settled on is Spigen, specifically their Tough Armour series. The quality of them has been excellent, they're not too bulky for the amount of protection they offer, and the prices are very reasonable. I'm not very careful with my phone at all, and while the case is covered in scuffs, the phone is still immaculate.
+    Although, since I've got a flippy boi on the way, I'm going to have to change my ways. Taking the insurance out on it is probably going to turn out to be the right decision!
+ COMMENT_BREAK
+   On 10/12/2022 at 9:34 PM, SchimmelGelenk said:
+tl;dr
+scamming kids with micro-transactions in Fortnite
+having connections to Tencent (Chinese company)
+paying games studios for exclusive deals (like PC Building Sim 2)
+thus does not try to compete fairly with other Stores (e.g Steam, GOG)
+Scamming kids? Anything specific here, or just the dislike of microtransactions? Which I agree on are horrible, but they aren't doing anything that every other game company does. Sadly this has become the norm.
+Tencent is a major shareholder, but not a majority shareholder, Tim Sweeney still is. Afaik there are no facts here that would need anyone to worry.
+Right, because exclusive deals are obviously very rare in the gaming scene, it's not like Sony, MS and Nintendo do it all the time. Oh and on PC the average gamer has like 5 launchers installed due to so many exclusives. And considering the before mentioned Steam doesn't allow their Valve games on other PC launchers, why are you giving Epic crap for keeping PC Building Sim 2 exclusive? Oh and they didn't pay for exclusivity, they are the publisher.
+  Oh and exclusivity on PC is a load of shit anyway, and I don't even know why people complain about it. Sure I would like to have a completely neutral launcher for all my games, without needing Steam, Epic, Ubisoft, Battle.net etc etc etc, but that's not gonna happen, and never has been. We've always needed a ton of launchers and all that.
+For some reason people think Steam have the right to games on their platform, even though they are and have been extremely abusive to developers, taking a massive cut. Valve is not your friend, don't think because you like their client and the Steamdeck is cheap, that they are the good guys. They are extremely controlling. And no, Epic ain't the good guy either, they all aren't.
+ COMMENT_BREAK
+ The thing that gets me with dbrand is that they stop making cases for a particular device long before that device has reached the end of its useful life. Not all of us want to get rid of our phone and buy a new one every couple of years, and frankly, given they are selling something which is meant to prolong the life of phones, that they seem to expect us to doesn't exactly inspire confidence in their product!
+  Also, their embracing-the-evil-megacorp-vibe marketing was funny for a bit, but honestly the novelty has worn off and it just feels crass and stupid now.
+ COMMENT_BREAK
+ Not necessarily an issue with a specific sponsor but more of an issue with Linus being a little hypocritical of what he had said in the past. I’m sure this is not Linus’s fault but thought I should bring this to your attention. When I was watching the most recent video(
+) I noticed that capital one shopping sponsored a portion of the video and not the video. And that on the WAN show(
+) he talked about how he did not like it when a sponsor only sponsors a portion of the video. And just wanted this to be noted. 
+ COMMENT_BREAK
+   On 10/15/2022 at 8:37 PM, Bablin190 said:
+Not necessarily an issue with a specific sponsor but more of an issue with Linus being a little hypocritical of what he had said in the past. I’m sure this is not Linus’s fault but thought I should bring this to your attention. When I was watching the most recent video(
+Expand  
+Capital One is probably still cautious of sponsoring any PC build videos after sponsoring The Verge's infamous PC build video and the negative association that had with their brand even though they just sponsored the video and had nothing to do with it. That's probably why they're only sponsoring "a portion" of the video that is their scripted ad spot to deny any responsibility for the rest of the video.
+ COMMENT_BREAK
+   On 10/16/2022 at 2:57 AM, Spotty said:
+Capital One is probably still cautious of sponsoring any PC build videos after sponsoring The Verge's infamous PC build video and the negative association that had with their brand even though they just sponsored the video and had nothing to do with it. That's probably why they're only sponsoring "a portion" of the video that is their scripted ad spot to deny any responsibility for the rest of the video.
+Maybe but Linus implied that he would not work with a sponsor who sponsored a portion of a video and not video.
+ COMMENT_BREAK
+ FlexiSpot lied about my order, mistreated me, insulted my intelligence, and I have proof.
+TLDR, i bought a 71x35 desk from them, they confirmed they have 1 in stock, they sent me the shipping info and confirmation that it was sent out, couple days later, i contact them for an update, they tell me they don't have it in stock and ask me to consider something else, after they sent me something else already that they picked on their own which is a 72x30,then they change facts and start telling me that in their system i ordered the 72x30, where i have literal proof of it,i gave them proof of purchase and receipt,
+and they're so conflicting, with it, yesterday one of them called me and told me "oh check again, we did actually send you the 71x35" i said alright, thank you, it was probably a mistake on your end, then i go home, and no, it's not what i ordered, it was actually the 72x30.
+these people keep lying to me, not resolving my problem, and they're using lies to brush this off.
+i heard about them through LTT, i trusted LTT that they're a good company i can trust to buy from, this is how they're treating me, with lies and faking truth.
+this is unprofessional and unacceptable and insults my intelligence.
+they changed my order without getting back to me, and they're changing facts and not admiting they made a mistake and i don't have the desk i wanted, and they're trying to make me keep an inferior product. 
+I ordered the 71x35 inch bamboo desk from them for 859.59$ after tax,
+I was extremely happy to find a desk that is wide and dark wood color and bamboo,
+the only other option they had was the 79x35 desk which goes for 300$ more, so obviously I went with the 71x35 which is 8 inches less for 300$ less.
+couple days later I contact them about my order status, and because I no longer see the listing online, and they tell me:
+"we had an issue with the stock, may you consider another size?" for proof refer to > screenshot attachment: "flexispot 5" for proof.
+how do you ask me to consider a different size, after you already made the decision on my behalf to send me something else?
+and then he has the audacity to tell me "oh no you actually ordered a 72x30", he literally admitted above that because they're out of stock they couldn't send me that, so they send me the 72x30, they changed my order at their own convenience without ever getting back to me, taking me for an idiot customer and insulting my intelligence,
+thank God for emails and proof of purchases and screenshots.
+and mind you, that's couple days after I got the confirmation that they shipped the desk, and one of their employees confirmed to me that they have it in stock and it was shipped out, her name is "molly" for proof refer to > attachment email confirmation.
+i contacted them over 10 times now to get a hold of management to resolve my issue but so far they're all unavailable and their reps either hang up on me after keeping me on hold or ask me "would you consider downgrading to a 55x20 desk? are you kidding me???? after sending me the wrong desk, he asks me to consider a way inferior out of specs desk?
+and today i get an email where they tell me "upon checking you've ordered a 72x30 desk", completely changing facts for whatever purpose they have,
+wether they have a faulty system or not that changed my ordered because it couldn't fill in, that's none of my business, or whatever intent it is,
+i have screenshots and proof of purchase and i'm being treated with the utmost disrespect and insult to my intelligence by this company,
+i got sent an inferior product to what i paid for, and now they're trying to get me to keep it and they're offering a " 50$ partial refund" for a way inferior product that i never asked for,
+and they won't admit they're lying. and they're offering me way inferior products to what i ordered and agreed on with them. the 35x71.
+seeing i heard about this from LTT, i believe i should let LTT know about the practices of their sponsors towards their customers.
+screenshots names:
+1. the shipped desk "not what i paid for and ordered"
+2. current listing as it appears, they removed the 35x71.
+3.one of their reps confirming the 1 left in stock i ordered has been shipped out.
+4. email order summary.
+5. online chat support to follow up,
+6. him telling me i ordered the 72x30
+7. me providing proof of purchase for the 35x71
+8. him apologizing and asking me to consider something else because they're out of stock, "after they shipped something else that they picked on my behalf without getting back to me" super unprofessional and rude.
+9. me explaining why i ordered it and how what he's saying is unreasonable.
+10. their rep getting back to me offering something else WAY OUT OF SPEC, and they're still not admitting that they're wrong and i didn't order the 72x30. feels like i'm being treated like a robot.
+11.order receipt in email.
+12. old listing when i bought it.
+13. proof of purchase from their own website.
+14.order receipt in email.
+i have all of these attached with my name and address removed. willing to share original with LTT staff
+ COMMENT_BREAK
+   On 10/18/2022 at 8:27 PM, Eli7877 said:
+FlexiSpot lied about my order, mistreated me, insulted my intelligence, and I have proof.
+TLDR, i bought a 71x35 desk from them, they confirmed they have 1 in stock, they sent me the shipping info and confirmation that it was sent out, couple days later, i contact them for an update, they tell me they don't have it in stock and ask me to consider something else, after they sent me something else already that they picked on their own which is a 72x30,then they change facts and start telling me that in their system i ordered the 72x30, where i have literal proof of it,i gave them proof of purchase and receipt,
+and they're so conflicting, with it, yesterday one of them called me and told me "oh check again, we did actually send you the 71x35" i said alright, thank you, it was probably a mistake on your end, then i go home, and no, it's not what i ordered, it was actually the 72x30.
+these people keep lying to me, not resolving my problem, and they're using lies to brush this off.
+i heard about them through LTT, i trusted LTT that they're a good company i can trust to buy from, this is how they're treating me, with lies and faking truth.
+this is unprofessional and unacceptable and insults my intelligence.
+they changed my order without getting back to me, and they're changing facts and not admiting they made a mistake and i don't have the desk i wanted, and they're trying to make me keep an inferior product. 
+I ordered the 71x35 inch bamboo desk from them for 859.59$ after tax,
+I was extremely happy to find a desk that is wide and dark wood color and bamboo,
+the only other option they had was the 79x35 desk which goes for 300$ more, so obviously I went with the 71x35 which is 8 inches less for 300$ less.
+couple days later I contact them about my order status, and because I no longer see the listing online, and they tell me:
+"we had an issue with the stock, may you consider another size?" for proof refer to > screenshot attachment: "flexispot 5" for proof.
+how do you ask me to consider a different size, after you already made the decision on my behalf to send me something else?
+and then he has the audacity to tell me "oh no you actually ordered a 72x30", he literally admitted above that because they're out of stock they couldn't send me that, so they send me the 72x30, they changed my order at their own convenience without ever getting back to me, taking me for an idiot customer and insulting my intelligence,
+thank God for emails and proof of purchases and screenshots.
+and mind you, that's couple days after I got the confirmation that they shipped the desk, and one of their employees confirmed to me that they have it in stock and it was shipped out, her name is "molly" for proof refer to > attachment email confirmation.
+i contacted them over 10 times now to get a hold of management to resolve my issue but so far they're all unavailable and their reps either hang up on me after keeping me on hold or ask me "would you consider downgrading to a 55x20 desk? are you kidding me???? after sending me the wrong desk, he asks me to consider a way inferior out of specs desk?
+and today i get an email where they tell me "upon checking you've ordered a 72x30 desk", completely changing facts for whatever purpose they have,
+wether they have a faulty system or not that changed my ordered because it couldn't fill in, that's none of my business, or whatever intent it is,
+i have screenshots and proof of purchase and i'm being treated with the utmost disrespect and insult to my intelligence by this company,
+i got sent an inferior product to what i paid for, and now they're trying to get me to keep it and they're offering a " 50$ partial refund" for a way inferior product that i never asked for,
+and they won't admit they're lying. and they're offering me way inferior products to what i ordered and agreed on with them. the 35x71.
+seeing i heard about this from LTT, i believe i should let LTT know about the practices of their sponsors towards their customers.
+screenshots names:
+1. the shipped desk "not what i paid for and ordered"
+2. current listing as it appears, they removed the 35x71.
+3.one of their reps confirming the 1 left in stock i ordered has been shipped out.
+4. email order summary.
+5. online chat support to follow up,
+6. him telling me i ordered the 72x30
+7. me providing proof of purchase for the 35x71
+8. him apologizing and asking me to consider something else because they're out of stock, "after they shipped something else that they picked on my behalf without getting back to me" super unprofessional and rude.
+9. me explaining why i ordered it and how what he's saying is unreasonable.
+10. their rep getting back to me offering something else WAY OUT OF SPEC, and they're still not admitting that they're wrong and i didn't order the 72x30. feels like i'm being treated like a robot.
+11.order receipt in email.
+12. old listing when i bought it.
+13. proof of purchase from their own website.
+14.order receipt in email.
+i have all of these attached with my name and address removed. willing to share original with LTT staff
+Expand  
+update: after their last email, today they email me to say the sent the correct one the 35x71, but they printed the wrong label on the packaging,
+so i guess by their system it said that i ordered the 72x30, because they printed a different label to it,
+anyway, had they been less chaotic and more organized this whole thing wouldn't have happened.
+and their method of resolving my issue was unacceptable, one offer of switching to a 55x20 desk from a 71x35!!!
+then a 50$ refund and keep the 72x30, and then they have to consult the whole staff to figure out what was sent and what was not.
+very chaotic, and it caused me ton of inconvenience.
+i hope this would be beneficial for feedback and problem solving for any future reference.
+ COMMENT_BREAK
+   On 10/19/2022 at 9:58 AM, Eli7877 said:
+update: after their last email, today they email me to say the sent the correct one the 35x71, but they printed the wrong label on the packaging,
+so i guess by their system it said that i ordered the 72x30, because they printed a different label to it,
+anyway, had they been less chaotic and more organized this whole thing wouldn't have happened.
+and their method of resolving my issue was unacceptable,
+one offer of switching to a 55x20 desk from a 71x35!!!
+then a 50$ refund and keep the 72x30,
+and then they have to consult the whole staff to figure out what was sent and what was not.
+very chaotic, and it caused me ton of inconvenience.
+i hope this would be beneficial for feedback and problem solving for any future reference.
+Expand  
+ 
+ COMMENT_BREAK
+   On 10/19/2022 at 9:58 AM, Eli7877 said:
+update: after their last email, today they email me to say the sent the correct one the 35x71, but they printed the wrong label on the packaging,
+so i guess by their system it said that i ordered the 72x30, because they printed a different label to it,
+anyway, had they been less chaotic and more organized this whole thing wouldn't have happened.
+and their method of resolving my issue was unacceptable, one offer of switching to a 55x20 desk from a 71x35!!!
+then a 50$ refund and keep the 72x30, and then they have to consult the whole staff to figure out what was sent and what was not.
+very chaotic, and it caused me ton of inconvenience.
+i hope this would be beneficial for feedback and problem solving for any future reference.
+Expand  
+Sounds like a horribly run company all the way around.  If they can't even get their packaging correct I would imagine they lose a ton of money due to returns.  I wouldn't even open the box, I'd just send it back.
+ COMMENT_BREAK
+   On 10/18/2022 at 8:27 PM, Eli7877 said:
+FlexiSpot lied about my order, mistreated me, insulted my intelligence, and I have proof.
+TLDR, i bought a 71x35 desk from them, they confirmed they have 1 in stock, they sent me the shipping info and confirmation that it was sent out, couple days later, i contact them for an update, they tell me they don't have it in stock and ask me to consider something else, after they sent me something else already that they picked on their own which is a 72x30,then they change facts and start telling me that in their system i ordered the 72x30, where i have literal proof of it,i gave them proof of purchase and receipt,
+and they're so conflicting, with it, yesterday one of them called me and told me "oh check again, we did actually send you the 71x35" i said alright, thank you, it was probably a mistake on your end, then i go home, and no, it's not what i ordered, it was actually the 72x30.
+these people keep lying to me, not resolving my problem, and they're using lies to brush this off.
+i heard about them through LTT, i trusted LTT that they're a good company i can trust to buy from, this is how they're treating me, with lies and faking truth.
+this is unprofessional and unacceptable and insults my intelligence.
+they changed my order without getting back to me, and they're changing facts and not admiting they made a mistake and i don't have the desk i wanted, and they're trying to make me keep an inferior product. 
+I ordered the 71x35 inch bamboo desk from them for 859.59$ after tax,
+I was extremely happy to find a desk that is wide and dark wood color and bamboo,
+the only other option they had was the 79x35 desk which goes for 300$ more, so obviously I went with the 71x35 which is 8 inches less for 300$ less.
+couple days later I contact them about my order status, and because I no longer see the listing online, and they tell me:
+"we had an issue with the stock, may you consider another size?" for proof refer to > screenshot attachment: "flexispot 5" for proof.
+how do you ask me to consider a different size, after you already made the decision on my behalf to send me something else?
+and then he has the audacity to tell me "oh no you actually ordered a 72x30", he literally admitted above that because they're out of stock they couldn't send me that, so they send me the 72x30, they changed my order at their own convenience without ever getting back to me, taking me for an idiot customer and insulting my intelligence,
+thank God for emails and proof of purchases and screenshots.
+and mind you, that's couple days after I got the confirmation that they shipped the desk, and one of their employees confirmed to me that they have it in stock and it was shipped out, her name is "molly" for proof refer to > attachment email confirmation.
+i contacted them over 10 times now to get a hold of management to resolve my issue but so far they're all unavailable and their reps either hang up on me after keeping me on hold or ask me "would you consider downgrading to a 55x20 desk? are you kidding me???? after sending me the wrong desk, he asks me to consider a way inferior out of specs desk?
+and today i get an email where they tell me "upon checking you've ordered a 72x30 desk", completely changing facts for whatever purpose they have,
+wether they have a faulty system or not that changed my ordered because it couldn't fill in, that's none of my business, or whatever intent it is,
+i have screenshots and proof of purchase and i'm being treated with the utmost disrespect and insult to my intelligence by this company,
+i got sent an inferior product to what i paid for, and now they're trying to get me to keep it and they're offering a " 50$ partial refund" for a way inferior product that i never asked for,
+and they won't admit they're lying. and they're offering me way inferior products to what i ordered and agreed on with them. the 35x71.
+seeing i heard about this from LTT, i believe i should let LTT know about the practices of their sponsors towards their customers.
+screenshots names:
+1. the shipped desk "not what i paid for and ordered"
+2. current listing as it appears, they removed the 35x71.
+3.one of their reps confirming the 1 left in stock i ordered has been shipped out.
+4. email order summary.
+5. online chat support to follow up,
+6. him telling me i ordered the 72x30
+7. me providing proof of purchase for the 35x71
+8. him apologizing and asking me to consider something else because they're out of stock, "after they shipped something else that they picked on my behalf without getting back to me" super unprofessional and rude.
+9. me explaining why i ordered it and how what he's saying is unreasonable.
+10. their rep getting back to me offering something else WAY OUT OF SPEC, and they're still not admitting that they're wrong and i didn't order the 72x30. feels like i'm being treated like a robot.
+11.order receipt in email.
+12. old listing when i bought it.
+13. proof of purchase from their own website.
+14.order receipt in email.
+i have all of these attached with my name and address removed. willing to share original with LTT staff
+Expand  
+Hey Eli7877,
+  Thanks for sharing your experience with FlexiSpot. We take our audience's experience with the brands we accept sponsorship from very seriously and would love to assist as best we can here. Sending you a DM to continue the conversation.
+  Thanks,
+  Geoff
+ COMMENT_BREAK
+ Maybe LMG can push Vessi more to finally implement worldwide shipping. I personally asked them over two years ago when they would introduce worldwide shipping and they said "soon". For me to order Vessi products, I would have to use at least two parcel forwarding companies, which is completely absurd. At the same time, LMG and other US companies such as Schiit can ship their products worldwide without any problems.
+ COMMENT_BREAK
+ I used to be an ASUS fan but not anymore.  I recently purchased an ASUS GT-AXE16000 router and I am sending that back tomorrow.  I haven't bothered with an ASUS product for approximately a decade.  The router doesn't even come close to providing what the specs say it can deliver.  See a prior post I did today for more details.  Needless to say, customer service was horrid and the bad/non-existent software development has proven why I stopped being a fan.  Do what you want but ASUS products have many problems as well as the company and it's "customer service".  
+ COMMENT_BREAK
+ Hey lovely LTT people,
+  I just wanted to raise a concern about the AnyDesk spot that happened on this week’s WAN show. 
+  This is more of a reputation based concern than myself having ever used AnyDesk as a product.
+  My concern is that for the last few years AnyDesk has been absolutely ubiquitous in scam baiting videos. People like pierogi, kitboga, Jim Browning etc. This in itself isn’t a bad mark for AnyDesk, at the end of the day a remote access tool is a remote access tool. However, it is worth noting that AnyDesk’s rise in prevalence in these videos was after TeamViewer introduced a lot of protections to make it harder for people to use TeamViewer as part of these scam operations. 
+  I get that products and teams can change.  But I would also like to hear about what AnyDesk are doing to make it difficult for scammers to abuse their software in any sponsored content for them. They have very strong negative name recognition and I don’t think they meet the excellent standards that LTT expects of its sponsors. 
+  But keep up the good work business team because you do a great job of making recommendations that the audience trust. 
+ COMMENT_BREAK
+   On 10/29/2022 at 5:35 PM, terminal_w said:
+Hey lovely LTT people,
+  I just wanted to raise a concern about the AnyDesk spot that happened on this week’s WAN show. 
+  This is more of a reputation based concern than myself having ever used AnyDesk as a product.
+  My concern is that for the last few years AnyDesk has been absolutely ubiquitous in scam baiting videos. People like pierogi, kitboga, Jim Browning etc. This in itself isn’t a bad mark for AnyDesk, at the end of the day a remote access tool is a remote access tool. However, it is worth noting that AnyDesk’s rise in prevalence in these videos was after TeamViewer introduced a lot of protections to make it harder for people to use TeamViewer as part of these scam operations. 
+ 
+Expand  
+Hey terminal_w, thanks for bringing this concern forward!
+  While looking into AnyDesk, this was something that was on the team's radar. We reached out to AnyDesk regarding this, and it is something that over the past while they have been taking seriously. They've informed us that there are a lot of newly introduced restrictions designed to reduce any fraudulent activities from unregistered users
+AnyDesk is now account based meaning there is now an additional wall to stop scams.
+They have also created paths of communication with the scambaiting community to preemptively shut down any nefarious users of the platform.
+Similar to other remote access platforms, AnyDesk has implemented suspicious connection screening, and included pop-up warnings about scams for their users.
+Additionally, they've also added a watermark to inform users when a connection is neither legitimate or official.
+Our personal contact here at LMG has also expressed that if you or anyone else does have concerns or questions, that AnyDesk would gladly take any constructive criticism and feedback on how to make their software a better and more comfortable service for the user, definitely including security and safety.
+ COMMENT_BREAK
+ This is kinda based for asking, LMG. Tbh though I'm a dIrTy PiRaTe with both adblock and sponsorblock extensions on lock.
+ COMMENT_BREAK
+ In the most recent video Double your FPS for FREE!\*\*\* - Nvidia DLSS 3.0, there is an ad spot for a company called Mine.
+  Mine requires access to your entire email history, which is uploaded to their servers, so that they can go through each email to find services you signed up for.
+  Aside from actually providing Mine with more sensitive data in emails than the data other companies hold of you:
+Several links are broken on the website linking to their privacy policy.
+They say the service is free on their site, but there are reviews of people saying things are paywalled after you give them your email history.
+  A third party requesting access to your emails should never be trusted. Not only have you likely shared sensitive and personal information with friends/family, but these services like Mine can send emails on your behalf. They now have the ability to reset your password for any site. I'm not saying Mine does this, but they and similar services certainly have the ability to. Which is why you should never authorize access to your emails.
+  By using Mine's services you are giving up more personal data than you are reclaiming with them.
+ COMMENT_BREAK
+ I picked up Extra for the last 6-8 months after hearing about it on the show. I am very conscious about not having credit cards, so I thought this would be a good way to help build my credit without giving ridiculous amounts of money to a bank.
+  I ran into some issues early on with how they tracked my available balance on my bank account, leading to several purchases being declined, so I switched over to just having subscriptions run on it. One day I reached out to their support (after months of using it) to see why my card didn't work. They told me that my verification failed when I set up the card, and I had to reverify. They claimed to have sent emails and push notifications to me, but I never got any after checking. I got all their other marketing emails, but not this one specific support email they claimed to have sent. The support rep said he would push my app to prompt me to reverify, which it never did. 
+  I recently decided to check my credit report in detail, and found that even though I've been paying them and using the card for months, they never reported a single purchase of mine to the credit companies. Needless to say I am rather upset having wasted so much money on their subscription service, and running into issues with how long they take to remove money from my account, that I finally cancelled it. 
+  I cannot, in food faith, recommend that anyone use this product. I'm sure it works for others, but based on my experience I would never suggest them.
+ COMMENT_BREAK
+ I'm not sure if Savage Jerky is currently a sponsor or not, but I thought they were the sponsor for the WAN show a few weeks ago though.
+  On January 5th this year, I placed an order with Savage Jerky. The next day, I get an shipping notice email "All of the items from your order #10XXXX have now been shipped." Since that day, when I got to the order page, it has said "We've accepted your order, and we're getting it ready. Come back to this page for updates on your shipment status."
+  After that, I kind-of forgot about the order until mid-summer. I still hadn't received the order at this time, so on June 22nd, I send their sales team an email.
+    Unless it went to the junk folder and I didn't catch it, I have not gotten a response from them yet.
+  Between now and then, this issue was out of sight, out of mind. I just ran into something that reminded me of it today. It's now November 2022, and I have not received my order or gotten a reply to my inquiry from them.
+  Has anybody else reported this happening to them? Should I keep trying to reach out to them?
+ COMMENT_BREAK
+   On 11/9/2022 at 3:51 AM, VeryColdAir said:
+I'm not sure if Savage Jerky is currently a sponsor or not, but I thought they were the sponsor for the WAN show a few weeks ago though.
+  On January 5th this year, I placed an order with Savage Jerky. The next day, I get an shipping notice email "All of the items from your order #10XXXX have now been shipped." Since that day, when I got to the order page, it has said "We've accepted your order, and we're getting it ready. Come back to this page for updates on your shipment status."
+  Expand  
+I had totally forgotten about them until I saw it pop back up on the WAN Show recently.  I guess they have enough product to send to advertisers.
+ COMMENT_BREAK
+   On 11/9/2022 at 3:22 PM, Erioch said:
+I had totally forgotten about them until I saw it pop back up on the WAN Show recently.  I guess they have enough product to send to advertisers.
+your profile pic when looked at really small looks like a rally car doing a sick skid 
+ COMMENT_BREAK
+   On 11/8/2022 at 4:27 PM, zentada said:
+In the most recent video Double your FPS for FREE!\*\*\* - Nvidia DLSS 3.0, there is an ad spot for a company called Mine.
+  Mine requires access to your entire email history, which is uploaded to their servers, so that they can go through each email to find services you signed up for.
+  Aside from actually providing Mine with more sensitive data in emails than the data other companies hold of you:
+Expand  
+Hey all,
+  Thanks for the feedback on Mine! We investigated them pretty thoroughly before agreeing to our partnership this year. We totally understand the hesitation on using your email account to create the digital footprint, and we made sure that was listed in the talking points. We spoke with Mine on this feedback, and received a response from them. For the paywall reviews, they tested a paid plan in a few regions a while back, before pulling the pilot. Mine currently makes its money from data removal services for companies, and have no current plans to charge for this service. For the broken links on their webpage, they recently migrated their site and are looking to fix that. If you could send us (or transparency@saymine.com) the places it's broken, we'll let them know to get it cleaned up.
+  Here's Mine's Privacy Policy: https://www.saymine.com/legal/privacy-policy as well as their transparency page: https://saymine.com/transparency. Rest assured, Mine is upfront in how their platform works, and simply use the metadata and subject line to analyze if it's a service, subscription or registration message and build that digital footprint to help you send your data requests. They don't use the data for anything else, nor sell it. Should any particular issues come up, our team will absolutely investigate them and look into it, but we feel Mine is being upfront in what their service is, so we're comfortable in having them advertise on our service (and some of our team has used it themselves in the past).
+ COMMENT_BREAK
+   On 11/8/2022 at 9:12 PM, Airneanach said:
+I picked up Extra for the last 6-8 months after hearing about it on the show. I am very conscious about not having credit cards, so I thought this would be a good way to help build my credit without giving ridiculous amounts of money to a bank.
+  I ran into some issues early on with how they tracked my available balance on my bank account, leading to several purchases being declined, so I switched over to just having subscriptions run on it. One day I reached out to their support (after months of using it) to see why my card didn't work. They told me that my verification failed when I set up the card, and I had to reverify. They claimed to have sent emails and push notifications to me, but I never got any after checking. I got all their other marketing emails, but not this one specific support email they claimed to have sent. The support rep said he would push my app to prompt me to reverify, which it never did. 
+Expand  
+Hey @Airneanach, are you able to send me a PM with a support ticket number or any other identifying number for the case? We'll absolutely be looking into this and ensuring that this is taken care of. 
+ COMMENT_BREAK
+   On 11/9/2022 at 3:51 AM, VeryColdAir said:
+I'm not sure if Savage Jerky is currently a sponsor or not, but I thought they were the sponsor for the WAN show a few weeks ago though.
+  On January 5th this year, I placed an order with Savage Jerky. The next day, I get an shipping notice email "All of the items from your order #10XXXX have now been shipped." Since that day, when I got to the order page, it has said "We've accepted your order, and we're getting it ready. Come back to this page for updates on your shipment status."
+  Expand  
+Hey @VeryColdAir, thanks for the feedback. Send me a PM with your order # and I'll get this looked at with our rep.
+  If anyone else has ordering issues with Savage Jerky, please let me know.
+ COMMENT_BREAK
+ Hello! First time poster. I'm here on behalf of my community to talk about RackSolutions, such as when they were featured in https://www.youtube.com/watch?v=pyZSqfmN_0I 
+  Recent allegations have come out from former employees involving sexual harassment, toxic workplace environment, and general Activision-Blizzardry.
+  RackSolutions is one of three subsidiaries of Innovation First International (IFI), and they also have ventures in educational (Vex Robotics) and toy (Hexbug) robotics. IFI shares and intermixes a lot of employees between all three of their subsidiaries and their core leadership is largely the same pool of people. Point is, no matter the division, you would likely at some point be coerced into one of the CEO Tony Norman’s house parties.
+  Recently, on the educational competition robotics side of things, a post on a major community forum was made concerning poor quality control on Vex products and questionable customer service practices. However, people soon also discovered IFI’s less-than-stellar Glassdoor page which detailed a very colorful image of how it is to work at IFI and RackSolutions/Vex/Hexbug. The common themes of the complaints are consistent across all three divisions of the company — the suckage permeates everywhere in Greeneville, Texas.
+  It's a heavy story with some disturbing themes, so I'm going to leave the bulk of it behind this spoiler (cw: sexual harassment, general harassment, general Bad Time)
+  Reveal hidden contents
+The collective community reaction so far has been intense. Many highschool robotics teams following that thread have sworn off buying IFI/Vex products. Including, notably, 6 of the 9 #TeamIFI teams that the company directly sponsors to promote their brand in FIRST Robotics. [one] [two] [three] [four] [five] [six] with the rest possibly following. All of these teams compete a high level and are generally widely respected in the community. Additionally, many of these teams have smaller classroom-level programs highly reliant on Vex parts and educational material, so switching off IFI products constitutes a non-insignificant financial and labor hurdle.
+  When this story also spread to /r/battlebots, many commentators additionally expressed their wishes to boycott the products IFI sells to them under their Hexbug brand as well (toys, combat robot parts, etc.) One poster even mentioned they were reconsidering applying to IFI for an engineering internship after what they had read. 
+  In conclusion, we, the competition robotics community that helped birth IFI and RackSolutions, have pretty deep concerns, and hope that LMG finds this information useful.
+  edit: I am told that LTT is featured prominently on the RackSolutions homepage: https://www.racksolutions.com/
+ COMMENT_BREAK
+ Not a complaint, but a question concerning this product.
+  Micro Center Premium 1TB microSDXC Card, Nintendo-Switch Compatible Flash Memory Card, UHS-I C10 U3 V30 4K UHD Video A1 R/W Speed up to 90/70 MB/s Micro SD Card with Adapter (1TB) https://a.co/d/d7JCBs0
+  Knowing you are sponsored by Micro Center, I figured I'd ask you if this is legit. The price is less than half that of the Sandisk cards of the same capacity.
+ COMMENT_BREAK
+   On 11/15/2022 at 4:49 PM, Dragonwinged said:
+Not a complaint, but a question concerning this product.
+I'm not sure about the SD card but if you put up a post in the Storage Devices section people on the community might be able to give you some more info on it.
+ COMMENT_BREAK
+ I am coming over from the ChiefDelphi FIRST robotics competition forms because i remembered linus was partnered with IFI. Recently, many people have come out accusing IFI of being a awful place to work, sexual assaults, and other horrible things. IFI has released maybe the worst defense i have ever read, insinuating that all of whistleblowers are lying. 
+ COMMENT_BREAK
+   On 11/16/2022 at 12:37 AM, burner said:
+I am coming over from the ChiefDelphi FIRST robotics competition forms because i remembered linus was partnered with IFI. Recently, many people have come out accusing IFI of being a awful place to work, sexual assaults, and other horrible things. IFI has released maybe the worst defense i have ever read, actively insulting the people who have spoken out. This is not ok.
+Expand  
+Just read this and apparently I'm not seeing what your seeing. Looks like they are being fairly open about their policies. No attacks present either. Seems like your on a hate train for some reason. Do you have anything tangible to back up your claims?
+ COMMENT_BREAK
+   On 11/16/2022 at 3:30 AM, SansVarnic said:
+Just read this and apparently I'm not seeing what your seeing. Looks like they are being fairly open about their policies. No attacks present either. Seems like your on a hate train for some reason. Do you have anything tangible to back up your claims?
+this is just the companies response after several weeks of allegations against them, i would recommend reading the other CD threads for information on what they actually did. To sum it up, i would recommend you read their glassdoor reviews. The thing that is infuriating about this is that many many credible people came out with detailed explanations of their time there. And then IFI pretty much said "if you were abused by other employees, why didn't you say something", despite the fact that the allegations detail corrupt HR stuff and a culture of abuse where reports were not taken seriously. Its not necessarily that this statement is bad on its own, but in context it is pretty awful.
+ COMMENT_BREAK
+   On 11/16/2022 at 4:17 AM, burner said:
+this is just the companies response after several weeks of allegations against them, i would recommend reading the other CD threads for information on what they actually did. To sum it up, i would recommend you read their glassdoor reviews. The thing that is infuriating about this is that many many credible people came out with detailed explanations of their time there. And then IFI pretty much said "if you were abused by other employees, why didn't you say something", despite the fact that the allegations detail corrupt HR stuff and a culture of abuse where reports were not taken seriously. Its not necessarily that this statement is bad on its own, but in context it is pretty awful.
+Umm links? What threads are you referring to?
+ COMMENT_BREAK
+   On 11/16/2022 at 4:23 AM, SansVarnic said:
+Umm links? What threads are you referring to?
+This is one of many firsthand accounts made by former employees of ifi, racksolutions, hexbug and vex concerning the toxicity in the workplace they endured: https://www.chiefdelphi.com/t/cw-violence-sexual-harassment-ifi-a-toxic-and-predatory-workplace-in-edtech/417760/
+  It is probably the easiest introduction to the topic, but if you want to read more you can enjoy this ~400 reply thread: https://www.chiefdelphi.com/t/cw-sexual-harassment-an-open-letter-to-vex/416929/
+ COMMENT_BREAK
+   On 11/16/2022 at 4:23 AM, SansVarnic said:
+Umm links? What threads are you referring to?
+https://www.chiefdelphi.com/t/cw-sexual-harassment-an-open-letter-to-vex/416929/345
+https://www.chiefdelphi.com/t/does-ifi-still-pay-the-hosting-costs-for-chief-delphi/417686/28
+https://www.chiefdelphi.com/t/statement-from-team-33/417734/10
+these are a few of like 12 current ongoing threads
+ COMMENT_BREAK
+ It’s probably important to note that a lot of these reference IFI which to an outsider may seem unrelated to LTT, however IFI is the parent company of RackSolutions and by all accounts, experiences like this are happening at all of the subsidiaries of IFI
+ COMMENT_BREAK

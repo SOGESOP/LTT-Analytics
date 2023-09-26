@@ -1,0 +1,58 @@
+
+   So, my ARC GPU isn't being detected in the ARC Control center.  
+  Obviously it is installed, and windows detects it fine.  
+  Task manager shows both
+  I've downloaded the latest drivers off intel's site, and done a full DDU as well.  
+  The monitor plugged into the ARC is limited to 1080, not the 1440 it should be, so it's clearly not working right.
+  Any guesses?
+  Edit:
+  Okay, so....  I'm not sure where to run with this, but:
+
+I ran DDU Again.  Unplugged ethernet, and ran the ARC Installer again.
+  And it was working correctly, until the UHD 630 got installed, and then it promptly broke.  Disabling the UHD 630 in Device Manager, and uninstalling the additional intel software that came with it didn't help fix it.  
+ COMMENT_BREAK
+   1 hour ago, tkitch said:
+Expand  
+I'd pull up GPU-Z and verify ReBar is enabled and its running its full PCIe 4.0/3.0 8x bandwidth.
+ COMMENT_BREAK
+   1 hour ago, Agall said:
+I'd pull up GPU-Z and verify ReBar is enabled and its running its full PCIe 4.0/3.0 8x bandwidth.
+Yup, it's running at x8, and has REBAR.
+  updated OP with new info from experimenting.
+ 
+ COMMENT_BREAK
+   1 hour ago, tkitch said:
+Yup, it's running at x8, and has REBAR.
+  -snip-
+Might not be a terrible idea to double check if ReBAR is enabled in the BIOS.
+ COMMENT_BREAK
+   1 hour ago, Crunchy Dragon said:
+Might not be a terrible idea to double check if ReBAR is enabled in the BIOS.
+I did.  it is.  
+  Edit:  For giggles, I just turned it off in the BIOS:
+ COMMENT_BREAK
+   1 hour ago, tkitch said:
+I did.  it is.  
+  Edit:  For giggles, I just turned it off in the BIOS:
+Expand  
+Whenever I grabbed the Intel software for my A380, I went to Intel's website and got the whole driver package. If that didn't work, then I'd try it again.
+  Mind you I didn't have issues with the same system genuinely having Radeon, Nvidia, and Intel graphics driver software packages installed simultaneously. I've never had to run DDU to solve a problem in the hundreds of configurations I've tested over the years.
+ COMMENT_BREAK
+   1 hour ago, Agall said:
+Whenever I grabbed the Intel software for my A380, I went to Intel's website and got the whole driver package. If that didn't work, then I'd try it again.
+  Mind you I didn't have issues with the same system genuinely having Radeon, Nvidia, and Intel graphics driver software packages installed simultaneously. I've never had to run DDU to solve a problem in the hundreds of configurations I've tested over the years.
+I did get both the UHD 630 and ARC Driver packages off intel's site directly.  
+  I also have tried two different WHQL Driver versions. 
+ COMMENT_BREAK
+ @Agall  @Crunchy Dragon
+
+So....  I found a really stupid bad and terrible data point:
+  Reboot in safe mode.  Full DDU Everything.
+  Reboot PC.  Leave network connected.
+  Don't install anything manually, just let windows install stuff.  
+  Both install, both look happy, both work correctly.  (proper monitor resolutions, etc.)  All good.
+  reboot, etc.  Still all good.
+  weird, but...  okay.
+  Install ARC Driver package:  and...  everything shits the bed.  
+  uhhhh...  does this mean I just don't install the real driver packages and things will just work?  0.o
+ COMMENT_BREAK

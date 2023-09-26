@@ -1,0 +1,19 @@
+
+ I cloned my old 1TB SSD into a new 2TB SSD I bought, everything was perfectly, I reboot my PC, removed the old drive, booted from the new one, no issues. Had the old 970GB Partition (had about 200GBs free space in this partition) alongside the other ~900GB that were still unallocated. Afterwards I merged the main partition with the unallocated partition in the new drive, I rebooted, but once I entered windows I noticed that for some reason the SSD now only had 4GB/1.86TB left which makes absolutely no sense. I checked all the folders and their sizes to see if anything was out of proportions, but everything checked out as normal, I tried to see if there was anyt duplicate items, but nothing was out of the ordinary.
+  I geniunely have no idea what might have happened, as to why the drive is suddenly full for no reason.
+  I did the partition merging with AOMEI Partition Assistant. 
+  I am genuinely considering just doing a clean windows install at this point since its driving me insane, any suggestions are welcome. I will try them later as it already is very late at night.
+ COMMENT_BREAK
+ use 'minitool partition wizerd' you can track existing files and drives easily and could setup  partitions as you desire. 
+ COMMENT_BREAK
+   15 hours ago, GioGioLol said:
+Afterwards I merged the main partition with the unallocated partition in the new drive
+    15 hours ago, GioGioLol said:
+I did the partition merging with AOMEI Partition Assistant
+
+Why not In disk management, by „Extend Volume”?
+  maybe the merging isn't sector aware, that's the only thing I can come up with. 
+  The fastest way is to just backup everything, and fresh install.
+ COMMENT_BREAK
+ Well, I fixed the issue, I didn't want to wipe and reclone the drive, since it was a bit of a hazzle to remove and reinstall the drive on the PC again twice. But I ended up doing that since I still had the old 1Tb drive with all the data, and I thought it might be easier to do that rather than to fresh install windows and redownload everything. And now works like an absolute charm, all 1.86TB usable now, hooray to more storage! 
+ COMMENT_BREAK

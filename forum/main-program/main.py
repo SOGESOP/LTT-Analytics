@@ -14,6 +14,7 @@ from selenium.webdriver.support import expected_conditions as EC
 from datetime import date
 from datetime import timedelta
 from datetime import datetime
+from time import time
 
     
 # i could use classes to include multiple web scrapers in one section?
@@ -26,8 +27,12 @@ class GetData:
         global driver
         options=Options()
         options.add_argument('--headless=new')
+        options.add_argument("--remote-allow-origins=*")
         driver=webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     
+    
+selenium has decided to brick itself    
+
     def scroll_topic_page():
         main_url='https://linustechtips.com/discover/'
         driver.get(main_url)
@@ -208,7 +213,7 @@ class TopicDataframe:
                 comment_content_string+=f'\n {i}'
             # saves a file with the comment content to the topic id it was gained from
             parent_folder=os.path.normpath(os.getcwd()+ os.sep +os.pardir)
-            path="{init_path}/page-contents/{filename}.txt".format(init_path=parent_folder, filename=topic_id)
+            path=f"{parent_folder}{os.sep}ltt-analytics{os.sep}forum{os.sep}page-contents{os.sep}{topic_id}.txt"
             with open(path, 'w', encoding="utf-8") as f:
                 f.write(comment_content_string)    
         MiscTools.save_to_csv(tp, 'collect_run')            
@@ -216,7 +221,7 @@ class TopicDataframe:
     # imports the dataframe, only works with csv and excel at the moment as thats all im using 
     def import_dataframe(dataframe_name:str, file_format:str, seperator:str):
         parent_folder=os.path.normpath(os.getcwd()+ os.sep +os.pardir)
-        path="{path_to_parent}/dataframe/{name}.{file_type}".format(path_to_parent=parent_folder, name=dataframe_name, file_type=file_format)
+        path=f"{parent_folder}{os.sep}ltt-analytics{os.sep}forum{os.sep}dataframe{os.sep}{dataframe_name}.{file_format}"
         # tp is the name of the main topic dataframe, i cant remeber why that is the name but there was a good reason i promise
         global tp
         if file_format=='xlsx':
@@ -274,6 +279,39 @@ class TextFormatConversion:
         with open(path, 'w', encoding="utf-8") as f:
             f.write(comment_content_string)
         
+        
+class LoopCollect:       
+    def import_dataframe(file_name:str, file_format:str)-> object:
+        parent_folder=os.path.normpath(os.getcwd()+ os.sep +os.pardir)
+        path="{path_to_parent}/dataframe/{name}.{file_type}".format(path_to_parent=parent_folder, name=file_name, file_type=file_format)
+        # tp is the name of the main topic dataframe, i cant remeber why that is the name but there was a good reason i promise
+        return path
+
+    def combine_csv():
+        logging.info('Dataframes being imported')
+        path=LoopCollect.import_dataframe('collect_run', 'csv')
+        global tp
+        tp=pandas.read_csv(path)
+        path=LoopCollect.import_dataframe('main', 'csv')
+        placeholder=pandas.read_csv(path)
+        for idx, import_topic_id in enumerate(tp['Topic ID']):
+            for existing_topic_id in placeholder['Topic ID']:
+                if import_topic_id==existing_topic_id:
+                    tp.drop(idx, axis=0, inplace=True)
+        frames=[tp, placeholder]
+        global df
+        df=pandas.concat(frames)
+        df.reset_index(inplace=True, drop=True)
+        logging.info(f'Main dataframe shape: {df.shape}')
+        MiscTools.save_to_csv(df, 'main')
+
+
+
+        
+        
+            
+            
+        
 def main():
     MiscTools.format_logging('main.log')
     MiscTools.remove_csv('collect_run.csv')
@@ -295,6 +333,11 @@ def main():
         TopicDataframe.add_comment_number(topic_number, seperated_comments)
     MiscTools.save_to_csv(tp, 'collect_run')
     logging.error(f"{MiscTools.error_collection('Program_end')}")
+    MiscTools.format_logging('loop-collect.log')
+    while True:    
+        LoopCollect.run_main_collect_cycle()
+        LoopCollect.combine_csv()
+        time.sleep(3600)
 
 if __name__=='__main__':
     main()

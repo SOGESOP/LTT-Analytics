@@ -1,0 +1,16 @@
+
+ I am trying to host a website on TruNAS Scale, and I am having this issue, where whenever I update my IP address to Cloudflare it is my gateway IP of ISP which they share with many users. means my public IP is my ISP's public IP.
+since now my gateway address is my IP which is getting shared with many users in my area, is there any way to use DyDns on any port to host a server?
+
+Previously it used to be that you get a public IP address which might keep changing and if you keep updating it routinely with your DyDNS client you can redirect all public requests of that IP to your server. I was trying to do the same and noticed this problem.
+ 
+ COMMENT_BREAK
+ You cannot, you're behind Carrier Grade NAT (CG-NAT) and unless you're willing to pay for a static IPv4 address and your ISP offers this service, you cannot use DynDNS for this.
+ COMMENT_BREAK
+ You can run e.g. a Cloudflare tunnel to get through that. Believe Tailscale is an option too. 
+ COMMENT_BREAK
+   1 hour ago, Kilrah said:
+You can run e.g. a Cloudflare tunnel to get through that. Believe Tailscale is an option too. 
+This. Doesn’t rely on ports being opened or a public facing IP. It just tunnels directly in. 
+  But…. I also wouldn’t host a public facing website from truenas… unless it was something like nextcloud. 
+ COMMENT_BREAK

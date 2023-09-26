@@ -1,0 +1,29 @@
+
+ So my liquid cooler's pump failed on me and as a result my cpu reached 113c before shutting down.
+Brought the pc to the store(prebuild with guarrantee active),they replace the cooler with a off brand downgrade and they refuse to replace the cpu claiming it has no damage after 3 thermal shutdowns in total.
+Now my question is,how do I prove 100% if the cpu has any thermal damage from those events?
+  PC SPECS
+ryzen 5600x
+liquid cooler corsair h450(wich got replaced by this abortion of a cooler Turbo-X Nemesis CPU Cooler N120 ARGB https://www.plaisio.gr/anavathmisi-diktia/anavathmisi-pc/anemistirakia-psiktres/turbo-x-nemesis-cpu-cooler-n120-argb_3937003) 
+Mobo gigagyte x570 
+ram corsair vengeance 3200mhz 
+Psu be quiet gold
+gpu nvidia 3060 evga
+ COMMENT_BREAK
+ You can’t. 
+ COMMENT_BREAK
+ Three thermal-triggered shutdowns will not kill a CPU. That's the point of over-temperature protection, to shut the chip off before it cooks itself.
+ COMMENT_BREAK
+ There is no specific way to test that, but odds are the chip is actually fine.
+  But, uhhh, they replaced a 360mm AIO with a 120?
+  That's not a proper warranty fix.  Ain't no 120 AIO that'll deal properly with a 5600x.  Go tell them to put on a REAL cooler.
+ COMMENT_BREAK
+ The point of thermal shutdowns is to protect the CPU before it actually gets damaged. 
+  They should replace the cooler with an equivalent model, a 120mm AIO in exchange for a 360mm is a joke and you should fight them on that. But you really have no grounds for demanding a new CPU, and you almost certainly don't need one. 
+ COMMENT_BREAK
+   1 hour ago, Keeplooking said:
+hey refuse to replace the cpu claiming it has no damage after 3 thermal shutdowns in total.
+Should've seen my athlon xp, that thing was capped at 90C for years and it still works
+You'd think a CPU that's 20 years newer will be damaged by 3 (three) throttling events? nah
+  Go air cooling.
+ COMMENT_BREAK

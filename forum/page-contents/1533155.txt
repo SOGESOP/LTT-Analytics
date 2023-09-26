@@ -1,0 +1,10 @@
+
+ So I ordered a new ASRock 7800xt that has a recomended PSU of 800W. I currently have a 750W Gold. What are the chances I will havw to order and new PSU?
+ COMMENT_BREAK
+ It is hard to say because it depends on what else you have in your PC and the quality and age of the unit, but there's a decent chance you'll be fine.
+ COMMENT_BREAK
+ if the rest of your build is a normal one, and not like a 13900K overclocked to the moon with 1000 hard-drives you will be fine.
+The recommended PSU is always way to high for normal builds because they have to take into account crazy builds as described
+ COMMENT_BREAK
+ As long as its a quality PSU, it should be more than fine.
+ COMMENT_BREAK

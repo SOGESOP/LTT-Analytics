@@ -1,0 +1,38 @@
+
+ I have been having my games crash in windows with dx issues and random crashes, gpu driver up to date and I am using 7200mhz mem on Win 10 Pro with 13600k and Z790 board. Im thinking the ram is the issue cause P95 didnt crash when I used 6200mhz cl36 GEAR 2 settings, but did crash when on XMP 7200mhz cl34. For all tests I used XMP and manually chose the speeds in the MSI bios. I also read I should be in GEAR 1 settings for ram but idk what that does or if I should even touch it. I have been stuck on 100c for my P core and close to 100c for my E core and Idk whats going on. I benchmarked some settings and I am hoping you guys can give me an answer for my trouble. My thermal paste and the anti bend bracket are secured and fitted on correctly so I am lost as to what it might be.
+  See attached imgs for results 
+ COMMENT_BREAK
+ CPU cooler or lack thereof if hitting 100oC??
+  Rest of the system specifications?????
+  Try Windows 11 since it's better optimized for big.LITTLE core designs.
+ COMMENT_BREAK
+   2 hours ago, vortexx21 said:
+I have been having my games crash in windows with dx issues and random crashes, gpu driver up to date and I am using 7200mhz mem on Win 10 Pro with 13600k and Z790 board. Im thinking the ram is the issue cause P95 didnt crash when I used 6200mhz cl36 GEAR 2 settings, but did crash when on XMP 7200mhz cl34. For all tests I used XMP and manually chose the speeds in the MSI bios. I also read I should be in GEAR 1 settings for ram but idk what that does or if I should even touch it. I have been stuck on 100c for my P core and close to 100c for my E core and Idk whats going on. I benchmarked some settings and I am hoping you guys can give me an answer for my trouble. My thermal paste and the anti bend bracket are secured and fitted on correctly so I am lost as to what it might be.
+Expand  
+100C at what wattage? IF you're +150W of draw and 100C, then its fine. If you're at 20W draw and 100C, then its not fine.
+  I'd do a Cinebench R23 all core run and see what your score is, because if its on par with the average, then you're fine.
+ COMMENT_BREAK
+   2 hours ago, CommanderAlex said:
+CPU cooler or lack thereof if hitting 100oC??
+  Rest of the system specifications?????
+  Try Windows 11 since it's better optimized for big.LITTLE core designs.
+Arctic 360 aio for the cooler handled my 12600k like it was nothing but now is giving me issues on the 13600k for the high temps
+ COMMENT_BREAK
+   2 hours ago, vortexx21 said:
+Arctic 360 aio for the cooler handled my 12600k like it was nothing but now is giving me issues on the 13600k for the high temps
+Make sure the cooler is properly mounted. 
+  I see in your tests that for the crashing during test was with [Enhanced Turbo mode ON] while you didn't crash with this turned OFF. This is multi-core enhancement and will force maximum turbo frequencies for each P-core and E-core. The amount of heat generated will simply overwhelm the cooler and as a result, hit 100oC.  
+  TLDR: Turn off Enhanced Turbo Mode. 
+ COMMENT_BREAK
+ 1stly you havn't done anything wrong. Try stock clocks at 1.100v to start with, then slowly work your way up. Undervolting is key for temps. This is how i achieved a better overclock. & only used R-23. if stable after 5 min each test, it should be stable. Full run to be sure. Stock settings like clock speeds & stock voltage are both way to high. Mobo companies do it like this so the CPU can hit the cpu targets the cpu states it can do. This is why we see this issue a lot on the forum. Hence why we all will say undervolting is key. & it works wonders.
+  & even with my 5.7ghz on mine is again with an undervolt on my 13600k. I can get 5.8ghz on mine tho then ill get to stock 96oC (& thermal trottling) & also just under stock voltages. & that's with a custom loop running 4 rads. With your 360 AIO id imagine a 5.2-5.4 over clock should be achievable at around 80-85oC if not lower, in R-23 & running games. Have in mind that your only going to achieve, what your cooler can do. Some thermal grizzly paste a contact plate maybe. Better cooling possibly. Id say invest in a better option, when ever you can.
+  & then this is vs the ambient temperature in the room the pc is in. Need help with this, the forum can help you a lot with it. Don't ever feel like a dummy to ask even i had to in the past as well. As we all want every 1 to get the best out of there systems like we do.
+  EDIT: Leave the E-Cores at 3.2 that's it. Or even set it to 3.0 you not ever going to notice it really. I didn't.
+ COMMENT_BREAK
+   52 minutes ago, loony979 said:
+1stly you havn't done anything wrong. Try stock clocks at 1.100v to start with settings like clock speeds & stock voltage are both way to high. Mobo companies do it like this 
+  5.7ghz on mine is again with an undervolt on my 13600k.
+I'd recommend not contrasting text with black/white, because some of us use dark mode and your text is unreadable unless I highlight it.
+ COMMENT_BREAK
+ oh yeah ill revert it now. forgot about it.
+ COMMENT_BREAK

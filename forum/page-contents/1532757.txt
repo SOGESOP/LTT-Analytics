@@ -1,0 +1,41 @@
+
+ So, when i go to power on my pc and boot from a windows usb it gives me many different memory related crash codes. Ive managed to narrow it down to the gpu but heres the kicker. When i go to power on with a 3090, crash, old dusty r7 370? All good. Now heres the curveball, 1080 thats a known good card, no problems in other pc. In mine, crashes the windows like the 3090. Before i tried with the r7 370 i tried a new cpu, motherboard, ram and ssd, all mostly seperate tho. Then i tried the r7 and went "huh, must be psu then" bought a new one, slapped it in aaaand.... No dice. Id love to get you guys opinion on this and i can tell you more about the whole build if needed. Extra devices that arent needed for basic operation have obviously been unplugged.
+ COMMENT_BREAK
+ Are you sure the USB is fine? Are you trying to boot a Windows install? If so, how old is the install and what was used to create it?
+ COMMENT_BREAK
+ Sometimes the media creation tool introduces some bugs. As far as I see, you have problems with your Nvidia card but your only AMD card works fine... Maybe try another USB key and run the media creation tool. If this is not possible, try using another AMD card just for curiosity ?
+ COMMENT_BREAK
+   On 9/24/2023 at 2:37 AM, Sawa Takahashi said:
+Sometimes the media creation tool introduces some bugs. As far as I see, you have problems with your Nvidia card but your only AMD card works fine... Maybe try another USB key and run the media creation tool. If this is not possible, try using another AMD card just for curiosity ?
+Dont have a friend or anyone nearby with amd card, also ive tried multiple ways of creating and using an installation media. Used 3 different usb sticks, very old usb 2.0, usb 3.0 ive had for about a year and a brand new 3.0. on top of this, ive also installed windows on a ssd but that got corrupted, tried a differend ssd, same thing. Ive also updated the bios and rolled it back too. Also what i found out by doing some googling was that the 370 has a tdp of 100w while the 1080 has 250w and 3090 has 350w, so that was the reason i changed the psu. Something else i find also quite interesting is that the motherboard dosent really like usb's, or at least the year old 3.0 qnd newer 3.0. whenever i go to bios with it plugged in, my mouse starts acting up, jumping about 5cm on the screen to the right every 2 seconds or so if i move it in any direction
+ COMMENT_BREAK
+   On 9/24/2023 at 1:00 AM, 191x7 said:
+Are you sure the USB is fine? Are you trying to boot a Windows install? If so, how old is the install and what was used to create it?
+As i mentioned in the reply to sawa, ive tried 3 different usbs, old 2.0, brand new 3.0 and the 3.0 i already had. The windows install is also brand new straight from microsoft and ive tried to make one on mac and one on a windows pc
+ COMMENT_BREAK
+ tried with one ram stick? 
+or other rams? 
+ COMMENT_BREAK
+   On 9/24/2023 at 5:19 PM, Stormed_data said:
+As i mentioned in the reply to sawa, ive tried 3 different usbs, old 2.0, brand new 3.0 and the 3.0 i already had. The windows install is also brand new straight from microsoft and ive tried to make one on mac and one on a windows pc
+Run Memtest86+ or Passmark Memtest86; check your RAM.
+ COMMENT_BREAK
+   On 9/24/2023 at 5:21 PM, Robchil said:
+tried with one ram stick? 
+or other rams? 
+Yes, i tried one by one, kit by kit, stole my little brothers ram and even ordered new ram, i then tested all the ram in my little brothers pc and it was all fine
+ COMMENT_BREAK
+   On 9/24/2023 at 5:21 PM, 191x7 said:
+Run Memtest86+ or Passmark Memtest86; check your RAM.
+Did that on the other pc, no problems, even tried a brand new set of ram
+ COMMENT_BREAK
+ Imagine linus sending me a dm demanding to get his hands on this wierd pc
+ COMMENT_BREAK
+ Ive come to a conclusion after testing the 3090 in another pc. My gpu died and took the motherboard partly with it, gpu does not work in another system and i used the 1080 in that same system without problems. So to conclude this, im down 1200€ and a system due to my 3090's memory controller failure. Sadly its also located on the die so theres no replacing it.
+ COMMENT_BREAK
+   14 minutes ago, Stormed_data said:
+Ive come to a conclusion after testing the 3090 in another pc. My gpu died and took the motherboard partly with it, gpu does not work in another system and i used the 1080 in that same system without problems. So to conclude this, im down 1200€ and a system due to my 3090's memory controller failure. Sadly its also located on the die so theres no replacing it.
+3090 isn't that old.. 2 years? 3? .. no warranty? 
+i had the same issue with one of 2 1080ti's .. got new mainboard, and cash back on both GPU's.. but that was 1.5 years old system..  ended up buying two 2080ti's.. they still work. 
+   
+ COMMENT_BREAK

@@ -1,0 +1,32 @@
+
+ So i have an internal (used as external) 2TB HDD, which from what i know was perfectly fine, stored in a special case for it, and 129GB of data just vanished from it (the contents of 1 folder), and when i try to move anything into it, or create a new folder it just gives me an error, does anyone know how tf that even happened? i know that i definitely didn't delete it, luckily its only a backup hard drive, so i didn't lose my data, but that's still really weird, and besides this 1 folder, all other data was perfectly readable. Its formatted in NTFS, and im using linux mint, and didn't have any problems before
+ COMMENT_BREAK
+ If it is a cheep unknown brand then you probably got scammed and the drive is only formatted to look like it is 2TB when it is actually smaller. Otherwise it might be a bad sector on a mechanical drive or bad firmware on an SSD. In any case, your best bet is probably a replacement.
+ COMMENT_BREAK
+   2 hours ago, MiszS said:
+So i have an external 2TB HDD, which from what i know was perfectly fine, stored in a special case for it, and 129GB of data just vanished from it (the contents of 1 folder), and when i try to move anything into it, or create a new folder it just gives me an error, does anyone know how tf that even happened? i know that i definitely didn't delete it, luckily its only a backup hard drive, so i didn't lose my data, but that's still really weird, and besides this 1 folder, all other data was perfectly readable. Its formatted in NTFS, and im using linux mint, and didn't have any problems before
+Expand  
+Replace it as soon as possible and look at it with Crystal disk for more information. 
+To get your lost data back you could try recuva a Programm I used before to restore deleted data 
+https://recuva.de.softonic.com/download?utm_source=SEM&utm_medium=paid&utm_campaign=GE_DSA&gclid=CjwKCAjwgsqoBhBNEiwAwe5w0wZHttCwZPB4a8f3oOAqaTb5defxFzggJaM7VNsWWNLnA6Bton2vYBoCP3MQAvD_BwE
+ COMMENT_BREAK
+ Sounds like you have a dead or corrupted external HDD.
+ COMMENT_BREAK
+   2 hours ago, CWALD said:
+If it is a cheep unknown brand then you probably got scammed and the drive is only formatted to look like it is 2TB when it is actually smaller. Otherwise it might be a bad sector on a mechanical drive or bad firmware on an SSD. In any case, your best bet is probably a replacement.
+probably not, since its a seagate barracuda, and i didn't have problems with those before
+ COMMENT_BREAK
+   2 hours ago, MiszS said:
+probably not, since its a seagate barracuda, and i didn't have problems with those before
+All HDDs fail, no model in existence is 100% always good. Backblaze keeps a tally for the enterprise drives they use (far nicer drives than the Barracudas) if you want to see: https://www.backblaze.com/blog/backblaze-drive-stats-for-q1-2023/. Average failure rate of 1.54%. 
+ COMMENT_BREAK
+   1 hour ago, Zando_ said:
+All HDDs fail, no model in existence is 100% always good. Backblaze keeps a tally for the enterprise drives they use (far nicer drives than the Barracudas) if you want to see: https://www.backblaze.com/blog/backblaze-drive-stats-for-q1-2023/. Average failure rate of 1.54%. 
+Yeah ik they always have to fail, but I only have mine for like 4 months, and used it very carefully, like 2 times per month, weird that it's failing already, also I'll check out the blog
+ COMMENT_BREAK
+   1 hour ago, MiszS said:
+Yeah ik they always have to fail, but I only have mine for like 4 months, and used it very carefully, like 2 times per month, weird that it's failing already, also I'll check out the blog
+My point is that random failure is normal. You don't have to do anything, or have the drive for X amount of time, for it to just randomly fail. This goes for... really any product that exists, especially mass produced ones, there will always be fluke failures. That's what warranties are for.
+ COMMENT_BREAK
+ give us screenshot of Crystaldiskinfo with all SMART attributes of that HDD. 
+ COMMENT_BREAK

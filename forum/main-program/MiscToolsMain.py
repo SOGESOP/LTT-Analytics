@@ -14,8 +14,8 @@ class MiscTools:
     def format_logging(file_name:str):
         # adds the path to the logging/ viewing folder
         parent_folder=os.path.normpath(os.getcwd()+ os.sep +os.pardir)
-        loggger_folder_path=f"{parent_folder}/log-view/"
-        logger_path=f"{parent_folder}/log-view/{file_name}"        
+        loggger_folder_path=f"{parent_folder}{os.sep}ltt-analytics{os.sep}forum{os.sep}log-view"
+        logger_path=os.path.normpath(f"{loggger_folder_path}{os.sep}{file_name}")        
         # removes the logging file form previous runthrough
         existing_files=os.listdir(loggger_folder_path)
         if f'{file_name}' in existing_files:
@@ -36,7 +36,7 @@ class MiscTools:
     # saves csv of dataframe, again please hide your shock
     def save_to_csv(dataframe_name:object, file_name:str):
         parent_folder=os.path.normpath(os.getcwd()+ os.sep +os.pardir)
-        folder_path="{parent_folder}/dataframe".format(parent_folder=parent_folder)
+        folder_path=f"{parent_folder}{os.sep}ltt-analytics{os.sep}forum{os.sep}dataframe"
         path='{cwd}/{name}.csv'.format(cwd=folder_path, name=file_name)
         existing_files=os.listdir(folder_path)
         if file_name in existing_files:
@@ -62,8 +62,8 @@ class MiscTools:
     def remove_csv(csv_name:str):
          # adds the path to the csv file
         parent_folder=os.path.normpath(os.getcwd()+ os.sep +os.pardir)
-        csv_folder_path=f"{parent_folder}/dataframe/"
-        csv_path=f"{parent_folder}/dataframe/{csv_name}"
+        csv_folder_path=f"{parent_folder}{os.sep}ltt-analytics{os.sep}forum{os.sep}dataframe"
+        csv_path=f"{csv_folder_path}{os.sep}{csv_name}"
         existing_files=os.listdir(csv_folder_path)
         if csv_name in existing_files:
             os.remove(csv_path)
