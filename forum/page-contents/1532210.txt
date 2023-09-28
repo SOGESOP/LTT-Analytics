@@ -1,0 +1,197 @@
+
+ So i've been sitting on my GTX 1080 TI Aorus for a while now and i just want a new Gpu. though i am unsure if it would be a build thats gonna be somewhat balanced
+
+Current specs:
+Cpu: I5 9600k
+Mobo:z390-A PRO
+Ram: Cosair vengeance 4x8GB
+gpu: GTX 1080 TI Aorus XTREME EDITION 
+
+and i was thinking upgrading/swapping to the INTEL ARC 770A as the price seems really nice and preformance about equal or abit lower depending on what website i look at.
+
+Would this work out or are there any hiccups i might need to beware or just simply choose a different gpu all together. I wont be going for the RTX 40 series as they have the combustible port syndrome, i just dont wanna deal with can of worms.
+
+Hope to get a answer from you guys!
+
+Thx for reading.
+ 
+ COMMENT_BREAK
+ Intel ARC is a good value for money pick*. Other alternative is AMD as they're got good offerings right now. 7700XT could be a great pick for you.
+  * It's literally the bleeding edge. Some games just outright don't work on launch like Starfield. Intel is getting it to work with a driver release. Good pick for enthusiasts who don't mind something not working now and again.
+ COMMENT_BREAK
+   On 9/20/2023 at 11:15 AM, venomtail said:
+Intel ARC is a good value for money pick*. Other alternative is AMD as they're got good offerings right now. 7700XT could be a great pick for you.
+  * It's literally the bleeding edge. Some games just outright don't work on launch like Starfield. Intel is getting it to work with a driver release. Good pick for enthusiasts who don't mind something not working now and again.
+I wouldn't say dealing with a bunch of annoying driver issues is a good deal for the money. I mean from what I have heard there are multimonitor issues where you can't even ult tab a game without it crashing the game. Maybe I just have less tolerance for this sorta thing. 
+ COMMENT_BREAK
+   On 9/20/2023 at 11:15 AM, venomtail said:
+Intel ARC is a good value for money pick*. Other alternative is AMD as they're got good offerings right now. 7700XT could be a great pick for you.
+  * It's literally the bleeding edge. Some games just outright don't work on launch like Starfield. Intel is getting it to work with a driver release. Good pick for enthusiasts who don't mind something not working now and again.
+EDIT: 
+i think the intel arc 770a will the one  i grab, seing current pricing on rtx cards and havent been too much into wanting to step over to amd as i hear my friend complain about it's drivers constantly
+
+tho incase if you wanna know what games i play
+i mainly play Deep rock galactic, Garry's mod Mordhau. sometimes tf2. 
+ COMMENT_BREAK
+ I would probably go AMD based on what you said but I would also keep in mind that you will want to upgrade your cpu to fully make use of any gpu upgrade as that i5 is going to limit most meaningful upgrades over the 1080ti in alot of scenarios. 
+ COMMENT_BREAK
+   On 9/20/2023 at 11:23 AM, Brooksie359 said:
+I would probably go AMD based on what you said but I would also keep in mind that you will want to upgrade your cpu to fully make use of any gpu upgrade as that i5 is going to limit most meaningful upgrades over the 1080ti in alot of scenarios. 
+i dont nessarly think i have a budget to upgrade at all atm. and just general wanna replace the current gpu, as it just has a very high idle temp and generally just turns playing drg into a slightshow when i goes over 80c.i have repasted it and cleaned it out completely, no change to it.
+ COMMENT_BREAK
+   On 9/20/2023 at 11:21 AM, Brooksie359 said:
+I wouldn't say dealing with a bunch of annoying driver issues is a good deal for the money. I mean from what I have heard there are multimonitor issues where you can't even ult tab a game without it crashing the game. Maybe I just have less tolerance for this sorta thing. 
+You'd only be dealing with annoying drivers in specific cases, meanwhile I know some people who only play CSGO or Rust all day every day for the last 10 years and an A770 would be a great deal for them. GPU runs stable and on par, sometimes beating a 6700XT and 3060TI while being cheaper. That's why you'd have to be an enthusiast who doesn't mind getting their hands dirty every now and again. For me my tolerance limit would be having to dismantle the GPU, maybe. I've never reached that threshold yet, might surprise myself. If you want a console level predictability in GPU experience, get Nvidia or AMD. 
+  Then for others who would like to play other games that don't run well, would have a rougher road ahead of them. All case by case basis, so upon confirming what sort of situation OP has, an A770 could be a great value choice.
+ COMMENT_BREAK
+   On 9/20/2023 at 11:21 AM, Captain Fluffy said:
+EDIT: 
+i think the intel arc 770a will the one  i grab, seing current pricing on rtx cards and havent been too much into wanting to step over to amd as i hear my friend complain about it's drivers constantly
+
+tho incase if you wanna know what games i play
+i mainly play Deep rock galactic, Garry's mod Mordhau. sometimes tf2. 
+Before people complain about drivers, make sure they and same for you when you install a new GPU, properly uninstall the old GPU drivers with DDU. Too many people change their GPU's half arsed and then complain somethings broken with drivers. Of course, the old one's still lurking in the background.
+ COMMENT_BREAK
+   On 9/20/2023 at 11:52 AM, venomtail said:
+You'd only be dealing with annoying drivers in specific cases, meanwhile I know some people who only play CSGO or Rust all day every day for the last 10 years and an A770 would be a great deal for them. GPU runs stable and on par, sometimes beating a 6700XT and 3060TI while being cheaper. That's why you'd have to be an enthusiast who doesn't mind getting their hands dirty every now and again. For me my tolerance limit would be having to dismantle the GPU, maybe. I've never reached that threshold yet, might surprise myself. If you want a console level predictability in GPU experience, get Nvidia or AMD. 
+  Expand  
+It's not even about game performance only. It's other issues as well. Tech yes city has a good review on it after using Intel ark as a daily driver for an extended period of time and goes over all of the issues and eventually comes up with the conclusion that it's not worth it which I agree. If it was simply lower performance in some games I could agree but it's more than just that. 
+ COMMENT_BREAK
+   On 9/20/2023 at 12:02 PM, Brooksie359 said:
+It's not even about game performance only. It's other issues as well. Tech yes city has a good review on it after using Intel ark as a daily driver for an extended period of time and goes over all of the issues and eventually comes up with the conclusion that it's not worth it which I agree. If it was simply lower performance in some games I could agree but it's more than just that. 
+Watched the video, dude had issues with:
+Diablo 4
+Last of Us
+Wrong power reading
+No hotkeys for GPU features
+Cannot use external capture card
+Some games (didn't mention which) have difficulties starting
+OLED monitor connection buggy
+No overclocking/undervolting
+Not feature parody up with what AMD and Nvidia has to offer
+Annoying popups?
+Most severe case he mentioned was crashing on Alt Tabbing. Didn't say if it was for all games always or just some games crashing on alt tabbing.
+Other issues again are game specific, which will be more common with these Intel cards. Sure you don't get as many features if you went with AMD or Nvidia but many people don't care about them, that's why the card is $100+ cheaper than competitors. If you're not a streamer playing Last of Us or Diablo 4 on an Oled monitor using external capture card to stream your footage with an overclocked card to get more FPS and undervolted to keep the power consumption low and accurately know how much you're using, how bad can it be?
+  OP hasn't yet mentioned what games he wants to play. If it's Starfield then logical that A770 can't be recommended. Something popular again like CSGO, Valorant or else? Pretty solid buy for only those things.
+ COMMENT_BREAK
+   On 9/20/2023 at 12:50 PM, venomtail said:
+Watched the video, dude had issues with:
+Diablo 4
+Last of Us
+Wrong power reading
+No hotkeys for GPU features
+Cannot use external capture card
+Some games (didn't mention which) have difficulties starting
+Expand  
+Maybe I am weird but I would rather pay more for something without bugs and issues. I can't reasonably recommend a product that only works some of the times without clearly indicating that is the case. If people still want to buy the card knowing all of the issues they will face then more power to them. I just want op to be clear on what they are getting into and would rather not downplay the issue and then have them run into a bunch of issues after the purchase and feel bad. I mean as an early adopter they should go in expecting there to be issues not assuming it will be OK if they only play certain games. I just think people sometimes make it sound better than it is imo. 
+ COMMENT_BREAK
+   On 9/20/2023 at 1:38 PM, Brooksie359 said:
+Maybe I am weird but I would rather pay more for something without bugs and issues. I can't reasonably recommend a product that only works some of the times without clearly indicating that is the case. If people still want to buy the card knowing all of the issues they will face then more power to them. I just want op to be clear on what they are getting into and would rather not downplay the issue and then have them run into a bunch of issues after the purchase and feel bad. I mean as an early adopter they should go in expecting there to be issues not assuming it will be OK if they only play certain games. I just think people sometimes make it sound better than it is imo. 
+Expand  
+Oh yea same, want to make sure OP knows that Intel right now is a hedgehog of a GPU choice, it'll often sting you if you're not careful and thorough. That said, also want to remind OP that just because others aren't choosing a GPU because it's not fit for their needs all the sudden doesn't mean the GPU is no longer good enough for OP or meet their needs because it doesn't have features they were never going to use anyway. 
+ COMMENT_BREAK
+   On 9/20/2023 at 11:28 AM, Captain Fluffy said:
+i dont nessarly think i have a budget to upgrade at all atm. and just general wanna replace the current gpu, as it just has a very high idle temp and generally just turns playing drg into a slightshow when i goes over 80c.i have repasted it and cleaned it out completely, no change to it.
+An issue with keeping your current CPU if you upgrade to Intel is that, officially, 9th gen doesn't support resizable bar, which is required to get full performance on Intel GPUs. There may be a beta BIOS available for your motherboard that enables it (some manufacturers did that for 300 series motherboards) but without knowing that you can enable resizable bar, I wouldn't go with an Intel Arc GPU until you do a platform upgrade.
+ COMMENT_BREAK
+   On 9/20/2023 at 2:37 PM, YoungBlade said:
+An issue with keeping your current CPU if you upgrade to Intel is that, officially, 9th gen doesn't support resizable bar, which is required to get full performance on Intel GPUs. There may be a beta BIOS available for your motherboard that enables it (some manufacturers did that for 300 series motherboards) but without knowing that you can enable resizable bar, I wouldn't go with an Intel Arc GPU until you do a platform upgrade.
+what does rezisable bar do?
+ COMMENT_BREAK
+   On 9/21/2023 at 8:33 AM, Captain Fluffy said:
+what does rezisable bar do?
+It allows the CPU to directly access more than 256MB of the graphics card's VRAM. The feature is moderately helpful for AMD cards, a bit of a mixed bag on Nvidia cards, but absolutely essential on Intel Arc cards. Intel Arc cards will perform much worse without resizable bar enabled, both in terms of average FPS and frame time consistency.
+ 
+ COMMENT_BREAK
+   On 9/21/2023 at 1:09 PM, YoungBlade said:
+It allows the CPU to directly access more than 256MB of the graphics card's VRAM. The feature is moderately helpful for AMD cards, a bit of a mixed bag on Nvidia cards, but absolutely essential on Intel Arc cards. Intel Arc cards will perform much worse without resizable bar enabled, both in terms of average FPS and frame time consistency.
+Expand  
+okay what cpu's ig would help enable it? it's stil quite confusing
+ COMMENT_BREAK
+   On 9/22/2023 at 11:37 AM, Captain Fluffy said:
+okay what cpu's ig would help enable it? it's stil quite confusing
+It's supported officially on 10th gen Intel and newer (although a BIOS update may be required for 10th gen) and 3000 series AMD CPUs and newer with a 500 series board. However, most AM4 motherboards (300-500 series for AMD) were given a BIOS update that added support for resizable bar regardless of the CPU, so in practice, any Ryzen CPU should support it.
+  All that said, some 300 series Intel boards were given a BIOS update that enables support, too.
+  I checked for your motherboard and it looks like MSI added support back in 2021 with BIOS 7B98v1D - so if you update your BIOS to that version or higher, you'll have rebar support without needing to upgrade your platform.
+  https://www.msi.com/Motherboard/Z390-A-PRO/support
+ COMMENT_BREAK
+   On 9/20/2023 at 11:06 AM, Captain Fluffy said:
+So i've been sitting on my GTX 1080 TI Aorus for a while now and i just want a new Gpu. though i am unsure if it would be a build thats gonna be somewhat balanced
+
+Current specs:
+Cpu: I5 9600k
+Mobo:z390-A PRO
+Ram: Cosair vengeance 4x8GB
+gpu: GTX 1080 TI Aorus XTREME EDITION 
+
+and i was thinking upgrading/swapping to the INTEL ARC 770A as the price seems really nice and preformance about equal or abit lower depending on what website i look at.
+
+Would this work out or are there any hiccups i might need to beware or just simply choose a different gpu all together. I wont be going for the RTX 40 series as they have the combustible port syndrome, i just dont wanna deal with can of worms.
+
+Hope to get a answer from you guys!
+
+Thx for reading.
+  Expand  
+9600K isn't even good enough for a 1080Ti let alone something better. Get a 9900K used on the cheap and swap out your CPU. Then you can get a better CPU, but keep in mind that 9900K is roughly on 3800X level performance wise so don't go nuts.
+
+Also I'd avoid ARC the current cards have some compatibility issues and the power draw vs performance is a joke IMO.
+ COMMENT_BREAK
+   On 9/22/2023 at 3:01 PM, HAL90000 said:
+9600K isn't even good enough for a 1080Ti let alone something better. Get a 9900K used on the cheap and swap out your CPU. Then you can get a better CPU, but keep in mind that 9900K is roughly on 3800X level performance wise so don't go nuts.
+
+Also I'd avoid ARC the current cards have some compatibility issues and the power draw vs performance is a joke IMO.
+Where are these cheap, used 9900K CPUs found? I've got a system with a 9600K and I've been looking to upgrade it with a 9900K for a couple of years now if I can find one at a reasonable price. They are all north of $250 on eBay, which is absolutely not cheap - you can get a B450 motherboard and R5 5600 brand new for that price.
+ COMMENT_BREAK
+   On 9/22/2023 at 4:50 PM, YoungBlade said:
+Where are these cheap, used 9900K CPUs found? I've got a system with a 9600K and I've been looking to upgrade it with a 9900K for a couple of years now if I can find one at a reasonable price. They are all north of $250 on eBay, which is absolutely not cheap - you can get a B450 motherboard and R5 5600 brand new for that price.
+As per usual top end Intel chips for each gen retain value for a while.
+
+About 2 years ago I landed a "great deal" on a 9900k for my wife's older Z390 (i7-8700 non-k) for...$289
+
+Ebay shows $260 ish for buy it nows.
+  I suppose it was worth it as she is still using it today, but it won't last long.
+  Ultimately I wouldn't recommend doing what I did because the 8700 is also still in use and isn't really worse. Although, I can't speak for a 9600k.
+ COMMENT_BREAK
+   On 9/22/2023 at 5:40 PM, Mister Woof said:
+As per usual top end Intel chips for each gen retain value for a while.
+
+About 2 years ago I landed a "great deal" on a 9900k for my wife's older Z390 (i7-8700 non-k) for...$289
+
+Ebay shows $260 ish for buy it nows.
+  Expand  
+The 9600K is pretty game dependant in terms of how well it does. In some games, especially with a 4.8GHz+ OC it performs pretty well, nearly as good as the 9900K, but in others, the lack of threads becomes an issue.
+ COMMENT_BREAK
+   On 9/22/2023 at 4:50 PM, YoungBlade said:
+Where are these cheap, used 9900K CPUs found? I've got a system with a 9600K and I've been looking to upgrade it with a 9900K for a couple of years now if I can find one at a reasonable price. They are all north of $250 on eBay, which is absolutely not cheap - you can get a B450 motherboard and R5 5600 brand new for that price.
+I got mine used for $300 CDN (About $220 USD) in 2020 from a nice guy who ran a small computer repair shop in Brampton. I had a 9700K before that. 
+ COMMENT_BREAK
+   On 9/22/2023 at 5:57 PM, YoungBlade said:
+The 9600K is pretty game dependant in terms of how well it does. In some games, especially with a 4.8GHz+ OC it performs pretty well, nearly as good as the 9900K, but in others, the lack of threads becomes an issue.
+Havent visisted the forums in a while as i was looking together with my dad in some of the optionns....
+
+to semi answer the question. I mainly play old games like: tf2 csgo gmod terraria, and some new games like bf2042 mordhau or deep rock galactic. some of these games are just getting wierd gpu issues like people looking like ps1 grapics on steroids. or just crash
+
+i just want a new gpu i got about 320 euro laying about probs could get more in the next month. just unsure about AMD heard the driver support is hot garbage served on a gold platter from a friend of mine so it's beween these 3 options.
+
+overpriced NIVIDA (with a side of melting PSU ports on the 40 series)
+
+nicely priced INTEL, ( has some driver issues and generally can be overlooked if used propperly, i can expect same or abit slower performance)
+
+or sell my current rig while using my laptop as Temporary desktop, and collect enough money to get a new build going
+
+not sure what that would cost nowadays, doesnt need to be high end, just enough to run most games at a decent and stable fps.
+
+hope to hear soon from this post again.
+ COMMENT_BREAK
+ Aswell i'd like to steer the Conversation to my current problem, most likley will be doing a upgrade to my pc, build a new one or be upgrading my gpu.
+
+i've got 0 problem with people talking about this, but this isn't helping my issue currently. 
+
+just keep it somewhat on topic ty so i can set a goal to meet 
+
+   
+ COMMENT_BREAK
+ I wouldn't get Intel graphics for a primary system.
+  If you are budget oriented at all, AMD GPUs are the best value by a country mile. 
+  Coming from a 1080ti, a 6800XT for $499 or used on ebay would be well worth your while.
+ COMMENT_BREAK

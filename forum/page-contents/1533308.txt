@@ -1,0 +1,56 @@
+
+ I'm not sure if this is the best place for this, but here goes.
+  I realize this is a tricky question.
+  Please list all of the components you'd recommend for two computers - one for AMD and one for Intel.
+  My thought is that you don't need a PC - you just need a device that can simulate various CPUs by mimicking the heat output (including the size). Since LonGwin and any other companies that make such devices charge an arm and a leg for a complete device, and it's liable to be massive and require more limbs to pay the shipping, that doesn't seem viable. I don't have the technical skills to engineer and build such a device, either.
+  So, I'm stuck with this problem.
+  I know, I know, it can't just be one CPU from each to truly be able to test all coolers. The problem is, short of being majorly sponsored and finding a team of experts to design, build and run the tests, I don't think ANYONE has another option.
+  Unless you can design and build it for me.
+ 
+ COMMENT_BREAK
+ It depends on the CPUs you are going to test.  IF you are testing gaming performance then you need a GPU that is capable of using the CPU to its fullest extent possible. A good GPU would be a 6600 XT or a RTX 3060. If you are testing higher end cpus then you would need a 6800 XT or RTX 4070 Ti. That way the GPU doesn't bottleneck the CPU or vice versa. I hope this helps. 
+ 
+ COMMENT_BREAK
+   20 hours ago, RevGAM said:
+I'm not sure if this is the best place for this, but here goes.
+  I realize this is a tricky question.
+  Please list all of the components you'd recommend for two computers - one for AMD and one for Intel.
+  My thought is that you don't need a PC - you just need a device that can simulate various CPUs by mimicking the heat output (including the size). Since LonGwin and any other companies that make such devices charge an arm and a leg for a complete device, and it's liable to be massive and require more limbs to pay the shipping, that doesn't seem viable. I don't have the technical skills to engineer and build such a device, either.
+Expand  
+Is there something wrong with how the other reviewers do it?
+  Or are you looking for a revolutionary way to do testing?
+ COMMENT_BREAK
+ Are you wanting to test CPU cooling performance?
+ COMMENT_BREAK
+   19 hours ago, brob said:
+Are you wanting to test CPU cooling performance?
+Yes.
+  19 hours ago, Dedayog said:
+Is there something wrong with how the other reviewers do it?
+  Or are you looking for a revolutionary way to do testing?
+I've seen some who do it the wrong way, but I'm just looking for feedback on what would be the best PCs.
+ COMMENT_BREAK
+   20 hours ago, HypixelBedwars said:
+It depends on the CPUs you are going to test.  IF you are testing gaming performance then you need a GPU that is capable of using the CPU to its fullest extent possible. A good GPU would be a 6600 XT or a RTX 3060. If you are testing higher end cpus then you would need a 6800 XT or RTX 4070 Ti. That way the GPU doesn't bottleneck the CPU or vice versa. I hope this helps. 
+My intent is to test the heat dissipation coefficient of coolers. I'll run Prime 95 or similar to max out the CPU. I'll be doing this in a closed case no matter the set-up.
+ COMMENT_BREAK
+   7 hours ago, RevGAM said:
+My intent is to test the heat dissipation coefficient of coolers. I'll run Prime 95 or similar to max out the CPU. I'll be doing this in a closed case no matter the set-up.
+  Is it necessary to involve CPU? Would not some sort of hot plate with controllable heat output be easier and more accurate?
+ COMMENT_BREAK
+   5 hours ago, brob said:
+  Is it necessary to involve CPU? Would not some sort of hot plate with controllable heat output be easier and more accurate?
+Yes but, as I wrote, I lack the skills to design and build one. Also, it would need to be able to mimic a wide range of CPUs for the most usefulness.
+ COMMENT_BREAK
+   7 hours ago, RevGAM said:
+My intent is to test the heat dissipation coefficient of coolers. I'll run Prime 95 or similar to max out the CPU. I'll be doing this in a closed case no matter the set-up.
+Ok sorry because just by reading the title its  hard to know how you are testing the cpus. also just wondering how are you heating the cpus.
+ COMMENT_BREAK
+   1 hour ago, HypixelBedwars said:
+Ok sorry because just by reading the title its  hard to know how you are testing the cpus. also just wondering how are you heating the cpus.
+No worries. Is it clear now?
+ COMMENT_BREAK
+   31 minutes ago, RevGAM said:
+No worries. Is it clear now?
+yes thank you for specifiying
+ COMMENT_BREAK

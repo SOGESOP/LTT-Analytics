@@ -31,7 +31,6 @@ class GetData:
         driver=webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     
     
-selenium has decided to brick itself, also change paths to be based at code/ to be based at ltt-analytcis  
 
     def scroll_topic_page():
         main_url='https://linustechtips.com/discover/'
@@ -246,8 +245,8 @@ class TopicDataframe:
 # involves reading the comment info from plain text files and reformating it to be useful format
 class TextFormatConversion:
     def reading_file_into_list(topic_id:str):
-        inital_file_path=os.getcwd()
-        file_path="{initial}/page-contents/{name}.txt".format(initial=inital_file_path[:-12], name=topic_id)
+        inital_file_path=f"{os.path.normpath(os.getcwd()+os.sep+os.pardir)}{os.sep}ltt-analytics{os.sep}forum"        
+        file_path="{initial}/page-contents/{name}.txt".format(initial=inital_file_path, name=topic_id)
         f=open(file_path, 'r', encoding="utf-8")
         logging.info('Contents for file {name} has been read'.format(name=topic_id))
         # Converts the file into a list of all the lines and then returns that list
@@ -269,7 +268,7 @@ class TextFormatConversion:
    
     # reformats the topic files to be in a more re>adable form with the comments seperated correctly
     def formatting_topic_files(topic_id:str, comment_content:list[str]):
-        parent_folder=os.path.normpath(os.getcwd()+ os.sep +os.pardir)
+        parent_folder=f"{os.path.normpath(os.getcwd()+ os.sep +os.pardir)}{os.sep}ltt-analytics{os.sep}forum"
         path="{path_to_parent}/page-contents/{name}.txt".format(path_to_parent=parent_folder, name=topic_id)
         os.remove(path)
         comment_content_string='Post Content\n'
@@ -305,7 +304,9 @@ class LoopCollect:
         logging.info(f'Main dataframe shape: {df.shape}')
         MiscTools.save_to_csv(df, 'main')
 
-
+    def run_main_collect_cycle():
+        
+        pass
 
         
         
@@ -333,7 +334,8 @@ def main():
         TopicDataframe.add_comment_number(topic_number, seperated_comments)
     MiscTools.save_to_csv(tp, 'collect_run')
     logging.error(f"{MiscTools.error_collection('Program_end')}")
-    MiscTools.format_logging('loop-collect.log')
+
+    LoopCollect.combine_csv()
     while True:    
         LoopCollect.run_main_collect_cycle()
         LoopCollect.combine_csv()

@@ -1,0 +1,9 @@
+Post Content
+ Hello, recently I bought a second hand RTX 3060 TI (GV-N306TGAMING OC PRO-8GD rev.3.0 is on the back of the card) The problem is that it goes black screen after bios boot. I think it's a driver issue because I just switched to my old card (GTX 1060) with the old drivers and the same thing happened. (I connected my monitor to the motherboard, uninstalled the driver and now everything is ok with the 1060) Could it be that I am using the wrong driver for the 3060? When there is no driver installed or I boot in windows safe mode there is no black screen and I can do everything normally. The moment I start installing drivers it goes black screen and restarts in a couple of seconds. Then it goes in an endless loop of restarting every 10-15 seconds. I tried installing them through GeForce Experience and through the Nvidia website by filtering the card (537.42-desktop-win10-win11-64bit-international-). I've also noticed that the fans don't spin and the card gets really hot while doing basically nothing (The fans of my 1060 don't spin either under no stress but at least its not super hot. I'd say normal temp.) I'm open to any ideas/tricks I could try.
+
+ COMMENT_BREAK try it in a different pc if possible. try running ddu before the next driver install(run in safe mode, and select the option to shut down and install, then after installing the card again, install the latest gpu drivers again).ddu: https://www.guru3d.com/download/display-driver-uninstaller-download/latest nvidia drivers: https://www.nvidia.com/en-us/geforce/drivers/results/211709/   same version you listed, but never hurts to be sure.  if it still isn't working after ddu, try clearing cmos.  what are the rest of the specs of your pc, and model of psu?
+
+ COMMENT_BREAK Try Resetting your graphics driver. Ctrl + Shift + Win + B
+
+ COMMENT_BREAK
+

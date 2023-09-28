@@ -1,0 +1,31 @@
+Post Content
+ So im running Mint in a VM inside windows 10.  i have both Ethernet and a wifi adapter to connect to my phone data hotspot.  i want Mint to completely ignore the Ethernet and only connect to the hotspot wifi everytime i boot in Linux  is it possible?
+
+ COMMENT_BREAK   On 9/23/2023 at 8:45 PM, BaidDSB said:i want Mint to completely ignore the Ethernet and only connect to the hotspot wifi everytime i boot in LinuxDo you not have it storing anything? Just turn the Ethernet off? Click the network icon and disable the wired connection.  Does this not work?
+
+ COMMENT_BREAK the configuration of whatever hypervisor software you're using should allow you to configure where the network connection goes.
+
+ COMMENT_BREAK   On 9/23/2023 at 8:58 PM, OhioYJ said:Do you not have it storing anything? Just turn the Ethernet off? Click the network icon and disable the wired connection.  Does this not work?Ethernet off before connecting to the VM?    On 9/23/2023 at 9:17 PM, manikyath said:the configuration of whatever hypervisor software you're using should allow you to configure where the network connection goes.im using VirtualBox
+
+ COMMENT_BREAK   On 9/24/2023 at 7:57 AM, BaidDSB said:im using VirtualBoxright click the VM => settings => network => "attached to" set to bridged, "name" set to the wifi card.
+
+ COMMENT_BREAK   On 9/24/2023 at 9:59 AM, manikyath said:right click the VM => settings => network => "attached to" set to bridged, "name" set to the wifi card.ok did that. so now do i first connect to the hotspot before opening the VM?  what about the ethernet on my pc? it it work separately?
+
+ COMMENT_BREAK   On 9/24/2023 at 12:21 PM, BaidDSB said:ok did that. so now do i first connect to the hotspot before opening the VM?  what about the ethernet on my pc? it it work separately?what that does is make it so the emulated network card in the VM will only talk to whatever network the wifi card is connected to.
+
+ COMMENT_BREAK   On 9/24/2023 at 1:04 PM, manikyath said:what that does is make it so the emulated network card in the VM will only talk to whatever network the wifi card is connected to.ok so then i can run my main windows on my ethernet and my VM Linux on my wifi hotspot at the same time?
+
+ COMMENT_BREAK   On 9/24/2023 at 7:10 PM, BaidDSB said:ok so then i can run my main windows on my ethernet and my VM Linux on my wifi hotspot at the same time?yes.
+
+ COMMENT_BREAK   On 9/24/2023 at 7:17 PM, manikyath said:yes.ok last question. any way to do that wifi bridge thing in VMware?
+
+ COMMENT_BREAK   On 9/25/2023 at 6:42 AM, BaidDSB said:ok last question. any way to do that wifi bridge thing in VMware?no idea, havent used vmware in ages.
+
+ COMMENT_BREAK   On 9/25/2023 at 6:42 AM, BaidDSB said:ok last question. any way to do that wifi bridge thing in VMware?You might be able to pass through your wireless card as a PCI device but honestly im not sure. I havent touched VirtualBox in ages, only ESXi, and ive never used Wireless in ESXi
+
+ COMMENT_BREAK   On 9/25/2023 at 4:43 PM, TubsAlwaysWins said:You might be able to pass through your wireless card as a PCI device but honestly im not sure. I havent touched VirtualBox in ages, only ESXi, and ive never used Wireless in ESXiYou mean VMware?.the other guy helped with Virtualbox. Which will work for now
+
+ COMMENT_BREAK   On 9/25/2023 at 6:58 PM, BaidDSB said:You mean VMware?.the other guy helped with Virtualbox. Which will work for nowMaybe I have it wrong. In my head VMWare made VirtualBox but I think you are right.VMWare makes ESXi
+
+ COMMENT_BREAK
+

@@ -1,0 +1,95 @@
+
+ how the heck can Apple justify $600 USD more for an extra 1.5 TB?? I literally found a 2 TB SSD for 75$ on Newegg. Apple's SSD probably isn't even PCIE gen 4 too. I also understand that it's Apple but how have they been able to hike the price so much?
+ COMMENT_BREAK
+   On 9/27/2023 at 6:33 PM, VaderCraft_ said:
+how have they been able to hike the price so much?
+  Because people will pay it. 
+ COMMENT_BREAK
+   On 9/27/2023 at 6:33 PM, VaderCraft_ said:
+how the heck can Apple justify $600 USD more for an extra 1.5 TB?? I literally found a 2 TB SSD for 75$ on Newegg. Apple's SSD probably isn't even PCIE gen 4 too. I also understand that it's Apple but how have they been able to hike the price so much?
+Expand  
+Cuz 
+1. Their apple
+2. They think that the iMac 24" is a home device and you won't need more than 1tb of storage (or 512) at a time
+3. That iMac has an ssd with much higher read/write speeds than a pcie gen 3 no dram cache 2tb p3 (but yes that still doesn't justify the price)
+Also you can find 2tb ssds for cheaper than that Intel 670p 2 TB M.2-2280 PCIe 3.0 X4 NVME Solid State Drive (SSDPEKNU020TZX1) - PCPartPicker
+ COMMENT_BREAK
+   On 9/27/2023 at 6:33 PM, VaderCraft_ said:
+how the heck can Apple justify $600 USD more for an extra 1.5 TB?? I literally found a 2 TB SSD for 75$ on Newegg. Apple's SSD probably isn't even PCIE gen 4 too. I also understand that it's Apple but how have they been able to hike the price so much?
+Expand  
+NVME? Pshh.
+
+Try
+https://www.apple.com/shop/product/MX572ZM/A/apple-mac-pro-wheels-kit
+  Guess what? their diehard fans still loves them and defend them to the death.
+ 
+ COMMENT_BREAK
+   On 9/27/2023 at 6:33 PM, VaderCraft_ said:
+Apple's SSD probably isn't even PCIE gen 4 too.
+It is, their SSDs are actually quite good. Still not worth anywhere near what they're charging for their upgrade, but it's still actually a good drive.
+    On 9/27/2023 at 6:33 PM, VaderCraft_ said:
+I also understand that it's Apple but how have they been able to hike the price so much?
+Because you can't upgrade it yourself so they can ask whatever they want for it and people are stuck paying for it. 
+ COMMENT_BREAK
+   On 9/27/2023 at 6:38 PM, Poinkachu said:
+NVME? Pshh.
+
+Try
+https://www.apple.com/shop/product/MX572ZM/A/apple-mac-pro-wheels-kit
+Wtf at that point I'd literally buy 4 plastic wheels from like a Home Depot or Lowes for 10 dollars and duct tape them to the bottom.
+ COMMENT_BREAK
+   On 9/27/2023 at 6:38 PM, RONOTHAN## said:
+It is, their SSDs are actually quite good. Still not worth anywhere near what they're charging for their upgrade, but it's still actually a good drive.
+Ah okay, I wasn't sure, but yeah it's still insane
+ COMMENT_BREAK
+   On 9/27/2023 at 6:44 PM, VaderCraft_ said:
+Ah okay, I wasn't sure, but yeah it's still insane
+The worst part imo is the downgrade from m1 macbooks to m2 macbooks to save 50c per macbook on a $1500-$4000 laptop 
+ COMMENT_BREAK
+ As others have said, it's because people will still buy the upgraded storage. If nobody did, they would drop the price.
+ COMMENT_BREAK
+   On 9/27/2023 at 6:33 PM, VaderCraft_ said:
+How the heck can Apple justify $600 USD more for an extra 1.5 TB??
+They're the only ones that sell Macs. 
+  On 9/27/2023 at 6:46 PM, NinJake said:
+As others have said, it's because people will still buy the upgraded storage. If nobody did, they would drop the price.
+^ folks who actually need it can and will afford it. Most don't. We use base 256GB Macs at work without issue because office files are not that big, and they're in Dropbox anyways so you can selectively sync only what you need. Our video editors work off a NAS or external SSDs (very easy given the stupid bandwidth of Thunderbolt 4, and the fact that a 1TB USB-C drive that'll do 1GB/s sustained reads and writes is only $60). 
+ COMMENT_BREAK
+   On 9/27/2023 at 6:46 PM, NinJake said:
+As others have said, it's because people will still buy the upgraded storage. If nobody did, they would drop the price.
+Well, what choice do you have? If you need that much storage, you basically have to pay the price. You can't upgrade the machine yourself and external storage isn't always an option. Of course you could always not go with a Mac…
+    On 9/27/2023 at 6:43 PM, VaderCraft_ said:
+Wtf at that point I'd literally buy 4 plastic wheels from like a Home Depot or Lowes for 10 dollars and duct tape them to the bottom.
+Thing is, if you're willing/able to drop $7000+ on a Mac Pro, you're not going for such a jank option
+ COMMENT_BREAK
+   On 9/27/2023 at 6:52 PM, Eigenvektor said:
+Well, what choice do you have? If you need that much storage, you basically have to pay the price. You can't upgrade the machine yourself and external storage isn't always an option. Of course you could always not go with a Mac…
+Exactly. For people already invested in the Apple ecosystem, none of these prices should come as a surprise to them. If you're just an average joe who is looking for a potential portable computer, you may be just fine with a barebones m1 air. Or as you stated, you just pick literally any other branded laptop besides an Apple and will more than likely have better luck with "upgrading" storage yourself or just buying a laptop with cheaper (high capacity) storage to begin with.
+  You also have to take in account that a $300 upgrade to storage might be a ton of money to someone who's working for minimum wage while going to college, but might be "pocket change" or reasonably affordable to someone who is making 3, 4, 5... 10x more than minimum wage per hour. (or works multiple jobs/ has side gigs/ etc...)
+ COMMENT_BREAK
+   On 9/27/2023 at 6:43 PM, VaderCraft_ said:
+Wtf at that point I'd literally buy 4 plastic wheels from like a Home Depot or Lowes for 10 dollars and duct tape them to the bottom.
+No you wouldn't.  If you bought Apple in the first place, you'll buy any of their other shit too.
+  Don't start bitching when the quicksand is at your neck, should've noticed when it was at your ankles.
+ COMMENT_BREAK
+   On 9/27/2023 at 6:33 PM, VaderCraft_ said:
+I literally found a 2 TB SSD for 75$ on Newegg.
+please at least compare it to a top tire PCIe 4.0 SSD 120-130$ for 2TB, not garbage tire PCIe 3.0 DRAMless QLC ones like P3 
+ COMMENT_BREAK
+ Yes what Apple charges for storage is criminal.
+  Yes they can continue to do it because consumers continue to pay for it.
+ COMMENT_BREAK
+ A good friend of mine works at Apple as an engineer. He's a smart guy, and pretty much every endpoint device Apple has intrduced in the past 15 years has a lot of his work in it, but this guy makes a 7 digit salary and there's no business in his sector that will pay him close to what he does and even he admits he's overpaid.
+  Guess who's paying for his salary.
+   
+ COMMENT_BREAK
+ Storage in these systems is proprietary and soldered. Otherwise yes, they are... a bit steep. 
+ COMMENT_BREAK
+ Everything about Apple is overpriced. Nothing new here.
+ COMMENT_BREAK
+   On 9/27/2023 at 6:46 PM, NinJake said:
+As others have said, it's because people will still buy the upgraded storage. If nobody did, they would drop the price.
+You're right. This horrible company still exists and thrives because there are lots of brainwashed zombies who will sell everything, even their last underwear to have their overpriced Apple/Iphone products, so they can say that they have Apple and be proud. What's most horrible about Apple as a company is that they're exploiting people's fear. Those brainwashed people are afraid to not have Apple, because others might look down on them and they might not look "cool" if they don't have Apple product and as brainwashed zombies exist, so will exist Apple. I know a lot of people around me who have let's say $400 salary in a month and they take loans from banks to buy $900 priced Iphones so when someone calls them and it has Iphone ringtone everyone knows that he has Iphone and he's a "cool, badass" dude...
+ COMMENT_BREAK
+ everything apple is extremely overpriced
+ COMMENT_BREAK

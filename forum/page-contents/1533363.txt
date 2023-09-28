@@ -1,0 +1,29 @@
+Post Content
+ I have a Gigabyte B550M DS3H with ryzen 7 5700x. I wanted to know whether its worth the hassle of updating the bios?
+
+ COMMENT_BREAK I would check what the manufacturers says about the update, if its only something like " improved combability" and you dont have any problems i wouldnt... if its something that sound more important it might be a good idea. 
+
+ COMMENT_BREAK I always update. I just did.If you didn't change anything then it's a no brainer.I understand the previous answer though.Edited 9 hours ago by leclod
+
+ COMMENT_BREAK   10 hours ago, sdbgrx said:I have a Gigabyte B550M DS3H with ryzen 7 5700x. I wanted to know whether its worth the hassle of updating the bios?Hey, man, you need to be careful because it's quite a low-level system software, and you don't have many courses of action should it fail.   In general, look at the release notes of the BIOS version. Does it contain anything that you think you need?  If not, then probably skip it.   If your power cut, or the BIOS introduced more bugs, you'd probably regret it. 
+
+ COMMENT_BREAK   10 hours ago, sdbgrx said:I have a Gigabyte B550M DS3H with ryzen 7 5700x. I wanted to know whether its worth the hassle of updating the bios?Always. AMD and the board manufacturers do not fix issues if there isn't a reason. The improved compatibilities and performance are just a nice bonus.If you're on Agesa 1208 or 120A then there's no rush, but if you're on older you are probably ignoring some issues.
+
+ COMMENT_BREAK   10 hours ago, sdbgrx said:I have a Gigabyte B550M DS3H with ryzen 7 5700x. I wanted to know whether its worth the hassle of updating the bios?What hassle?  Download a file, save on USB, restart, enter BIOS, update.  It's literally one of the easiest things to do.  Just like building a PC and grounding yourself, this is a fear based semi-myth that needs to die.    8 hours ago, Akolyte said:Hey, man, you need to be careful because it's quite a low-level system software, and you don't have many courses of action should it fail.   In general, look at the release notes of the BIOS version. Does it contain anything that you think you need?  If not, then probably skip it.   If your power cut, or the BIOS introduced more bugs, you'd probably regret it. Random power cuts?  Just out of the blue?  Or do you flash BIOS in a thunderstorm normally?
+
+ COMMENT_BREAK   5 hours ago, Dedayog said:What hassle?  Download a file, save on USB, restart, enter BIOS, update.  It's literally one of the easiest things to do.  Just like building a PC and grounding yourself, this is a fear based semi-myth that needs to die.  Random power cuts?  Just out of the blue?  Or do you flash BIOS in a thunderstorm normally?I'm Just scared of bricking my motherboard and have never updated my bios  Thanks a lot mate you've been a great help 
+
+ COMMENT_BREAK My general rule is that if a new BIOS doesn't bring a specific feature or fix you want, don't bother. 
+
+ COMMENT_BREAK   4 hours ago, sdbgrx said:I'm Just scared of bricking my motherboard and have never updated my bios  Thanks a lot mate you've been a great help  You're welcome. 
+
+ COMMENT_BREAK If you have no problems don’t do it, don’t fix what’s not broken, and don’t update becuase of fomo   there’s a chance to brick your board 
+
+ COMMENT_BREAK   1 hour ago, Ebony Falcon said:If you have no problems don’t do it, don’t fix what’s not broken, and don’t update becuase of fomo   there’s a chance to brick your board Ever seen a bricked motherboard from BIOS flashing?  Neither have I, and I've done it for more years than most here have been alive   I've "heard" about it though, from some guy posting on some internet forum.  It CAN happen, but it won't.  It takes less than a minute for actual update to occur.  And there are ways to unbrick or roll back on most boards.  It's the level of don't go outside, you can get struck by lightning.    True, but come on. 
+
+ COMMENT_BREAK ain't broke don't fix  imo
+
+ COMMENT_BREAK   1 hour ago, Dedayog said:Ever seen a bricked motherboard from BIOS flashing?  Neither have I, and I've done it for more years than most here have been alive   I've "heard" about it though, from some guy posting on some internet forum.  It CAN happen, but it won't.  It takes less than a minute for actual update to occur.  And there are ways to unbrick or roll back on most boards.  Expand  I have actualy lol, cousins power went mid flash, bios flash back didn’t work 
+
+ COMMENT_BREAK
+

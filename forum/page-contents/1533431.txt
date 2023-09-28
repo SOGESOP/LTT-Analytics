@@ -1,0 +1,11 @@
+Post Content
+ I do believe that my GPU is defective. It's not running like it should be. After running Superposition benchmark I have found out that my score with my 7900xt is on par with a 2080TI. How is that right by any means? I scored 11,700 points. I mean it runs games and works but it seems to be at much lesser performance level
+
+ COMMENT_BREAK Background tasks, drivers up to date, CPU?Ram speed, resizeable bar.    all these things play into GPU performance. post full specs and give more info. 
+
+ COMMENT_BREAK   1 hour ago, fade2black001 said:I do believe that my GPU is defective. It's not running like it should be. After running Superposition benchmark I have found out that my score with my 7900xt is on par with a 2080TI. How is that right by any means? I scored 11,700 points. I mean it runs games and works but it seems to be at much lesser performance levelWhat does this mean in actual numbers?  " I mean it runs games and works but it seems to be at much lesser performance level"
+
+ COMMENT_BREAK   57 minutes ago, Dedayog said:What does this mean in actual numbers?  " I mean it runs games and works but it seems to be at much lesser performance level"Probably that his 7900 XT is getting worse performance than it should.
+
+ COMMENT_BREAK
+

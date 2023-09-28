@@ -1,0 +1,9 @@
+Post Content
+ I want to create a custom resolution 2048x1536 on my 4k display through Nvidia panel,and don't let me to have this resolution.Why?I tried every posibilities : Progressive,Interlaced,DMT,CVT,Manual ,Automatic etc....I want this resolution,because i play some old games in 4:3 image format and i don't want to be streched...I remember when i have Radeon graphic,red team let me without problem to set any custom resolution.....why Nvidia don't let me?I have latest driver instsalled.
+
+ COMMENT_BREAK You shouldn't have to do that.  Search for settings to force the display to always be 4K and have the video card SCALE the image the game outputs and center on screen the image produced by the game. Basically trick the game into thinking it's whatever resolution it wants, and the video card transparently scales and centers everything  For example, have the game configured to 1280x1024 , and then have video card scale automatically to 2560x2048  and center the image on a 4K output to the monitor.     
+
+ COMMENT_BREAK   8 minutes ago, mariushm said:You shouldn't have to do that.  Search for settings to force the display to always be 4K and have the video card SCALE the image the game outputs and center on screen the image produced by the game. Basically trick the game into thinking it's whatever resolution it wants, and the video card transparently scales and centers everything  For example, have the game configured to 1280x1024 , and then have video card scale automatically to 2560x2048  and center the image on a 4K output to the monitor.Expand  You could be correct but the cable he is using may not have enough bandwidth to support that resolution. 
+
+ COMMENT_BREAK
+

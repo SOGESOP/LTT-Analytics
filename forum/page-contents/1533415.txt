@@ -1,0 +1,15 @@
+
+ As the title says: I'm using the iGPU of my R5 7600 to browse windows in order to save a little bit of power, however, I noticed that the iGPU power draw is quite high (from 25W to 43W). Now, since I read that my 3060 (12GB) should draw 10/15W in desktop use, did I make a mistake?
+  Should I disable the iGPU and enable the RTX 3060 back?
+ COMMENT_BREAK
+   2 hours ago, Gold Mousse said:
+As the title says: I'm using the iGPU of my R5 7600 to browse windows in order to save a little bit of power, however, I noticed that the iGPU power draw is quite high (from 25W to 43W). Now, since I read that my 3060 (12GB) should draw 10/15W in desktop use, did I make a mistake?
+  Should I disable the iGPU and enable the RTX 3060 back?
+is power that expensive where you live?   I would disable the iGPU and just use the 3060.
+ COMMENT_BREAK
+ I was just typing a similar thing to Hinjima, a difference of 25W of power use would take 200-300 hours of running continuously before it would even cost you a dollar on your power bill. Unless you have a specific reason you should just use the 3060
+ COMMENT_BREAK
+   2 hours ago, Hinjima said:
+is power that expensive where you live?   I would disable the iGPU and just use the 3060.
+Yes it is, I'm from Europe. What I'm gonna do now is to enable the 3060 and check the power draw when just using Windows (I hope that some nvidia tools give you that kind of information).
+ COMMENT_BREAK

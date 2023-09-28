@@ -1,0 +1,33 @@
+Post Content
+ is using 8 gb + 8gb +16bg ram Fine ?
+
+ COMMENT_BREAK Of same speed 
+
+ COMMENT_BREAK If you have an Intel system, then put it 2x8 in one channel and 1x16 in the other channel and check if you're getting dual channel with CPU-Z or hwinfo.
+
+ COMMENT_BREAK   50 minutes ago, zeroXD_03 said:is using 8 gb + 8gb +16bg ram Fine ?I wouldn't.  Do you need more then 16GB?  If so, get another 8x2 and have 4 8's.
+
+ COMMENT_BREAK   41 minutes ago, Tetras said:If you have an Intel system, then put it 2x8 in one channel and 1x16 in the other channel and check if you're getting dual channel with CPU-Z or hwinfo.i have AMD 
+
+ COMMENT_BREAK   34 minutes ago, zeroXD_03 said:i have AMD  Doesn't matter, you don't want single channel on either platform.   Which  AMD CPU are you using?  Some do 4 sticks easier than others.
+
+ COMMENT_BREAK   32 minutes ago, Dedayog said:Doesn't matter, you don't want single channel on either platform.   Which  AMD CPU are you using?  Some do 4 sticks easier than others.5600x
+
+ COMMENT_BREAK   34 minutes ago, zeroXD_03 said:i have AMD  What board do you have? Asus say in their b550 manuals that you can still do it, but I haven't seen any official docs for AMD.  Do you have already the memory to try? If you do, I'd just try it and see what happens.
+
+ COMMENT_BREAK   27 minutes ago, Tetras said:What board do you have? Asus say in their b550 manuals that you can still do it, but I haven't seen any official docs for AMD.  Do you have already the memory to try? If you do, I'd just try it and see what happens.    30 minutes ago, zeroXD_03 said:5600xMy 5600 runs 4x4 without issue, 8GB sticks won't be a problem either.
+
+ COMMENT_BREAK   27 minutes ago, Tetras said:What board do you have? Asus say in their b550 manuals that you can still do it, but I haven't seen any official docs for AMD.  Do you have already the memory to try? If you do, I'd just try it and see what happens.i have the ausu Tuf b550 no i was planning to get a ram so wanted to know . 
+
+ COMMENT_BREAK   25 minutes ago, Dedayog said:  My 5600 runs 4x4 without issue, 8GB sticks won't be a problem either.ok thanks  
+
+ COMMENT_BREAK Should you? I'd say no, and just get a 2x16GB kit or another 1x16GB DIMM. If you do, then just put the 2x8GB in the same channel, the 16GB in the other and it'll probably be fine. The only argument against would be if it doesn't properly run in dual channel after exceeding 16GB of RAM usage, but TBH, who cares.
+
+ COMMENT_BREAK   23 minutes ago, zeroXD_03 said:i have the ausu Tuf b550 no i was planning to get a ram so wanted to know .  This is what it says in your manual:  Quote"You may install varying memory sizes in Channel A and Channel B. The system maps the total size of the lower-sized channel for the dual-channel configuration. Any excess memory from the higher-sized channel is then mapped for single-channel operation."  But, it is likely safer to buy 2x16 (or run 4x8), so I wouldn't recommend it unless you already have a 16GB stick to hand.
+
+ COMMENT_BREAK   19 minutes ago, Tetras said:This is what it says in your manual:  But, it is likely safer to buy 2x16 (or run 4x8), so I wouldn't recommend it unless you already have a 16GB stick to hand.ok ya i will get another 2 8gb  
+
+ COMMENT_BREAK one more thing can i have 2 different brands of ram of same speed ? 
+
+ COMMENT_BREAK
+

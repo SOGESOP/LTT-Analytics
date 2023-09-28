@@ -2,10 +2,21 @@ INFO:root:Driver setup started
 INFO:WDM:====== WebDriver manager ======
 INFO:WDM:Get LATEST chromedriver version for google-chrome
 INFO:WDM:Get LATEST chromedriver version for google-chrome
-INFO:WDM:There is no [win64] chromedriver "116.0.5845.188" for browser google-chrome "116.0.5845.188" in cache
+INFO:WDM:There is no [linux64] chromedriver "117.0.5938.92" for browser google-chrome "117.0.5938.92" in cache
 INFO:WDM:Get LATEST chromedriver version for google-chrome
-INFO:WDM:WebDriver version 116.0.5845.96 selected
-INFO:WDM:Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
-INFO:WDM:About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/116.0.5845.96/win32/chromedriver-win32.zip
+INFO:WDM:WebDriver version 117.0.5938.92 selected
+INFO:WDM:Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/linux64/chromedriver-linux64.zip
+INFO:WDM:About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/linux64/chromedriver-linux64.zip
 INFO:WDM:Driver downloading response is 200
 INFO:WDM:Get LATEST chromedriver version for google-chrome
+INFO:WDM:Driver has been saved in cache [/home/theodore/.wdm/drivers/chromedriver/linux64/117.0.5938.92]
+INFO:root:Furhter topics have been loaded 0 times
+INFO:root:Furhter topics have been loaded 1 times
+INFO:root:Furhter topics have been loaded 2 times
+INFO:root:Furhter topics have been loaded 3 times
+INFO:root:Furhter topics have been loaded 4 times
+INFO:root:Furhter topics have been loaded 5 times
+INFO:root:Furhter topics have been loaded 6 times
+INFO:root:Furhter topics have been loaded 7 times
+INFO:root:Furhter topics have been loaded 8 times
+INFO:root:Furhter topics have been loaded 9 times

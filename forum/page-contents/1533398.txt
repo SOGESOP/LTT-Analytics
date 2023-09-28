@@ -1,0 +1,32 @@
+
+ I have the MSI A850GF, still under warranty. 
+The connector at the back is having some bad contact. The cable fits firmly, but once a day / couple days my pc turns off because of it. When it happens, if I play a bit with the cable the pc will turn on without me pressing power. 
+I'm not using the cable that came with it, (different outlet format, no adapters) but I have 2 cheap alternative cables. 10A, 0.75mm. It happens the same to both.
+  My question: Is there anything else I should do? I really don't want to RMA since I'll probably be without my work pc for at least a couple weeks. Do I buy yet another cable? Isn't there something else I can try for the bad contact? My pc is still usable like this for now but I'm thinking this might give me trouble later, like data loss. 
+ COMMENT_BREAK
+   4 hours ago, pacote said:
+I have the MSI A850GF, still under warranty. 
+The connector at the back is having some bad contact. The cable fits firmly, but once a day / couple days my pc turns off because of it. When it happens, if I play a bit with the cable the pc will turn on without me pressing power. 
+I'm not using the cable that came with it, (different outlet format, no adapters) but I have 2 cheap alternative cables. 10A, 0.75mm. It happens the same to both.
+  My question: Is there anything else I should do? I really don't want to RMA since I'll probably be without my work pc for at least a couple weeks. Do I buy yet another cable? Isn't there something else I can try for the bad contact? My pc is still usable like this for now but I'm thinking this might give me trouble later, like data loss. 
+Expand  
+Something might be loose or faulty, and could be or turn dangerous.
+Just RMA. Why would you want to keep something that might be faulty instead of RMA after you spent money for it.
+ COMMENT_BREAK
+   4 hours ago, Poinkachu said:
+Something might be loose or faulty, and could be or turn dangerous.
+Just RMA. Why would you want to keep something that might be faulty instead of RMA after you spent money for it.
+Yeah just asking on the off chance I'm missing something.
+Also the store doesn't have any in stock so if I RMA and they can't fix, they can't get me a new one. I got it for a very good price, there isn't one as good quality I can buy even if they refund the money. 
+ COMMENT_BREAK
+   3 hours ago, pacote said:
+Yeah just asking on the off chance I'm missing something.
+Also the store doesn't have any in stock so if I RMA and they can't fix, they can't get me a new one. I got it for a very good price, there isn't one as good quality I can buy even if they refund the money. 
+Idk. (Depending on PC spec) I'd rather just use a good Tier B/C PSU than a possibly faulty Tier A. But maybe that's just me.
+  Me, I'd RMA / Refund . Losing power intermittently is annoying and can be harmful.
+If you want to try more, then buy a real good power cable and see if it works well. But yea if it ends up just the same, you lost money on a power cable that may or may not be useful to you down the road.
+
+Can't say this applies to all cheap cables, but I bought and used cheap power cable (like.. $3) for my previous PSU, which was Super Flower Leadex II Gold 750w, and it was fine, no problem at all. Even when it was benchmarking GPU for a full 4 hours because I forgot about it :x
+ COMMENT_BREAK
+ Deleted.
+ COMMENT_BREAK
