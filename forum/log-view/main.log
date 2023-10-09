@@ -2,14 +2,14 @@ INFO:root:Driver setup started
 INFO:WDM:====== WebDriver manager ======
 INFO:WDM:Get LATEST chromedriver version for google-chrome
 INFO:WDM:Get LATEST chromedriver version for google-chrome
-INFO:WDM:There is no [linux64] chromedriver "117.0.5938.92" for browser google-chrome "117.0.5938.92" in cache
+INFO:WDM:There is no [linux64] chromedriver "117.0.5938.149" for browser google-chrome "117.0.5938.149" in cache
 INFO:WDM:Get LATEST chromedriver version for google-chrome
-INFO:WDM:WebDriver version 117.0.5938.92 selected
-INFO:WDM:Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/linux64/chromedriver-linux64.zip
-INFO:WDM:About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.92/linux64/chromedriver-linux64.zip
+INFO:WDM:WebDriver version 117.0.5938.149 selected
+INFO:WDM:Modern chrome version https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.149/linux64/chromedriver-linux64.zip
+INFO:WDM:About to download new driver from https://edgedl.me.gvt1.com/edgedl/chrome/chrome-for-testing/117.0.5938.149/linux64/chromedriver-linux64.zip
 INFO:WDM:Driver downloading response is 200
 INFO:WDM:Get LATEST chromedriver version for google-chrome
-INFO:WDM:Driver has been saved in cache [/home/theodore/.wdm/drivers/chromedriver/linux64/117.0.5938.92]
+INFO:WDM:Driver has been saved in cache [/home/theodore/.wdm/drivers/chromedriver/linux64/117.0.5938.149]
 INFO:root:Furhter topics have been loaded 0 times
 INFO:root:Furhter topics have been loaded 1 times
 INFO:root:Furhter topics have been loaded 2 times
@@ -20,3 +20,408 @@ INFO:root:Furhter topics have been loaded 6 times
 INFO:root:Furhter topics have been loaded 7 times
 INFO:root:Furhter topics have been loaded 8 times
 INFO:root:Furhter topics have been loaded 9 times
+INFO:root:Topic page collection initiated
+INFO:root:Unfiltered page added with href: https://linustechtips.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/login/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/lostpassword/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/register/
+INFO:root:Unfiltered page added with href: https://linustechtips.com
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/58/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/466/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/blogs/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/gallery/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/events/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/files/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/online/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/staff/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/store/category/3-subscriptions/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/466/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/?view=condensed&csrfKey=e5bed6e15e5f0859cf5964251aabfed7
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/?view=expanded&csrfKey=e5bed6e15e5f0859cf5964251aabfed7
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1085040-bjoolz/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1534716-totally-random-computer-freezing-ryzen-3950x-stuck-at-05ghz/?do=findComment&comment=16163530
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1085040-bjoolz/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/288481-cy8org/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/46-troubleshooting/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1534716-totally-random-computer-freezing-ryzen-3950x-stuck-at-05ghz/?do=findComment&comment=16163530
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1534716-totally-random-computer-freezing-ryzen-3950x-stuck-at-05ghz/?do=findComment&comment=16163530
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/690613-sachin_jadhav_1993/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1534902-boot-partition-on-ssd-system-partition-on-hdd/?do=findComment&comment=16163529
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/690613-sachin_jadhav_1993/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/690613-sachin_jadhav_1993/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/85-windows/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1534902-boot-partition-on-ssd-system-partition-on-hdd/?do=findComment&comment=16163529
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1534902-boot-partition-on-ssd-system-partition-on-hdd/?do=findComment&comment=16163529
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1073782-agall/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535066-felt-continuous-electricity-when-touched-dp-cable-metal-part-and-back-of-case/?do=findComment&comment=16163528
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1073782-agall/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/114538-mrpulpe/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/21-power-supplies/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535066-felt-continuous-electricity-when-touched-dp-cable-metal-part-and-back-of-case/?do=findComment&comment=16163528
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535066-felt-continuous-electricity-when-touched-dp-cable-metal-part-and-back-of-case/?do=findComment&comment=16163528
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/327531-mariushm/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530917-small-help-on-buying-an-old-cpu-for-an-old-system/?do=findComment&comment=16163527
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/327531-mariushm/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/677554-aleksidj73/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/5-cpus-motherboards-and-memory/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530917-small-help-on-buying-an-old-cpu-for-an-old-system/?do=findComment&comment=16163527
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1530917-small-help-on-buying-an-old-cpu-for-an-old-system/?do=findComment&comment=16163527
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1098320-ir76/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535084-i-need-gaming-monitor-recommendations-please/?do=findComment&comment=16163526
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1098320-ir76/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/42-displays/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535084-i-need-gaming-monitor-recommendations-please/?do=findComment&comment=16163526
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/165091-manikyath/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338805/?do=findComment&comment=970185
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338805/?do=findComment&comment=970185
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338805/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/114538-mrpulpe/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535066-felt-continuous-electricity-when-touched-dp-cable-metal-part-and-back-of-case/?do=findComment&comment=16163525
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/114538-mrpulpe/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/114538-mrpulpe/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/21-power-supplies/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535066-felt-continuous-electricity-when-touched-dp-cable-metal-part-and-back-of-case/?do=findComment&comment=16163525
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535066-felt-continuous-electricity-when-touched-dp-cable-metal-part-and-back-of-case/?do=findComment&comment=16163525
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1064986-revgam/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535030-water-set-mlz-d36m-a19pk-12/?do=findComment&comment=16163524
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1064986-revgam/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1115712-king-eiei/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/28-cooling/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535030-water-set-mlz-d36m-a19pk-12/?do=findComment&comment=16163524
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535030-water-set-mlz-d36m-a19pk-12/?do=findComment&comment=16163524
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1067898-ninjadev64/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535053-ps2-controller-not-being-detected-on-windows-10/?do=findComment&comment=16163523
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1067898-ninjadev64/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/593134-thekingofmonks/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/44-peripherals/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535053-ps2-controller-not-being-detected-on-windows-10/?do=findComment&comment=16163523
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535053-ps2-controller-not-being-detected-on-windows-10/?do=findComment&comment=16163523
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/284352-ewitte/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1534156-synology-update-removes-even-more-features/?do=findComment&comment=16163522
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/284352-ewitte/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/660369-gabefair/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/13-tech-news/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1534156-synology-update-removes-even-more-features/?do=findComment&comment=16163522
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1534156-synology-update-removes-even-more-features/?do=findComment&comment=16163522
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/165091-manikyath/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338810/?do=findComment&comment=970184
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338810/?do=findComment&comment=970184
+INFO:root:Unfiltered page added with href: https://linustechtips.com/status/338810/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1064986-revgam/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535021-differentiating-between-airflow-and-static-pressure-fans/?do=findComment&comment=16163521
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1064986-revgam/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/832149-somerandomtechyboi/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/28-cooling/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535021-differentiating-between-airflow-and-static-pressure-fans/?do=findComment&comment=16163521
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535021-differentiating-between-airflow-and-static-pressure-fans/?do=findComment&comment=16163521
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1115764-bornwildex/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535078-tell-me-your-thoughts-on-its-pc-build/?do=findComment&comment=16163520
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1115764-bornwildex/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1115764-bornwildex/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/18-new-builds-and-planning/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535078-tell-me-your-thoughts-on-its-pc-build/?do=findComment&comment=16163520
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535078-tell-me-your-thoughts-on-its-pc-build/?do=findComment&comment=16163520
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1115764-bornwildex/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535078-tell-me-your-thoughts-on-its-pc-build/?do=findComment&comment=16163519
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1115764-bornwildex/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1115764-bornwildex/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/18-new-builds-and-planning/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535078-tell-me-your-thoughts-on-its-pc-build/?do=findComment&comment=16163519
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535078-tell-me-your-thoughts-on-its-pc-build/?do=findComment&comment=16163519
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/675016-mark-kaine/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535060-what-cooler-should-i-buy-for-my-ryzen-5-3600/?do=findComment&comment=16163518
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/675016-mark-kaine/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1110372-eskil28/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/28-cooling/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535060-what-cooler-should-i-buy-for-my-ryzen-5-3600/?do=findComment&comment=16163518
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535060-what-cooler-should-i-buy-for-my-ryzen-5-3600/?do=findComment&comment=16163518
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/10736-jaslion/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535078-tell-me-your-thoughts-on-its-pc-build/?do=findComment&comment=16163517
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/10736-jaslion/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1115764-bornwildex/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/18-new-builds-and-planning/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535078-tell-me-your-thoughts-on-its-pc-build/?do=findComment&comment=16163517
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535078-tell-me-your-thoughts-on-its-pc-build/?do=findComment&comment=16163517
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1115770-angeloza2/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1115770-angeloza2/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/778867-tylerd321/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535081-used-power-supply-test/?do=findComment&comment=16163516
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/778867-tylerd321/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/736410-poinkachu/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/21-power-supplies/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535081-used-power-supply-test/?do=findComment&comment=16163516
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535081-used-power-supply-test/?do=findComment&comment=16163516
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/787875-podkall/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1533927-ltt-official-folding-month-vi/?do=findComment&comment=16163515
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/787875-podkall/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/491450-gotspectrum/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/37-foldinghome-boinc-and-coin-mining/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1533927-ltt-official-folding-month-vi/?do=findComment&comment=16163515
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1533927-ltt-official-folding-month-vi/?do=findComment&comment=16163515
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1073782-agall/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535082-does-this-count-as-exotic-cooling/?do=findComment&comment=16163514
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1073782-agall/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/608632-bfuqua/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/28-cooling/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535082-does-this-count-as-exotic-cooling/?do=findComment&comment=16163514
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535082-does-this-count-as-exotic-cooling/?do=findComment&comment=16163514
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1064986-revgam/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1534842-13700k-running-very-hot-while-the-aio-is-cold/?do=findComment&comment=16163513
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1064986-revgam/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1115578-youssef-abbas/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/28-cooling/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1534842-13700k-running-very-hot-while-the-aio-is-cold/?do=findComment&comment=16163513
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1534842-13700k-running-very-hot-while-the-aio-is-cold/?do=findComment&comment=16163513
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1115736-ascendence/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535051-4-displays-vs-rtx-4090/?do=findComment&comment=16163512
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1115736-ascendence/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1115736-ascendence/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/42-displays/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535051-4-displays-vs-rtx-4090/?do=findComment&comment=16163512
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535051-4-displays-vs-rtx-4090/?do=findComment&comment=16163512
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/453888-_omega_/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535079-shuld-i-buy-a-5800x3d-for-270-%E2%82%AC-or-should-i-put-my-msi-x370-gaming-pro-carbon-to-rest-next-year/?do=findComment&comment=16163511
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/453888-_omega_/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/453888-_omega_/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/5-cpus-motherboards-and-memory/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535079-shuld-i-buy-a-5800x3d-for-270-%E2%82%AC-or-should-i-put-my-msi-x370-gaming-pro-carbon-to-rest-next-year/?do=findComment&comment=16163511
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535079-shuld-i-buy-a-5800x3d-for-270-%E2%82%AC-or-should-i-put-my-msi-x370-gaming-pro-carbon-to-rest-next-year/?do=findComment&comment=16163511
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1115764-bornwildex/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535078-tell-me-your-thoughts-on-its-pc-build/?do=findComment&comment=16163510
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1115764-bornwildex/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1115764-bornwildex/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/18-new-builds-and-planning/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535078-tell-me-your-thoughts-on-its-pc-build/?do=findComment&comment=16163510
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535078-tell-me-your-thoughts-on-its-pc-build/?do=findComment&comment=16163510
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1073782-agall/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535079-shuld-i-buy-a-5800x3d-for-270-%E2%82%AC-or-should-i-put-my-msi-x370-gaming-pro-carbon-to-rest-next-year/?do=findComment&comment=16163509
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1073782-agall/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/453888-_omega_/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/5-cpus-motherboards-and-memory/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535079-shuld-i-buy-a-5800x3d-for-270-%E2%82%AC-or-should-i-put-my-msi-x370-gaming-pro-carbon-to-rest-next-year/?do=findComment&comment=16163509
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535079-shuld-i-buy-a-5800x3d-for-270-%E2%82%AC-or-should-i-put-my-msi-x370-gaming-pro-carbon-to-rest-next-year/?do=findComment&comment=16163509
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/724592-tigerleon/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535071-uk-headset-for-gaming/?do=findComment&comment=16163508
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/724592-tigerleon/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/profile/1054597-hdan/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/forum/40-audio/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535071-uk-headset-for-gaming/?do=findComment&comment=16163508
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1535071-uk-headset-for-gaming/?do=findComment&comment=16163508
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/all.xml/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/466/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/privacy/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/terms/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/contact/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/cookies/
+INFO:root:Unfiltered page added with href: https://www.invisioncommunity.com/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/register/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/login/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/466/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/search/
+INFO:root:Unfiltered page added with href: https://linustechtips.com
+INFO:root:Unfiltered page added with href: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/58/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/discover/466/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/blogs/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/gallery/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/events/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/files/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/online/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/staff/
+INFO:root:Unfiltered page added with href: https://linustechtips.com/store/category/3-subscriptions/
+INFO:root:href and topic ID being filtered
+INFO:root:Initial Dataframe formed
+INFO:root:Connecting to page: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1535078-tell-me-your-thoughts-on-its-pc-build/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1535078-tell-me-your-thoughts-on-its-pc-build/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1535081-used-power-supply-test/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1535081-used-power-supply-test/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1535079-shuld-i-buy-a-5800x3d-for-270-%E2%82%AC-or-should-i-put-my-msi-x370-gaming-pro-carbon-to-rest-next-year/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1535079-shuld-i-buy-a-5800x3d-for-270-%E2%82%AC-or-should-i-put-my-msi-x370-gaming-pro-carbon-to-rest-next-year/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1535071-uk-headset-for-gaming/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1535071-uk-headset-for-gaming/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1530917-small-help-on-buying-an-old-cpu-for-an-old-system/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1530917-small-help-on-buying-an-old-cpu-for-an-old-system/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1535060-what-cooler-should-i-buy-for-my-ryzen-5-3600/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1535060-what-cooler-should-i-buy-for-my-ryzen-5-3600/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1535053-ps2-controller-not-being-detected-on-windows-10/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1535053-ps2-controller-not-being-detected-on-windows-10/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1533927-ltt-official-folding-month-vi/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1533927-ltt-official-folding-month-vi/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1535084-i-need-gaming-monitor-recommendations-please/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1535084-i-need-gaming-monitor-recommendations-please/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1534716-totally-random-computer-freezing-ryzen-3950x-stuck-at-05ghz/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1534716-totally-random-computer-freezing-ryzen-3950x-stuck-at-05ghz/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1535051-4-displays-vs-rtx-4090/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1535051-4-displays-vs-rtx-4090/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1535021-differentiating-between-airflow-and-static-pressure-fans/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1535021-differentiating-between-airflow-and-static-pressure-fans/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1534902-boot-partition-on-ssd-system-partition-on-hdd/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1534902-boot-partition-on-ssd-system-partition-on-hdd/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1535082-does-this-count-as-exotic-cooling/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1535082-does-this-count-as-exotic-cooling/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1535030-water-set-mlz-d36m-a19pk-12/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1535030-water-set-mlz-d36m-a19pk-12/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1534842-13700k-running-very-hot-while-the-aio-is-cold/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1534842-13700k-running-very-hot-while-the-aio-is-cold/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1535066-felt-continuous-electricity-when-touched-dp-cable-metal-part-and-back-of-case/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1535066-felt-continuous-electricity-when-touched-dp-cable-metal-part-and-back-of-case/
+INFO:root:Connecting to page: https://linustechtips.com/topic/1534156-synology-update-removes-even-more-features/
+INFO:root:Comment date collected for href: https://linustechtips.com/topic/1534156-synology-update-removes-even-more-features/
+INFO:root:Title names being added to the Dataframe
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:140 comments interactions recorded
+INFO:root:Connecting to page 2 for href: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1381504-community-standards-updated//page/2
+INFO:root:51 comments interactions recorded
+INFO:root:Connecting to page 3 for href: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1381504-community-standards-updated//page/3
+INFO:root:57 comments interactions recorded
+INFO:root:Connecting to page 4 for href: https://linustechtips.com/topic/1381504-community-standards-updated/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1381504-community-standards-updated//page/4
+INFO:root:13 comments interactions recorded
+INFO:root:Comment content found for: 1381504
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1535078-tell-me-your-thoughts-on-its-pc-build/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1535078-tell-me-your-thoughts-on-its-pc-build/
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1535078
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1535081-used-power-supply-test/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1535081-used-power-supply-test/
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1535081
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1535079-shuld-i-buy-a-5800x3d-for-270-%E2%82%AC-or-should-i-put-my-msi-x370-gaming-pro-carbon-to-rest-next-year/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1535079-shuld-i-buy-a-5800x3d-for-270-%E2%82%AC-or-should-i-put-my-msi-x370-gaming-pro-carbon-to-rest-next-year/
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1535079
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1535071-uk-headset-for-gaming/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1535071-uk-headset-for-gaming/
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1535071
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1530917-small-help-on-buying-an-old-cpu-for-an-old-system/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1530917-small-help-on-buying-an-old-cpu-for-an-old-system/
+INFO:root:7 comments interactions recorded
+INFO:root:Connecting to page 2 for href: https://linustechtips.com/topic/1530917-small-help-on-buying-an-old-cpu-for-an-old-system/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1530917-small-help-on-buying-an-old-cpu-for-an-old-system//page/2
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1530917
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1535060-what-cooler-should-i-buy-for-my-ryzen-5-3600/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1535060-what-cooler-should-i-buy-for-my-ryzen-5-3600/
+INFO:root:6 comments interactions recorded
+INFO:root:Connecting to page 2 for href: https://linustechtips.com/topic/1535060-what-cooler-should-i-buy-for-my-ryzen-5-3600/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1535060-what-cooler-should-i-buy-for-my-ryzen-5-3600//page/2
+INFO:root:3 comments interactions recorded
+INFO:root:Comment content found for: 1535060
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1535053-ps2-controller-not-being-detected-on-windows-10/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1535053-ps2-controller-not-being-detected-on-windows-10/
+INFO:root:3 comments interactions recorded
+INFO:root:Comment content found for: 1535053
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1533927-ltt-official-folding-month-vi/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1533927-ltt-official-folding-month-vi/
+INFO:root:77 comments interactions recorded
+INFO:root:Connecting to page 2 for href: https://linustechtips.com/topic/1533927-ltt-official-folding-month-vi/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1533927-ltt-official-folding-month-vi//page/2
+INFO:root:33 comments interactions recorded
+INFO:root:Connecting to page 3 for href: https://linustechtips.com/topic/1533927-ltt-official-folding-month-vi/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1533927-ltt-official-folding-month-vi//page/3
+INFO:root:23 comments interactions recorded
+INFO:root:Connecting to page 4 for href: https://linustechtips.com/topic/1533927-ltt-official-folding-month-vi/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1533927-ltt-official-folding-month-vi//page/4
+INFO:root:48 comments interactions recorded
+INFO:root:Connecting to page 5 for href: https://linustechtips.com/topic/1533927-ltt-official-folding-month-vi/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1533927-ltt-official-folding-month-vi//page/5
+INFO:root:36 comments interactions recorded
+INFO:root:Connecting to page 6 for href: https://linustechtips.com/topic/1533927-ltt-official-folding-month-vi/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1533927-ltt-official-folding-month-vi//page/6
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1533927
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1535084-i-need-gaming-monitor-recommendations-please/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1535084-i-need-gaming-monitor-recommendations-please/
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1535084
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1534716-totally-random-computer-freezing-ryzen-3950x-stuck-at-05ghz/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1534716-totally-random-computer-freezing-ryzen-3950x-stuck-at-05ghz/
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1534716
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1535051-4-displays-vs-rtx-4090/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1535051-4-displays-vs-rtx-4090/
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1535051
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1535021-differentiating-between-airflow-and-static-pressure-fans/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1535021-differentiating-between-airflow-and-static-pressure-fans/
+INFO:root:2 comments interactions recorded
+INFO:root:Comment content found for: 1535021
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1534902-boot-partition-on-ssd-system-partition-on-hdd/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1534902-boot-partition-on-ssd-system-partition-on-hdd/
+INFO:root:5 comments interactions recorded
+INFO:root:Comment content found for: 1534902
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1535082-does-this-count-as-exotic-cooling/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1535082-does-this-count-as-exotic-cooling/
+INFO:root:1 comments interactions recorded
+INFO:root:Comment content found for: 1535082
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1535030-water-set-mlz-d36m-a19pk-12/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1535030-water-set-mlz-d36m-a19pk-12/
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1535030
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1534842-13700k-running-very-hot-while-the-aio-is-cold/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1534842-13700k-running-very-hot-while-the-aio-is-cold/
+INFO:root:4 comments interactions recorded
+INFO:root:Comment content found for: 1534842
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1535066-felt-continuous-electricity-when-touched-dp-cable-metal-part-and-back-of-case/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1535066-felt-continuous-electricity-when-touched-dp-cable-metal-part-and-back-of-case/
+INFO:root:0 comments interactions recorded
+INFO:root:Comment content found for: 1535066
+INFO:root:Comment content added for href: https://linustechtips.com/topic/1534156-synology-update-removes-even-more-features/
+INFO:root:Collecting comment interactions for: https://linustechtips.com/topic/1534156-synology-update-removes-even-more-features/
+INFO:root:25 comments interactions recorded
+INFO:root:Comment content found for: 1534156
+INFO:root:Contents for file 1381504 has been read
+INFO:root:87 found for topic 1381504
+INFO:root:Contents for file 1535078 has been read
+INFO:root:8 found for topic 1535078
+INFO:root:Contents for file 1535081 has been read
+INFO:root:3 found for topic 1535081
+INFO:root:Contents for file 1535079 has been read
+INFO:root:5 found for topic 1535079
+INFO:root:Contents for file 1535071 has been read
+INFO:root:5 found for topic 1535071
+INFO:root:Contents for file 1530917 has been read
+INFO:root:28 found for topic 1530917
+INFO:root:Contents for file 1535060 has been read
+INFO:root:41 found for topic 1535060
+INFO:root:Contents for file 1535053 has been read
+INFO:root:11 found for topic 1535053
+INFO:root:Contents for file 1533927 has been read
+INFO:root:131 found for topic 1533927
+INFO:root:Contents for file 1535084 has been read
+INFO:root:2 found for topic 1535084
+INFO:root:Contents for file 1534716 has been read
+INFO:root:12 found for topic 1534716
+INFO:root:Contents for file 1535051 has been read
+INFO:root:8 found for topic 1535051
+INFO:root:Contents for file 1535021 has been read
+INFO:root:7 found for topic 1535021
+INFO:root:Contents for file 1534902 has been read
+INFO:root:10 found for topic 1534902
+INFO:root:Contents for file 1535082 has been read
+INFO:root:3 found for topic 1535082
+INFO:root:Contents for file 1535030 has been read
+INFO:root:3 found for topic 1535030
+INFO:root:Contents for file 1534842 has been read
+INFO:root:17 found for topic 1534842
+INFO:root:Contents for file 1535066 has been read
+INFO:root:12 found for topic 1535066
+INFO:root:Contents for file 1534156 has been read
+INFO:root:19 found for topic 1534156
+ERROR:root:['Program_end']
+INFO:root:Dataframes being imported

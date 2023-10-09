@@ -307,11 +307,7 @@ class LoopCollect:
     def run_main_collect_cycle():        
         pass
 
-        
-        
-            
-            
-        
+
 def main():
     MiscTools.format_logging('main.log')
     MiscTools.remove_csv('collect_run.csv')

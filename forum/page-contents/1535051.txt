@@ -1,0 +1,17 @@
+Post Content
+ hey guys, i hope you can help me out  i cant have all my displays connected at the same time,theres always some issue of some displays just not turning on at all, turning off for another one, etcim most likely running out of bandwith:  basically i just want to have all my displays connected without crawling under my desk to constantly unplug and plug in displays  1x odyssey g9 5120x1440p 240hz1x 1440p 75hz 1x 4k TV 120hz HDR enabled1x valve index 144hz  no i dont have an integrated gpu to run my 1440p display of off it  what are my options here?is there some device that could help with sorting this out?buying a low tier secondary GPU? 
+
+ COMMENT_BREAK   4 hours ago, ascendence said:hey guys, i hope you can help me out  i cant have all my displays connected at the same time,theres always some issue of some displays just not turning on at all, turning off for another one, etcim most likely running out of bandwith:  Expand  ok can you try runign the displays at 1080p and see if it hold s them all on 
+
+ COMMENT_BREAK   4 hours ago, GOATWD said:ok can you try runign the displays at 1080p and see if it hold s them all on  i just triedi could put all displays to 1080p at 60hz, but then turning on steamvr (to turn on my index) will make my pc instantly reboot
+
+ COMMENT_BREAK @ascendence You gotta keep all the combined displays under 7680 x 3840. This also hinges on which version of display port or hdmi youre using, the type of displays and the display lines youre using are certified for DP or HDMI and which ever version. Non certified wires may work but its a roll of the dice. So for example 1080p, which is 1920 x1080 will equal for 4 displays: 1920 x 4= 7680    1080 x 4=4320 .... so together thats 7680 x 4320 and it will sink your 4th display. Of course thats before you get to Hz and which hookup,DP or HDMI, and whether the wires are capable or not.
+
+ COMMENT_BREAK   3 hours ago, AI_Must_Di3 said:@ascendence You gotta keep all the combined displays under 7680 x 3840. This also hinges on which version of display port or hdmi youre using, the type of displays and the display lines youre using are certified for DP or HDMI and which ever version. Non certified wires may work but its a roll of the dice. So for example 1080p, which is 1920 x1080 will equal for 4 displays: 1920 x 4= 7680    1080 x 4=4320 .... so together thats 7680 x 4320 and it will sink your 4th display. Of course thats before you get to Hz and which hookup,DP or HDMI, and whether the wires are capable or not.Expand  i understand that, hence why i said im probably running out of available or supported bandwidth, im just wondering how can i solve this issue buy a second gpu and have 2 displays on gpu1 and 2 displays on gpu2? just seems pricey and like a terrible solution
+
+ COMMENT_BREAK Are you running trying to run 1440p on all monitors for a specific purpose? Could you run one of the screens through the motherboard to take some load off the GPU?
+
+ COMMENT_BREAK   2 hours ago, TatamiMatt said:Are you running trying to run 1440p on all monitors for a specific purpose? Could you run one of the screens through the motherboard to take some load off the GPU?those are all the native resolutions of those panels, i do not have an i-gpu, its a ryzen 5800x it doesnt have an integrated gpu or else i would do that
+
+ COMMENT_BREAK
+

@@ -1,0 +1,23 @@
+Post Content
+ Hi,I'm trying to get a PS2 controller to connect on Windows 10 to play Steam games with it but Windows couldn't detect it.I know the PS2 controller isn't dead as it works just fine on a PS2.As to the Dualshock to USB adapter I'm using, it works with a PS1 controller, Windows recognizes it and so does Steam.What am I missing here? Not sure how to troubleshoot this.  EDIT: It appears to try to connect every few seconds. The device manager keeps refreshing but nothing new shows up.Edited 4 hours ago by thekingofmonks
+
+ COMMENT_BREAK   4 hours ago, thekingofmonks said:Hi,I'm trying to get a PS2 controller to connect on Windows 10 to play Steam games with it but Windows couldn't detect it.I know the PS2 controller isn't dead as it works just fine on a PS2.As to the Dualshock to USB adapter I'm using, it works with a PS1 controller, Windows recognizes it and so does Steam.What am I missing here? Not sure how to troubleshoot this.when u seiad ps2 i thort of the port but try using a difrent port prefrebaly on a difrent usb contoroler 
+
+ COMMENT_BREAK   4 hours ago, GOATWD said:when u seiad ps2 i thort of the port but try using a difrent port prefrebaly on a difrent usb contoroler  So since this is a laptop with only 3 USB ports coming from one controller, I had to try on a different PC, but it shows the same behavior.It appears to try to connect every few seconds. The device manager keeps refreshing but nothing new shows up.
+
+ COMMENT_BREAK Sounds like a driver issue, unable to initiate a connection and thus trying again.Lot of those cheap DS2 to USB convertors need special drivers, if they did not come with device you might need to try a couple before it works fully.(Its a Dualshock 2!!!)You could try this or alike: https://github.com/aitte2/dualshock_driver(I've not tested)      These connectors where called PS/2 before the PlayStation ever existed, so on a computer forum you might confuse a lot of people.      4 hours ago, GOATWD said:when u seiad ps2 i thort of the port but try using a difrent port prefrebaly on a difrent usb contoroler  Im sorry but what language is this, having real hard time understanding.English isnt my first language, like many here, try and use proper English. So everyone can understand.
+
+ COMMENT_BREAK   3 hours ago, HanZie82 said:Im sorry but what language is this, having real hard time understanding.English isnt my first language, like many here, try and use proper English. So everyone can understand.They said "when you said PS2 I thought of the port (i.e. PS/2 ports like the ones in the image you sent) but try using a different port, preferably on a different USB controller"
+
+ COMMENT_BREAK   2 hours ago, ninjadev64 said:They said "when you said PS2 I thought of the port (i.e. PS/2 ports like the ones in the image you sent) but try using a different port, preferably on a different USB controller"Thanks, i totally would not have guessed that that was the content in 100 years. hahahahaha.
+
+ COMMENT_BREAK   2 hours ago, HanZie82 said:Thanks, i totally would not have guessed that that was the content in 100 years. hahahahaha.If you understood what they said, why waste everyone's time?
+
+ COMMENT_BREAK   2 hours ago, ninjadev64 said:If you understood what they said, why waste everyone's time?    2 hours ago, HanZie82 said:Thanks, i totally would not have guessed that that was the content in 100 years. hahahahaha.Whose wasting whose time now? I joke, still thank you.
+
+ COMMENT_BREAK   3 hours ago, HanZie82 said:Sounds like a driver issue, unable to initiate a connection and thus trying again.Lot of those cheap DS2 to USB convertors need special drivers, if they did not come with device you might need to try a couple before it works fully.(Its a Dualshock 2!!!)You could try this or alike: https://github.com/aitte2/dualshock_driver(I've not tested) Expand  sorry i hafve realy bad dislexia
+
+ COMMENT_BREAK   2 hours ago, HanZie82 said:  Whose wasting whose time now? I joke, still thank you.Now I can't tell if you're being sarcastic or not lmao
+
+ COMMENT_BREAK
+

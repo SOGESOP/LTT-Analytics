@@ -1,0 +1,263 @@
+Post Content
+   Event Starts November 1st (00:00 GMT)Ends December 6th (23:59 GMT)    Sign up for the event here:Sign ups will close October 29th, 00:00 GMThttps://forms.gle/KbbougQ7xB91jomi6    This event will be eligible for F@H event badges.       Please follow this thread to keep up to date!  Please read the whole of this post before asking any questions and use the links provided at the end for help and support!    Minimum Participation Requirements For Prizes20 Days with activity*, 500,000 Points & 40 WU(*activity is defined as completing at least 1WU for the 24 hour period)These must be met DURING the five weeks of the event. Points produced before the start date do not count!    Prizes!!!(possibly more to come)Community donated prizes:    LMG Prizes?      Folding@home is a network of volunteer computers distributed around the world that aims to perform biomedical research with the single intent of helping to further understand and develop cures for a range of diseases such as; Alzheimer's, cancer, and Parkinson's. The exact research that is done is simulating the 'folding' of proteins in the body, this is important because the function of a protein id directly related to its physical shape. And this, when the protein is created in the body it needs to reshuffle its shape to get into the correct structure to perform its task. Many illnesses can be linked to faulty proteins in the body such as many cancers and neurological issues, along with a wide number of other general health concerns.   If you are wondering what exactly has been done with all this computing power then you can check out the papers written by the scientists and researchers that use the folding network, I will warn you though many of them are very in-depth reads and in turn, this means they are often fairly technical.https://foldingathome.org/papers-results/  To qualify for badges you must meet the minimum requirements for participation which for this event will be as follows minimum requirements: 500k points, 40WUs, and 20 days of activity over the course of the whole month. This is subject to change for future events as we find out what the sweet spot is to include as many people as possible but not make it too easy to just get a free badge.   PASSKEYS! (they're really important)  Don't forget to get yourself a passkey from the link below to ensure that you hit the points requirement, the passkey is a feature that was added a while ago to the Folding Client that helps to authenticate each user on the network, an added bonus of this is the fact that it allows you to qualify for QRB(Quick Return Bonus) Points, QRBs are extra points you earn for submitting work units more quickly, such as if you have faster hardware or let the client fold full time, rather than on idle. QRB credit is awarded after 10 WUs have been submitted. You can get your passkey from the link below.https://apps.foldingathome.org/getpasskey      This is just a PSA for the new guys here, the folding team is a small close knit community, so here's a few things I'd like you all to keep in mind. It doesn't hurt to say thank you, if someone has genuinely helped you out don't forget to drop a reaction on their posts, help others where ever you can and finally we are a team first and always.   Check your stats out here! Bare in mind it can take some time for your first WUs to appear so leave it a day or two.https://folding.extremeoverclocking.com/search.php  Please follow the guides below to help with set-up and troubleshooting.     
+
+ COMMENT_BREAK Epic, can't wait for my room to be cozy for the month.
+
+ COMMENT_BREAK Can't believe it's been another year already. Looking forward to the event!
+
+ COMMENT_BREAK Awesome! Excited to participate in my first event!The requirements will keep my N4020 Celeron and AMD PRO AIO-8770E working hard!
+
+ COMMENT_BREAK Event has been added to the Calendar.    I signed up, don't include me for any prizes please.
+
+ COMMENT_BREAK Looks at UK electricity prices, starts sweating before even heating up from Folding.  I think there's a good chance the only direction I have to go in the leaderboard is down on this one.
+
+ COMMENT_BREAK   On 10/1/2023 at 11:06 PM, BondiBlue said:Can't believe it's been another year already. Looking forward to the event!IKR it comes around so fast...  I really can't believe this is my 6th event already
+
+ COMMENT_BREAK   On 10/1/2023 at 11:31 PM, Alex Atkin UK said:Looks at UK electricity prices, starts sweating before even heating up from Folding.  I think there's a good chance the only direction I have to go in the leaderboard is down on this one.This is why I didn't raise the min reqs, I did consider it but decided against it with the way power is for many people right now 
+
+ COMMENT_BREAK   On 10/1/2023 at 11:41 PM, GOTSpectrum said:This is why I didn't raise the min reqs, I did consider it but decided against it with the way power is for many people right now Sensible move, as I don't think F@H can keep up with 40x0 series owners anyway.  Were reaching the point where the project is crunching the WUs faster than they have resources at their end to deal with them, which of course is both a good and bad thing.
+
+ COMMENT_BREAK Excited to see how the flat rate electricity performs for savings.
+
+ COMMENT_BREAK First time participating (I think). I am going to try to do rest of the month. 
+
+ COMMENT_BREAK   On 10/2/2023 at 12:21 AM, Levent said:First time participating (I think). I am going to try to do rest of the month.Expand  Not sure I understand what you're saying.  Have you installed the Chrome addon what will compare your output to the average from your GPU?   https://folding.lar.systems/#get_FITDAT  There's also the GPU ranking.
+
+ COMMENT_BREAK   On 10/2/2023 at 12:21 AM, Levent said:First time participating (I think). I am going to try to do rest of the month.Expand  That doesnt sound too outlandish, my 2x 1080's will pull 2-2.5M PPD combined, a 3070 pulling about 3M sounds about right to me.
+
+ COMMENT_BREAK Woohoo Signed up, time to start tinkering again to find those magic PPD/clock/mem/power balances to ensure my power company isn't going to destroy my wallet...
+
+ COMMENT_BREAK Yeeees I am in! U guys plan on using the v8 Beta or stay on v7 for the event? On my Mac imma gonna use v8 for sure, because that can do WUs that are made for Apple silicon and that way I can utilise my M1Pro. But for my windows macine idk yet...
+
+ COMMENT_BREAK   On 10/2/2023 at 9:19 AM, Metallus97 said:Yeeees I am in! U guys plan on using the v8 Beta or stay on v7 for the event? On my Mac imma gonna use v8 for sure, because that can do WUs that are made for Apple silicon and that way I can utilise my M1Pro. But for my windows macine idk yet...I was just looking into how FAH works with Apple Silicon. Do let us know that works, I got an M1 machine I can throw into mix.
+
+ COMMENT_BREAK LETS GET THAT HYPETRAIN GOING BOIS!    On 10/2/2023 at 9:19 AM, Metallus97 said:Yeeees I am in! U guys plan on using the v8 Beta or stay on v7 for the event? On my Mac imma gonna use v8 for sure, because that can do WUs that are made for Apple silicon and that way I can utilise my M1Pro. But for my windows macine idk yet...definitely staying on a production-safe V7 for my server. Maybe V8 on my windows box, but i don;t use any apple silicon so i'm not sure what the benefit would be for me.
+
+ COMMENT_BREAK I dropped $900 on an RTX 3090. I blame y'all. And, unironically, thank you so much.  I'm currently in the middle of setting up an i7-8700 test bench/folding rig for the dual 2080 Tis that I'll explant from my current workstation that the 3090 will go in. I can't wait!
+
+ COMMENT_BREAK   On 10/2/2023 at 12:51 PM, Schnoz said:I dropped $900 on an RTX 3090. I blame y'all. And, unironically, thank you so much.  I'm currently in the middle of setting up an i7-8700 test bench/folding rig for the dual 2080 Tis that I'll explant from my current workstation that the 3090 will go in. I can't wait!yes! who needs money anyway, when you can get GPUs to fold instead?
+
+ COMMENT_BREAK IT'S  ABOUT FREAKING TIME
+
+ COMMENT_BREAK My nomination for event Soundtrack
+
+ COMMENT_BREAK I'm considering partaking, but not owning (due to not needing) a d/recent GPU, never mind more then one, how much CPU-bound tasks will find their way to @home-folders? If CPU power can be utilised, I may throw in some EPYC cores (I have 68 at my disposal, if all boards run)
+
+ COMMENT_BREAK @GOTSpectrum what is our team number?
+
+ COMMENT_BREAK I am excited to finally get my FAH badge!
+
+ COMMENT_BREAK   On 10/2/2023 at 6:03 PM, podkall said:@GOTSpectrum what is our team number?223518 iirc 
+
+ COMMENT_BREAK   On 10/2/2023 at 6:27 PM, Lightwreather JfromN said:223518 iirc "iirc" meaning if you don't rc I'd still be folding but for an imaginary team?
+
+ COMMENT_BREAK   On 10/2/2023 at 6:30 PM, podkall said:"iirc" meaning if you don't rc I'd still be folding but for an imaginary team?yes.But I just checked it, and was typing up an edit to say it was correct
+
+ COMMENT_BREAK   On 10/2/2023 at 6:03 PM, podkall said:@GOTSpectrum what is our team number?    On 10/1/2023 at 10:25 PM, GOTSpectrum said:Please read the whole of this post before asking any questions and use the links provided at the end for help and support! ahem   but yes, it is 223518
+
+ COMMENT_BREAK   On 10/2/2023 at 6:36 PM, GOTSpectrum said:Please read the whole of this post before asking any questions and use the links provided at the end for help and support!that small box at the end is very hard to see for my 20yr old eyes  ty
+
+ COMMENT_BREAK   On 10/2/2023 at 6:10 PM, TylerD321 said:I am excited to finally get my FAH badge!same, with current build the badge for me becomes achievable now.  Which reminds me,this year's folding gon be interesting for me: 
+
+ COMMENT_BREAK The build up to this month has me looking at horrible things. I could sell most of my Folding Machine, update it and consume less power. (2x 1080s, 2070, 3070 ti) for something like a 4070ti. But then I wouldn't get to look at a machine with 4 graphics cards
+
+ COMMENT_BREAK   On 10/2/2023 at 8:06 PM, IkeaGnome said:The build up to this month has me looking at horrible things. I could sell most of my Folding Machine, update it and consume less power. (2x 1080s, 2070, 3070 ti) for something like a 4070ti. But then I wouldn't get to look at a machine with 4 graphics cardsSell me your 3070 ti for cheap aha it will get used for folding
+
+ COMMENT_BREAK The muster point is slightly more congested today. 
+
+ COMMENT_BREAK   On 10/2/2023 at 8:13 PM, GOTSpectrum said:The muster point is slightly more congested today. Expand  I now regret telling you that existed.
+
+ COMMENT_BREAK if anyone is wanting to help with the running of the event drop me a PM asap
+
+ COMMENT_BREAK Is there a way to sign up without a Google account?
+
+ COMMENT_BREAK   On 10/3/2023 at 12:48 AM, Intrinsic said:Is there a way to sign up without a Google account?I was able to do It without a account.Strange
+
+ COMMENT_BREAK   On 10/3/2023 at 3:16 AM, TheLANguy said:I was able to do It without a account.StrangeThank you for the reply. I tried in a different browser (Chromium) and it worked. In my default browser (Firefox) the URL for the signup asks me to sign into a Google account.  Nov 1st can't come soon enough
+
+ COMMENT_BREAK   On 10/3/2023 at 3:36 AM, Intrinsic said:Thank you for the reply. I tried in a different browser (Chromium) and it worked. In my default browser (Firefox) the URL for the signup asks me to sign into a Google account.  Nov 1st can't come soon enoughFunny enough, I was using Firefox nightly and it worked!I am going to have to put the blame on google for this one!
+
+ COMMENT_BREAK Welp i still dont have a gpu cause i sold that 2048sp 580 but hey this x58a ud3r can problably support a buncha gpus
+
+ COMMENT_BREAK HTPC go BRRRRR. Quadros do professional workloads.
+
+ COMMENT_BREAK   On 10/3/2023 at 5:21 AM, BiotechBen said:HTPC go BRRRRR. Quadros do professional workloads.Expand  Yeah but it would probably go faster on Linux.  Its actually quite astonishing what the difference can be.
+
+ COMMENT_BREAK   On 10/3/2023 at 6:36 AM, Alex Atkin UK said:Yeah but it would probably go faster on Linux.  Its actually quite astonishing what the difference can be.I know it's a rather small sample size, but apparently not? (P620 is a slightly higher clocked p600 with 4gb instead of 2gb)https://folding.lar.systems/gpu_ppd/brands/nvidia/folding_profile/gp107gl_quadro_p620 
+
+ COMMENT_BREAK   On 10/2/2023 at 8:13 PM, GOTSpectrum said:The muster point is slightly more congested today. -snip-noice! i get my second 4070Ti tomorrow. Too bad i'll have to wait on the waterblock backorder for 2 to 3 more weeks after that
+
+ COMMENT_BREAK   On 10/2/2023 at 8:06 PM, IkeaGnome said:The build up to this month has me looking at horrible things. I could sell most of my Folding Machine, update it and consume less power. (2x 1080s, 2070, 3070 ti) for something like a 4070ti. But then I wouldn't get to look at a machine with 4 graphics cardsIt's been decided. Wife gets her 4080 sooner than we planned, but soon enough for it to get put to work for F@H and @TylerD321is getting a deal on a 3070 ti...
+
+ COMMENT_BREAK I will be happy to participate once again. maybe it is time to make a system upgrade. Maybe just temporary.
+
+ COMMENT_BREAK   On 10/3/2023 at 10:49 AM, RollinLower said:noice! i get my second 4070Ti tomorrow. Too bad i'll have to wait on the waterblock backorder for 2 to 3 more weeks after thatI do love seeing those gold event badges, not many of them around right now. 
+
+ COMMENT_BREAK I _MIGHT_ have just added a couple more 4070tis to the Fold. Had the boot NVMe drive fail on one of the rigs with 2 x 4070tis and BiFrost is having trouble recognizing more than 2 GPUs but I _THINK_ that's just due to using a Ryzen 3000-series CPU and it not liking the PCIe Gen 3 m.2 to PCIe3 x4 risers. Have to try a 2600x today to confirm that. Otherwise I'll have to run 3 additional Rigs rather than one.  @Mxyzptlk are you still running your Mining Frame and is it behaving with 3000 and 4000 NVidia GPUs?
+
+ COMMENT_BREAK We're gonna need some higher folding event badge tiers, haha.
+
+ COMMENT_BREAK   On 10/3/2023 at 5:21 PM, sazrocks said:We're gonna need some higher folding event badge tiers, haha.next one would be 10 years most probably, and we aren't there yet 
+
+ COMMENT_BREAK   On 10/3/2023 at 5:23 PM, GOTSpectrum said:next one would be 10 years most probably, and we aren't there yet over halfway there tho!
+
+ COMMENT_BREAK   On 10/3/2023 at 5:32 PM, RollinLower said:over halfway there tho!yeah...  When I did the first event with @palespartan I didn't really consider that I would be doing it for this long. 
+
+ COMMENT_BREAK Deciding between using the money I saved up for another GPU or for the intended purpose (steam deck)
+
+ COMMENT_BREAK   On 10/3/2023 at 6:42 PM, GOTSpectrum said:Deciding between using the money I saved up for another GPU or for the intended purpose (steam deck)Is it possible to download folding @ home onto a steam deck and how many PPD would you get? 
+
+ COMMENT_BREAK   On 10/3/2023 at 7:13 PM, TylerD321 said:Is it possible to download folding @ home onto a steam deck and how many PPD would you get? no idea, possible to download for sure, you just pull from a repo, if it will run, CPU yes, GPU unknown 
+
+ COMMENT_BREAK   On 10/3/2023 at 7:15 PM, GOTSpectrum said:no idea, possible to download for sure, you just pull from a repo, if it will run, CPU yes, GPU unknown for science?
+
+ COMMENT_BREAK   On 10/3/2023 at 7:15 PM, GOTSpectrum said:no idea, possible to download for sure, you just pull from a repo, if it will run, CPU yes, GPU unknown     On 10/3/2023 at 7:16 PM, TylerD321 said:for science?Remind me this weekend and I'll science.
+
+ COMMENT_BREAK Does it matter what I make my username as long as I use a passkey and join a team? What happens if someone uses the same name? 
+
+ COMMENT_BREAK   On 10/3/2023 at 7:59 PM, Birblover12 said:Does it matter what I make my username as long as I use a passkey and join a team? What happens if someone uses the same name? the passkey is your unique identifier, usernames are none-unique 
+
+ COMMENT_BREAK   On 10/3/2023 at 8:04 PM, GOTSpectrum said:the passkey is your unique identifier, usernames are none-unique interesting. So how would giveaways work then? If there's two people with the name "bob", how would you know who won lol, since the sign up form only has the forum username and folding username.
+
+ COMMENT_BREAK   On 10/3/2023 at 8:12 PM, Birblover12 said:interesting. So how would giveaways work then? If there's two people with the name "bob", how would you know who won lol, since the sign up form only has the forum username and folding username.it isn't something that has come up as of yet, there are unique identifiers on the data so we would check this against the uid in the raw data   generally if you make it the same as your forum name it makes it easier in most situations
+
+ COMMENT_BREAK what is this?
+
+ COMMENT_BREAK   On 10/3/2023 at 8:26 PM, IgniVellex said:what is this?please read the OP then ask any questions you have 
+
+ COMMENT_BREAK There once was a Tech Tips folderWhose GPU's had become olderHe felt quite illWith his electricity billAnd bought newer cards that ran colder.
+
+ COMMENT_BREAK   On 10/3/2023 at 8:34 PM, gravitywave said:There once was a Tech Tips folderWhose GPU's had become olderHe felt quite illWith his electricity billAnd bought newer cards that ran colder.this is basically me 
+
+ COMMENT_BREAK   On 10/3/2023 at 7:15 PM, GOTSpectrum said:no idea, possible to download for sure, you just pull from a repo, if it will run, CPU yes, GPU unknown CPU yes, GPU no, there are no OpenCL drivers installed and as I recall Valve don't include them in the Windows bundle either.  I think when I tried the CPU was too slow to hit the timeout though, but not 100% on that.  I did notice on Windows F@H tried to fold on my 7800X3D iGPU, but I don't think that was going to hit the deadline either.
+
+ COMMENT_BREAK   On 10/3/2023 at 8:34 PM, gravitywave said:There once was a Tech Tips folderWhose GPU's had become olderHe felt quite illWith his electricity billAnd bought newer cards that ran colder.I've seen it firsthand, 1050 barely radiated heat on full throttle, but the 1080ti I'm probably gonna run it with 65°C power limit when folding
+
+ COMMENT_BREAK   On 10/3/2023 at 10:16 PM, podkall said:I've seen it firsthand, 1050 barely radiated heat on full throttle, but the 1080ti I'm probably gonna run it with 65°C power limit when foldingI've got a p600 (effectively a 1050 afaik) and at full 40w it's sitting at 72C on its single slot cooler with 150k PPD (before bonus), and the 1080's pull 1.2MPPD at 185W and 84C (blower cooler)
+
+ COMMENT_BREAK I've been really impressed with the 4070ti's efficiencies. Seeing as those 2-slot InnoColor3D GPUs aren't easily accessible in North America I'm running 2 rigs with 2 x Zotac Trinity OCs so there's only about 2-3mm clearance between the backplate of the lower GPU and the upper GPU but the temps are quite reasonable when clock-limited to just 2205MHz:above showing Temperature, Power, Gclock & Fan%
+
+ COMMENT_BREAK   On 10/3/2023 at 8:37 PM, GOTSpectrum said:this is basically me If I weren't restricted from going to CEX in person I would have traded my 3080 for a 4080 as it hurts to fold on something that gets half the PPD for the same power consumption.
+
+ COMMENT_BREAK   On 10/3/2023 at 6:44 AM, BiotechBen said:I know it's a rather small sample size, but apparently not? (P620 is a slightly higher clocked p600 with 4gb instead of 2gb)https://folding.lar.systems/gpu_ppd/brands/nvidia/folding_profile/gp107gl_quadro_p620  That's interesting as certainly on newer cards its quite a difference:  The bottom being Linux.  I admit I haven't checked the TDP on those two cards to see if there is any differences, but usually 40x0 series perform pretty much the same as they hit the voltage limit not TDP.A quick check shows the card on Linux is pulling 186W on this job but for some reason Windows is hitting 170W max and fluctuates a lot more.  Even if I stop the CPU job to make sure its not using up too much CPU it ping-pongs 172-176W.  I think it stalls for longer when hitting a checkpoint too, I wonder if thats the Windows PC using SATA SSD vs Linux on NVME?  Though that doesn't explain the lower utilisation in general.My understanding is Windows leaves more spare GPU power to prevent the UI from stuttering whereas Linux gives no Fs.    So Windows its 90-95% GPU utilisation whereas Linux sits at 98% and doesn't really move.  Even more interesting when you consider I run voltage curve optimisation on Windows but you can't on Linux.
+
+ COMMENT_BREAK   On 10/4/2023 at 2:13 AM, Gorgon said:I've been really impressed with the 4070ti's efficiencies. Seeing as those 2-slot InnoColor3D GPUs aren't easily accessible in North America I'm running 2 rigs with 2 x Zotac Trinity OCs so there's only about 2-3mm clearance between the backplate of the lower GPU and the upper GPU but the temps are quite reasonable when clock-limited to just 2205MHz:Expand  I'd imagine it helps also that modern GPUs have that extra bit on the end that effectively allows air to flow through from one card to the other.  The Inno3D card is not exactly readily available in the UK either, I think I only found one retailer who now are out of stock.  Plus some cheeky so and so trying to flog the card on Amazon for £272 markup over RRP (almost 4080 price).
+
+ COMMENT_BREAK   On 10/4/2023 at 2:50 AM, Alex Atkin UK said:That's interesting as certainly on newer cards its quite a difference:Expand  I feel like with the p600, it's a low enough power card that it's like doing a cold air intake on your '92 Honda Civic DX
+
+ COMMENT_BREAK   On 10/4/2023 at 3:30 AM, BiotechBen said:I feel like with the p600, it's a low enough power card that it's like doing a cold air intake on your '92 Honda Civic DXIt may also be Windows or the NVIDIA drivers behave different based on consumer vs professional cards.  Or only the card connected to a display might be throttled, I've never really tested that as modern motherboards always put the bottom x16 too far down the board to fit a second GPU and the second x16 (if you have it) gets obstructed by your main GPU.
+
+ COMMENT_BREAK   On 10/4/2023 at 3:34 AM, Alex Atkin UK said:It may also be Windows or the NVIDIA drivers behave different based on consumer vs professional cards.  Or only the card connected to a display might be throttled, I've never really tested that as modern motherboards always put the bottom x16 too far down the board to fit a second GPU and the second x16 (if you have it) gets obstructed by your main GPU.At 40w max, and with seemingly locked down performance (nothing applies with afterburner) it seems like the "it's a professional card, it go brr at prescribed amount" seems to be the case.(Currently in HP business desktop with integrated graphics doing display)
+
+ COMMENT_BREAK   On 10/4/2023 at 5:03 AM, BiotechBen said:At 40w max, and with seemingly locked down performance (nothing applies with afterburner) it seems like the "it's a professional card, it go brr at prescribed amount" seems to be the case.(Currently in HP business desktop with integrated graphics doing display)Now you've got me wanting to re-enable iGPU on my desktop to see if not using the dGPU for display is a factor.  I probably wont though, too much hassle.
+
+ COMMENT_BREAK   On 10/4/2023 at 5:24 AM, Alex Atkin UK said:Now you've got me wanting to re-enable iGPU on my desktop to see if not using the dGPU for display is a factor.  I probably wont though, too much hassle.If it's an Nvidia card, it may not make a difference, FAH was hitting exclusively CUDA on my card.
+
+ COMMENT_BREAK Maybe I'll finally get to do this one
+
+ COMMENT_BREAK   On 10/3/2023 at 11:40 PM, BiotechBen said:I've got a p600 (effectively a 1050 afaik) and at full 40w it's sitting at 72C on its single slot cooler with 150k PPD (before bonus), and the 1080's pull 1.2MPPD at 185W and 84C (blower cooler)I had a dual fan cooler on 1050, and my 1080ti already close to 80-90°C on hostpot when average is barely 70°C so, I could probably cook inside the case if I let it full speed
+
+ COMMENT_BREAK   On 10/4/2023 at 7:04 AM, podkall said:I had a dual fan cooler on 1050, and my 1080ti already close to 80-90°C on hostpot when average is barely 70°C so, I could probably cook inside the case if I let it full speedI used my dual 1080's exhaust to thaw some frozen sushi one time, worked surprisingly well.Could also try making a greenhouse out of it as well with some cheap ducting.
+
+ COMMENT_BREAK   On 10/4/2023 at 7:28 AM, BiotechBen said:I used my dual 1080's exhaust to thaw some frozen sushi one time, worked surprisingly well.Could also try making a greenhouse out of it as well with some cheap ducting.Sounds like a recipe for food poisoning to me.
+
+ COMMENT_BREAK   On 10/4/2023 at 7:28 AM, BiotechBen said:I used my dual 1080's exhaust to thaw some frozen sushi one time, worked surprisingly well.Could also try making a greenhouse out of it as well with some cheap ducting.I'm literally using my dual 2080 Tis to heat my entire apartment in place of this place's built in heaters. I need to keep the glass door open all the time (there's a wire mesh on it, fortunately) just to keep my place from overheating lol.
+
+ COMMENT_BREAK   On 10/4/2023 at 10:39 AM, Schnoz said:I'm literally using my dual 2080 Tis to heat my entire apartment in place of this place's built in heaters. I need to keep the glass door open all the time (there's a wire mesh on it, fortunately) just to keep my place from overheating lol.I've done that the last two winters, though unfortunately even with all the GPU power I have it doesn't really cope once it gets close to freezing.  I had even considered writing a script to check room temperature and turn F@H on/off accordingly, but it doesn't really work when you want to complete a WU quickly for the points, so I do it manually.
+
+ COMMENT_BREAK   On 10/2/2023 at 11:18 PM, GOTSpectrum said:if anyone is wanting to help with the running of the event drop me a PM asapThanks to everyone who reached out, I plan to get back to you in the next day or two.   Next up prizes! who's donating? 
+
+ COMMENT_BREAK I was looking forward to having my M1 Mac Mini grind away on this but it looks like it gets its ass absolutely blown out, it's barely making 2500PPD with the current WU.   EDIT: Ahhhh technology, just had to complain. Within less than a minute of posting it climbed to 60K and seems to be stabilizing closer to 65.
+
+ COMMENT_BREAK   On 10/4/2023 at 2:56 PM, flibberdipper said:EDIT: Ahhhh technology, just had to complain. Within less than a minute of posting it climbed to 60K and seems to be stabilizing closer to 65.f@h ETA is very innacurate very early and gets more accurate later  for example "your machine has 2.73 days to complete this task"  ETA for the WU completion... was 3.0 days  now it's roughly 8 hours
+
+ COMMENT_BREAK   On 10/4/2023 at 3:29 PM, podkall said:f@h ETA is very innacurate very early and gets more accurate later  for example "your machine has 2.73 days to complete this task"Folding @ Home is always correct!
+
+ COMMENT_BREAK   On 10/4/2023 at 3:29 PM, podkall said:f@h ETA is very innacurate very early and gets more accurate later  for example "your machine has 2.73 days to complete this task"  ETA for the WU completion... was 3.0 days  now it's roughly 8 hoursYeah I'm not new to it, I just figured it got an absolutely brutal WU to do since it was stuck at such a low number for a good 10 minutes. Wouldn't be the first time I've gotten an insane WU to complete lol
+
+ COMMENT_BREAK   On 10/3/2023 at 5:13 PM, Gorgon said:I _MIGHT_ have just added a couple more 4070tis to the Fold. Had the boot NVMe drive fail on one of the rigs with 2 x 4070tis and BiFrost is having trouble recognizing more than 2 GPUs but I _THINK_ that's just due to using a Ryzen 3000-series CPU and it not liking the PCIe Gen 3 m.2 to PCIe3 x4 risers. Have to try a 2600x today to confirm that. Otherwise I'll have to run 3 additional Rigs rather than one.  are you still running your Mining Frame and is it behaving with 3000 and 4000 NVidia GPUs?Expand  Yes, it is running off and on with a 4070 and a 4070ti w/ no PCI riser issues that I have noticed. But I am running at full PCIe3.0x8 to each of the cards from the X99 / 5960X CPU that has 40 PCIe lanes available.   I have run plenty of 2 GPU (20XX series & 30XX series GPU's) setups on a 3000 series CPU's without an issue. But I was not running any adaptor cables, they were mounted straight to the boards.  
+
+ COMMENT_BREAK   On 10/2/2023 at 11:18 PM, GOTSpectrum said:if anyone is wanting to help with the running of the event drop me a PM asap 
+
+ COMMENT_BREAK   On 10/4/2023 at 5:54 PM, leadeater said:Expand  Your role is none-voluntary 
+
+ COMMENT_BREAK If I remember correctly there were some causes better suited for low-end PCs. Smaller WUs and better suited for CPU folding. Can someone tell what it was?  I think it was Alzheimer's, but can't remember, lol
+
+ COMMENT_BREAK Anyone got recommendations for used PPD-for-the-buck GPUs that are good options right now? I'm currently looking at the RTX 2080 Ti and RTX 30 series models, but are there any outliers in that pile?
+
+ COMMENT_BREAK   On 10/5/2023 at 1:26 AM, Schnoz said:Anyone got recommendations for used PPD-for-the-buck GPUs that are good options right now? I'm currently looking at the RTX 2080 Ti and RTX 30 series models, but are there any outliers in that pile?I asked this the other day. I’ll tag you.
+
+ COMMENT_BREAK My T600 was pulling 40W + whatever power the rest of the machine it was in required, and that was for just 300k ppd. So on researched impulse, I grabbed a 4060 at Microcenter for $300. It's been doing ~4mil ppd on most projects, and that's with a 110W TDP. I wasn't set on buying another card, but it was the power efficiency that sold me. Looking at 3070's, 2080Ti's on eBay, they seem to be going for similar money, but pull a lot more power, and generally those will be with unknown history and no warranty. My 3070 does ~5mil ppd, but that's nearly twice the power draw of the 4060. Assuming you care about power efficiency, I don't think you can beat a brand new shiny 4060, unless of course you want to go higher up on the 40series line.
+
+ COMMENT_BREAK So plan for the day:   1) Make the chat thread and invite people to the admin team  2) Get the spreadsheet made and shared  3) Reach out to @LMGcommunity for shout outs and prizes
+
+ COMMENT_BREAK 2nd 4070Ti is crunching!I'll be waiting on the waterblok for a little while, but that doesn't mean she can't get some PPD in the meantime!
+
+ COMMENT_BREAK   On 10/5/2023 at 10:27 AM, gravitywave said:My T600 was pulling 40W + whatever power the rest of the machine it was in required, and that was for just 300k ppd. So on researched impulse, I grabbed a 4060 at Microcenter for $300. It's been doing ~4mil ppd on most projects, and that's with a 110W TDP. I wasn't set on buying another card, but it was the power efficiency that sold me. Looking at 3070's, 2080Ti's on eBay, they seem to be going for similar money, but pull a lot more power, and generally those will be with unknown history and no warranty. My 3070 does ~5mil ppd, but that's nearly twice the power draw of the 4060. Assuming you care about power efficiency, I don't think you can beat a brand new shiny 4060, unless of course you want to go higher up on the 40series line.Expand  @Schnoz This is about the best bang for the buck nowadays in terms of PPD/$. If you must go used avoid the 2000-series, they're just not worth it. The 3000-series are about 50% more efficient that the 2000-series but don't hold a candle to the 4000-series even with their extortionate pricing which are 80-100% more efficient than the 3000-series. The 4070ti has much better efficiency (PPD/W) than the 4060(ti)/4070 but at a price premium (better Silicon likely).  The 4060 will be even more efficient if you cap it's Graphics Clock to 2205MHz or thereabouts:nvidia-smi -lgc 0,2205The Power should drop down to ~70W with only a slight decrease in PPD.
+
+ COMMENT_BREAK   On 10/5/2023 at 1:15 PM, Gorgon said:@Schnoz This is about the best bang for the buck nowadays in terms of PPD/$. If you must go used avoid the 2000-series, they're just not worth it. The 3000-series are about 50% more efficient that the 2000-series but don't hold a candle to the 4000-series even with their extortionate pricing which are 80-100% more efficient than the 3000-series. The 4070ti has much better efficiency (PPD/W) than the 4060(ti)/4070 but at a price premium (better Silicon likely).That means my 2080 is more efficient as a space heater and since thats its current main job, it would be a bad idea to replace it with a 40 series.
+
+ COMMENT_BREAK I've got a question and good news.  First the question, why is my F@H lagging even when not working or when CPU is limited to less than all cores.  (2nd smaller question is that when selecting a thread count is it actually selecting the physical core count? because the F@H uses 7,5 theads when I select 4 "threads" in the configure)  And good news, seems like the thermal issues on my GPU are partially caused by the fan curve (partially by huge gap between average and hotspot temps),88% fan speed lets me use 75% power limit, instead of previous 55% and the hotspot temp stays under 80°C.    On 10/5/2023 at 1:15 PM, Gorgon said:4000-series even with their extortionate pricing which are 80-100% more efficient than the 3000-series.100% more efficient than 30 series? so 4070 pulls double 3070 at same wattage?
+
+ COMMENT_BREAK   On 10/5/2023 at 1:15 PM, Gorgon said:@Schnoz This is about the best bang for the buck nowadays in terms of PPD/$. If you must go used avoid the 2000-series, they're just not worth it. The 3000-series are about 50% more efficient that the 2000-series but don't hold a candle to the 4000-series even with their extortionate pricing which are 80-100% more efficient than the 3000-series. The 4070ti has much better efficiency (PPD/W) than the 4060(ti)/4070 but at a price premium (better Silicon likely).  Expand  I see! Though, the contract of my apartment makes it so for me, power is flat-fee. With power efficiency aside, what would be the best PPD/$? Maybe something AD102-based?Edit: Nevermind! Just saw this.
+
+ COMMENT_BREAK   On 10/5/2023 at 5:42 PM, Schnoz said:I see! Though, the contract of my apartment makes it so for me, power is flat-fee. With power efficiency aside, what would be the best PPD/$? Maybe something AD102-based?Edit: Nevermind! Just saw this.If efficiency is not an issue, it's all a matter of PPD / Cost. If I had to bet, it would be a used 30 series; 40 is blazing fast, but it's got the "it's new!" cost associated.
+
+ COMMENT_BREAK   On 10/2/2023 at 6:00 PM, Dutch_Master said:I'm considering partaking, but not owning (due to not needing) a d/recent GPU, never mind more then one, how much CPU-bound tasks will find their way to @home-folders? If CPU power can be utilised, I may throw in some EPYC cores (I have 68 at my disposal, if all boards run)  Until last year's event, most of my participation was 10+ year old Xeon's.  CPUs work and are helpful, they just don't turn out current GPU numbers, even if the CPU is current.    On 10/4/2023 at 10:42 AM, Alex Atkin UK said:I've done that the last two winters, though unfortunately even with all the GPU power I have it doesn't really cope once it gets close to freezing.  I had even considered writing a script to check room temperature and turn F@H on/off accordingly, but it doesn't really work when you want to complete a WU quickly for the points, so I do it manually.You could do it like most heating thermostats do, which is to call off the heat (set WUs to Finishing) a degree early, but keep circulating so the heat continues to work out of the boiler/furnace until the correct temp (the Finishing time of working, and the cooler ramping down), or a degree above.  Then when it drops to a degree bellow, start WUs.
+
+ COMMENT_BREAK So far all is going well regarding getting cards up and running. Right now I'm doing a quick test run with dual Quadro P4000s, a GTX 1080, an RTX 2070 and an RTX 2070 Super at full power, mainly to see what temps are going to be like. I didn't have some of these cards last year, so I'm not super familiar with their thermal performance and thermal output. So far I'm pretty impressed with most of the cards, but the regular RTX 2070 sounds like a jet engine in order to avoid thermal throttling. It's got a very, very cheap blower cooler on it, so I'm not surprised at all.   My next task is going to be getting a few more cards up and running. Right now I'm planning to use one of my old Dell Precision T3500s (Xeon X5675) to run two Quadro M4000s along with two Radeon RX 580s. The 580s will be running externally through PCIe risers and powered from an external PSU. It's a bit of a janky setup, but it does work, just as long as the motherboard doesn't die like last year.   Things are getting exciting again!
+
+ COMMENT_BREAK Had units throttled up a bit ago, but it got warm.  I'll be throttling up the CPUs again probably tomorrow, and of course through the event.  Gonna give the beta a try on something too, to see how that goes.
+
+ COMMENT_BREAK   On 10/6/2023 at 12:59 AM, justpoet said:You could do it like most heating thermostats do, which is to call off the heat (set WUs to Finishing) a degree early, but keep circulating so the heat continues to work out of the boiler/furnace until the correct temp (the Finishing time of working, and the cooler ramping down), or a degree above.  Then when it drops to a degree bellow, start WUs.Yeah its complicated, because mum has Diabetes so I can't predict what temperature is comfortable for her at any given moment anyway.  Also we have the bathroom fan on constantly for air quality reasons and to dry the washing.  So despite electricity being more expensive than gas, were probably making quite efficient use out of Folding overall.
+
+ COMMENT_BREAK Happy to help out again.I probably won't be able to participate as heavily like the previous years, but I'll give it a good crack.
+
+ COMMENT_BREAK   On 10/6/2023 at 12:59 AM, justpoet said:they just don't turn out current GPU numbers, even if the CPU is currentSo, what I hear you saying is that if one wants to make headway on the numberboard, CPU-crunching is basically dead.  There goes that 3rd full EPYC system I was planning to buy
+
+ COMMENT_BREAK   On 10/6/2023 at 2:01 PM, Dutch_Master said:So, what I hear you saying is that if one wants to make headway on the numberboard, CPU-crunching is basically dead.  There goes that 3rd full EPYC system I was planning to buyi think @leadeaterusually manages to get some decent scores just CPU crunching. but that is on quite the number of chips.
+
+ COMMENT_BREAK   On 10/6/2023 at 2:01 PM, Dutch_Master said:So, what I hear you saying is that if one wants to make headway on the numberboard, CPU-crunching is basically dead.  There goes that 3rd full EPYC system I was planning to buyCPU on anything around 12 cores and modern does quite well. Zen 3 is quite a big leap per core and Intel has always been quite good just more limited on total core counts until more recently.  A good 12 core CPU does 1m PPD which is the same as a RTX 3050 or Tesla T4.  So if you start pushing around 100 cores, about an RTX 3080 Ti, then you'll be doing very well, just horribly on the efficiency front.
+
+ COMMENT_BREAK @GOTSpectrum Do you usually reach out to the scientists when we have these events? I have the feeling we may run out of WU's depending on how much folding power we increase.
+
+ COMMENT_BREAK   On 10/7/2023 at 2:58 AM, robertobsc said:@GOTSpectrum Do you usually reach out to the scientists when we have these events? I have the feeling we may run out of WU's depending on how much folding power we increase.F@H is a huge global project, our smaller monthly events don't actually have any impact in regards to running out of WUs. The only time that was a real issue was middle of the pandemic when we had something around 9000 participants in the LTT folding month and many many more overall.  Edit:8144 to be exact, I kept the event data   Over 22 days the event participants made 40,930,185,882 points. Last month the entire LTT team, all 119k of them, did 30,992,890,674.
+
+ COMMENT_BREAK   On 10/7/2023 at 2:58 AM, robertobsc said:I have the feeling we may run out of WU's depending on how much folding power we increase.Worth noting here is that while you may read about running out of stuff in BOINC Pentathlon that LTT also participates in, as @leadeater said, this isn't really an issue with F@H. F@H isn't as fine grained project specific, and everything fails over to what is available after preferences, unlike in BOINC.
+
+ COMMENT_BREAK @LAR_Systems, do you have a beta extension I could run to help you collect data to compare V8 vs V7 clients?
+
+ COMMENT_BREAK main pc. corrupt mbr....had to replace main drive and re install windows.also tracking down a softcrash bug to atm.
+
+ COMMENT_BREAK   On 10/6/2023 at 2:01 PM, Dutch_Master said:So, what I hear you saying is that if one wants to make headway on the numberboard, CPU-crunching is basically dead.  There goes that 3rd full EPYC system I was planning to buyI'm only doing CPU for the heat and contribution as the PPW is awful:  Bearing in mind the CPU is pulling 145W and the GPU 170W on these WUs.
+
+ COMMENT_BREAK   On 10/5/2023 at 5:10 PM, podkall said:I've got a question and good news.  First the question, why is my F@H lagging even when not working or when CPU is limited to less than all cores.  (2nd smaller question is that when selecting a thread count is it actually selecting the physical core count? because the F@H uses 7,5 theads when I select 4 "threads" in the configure)Expand  I was getting 1M more PPD from my 4070 Ti at 170W than my 3080 which I didn't check but was probably pulling 320W.
+
+ COMMENT_BREAK   On 10/7/2023 at 3:07 AM, leadeater said:F@H is a huge global project, our smaller monthly events don't actually have any impact in regards to running out of WUs. The only time that was a real issue was middle of the pandemic when we had something around 9000 participants in the LTT folding month and many many more overall.  Edit:8144 to be exact, I kept the event data Expand  Amazing stats! I do remember f@h running out of WU’s during the covid time. One of the few good things of that time was seeing how f@h could scale. 
+
+ COMMENT_BREAK Missed this for many years but looking forward to doing it again :).  Hardware has changed a ton since the last time I participated so interested in seeing how the new stuff does.  Out of curiosity, is it worth throwing both CPU and GPU at folding or is CPU going to be burning more power than it's worth for the results?
+
+ COMMENT_BREAK   On 10/8/2023 at 12:03 AM, Livin said:Missed this for many years but looking forward to doing it again :).  Hardware has changed a ton since the last time I participated so interested in seeing how the new stuff does.  Out of curiosity, is it worth throwing both CPU and GPU at folding or is CPU going to be burning more power than it's worth for the results?    On 10/7/2023 at 2:05 PM, Alex Atkin UK said:I'm only doing CPU for the heat and contribution as the PPW is awful:Expand  Cpu probably isn’t worth it but your best source I know of is @Alex Atkin UK
+
+ COMMENT_BREAK   On 10/8/2023 at 12:03 AM, Livin said:Out of curiosity, is it worth throwing both CPU and GPU at folding or is CPU going to be burning more power than it's worth for the results?Depends if you are using it to heat a room. If you are: heat good, if you aren't using it like a space heater: not amazing returns on CPU, but it also heavily depends what CPU architecture you have, newer is significantly better. (I've got low tdp Skylake and it's atrocious Pts/W)
+
+ COMMENT_BREAK   On 10/8/2023 at 12:03 AM, Livin said:Out of curiosity, is it worth throwing both CPU and GPU at folding or is CPU going to be burning more power than it's worth for the results?Out of all the machines I fold on I only do CPU folding on two, and that's only becauase they're going to be on 24/7 otherwise. Both of those machines are ancient, so they're terrible in terms of PPD, but I don't really mind. I basically never bother with CPU folding on anything else. 
+
+ COMMENT_BREAK   On 10/8/2023 at 12:42 AM, BiotechBen said:Depends if you are using it to heat a room. If you are: heat good, if you aren't using it like a space heater: not amazing returns on CPU, but it also heavily depends what CPU architecture you have, newer is significantly better. (I've got low tdp Skylake and it's atrocious Pts/W)Not looking for any more heat, so I'll probably leave it off then.  It's a 13700k, so it can take a chunk of extra power to run.
+
+ COMMENT_BREAK Anyone have any tips for maximizing PPD per machine for GPU? Any tuning to be done in bios w/ fan curves? Drivers? MSI Afterburner? I assume best practice is having all other programs turned off but I am sure there are things I am missing.
+
+ COMMENT_BREAK   19 hours ago, TylerD321 said:Anyone have any tips for maximizing PPD per machine for GPU? Any tuning to be done in bios w/ fan curves? Drivers? MSI Afterburner? I assume best practice is having all other programs turned off but I am sure there are things I am missing.What sort of GPU are you using? On most of my cards I tend to just max out the power and thermal limits with Afterburner, and as long as temps are good I'll leave them like that. For the cards I'm running I don't do any modifications to the clocks, but I know some people adjust the clock speeds to achieve certain goals, including efficiency.   With the increased power limit I do like to monitor things with GPU-Z to make sure I'm not hitting any temperature limits, including hot spot temps. One of my cards can't maintain correct hot spot temps with the stock fan curve, so I manually raise the fan speed for that card. The others are usually fine. 
+
+ COMMENT_BREAK   19 hours ago, BondiBlue said:What sort of GPU are you using? On most of my cards I tend to just max out the power and thermal limits with Afterburner, and as long as temps are good I'll leave them like that. For the cards I'm running I don't do any modifications to the clocks, but I know some people adjust the clock speeds to achieve certain goals, including efficiency.   With the increased power limit I do like to monitor things with GPU-Z to make sure I'm not hitting any temperature limits, including hot spot temps. One of my cards can't maintain correct hot spot temps with the stock fan curve, so I manually raise the fan speed for that card. The others are usually fine. Expand  Currently have a 3070 and a 3050 I am running. Here in the next couple of weeks I will be swapping out the 3050 for a 3080 and getting a 3070 ti as well!  Edit: It is worth noting that I have hearing aids and normally wear headphones when I play games anyway so sound really isn't an issue. You can see my specs on the main machine I am running FAH in my signature - I have the fans minimum speed on bios set to 25% and then they go up from there - I can't hear them, much louder and I can though. I haven't adjusted MSI afterburner but according to HWINFO my GPU usually sits around 70 with hot spot at 80, the thermal throttle temp is 83 it says.Edited 19 hours ago by TylerD321More info
+
+ COMMENT_BREAK @JamesTheFolf your folding username does not match the one you provided (JamesTheFolf) can you please check and link the Extremeoverclocking page   https://folding.extremeoverclocking.com/search.phpOr confirm you have never folded ever under that name?
+
+ COMMENT_BREAK How much CPU does F@H need, and is it multithreaded? My dual 2080 Tis are happily pulling 5-6M PPD each on my 2699A V4-equipped system, but the thread that FAHControl runs on is almost always pegged at 100%. Is each GPU able to use a separate CPU thread for control?
+
+ COMMENT_BREAK   1 hour ago, Schnoz said:How much CPU does F@H need, and is it multithreaded? My dual 2080 Tis are happily pulling 5-6M PPD each on my 2699A V4-equipped system, but the thread that FAHControl runs on is almost always pegged at 100%. Is each GPU able to use a separate CPU thread for control?Generally on higher end GPUs you have one CORE, so two threads available per GPU plus one CORE for the OS 
+
+ COMMENT_BREAK   1 hour ago, GOTSpectrum said:Generally on higher end GPUs you have one CORE, so two threads available per GPU plus one CORE for the OS CPU? I thought it assigned each individual cores
+
+ COMMENT_BREAK
+

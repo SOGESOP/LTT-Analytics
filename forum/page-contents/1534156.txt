@@ -1,0 +1,39 @@
+Post Content
+ Synology keeps removing long held features with each software update.This time they have removed your ability to see drive's SMART numbers.See chagelog: https://www.synology.com/en-us/releaseNote/StorageManager 
+
+ COMMENT_BREAK Are you serious... This is such a pain in the ass. They made Hyberbackup to another Synology worse too (I think a new DSM thing), you cant specify credentials before hitting log in. It makes you authenticate at a login page first. Like why? 
+
+ COMMENT_BREAK NAS manufacturer removes NAS features, making it just a shitty server manufacturer.
+
+ COMMENT_BREAK Disabled auto-update, this is just so beyond stupid.......    On 10/3/2023 at 5:50 PM, TubsAlwaysWins said:It makes you authenticate at a login page first. Like why?Because its easier than having to implement the 2FA part into hyper backup. Also it might request a token instead of storing the actual credentials.
+
+ COMMENT_BREAK   On 10/3/2023 at 6:00 PM, jagdtigger said:Disabled auto-update, this is just so beyond stupid.......  Because its easier than having to implement the 2FA part into hyper backup. Also it might request a token instead of storing the actual credentials.Idk i think it's dumb, especially because dsm 6 will still go to 7 without it. We run a whitelist only ip filter for ours and I don't like having https port accessable at the source 
+
+ COMMENT_BREAK That's ridiculous, people USE SMART...
+
+ COMMENT_BREAK Synology has been moving towards vertical integration. Synology HDDs, Synology NVMe, Synology DIMMs, Synology NICs, etc. Some other vendor makes them, they just put their firmware on them. In the case of DIMMs, it's just their identifier written on the SPD chip. All of which has insane markups.Synology is a lot like Apple; it works. They know it. They know you know it. They know you know they know.Would be fucking hilarious if Synology and Ubiquiti merged.
+
+ COMMENT_BREAK SMART is an important metric to check on hard disk health. No way people are going to let this go.
+
+ COMMENT_BREAK   On 10/4/2023 at 3:32 AM, williamcll said:SMART is an important metric to check on hard disk health. No way people are going to let this go.You would be surprised how much some ppl are ready to sacrifice for convenience.....
+
+ COMMENT_BREAK   On 10/3/2023 at 5:50 PM, TubsAlwaysWins said:you cant specify credentials before hitting log in. It makes you authenticate at a login page first. Like why?Because they support 2FA and other types of secure logins. Yoy need to submit the username, it then checks what authentication is necessary for that user, and then you get prompted for whatever credentials is configured. It works the same way with many services that supports more secure types of authentication. Username + password is kind of outdated.         On 10/3/2023 at 6:00 PM, jagdtigger said:Disabled auto-update, this is just so beyond stupid.......Disabling updates is a very bad idea. If the choise is between running software with known vulnerabilities and losing SMART data access then I'd personally lose SMART data. It's not good that we have to make this choice, but I think it's the least bad one. 
+
+ COMMENT_BREAK   On 10/4/2023 at 6:53 AM, LAwLz said:Disabling updates is a very bad idea. Not accessible to the outside world....
+
+ COMMENT_BREAK   On 10/4/2023 at 9:03 AM, jagdtigger said:Not accessible to the outside world....You can upgrade DSM with a manual file upload. Though even with an air-gapped appliance, applying updates is generally recommended to maintain compliance with future support and migration capabilities. With Synology, you can often migrate the drives from an older device to newer with very little in changes needed to be made. So maintaining future hardware compatibility in that regard is important to keep DSM up to date regardless of security.
+
+ COMMENT_BREAK   On 10/4/2023 at 2:44 PM, StDragon said:You can upgrade DSM with a manual file upload.This is in a OS update so i cant avoid it unless i completely stop updating.      On 10/4/2023 at 2:44 PM, StDragon said:applying updates is generally recommended to maintain compliance with future supportUsed at home so compliance is a non-issue.    On 10/4/2023 at 2:44 PM, StDragon said:migration capabilitiesIrrelevant, entirely. This was the 1st and at the same time the last NAS from them. They are going down hill.......
+
+ COMMENT_BREAK   On 10/4/2023 at 2:51 PM, jagdtigger said:Used at home so compliance is a non-issue.This is going to age like fine milk.
+
+ COMMENT_BREAK   On 10/4/2023 at 3:35 PM, Dracarris said:This is going to age like fine milk.Quite the cheesy solution. 
+
+ COMMENT_BREAK Being a bit snarky here, but SMART stats aren't actually intuituve when it comes to all of those Linux file server distros you guys worship. Just ask the guy who this forum is name after how well a SMART check, or lack of one worked out for his NAS meltdown. If you have to check SMART stats from a CLI in Linux or WMIC it's regarded as the real way to do it, right?  I'm guessing Synology was flagging an error with their own re-branded storage and decided to pull it from the GUI vs fix the problem.     
+
+ COMMENT_BREAK IMHO, SMART reading the raw stats never served me. Those stats have always been interpreted by another program or services that will flag a warning based on those stats. While you can investigate the raw data to trend the numbers over time, generally it's meaningless when you also have a large count of bad blocks as the drive would be proactively replaced anyways; because you can't trust future reliability.So was Synology right to hide the stats? No.Does it matter in the end? I would say no.So while the utility hasn't been impactful for 99.99+% of the userbase out there, it was a dumb move by Synology to yeet the stats from view without any warning or rational explanation. 
+
+ COMMENT_BREAK I'm going to bet this is still able to be queried from CLI.  Also, you will see its status in scheduled SMART scans.  I believe mine scans once a week and does an advanced scan every three months.  In then end Synology is just Linux it's pretty easy to do things on the back end.
+
+ COMMENT_BREAK
+

@@ -1,0 +1,7 @@
+Post Content
+ So I have one of those cheapo mini fridge things that uses a small peltier pad for the cooling.   It wasn't getting very cold, and the worn out fan was really loud.   So after finding this ancient asetek AIO at a yard sale, I decided to try to wire it up to the fridge using all the mounting pressure of cheap duct tape.   Used Noctua NT-H1 for the thermal paste.   Haven't had time to see if it cools properly or not, so we'll see. 
+
+ COMMENT_BREAK   29 minutes ago, Bfuqua said:So I have one of those cheapo mini fridge things that uses a small peltier pad for the cooling.   It wasn't getting very cold, and the worn out fan was really loud.   So after finding this ancient asetek AIO at a yard sale, I decided to try to wire it up to the fridge using all the mounting pressure of cheap duct tape.   Expand  So is this cooling for the compressor?
+
+ COMMENT_BREAK
+

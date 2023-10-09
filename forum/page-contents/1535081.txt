@@ -1,0 +1,7 @@
+Post Content
+ Helped a friend of a friend house cleaning yesterday because he's moving to other country. Found a Seasonic Prime PX 1000w sitting in a box in his room, he said he can't bring it with him so I can take it if I want.So I took it home, he said it was used for his gaming PC, but then changed to a bigger PSU because he bought a 4090 and paranoid about wattage. The warranty label on it & store invoice says bought January 2023.  So since he's only a friend of a friend, I think I ought to perform some tests first. Anyone of you know what kinda test I can / should perform on this PSU to know whether it's safe or not to use on my main system ??- Opening it up is not viable since it will ruin warranty label (yes, it matters in my country)- I can setup a 2nd system, but it will only be a i7-870 & 1660 Super. Dunno if the total system load will be high enough as a test. (Like maybe only 100w total using Heaven Benchmark)- I have multimeter if needed.  Main system I plan to use it for :5900xRTX 3080
+
+ COMMENT_BREAK I bought a used PSU a while back and had many of the same questions. I believe the advice I was given boils down to find the layout of the pins and check the voltages.    I used the advice from this post along with this video to complete the tests.(108) How To Test A Power Supply Unit (PSU) With A Digital Multimeter | Advanced Troubleshooting - YouTube
+
+ COMMENT_BREAK
+

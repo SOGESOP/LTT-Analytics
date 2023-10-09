@@ -1,0 +1,21 @@
+Post Content
+ I recently upgraded my GPU and processor, after the upgrade I had some issues and the storage space on my C drive was filling up for no reason so I decided to just reinstall Windows because I was worried it might be a virus. I created a bootable USB using media creation tool, during the installation process I got into an installation loop but I did some troubleshooting and managed to install Windows. But after Windows booted up I went into disk management and realized that the boot partition was on my SSD (Disk 0) and the system partition was on my HDD (Disk 1) as you can see in this screenshot, is it possible to move the system partition with the boot partition and merge them into a single partition on my SSD (Disk 0)? Or can I keep using my system as it is now and reinstall Windows in the future when I run into any issues? I can't remove the HDD by opening the case and reinstall Windows on SSD because of physical reasons that I don't want to talk about. 
+
+ COMMENT_BREAK if you don't have anything installed right now. Just reinstall windows on your SSD only. Not sure why the system partiton was sent to the HDD I never had that happen before. AFAIK about moving the partition to another drive.... I haven't heard of that working very cleanly...
+
+ COMMENT_BREAK Back up all the data you care about, unplug the hard drive, wipe all the partitions off the SSD, and do a clean installation on your SSD.
+
+ COMMENT_BREAK   On 10/8/2023 at 12:03 PM, Needfuldoer said:Back up all the data you care about, unplug the hard drive, wipe all the partitions off the SSD, and do a clean installation on your SSD.Is there a way to disable the HDD through a program or something and then re-enable it after Windows installation and then format it? 
+
+ COMMENT_BREAK I think I figured out what the issue is, I think Windows somehow got installed on both the SSD (Disk 0) and HDD (Disk 1), I went into the BIOS and changed boot order and put the SSD (Disk 0) as the first option, and then pc booted up and I checked disk management and it's showing both system and boot partition on C drive, see this screenshot. Now can I just format H drive and pc would work fine? Or is it actually just showing H drive as system partition when the HDD (Disk 1) has boot priority above the SSD(Disk 0) in BIOS?  
+
+ COMMENT_BREAK   On 10/8/2023 at 1:59 PM, sachin_jadhav_1993 said:Is there a way to disable the HDD through a program or something and then re-enable it after Windows installation and then format it? Why go through all that when unplugging a SATA cable takes 5 seconds?
+
+ COMMENT_BREAK   On 10/8/2023 at 2:22 PM, Needfuldoer said:Why go through all that when unplugging a SATA cable takes 5 seconds?Like I told in the original post I can't do it right now because of physical reasons, I need help from another person to do it and no one around me right now knows anything about pc stuff
+
+ COMMENT_BREAK Were there any system-related folders split between those two drives?A solution for a similar issue was to "Restore Default Location of User Folders" or whatever it's called, and create a new image. Preferably with a better image builder.
+
+ COMMENT_BREAK   15 hours ago, Timme said:Were there any system-related folders split between those two drives?I don't think so as it was empty in the "This PC" folder.  15 hours ago, Timme said:A solution for a similar issue was to "Restore Default Location of User Folders" or whatever it's called, and create a new image. Preferably with a better image builder.I managed to move the partition marked as system to the SSD as you can see in this screenshot.
+
+ COMMENT_BREAK
+

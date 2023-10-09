@@ -1,0 +1,83 @@
+Post Content
+ What Cooler should I buy for my Ryzen 5 3600?
+
+ COMMENT_BREAK   3 hours ago, Eskil28 said:What Cooler should I buy for my Ryzen 5 3600?The Peerless Assassin SE 120 is a solid option
+
+ COMMENT_BREAK   3 hours ago, Eskil28 said:What Cooler should I buy for my Ryzen 5 3600?Stock cooler or Peerless Assassin...  https://www.google.com/search?q=peerless+assasin&rlz=1C1GEWG_enUS1066US1068&oq=peerless+assasin&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDg2MjNqMGoxqAIAsAIA&sourceid=chrome&ie=UTF-8
+
+ COMMENT_BREAK   3 hours ago, Hinjima said:The Peerless Assassin SE 120 is a solid optionIt doesn’t fit the motherboard I have. I have a gigabite a520 ds3h
+
+ COMMENT_BREAK   2 hours ago, Eskil28 said:It doesn’t fit the motherboard I have. I have a gigabite a520 ds3hHow can a cooler not fit a board for the same socket ?? Only restrictions are RAM and case clearance 
+
+ COMMENT_BREAK   2 hours ago, PDifolco said:How can a cooler not fit a board for the same socket ?? Only restrictions are RAM and case clearance idk it doesn’t fit I have the same cooler at home and it doesn’t fit somehow, my case is a atx one since my old mobo was atx and this one is matx, the screw is like 4 cm from touching 
+
+ COMMENT_BREAK   2 hours ago, Eskil28 said:idk it doesn’t fit I have the same cooler at home and it doesn’t fit somehow, my case is a atx one since my old mobo was atx and this one is matx, the screw is like 4 cm from touching You're saying the screw it too short?  What do you have as a backplate on the motherboard?
+
+ COMMENT_BREAK   2 hours ago, Dedayog said:You're saying the screw it too short?  What do you have as a backplate on the motherboard?The screw is not to short it’s the cooler plate that is to small it’s like 3-4 cm to short 
+
+ COMMENT_BREAK   3 hours ago, Eskil28 said:What Cooler should I buy for my Ryzen 5 3600?What case do you use? How is your setup in terms of airflow within the case? What's your motherboard? Do you overclock ? What's your budget? : ) : )  BC even a budget - cheapo tower cooler with 3-4 heatpipes vastly outperforms the stock "wraith stealth" cooler with a significant margin. You need not to spend a fortune on cooler. Pretty much anything aftermarket will be an improvement over the stock.  But how do you expect to receive any meaningful recommendation without providing at least basic information on the intended use?   I don't want to sound like a jerk, but those simple insights (case, motherboard, OC or not, budget allocated to the task) are important : )
+
+ COMMENT_BREAK   1 hour ago, Vejnemojnen said:What case do you use? How is your setup in terms of airflow within the case? What's your motherboard? Do you overclock ? What's your budget? : ) : )  BC even a budget - cheapo tower cooler with 3-4 heatpipes vastly outperforms the stock "wraith stealth" cooler with a significant margin. You need not to spend a fortune on cooler. Pretty much anything aftermarket will be an improvement over the stock.  Expand  I got a gigabite a520 ds3h, I don’t overclock and I would say my budget is like maybe 40-60$ on a cooler.
+
+ COMMENT_BREAK noctua u12s  amd stock cooler (nothing wrong with it)      2 hours ago, Eskil28 said:idk it doesn’t fit I have the same cooler at home and it doesn’t fit somehow, my case is a atx one since my old mobo was atx and this one is matx, the screw is like 4 cm from touching never heard of something like this, seems highly improbable, any photos we can see? 
+
+ COMMENT_BREAK Unless you plan to do a very intensive CPU tasks constantly on your PC, a stock cooler or cheap coolers like the ones being recommended are more than enough.   
+
+ COMMENT_BREAK   1 hour ago, podkall said:Unless you plan to do a very intensive CPU tasks constantly on your PC, a stock cooler or cheap coolers like the ones being recommended are more than enough.    I see I don’t like the temps I’m getting on the stock cooler that’s why I wanna switch 
+
+ COMMENT_BREAK   1 hour ago, Mark Kaine said:noctua u12s  amd stock cooler (nothing wrong with it)    never heard of something like this, seems highly improbable, any photos we can see? The noctua u12s costs 100$ here in sweden but I saw a u12s redux for 60$ what’s the difference between redux and non redux?
+
+ COMMENT_BREAK   1 hour ago, Eskil28 said:I see I don’t like the temps I’m getting on the stock cooler that’s why I wanna switch what kind of temps are you getting?
+
+ COMMENT_BREAK Just get a cheap single tower Thermalright if the PA120 doesnt fit. 25 bucks here for one.
+
+ COMMENT_BREAK   1 hour ago, Eskil28 said:The noctua u12s costs 100$ here in sweden but I saw a u12s redux for 60$ what’s the difference between redux and non redux?thats what i meant... no difference except the color and some rubber pads which aren't needed at all 
+
+ COMMENT_BREAK   1 hour ago, Mark Kaine said:thats what i meant... no difference except the color and some rubber pads which aren't needed at all Oh I see so the difference is just the material Ig?
+
+ COMMENT_BREAK   1 hour ago, podkall said:what kind of temps are you getting?Like 46 on idle and 64 maybe when gaming 
+
+ COMMENT_BREAK   1 hour ago, Eskil28 said:Oh I see so the difference is just the material Ig?yeah, i even think the redux looks much better.  but performance is really exactly the same.  i buy everything from noctua,  i don't find them expensive at all, i just never buy the expensive and imo ugly beige ones lol ¯\_(ツ)_/¯ 
+
+ COMMENT_BREAK if you can try importing... i got this for 60 euros from some Belgian shop... (not sure about import fees tho, in eu there are none...)  its so beautiful! : D     
+
+ COMMENT_BREAK   1 hour ago, Mark Kaine said:yeah, i even think the redux looks much better.  but performance is really exactly the same.  i buy everything from noctua,  i don't find them expensive at all, i just never buy the expensive and imo ugly beige ones lol ¯\_(ツ)_/¯ ye i prefer the redux one aswell, this is the one im looking at: https://www.webhallen.com/se/product/338337-Noctua-NH-U12S-Redux-CPU-Kylare?channable=00c0c769640033333833333795
+
+ COMMENT_BREAK   1 hour ago, Mark Kaine said:if you can try importing... i got this for 60 euros from some Belgian shop... (not sure about import fees tho, in eu there are none...)  its so beautiful! : D  Expand  looks insane what temps do you get with it?
+
+ COMMENT_BREAK   59 minutes ago, Eskil28 said:ye i prefer the redux one aswell, this is the one im looking at: https://www.webhallen.com/se/product/338337-Noctua-NH-U12S-Redux-CPU-Kylare?channable=00c0c769640033333833333795yeah... looks good...  you see it has a different fan also, but this is a very good fan as well, i have exactly those as case fans, and they still have the same performance than the more expensive ones. plus it really looks awesome with the silver from the cooler imo... 
+
+ COMMENT_BREAK   1 hour ago, Eskil28 said:Like 46 on idle and 64 maybe when gaming that's not the coldest CPU but not the hottest either, the very highest limit the CPU can go on is 95°C  not to mention if the CPU ever starts getting close to that number, it has multiple safety features  one of the early features would only start slowing down the CPU at 80 or higher temps    1 hour ago, Eskil28 said:Oh I see so the difference is just the material Ig?they use slightly cheaper material but claim to manufacture to same high Noctua quality their customers expect
+
+ COMMENT_BREAK   55 minutes ago, Mark Kaine said:yeah... looks good...  you see it has a different fan also, but this is a very good fan as well, i have exactly those as case fans, and they still have the same performance than the more expensive ones. plus it really looks awesome with the silver from the cooler imo... 
+
+ COMMENT_BREAK   56 minutes ago, Eskil28 said:looks insane what temps do you get with it?  it never throttles even max load, which is about 75-79c , but usually it's just around 60 while gaming etc... 
+
+ COMMENT_BREAK   51 minutes ago, Mark Kaine said:Expand  thats really good temps and its on a ryzen 7 5800x3d aswell since i have a ryzen 5 3600 ill get some lower temps ig. Im gonna upgrade the cpu later on
+
+ COMMENT_BREAK   49 minutes ago, Eskil28 said:thats really good temps and its on a ryzen 7 5800x3d aswell since i have a ryzen 5 3600 ill get some lower temps ig. Im gonna upgrade the cpu later onyup!
+
+ COMMENT_BREAK   48 minutes ago, Mark Kaine said:yup!Im gonna upgrade to a ryzen 5 5600x since i got a rx 5700xt.
+
+ COMMENT_BREAK   51 minutes ago, Mark Kaine said:Expand  damn, for 5800x    49 minutes ago, Eskil28 said:Im gonna upgrade the cpu later onah I guess in that case the cooler could be beefier than it needs to be, though still Stock is more than enough for your use case
+
+ COMMENT_BREAK   47 minutes ago, Eskil28 said:Im gonna upgrade to a ryzen 5 3600 since i got a rx 5700xt.what're you upgrading from? if I may ask
+
+ COMMENT_BREAK   47 minutes ago, podkall said:what're you upgrading from? if I may aski have a ryzen 5 3600 rn and im gonna upgrade it to a ryzen 5 5600x probably i misstyped last i meant to say ryzen 5 5600x lol
+
+ COMMENT_BREAK Its a nice bump. I went from a 3600XT to a 5600X. Then to a 5900X.. and now back and forth between that and my 58X3D. My boy has my 5600X so that is out of the loop. Probably good for my sanity, since the 5600X I have will scale to 2100FCLK.
+
+ COMMENT_BREAK   46 minutes ago, Eskil28 said:i have a ryzen 5 3600 rn and im gonna upgrade it to a ryzen 5 5600x probably i misstyped last i meant to say ryzen 5 5600x loldoesn't matter the cooler is still enough lol
+
+ COMMENT_BREAK   43 minutes ago, Mark Kaine said:doesn't matter the cooler is still enough lolye ik I didnt mean like that I just wanted to mention I was going to upgrade the cpu since the cpu is kinda like worse if you compare to the gpu lol
+
+ COMMENT_BREAK   46 minutes ago, Eskil28 said:i have a ryzen 5 3600 rn and im gonna upgrade it to a ryzen 5 5600x probably i misstyped last i meant to say ryzen 5 5600x lolI see, I recently upgraded to 5600, if you want to save some money, you can get the non-x version as it's just about same chip with slightly slower clock speed  and as far as performance improvement goes, I think you'll see a small boost to both fps and overall smoothness of the machine  mine was definitely I upgraded from 3 1200 to 5 5600, so 4 cores with no hyperthreading to 6 cores with hyperthreading
+
+ COMMENT_BREAK   30 minutes ago, podkall said:I see, I recently upgraded to 5600, if you want to save some money, you can get the non-x version as it's just about same chip with slightly slower clock speed  and as far as performance improvement goes, I think you'll see a small boost to both fps and overall smoothness of the machine  mine was definitely I upgraded from 3 1200 to 5 5600, so 4 cores with no hyperthreading to 6 cores with hyperthreadingExpand  ah i see i bought the cooler btw
+
+ COMMENT_BREAK   41 minutes ago, Eskil28 said:ye ik I didnt mean like that I just wanted to mention I was going to upgrade the cpu since the cpu is kinda like worse if you compare to the gpu lolkeep in mind the difference isn't all that big... its basically just a bit more responsive with the x3D...  pro tip for the 3600: pbo "advanced" (or similar) voltage offset-200, frequency offset-200..  that made my 3600 somehow use 130w instead of the usual 65w while running a lot cooler!  performance was also better but idr exactly,  like 5-10% ig... definitely comparable with the 5800X3D, which somehow uses *less* power, around 120w...     but your mileage may vary of course, i think my 3600 was like a golden sample or something,  probably also depends on the mobo / bios... i had msi b350m mortar and i think msi went a bit overboard with the pbo stuff lol  
+
+ COMMENT_BREAK   1 hour ago, Eskil28 said:I got a gigabite a520 ds3h, I don’t overclock and I would say my budget is like maybe 40-60$ on a cooler.I suspect you aren't using the correct AM4 adapter for the coolerMobo side the AM4 backplate is universally the same on all boards   
+
+ COMMENT_BREAK
+
