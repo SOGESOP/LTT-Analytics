@@ -304,8 +304,7 @@ class LoopCollect:
         logging.info(f'Main dataframe shape: {df.shape}')
         MiscTools.save_to_csv(df, 'main')
 
-    def run_main_collect_cycle():
-        
+    def run_main_collect_cycle():        
         pass
 
         
