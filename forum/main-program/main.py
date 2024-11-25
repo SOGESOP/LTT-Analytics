@@ -31,7 +31,7 @@ class GetData:
         driver=webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=options)
     
     
-
+    # this presses the load more button, up to 10 times (not sure why only 10, i think it bricks the selenium but cant remember)
     def scroll_topic_page():
         main_url='https://linustechtips.com/discover/'
         driver.get(main_url)
@@ -75,7 +75,7 @@ class GetData:
             current_url=tp.loc[i, 'href']
             # adds to the logging file what page is being accesssed
             logging.info(f"Connecting to page: {current_url}")
-            # accesses the url from the dataframe 
+            # accesses the url
             driver.get(current_url)
             # collects the elements that are in the title section on the page
             elements=driver.find_elements(By.XPATH,
@@ -89,6 +89,7 @@ class GetData:
             # collects the date that the post was made on
             date=driver.find_element(By.CSS_SELECTOR, '#ipsLayout_mainArea > div.ipsPageHeader.ipsResponsive_pull.ipsBox.sm\:ipsPadding\:half.ipsMargin_bottom > div.ipsPageHeader__meta.ipsFlex.ipsFlex-jc\:between.ipsFlex-ai\:center.ipsFlex-fw\:wrap.ipsGap\:3.ipsGap_row\:0.ipsSpacer_top.ipsSpacer_half > div.ipsFlex-flex\:11.cTopicHeader_userInfo > div > div > div > span > span > time')
             date_posted=date.accessible_name
+            # adds the date posted into the dataframe
             for idx, x in enumerate(tp['href']):
                 if x==current_url:
                     tp.loc[idx,'Date Posted']=date_posted
@@ -291,12 +292,17 @@ class LoopCollect:
         path=LoopCollect.import_dataframe('collect_run', 'csv')
         global tp
         tp=pandas.read_csv(path)
+        # reusing the path variable to save on making a new variable
         path=LoopCollect.import_dataframe('main', 'csv')
+        # the name for the main csv's pandas dataframe
         placeholder=pandas.read_csv(path)
+        # checks to see if the topic id is already in the dataframe
         for idx, import_topic_id in enumerate(tp['Topic ID']):
             for existing_topic_id in placeholder['Topic ID']:
+                # if topic id already in the dataframe then it drops the topic id from the new (to be added) dataframe
                 if import_topic_id==existing_topic_id:
                     tp.drop(idx, axis=0, inplace=True)
+        # basically adds the two dataframes together
         frames=[tp, placeholder]
         global df
         df=pandas.concat(frames)
